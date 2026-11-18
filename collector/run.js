@@ -7,7 +7,7 @@ import { FEEDS } from "./feeds.js";
 import { fetchAll } from "./rss.js";
 import { dedupe } from "./dedupe.js";
 import { rawPool } from "./fallback.js";
-import { summarize } from "./ai.js";
+import { summarize, providerFromEnv } from "./ai.js";
 
 const OUT = join(dirname(fileURLToPath(import.meta.url)), "..", "app", "data", "noticias.json");
 const BREAKING_WINDOW_H = 3;
@@ -27,7 +27,7 @@ export function mergeBreaking(prev, nuevas, now = Date.now()) {
   return { ...prev, top3: prev.top3 ?? [], noticias: [...byUrl.values()] };
 }
 
-export async function buildEdition({ mode = "edicion", fetchFn = fetch, client, feeds = FEEDS, prev = null, log = console.log }) {
+export async function buildEdition({ mode = "edicion", fetchFn = fetch, provider, feeds = FEEDS, prev = null, log = console.log }) {
   const items = await fetchAll(feeds, fetchFn, { log });
   let clusters = dedupe(items);
   log(`${items.length} noticias → ${clusters.length} tras agrupar`);
@@ -39,8 +39,8 @@ export async function buildEdition({ mode = "edicion", fetchFn = fetch, client, 
 
   let result, modo;
   try {
-    if (!client) throw new Error("sin ANTHROPIC_API_KEY");
-    result = await summarize(clusters, client, { mode, prev });
+    if (!provider) throw new Error("sin clave de IA (GEMINI_API_KEY o ANTHROPIC_API_KEY)");
+    result = await summarize(clusters, provider, { mode, prev });
     modo = "ia";
     if (mode === "edicion" && result.noticias.length < 10) throw new Error(`la IA devolvió sólo ${result.noticias.length}`);
   } catch (e) {
@@ -59,18 +59,14 @@ export async function buildEdition({ mode = "edicion", fetchFn = fetch, client, 
 
 async function main() {
   const mode = process.argv[2] === "breaking" ? "breaking" : "edicion";
-  let client = null;
-  if (process.env.ANTHROPIC_API_KEY) {
-    const { default: Anthropic } = await import("@anthropic-ai/sdk");
-    client = new Anthropic();
-  }
+  const provider = await providerFromEnv();
   let prev = null;
   try {
     prev = JSON.parse(await readFile(OUT, "utf8"));
   } catch {}
   // Sin edición previa, "breaking" hace una edición completa.
   const effective = mode === "breaking" && !prev ? "edicion" : mode;
-  const out = await buildEdition({ mode: effective, client, prev });
+  const out = await buildEdition({ mode: effective, provider, prev });
   if (!out.noticias.length) {
     console.error("0 noticias: no sobrescribo el fichero anterior");
     process.exit(1);

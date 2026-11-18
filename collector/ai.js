@@ -98,11 +98,79 @@ export function toNoticias(parsed, clusters) {
   return { top3, noticias };
 }
 
+// ── Proveedores de IA ────────────────────────────────────────────────
+// Un proveedor es: async ({ system, user }) => objeto con la forma de `Salida`.
+
+/** Claude (de pago, céntimos al día). */
+export function claudeProvider(client) {
+  return async ({ system, user }) => {
+    const res = await client.messages.parse({
+      model: MODEL,
+      max_tokens: 16000,
+      system,
+      messages: [{ role: "user", content: user }],
+      output_config: { format: zodOutputFormat(Salida) },
+    });
+    if (res.stop_reason === "refusal") throw new Error("Claude rechazó la petición");
+    if (!res.parsed_output) throw new Error(`Salida no válida (stop_reason: ${res.stop_reason})`);
+    return res.parsed_output;
+  };
+}
+
+export const GEMINI_MODELS = ["gemini-flash-latest", "gemini-flash-lite-latest"];
+
+const FORMATO_JSON = `
+
+Responde SOLO con un objeto JSON con esta forma exacta:
+{"top3": [ref, ref, ref], "noticias": [{"ref": 0, "titulo": "", "resumen": "", "porQue": "", "pilar": "global|ultima|economia|geopolitica|tecnologia|emprendimiento|deporte", "etiquetas": [""], "importancia": 1, "ultimaHora": false, "reaccion": ""}]}`;
+
+/** Google Gemini (capa gratuita). Prueba varios modelos por si uno no está disponible o agotó su cupo. */
+export function geminiProvider(apiKey, { fetchFn = fetch, models = GEMINI_MODELS, log = () => {} } = {}) {
+  return async ({ system, user }) => {
+    let lastErr;
+    for (const model of models) {
+      try {
+        const res = await fetchFn(`https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent`, {
+          method: "POST",
+          headers: { "content-type": "application/json", "x-goog-api-key": apiKey },
+          body: JSON.stringify({
+            systemInstruction: { parts: [{ text: system + FORMATO_JSON }] },
+            contents: [{ role: "user", parts: [{ text: user }] }],
+            generationConfig: { responseMimeType: "application/json", maxOutputTokens: 32000 },
+          }),
+          signal: AbortSignal.timeout(180000),
+        });
+        if (!res.ok) throw new Error(`${model}: HTTP ${res.status} ${(await res.text()).slice(0, 200)}`);
+        const body = await res.json();
+        const text = (body.candidates?.[0]?.content?.parts ?? []).map((p) => p.text ?? "").join("");
+        const parsed = Salida.safeParse(JSON.parse(text.replace(/^```(?:json)?\s*|\s*```$/g, "")));
+        if (!parsed.success) throw new Error(`${model}: JSON con formato inesperado`);
+        log(`IA: ${model}`);
+        return parsed.data;
+      } catch (e) {
+        lastErr = e;
+        log(`(gemini) ${e.message}`);
+      }
+    }
+    throw lastErr ?? new Error("Gemini no disponible");
+  };
+}
+
+/** Elige proveedor según las claves disponibles. null = sin IA. */
+export async function providerFromEnv(env = process.env, log = console.log) {
+  if (env.GEMINI_API_KEY) return geminiProvider(env.GEMINI_API_KEY, { log });
+  if (env.ANTHROPIC_API_KEY) {
+    const { default: Anthropic } = await import("@anthropic-ai/sdk");
+    return claudeProvider(new Anthropic());
+  }
+  return null;
+}
+
 /**
- * Pide a Claude que elija y resuma. mode "edicion": pool de 40-60; "breaking": sólo lo urgente.
- * Lanza si la API falla o rechaza, para que el llamador use el modo crudo.
+ * Pide a la IA que elija y resuma. mode "edicion": pool de 40-60; "breaking": sólo lo urgente.
+ * Lanza si la IA falla, para que el llamador use el modo crudo.
  */
-export async function summarize(clusters, client, { mode = "edicion", prev = null } = {}) {
+export async function summarize(clusters, provider, { mode = "edicion", prev = null } = {}) {
   const ayer = mode === "edicion" ? formatAyer(prev) : "";
   const contexto = ayer ? `\n\nNoticias importantes de la edición anterior (para el campo reaccion):\n${ayer}` : "";
   const input = clusters.slice(0, 120);
@@ -110,14 +178,6 @@ export async function summarize(clusters, client, { mode = "edicion", prev = nul
     mode === "breaking"
       ? "Estas son las noticias de las últimas 3 horas. Elige SOLO las de última hora realmente relevantes (máximo 5, puede ser 0). Márcalas con ultimaHora: true. top3 vacío."
       : "Estas son las noticias de las últimas 48 horas. Elige entre 40 y 60 para el pool del día (las más importantes primero) y marca las 3 más importantes en top3.";
-  const res = await client.messages.parse({
-    model: MODEL,
-    max_tokens: 16000,
-    system: SISTEMA,
-    messages: [{ role: "user", content: `${pedido}\n\n${formatInput(input)}${contexto}` }],
-    output_config: { format: zodOutputFormat(Salida) },
-  });
-  if (res.stop_reason === "refusal") throw new Error("Claude rechazó la petición");
-  if (!res.parsed_output) throw new Error(`Salida no válida (stop_reason: ${res.stop_reason})`);
-  return toNoticias(res.parsed_output, input);
+  const parsed = await provider({ system: SISTEMA, user: `${pedido}\n\n${formatInput(input)}${contexto}` });
+  return toNoticias(parsed, input);
 }

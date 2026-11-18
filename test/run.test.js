@@ -2,7 +2,7 @@ import { test } from "node:test";
 import assert from "node:assert/strict";
 import { rawPool } from "../collector/fallback.js";
 import { buildEdition, mergeBreaking } from "../collector/run.js";
-import { toNoticias, formatAyer } from "../collector/ai.js";
+import { toNoticias, formatAyer, geminiProvider } from "../collector/ai.js";
 
 const now = Date.now();
 const iso = (hAgo) => new Date(now - hAgo * 3600e3).toISOString();
@@ -58,15 +58,15 @@ const fakeFetch = async () => ({
 });
 
 test("si la IA falla, la edición sale en modo crudo y no vacía", async () => {
-  const client = { messages: { parse: async () => { throw new Error("401"); } } };
-  const out = await buildEdition({ mode: "edicion", fetchFn: fakeFetch, client, feeds: [{ url: "u", source: "S", pillar: "global" }], log: () => {} });
+  const provider = async () => { throw new Error("401"); };
+  const out = await buildEdition({ mode: "edicion", fetchFn: fakeFetch, provider, feeds: [{ url: "u", source: "S", pillar: "global" }], log: () => {} });
   assert.equal(out.modo, "crudo");
   assert.ok(out.noticias.length >= 2);
   assert.ok(out.generado);
 });
 
 test("sin cliente (sin clave) también sale en modo crudo", async () => {
-  const out = await buildEdition({ mode: "edicion", fetchFn: fakeFetch, client: null, feeds: [{ url: "u", source: "S", pillar: "global" }], log: () => {} });
+  const out = await buildEdition({ mode: "edicion", fetchFn: fakeFetch, provider: null, feeds: [{ url: "u", source: "S", pillar: "global" }], log: () => {} });
   assert.equal(out.modo, "crudo");
 });
 
@@ -82,4 +82,29 @@ test("mergeBreaking añade última hora y conserva el resto de la edición", () 
   assert.equal(byUrl.u1.ultimaHora, true); // actualizada
   assert.equal(byUrl.u2.ultimaHora, false); // caducada (>6h)
   assert.equal(out.noticias.length, 3);
+});
+
+const salidaOk = { top3: [0], noticias: [{ ref: 0, titulo: "Ola de calor", resumen: "R", porQue: "P", pilar: "global", etiquetas: ["clima"], importancia: 8, ultimaHora: false, reaccion: "" }] };
+const geminiRes = (obj, status = 200) => ({ ok: status === 200, status, text: async () => "err", json: async () => ({ candidates: [{ content: { parts: [{ text: JSON.stringify(obj) }] } }] }) });
+
+test("geminiProvider devuelve la salida validada y usa la clave en cabecera", async () => {
+  let seen;
+  const p = geminiProvider("KEY", { fetchFn: async (url, init) => { seen = { url, init }; return geminiRes(salidaOk); } });
+  const out = await p({ system: "s", user: "u" });
+  assert.equal(out.noticias[0].titulo, "Ola de calor");
+  assert.equal(seen.init.headers["x-goog-api-key"], "KEY");
+  assert.ok(!seen.url.includes("KEY"));
+});
+
+test("geminiProvider pasa al siguiente modelo si el primero falla", async () => {
+  const urls = [];
+  const p = geminiProvider("K", { models: ["a", "b"], fetchFn: async (url) => { urls.push(url); return url.includes("/a:") ? geminiRes(null, 429) : geminiRes(salidaOk); } });
+  const out = await p({ system: "s", user: "u" });
+  assert.equal(urls.length, 2);
+  assert.equal(out.top3[0], 0);
+});
+
+test("geminiProvider lanza si el JSON no tiene el formato", async () => {
+  const p = geminiProvider("K", { models: ["a"], fetchFn: async () => geminiRes({ hola: 1 }) });
+  await assert.rejects(p({ system: "s", user: "u" }));
 });

@@ -7,8 +7,8 @@ y que aprende de tus 👍 / 👎.
 - Cada mañana (antes de las 7:00) se prepara la edición del día.
 - Cada 3 horas se actualiza la **última hora**.
 - Las noticias vienen de unas 30 fuentes fiables (`collector/feeds.js`).
-- Claude (modelo Haiku, el económico) elige, resume en español y explica **por qué importa**.
-  Sin clave de Claude, la app funciona igual con los titulares sin resumir.
+- Una IA elige, resume en español y explica **por qué importa**. Por defecto **Google Gemini, gratis**.
+  (También acepta Claude, de pago, si algún día lo prefieres.) Sin clave de IA, la app funciona igual con los titulares sin resumir.
 - Tus gustos se guardan **solo en tu móvil**.
 
 ## Ponerla en marcha (una sola vez, ~10 minutos)
@@ -18,10 +18,11 @@ y que aprende de tus 👍 / 👎.
    (para GitHub Pages en privado hace falta un plan de pago, así que lo normal es público:
    en él no hay nada personal, tus gustos se quedan en tu móvil).
 3. **Sube este proyecto** al repositorio (o pídeme que lo haga por ti).
-4. **Añade tu clave de Claude** como secreto:
-   - Consigue una clave en https://console.anthropic.com → *API Keys*.
+4. **Añade tu clave gratuita de Gemini** como secreto:
+   - Entra en https://aistudio.google.com/apikey con tu cuenta de Google → *Create API key* (gratis, sin tarjeta).
    - En tu repositorio: *Settings → Secrets and variables → Actions → New repository secret*.
-   - Nombre: `ANTHROPIC_API_KEY`, valor: tu clave.
+   - Nombre: `GEMINI_API_KEY`, valor: tu clave.
+   - (Alternativa de pago: `ANTHROPIC_API_KEY` con una clave de https://console.anthropic.com.)
 5. **Activa GitHub Pages**: *Settings → Pages → Source: GitHub Actions*.
 6. **Lanza la primera edición**: pestaña *Actions → Noticias → Run workflow*.
 7. Cuando termine, tu app estará en `https://TU-USUARIO.github.io/lo-importante/`.
@@ -37,13 +38,15 @@ y que aprende de tus 👍 / 👎.
 |---|---|
 | Fuentes de noticias | `collector/feeds.js` (una línea por fuente) |
 | Cómo elige y resume la IA | texto `SISTEMA` en `collector/ai.js` |
+| Modelos de Gemini que prueba | `GEMINI_MODELS` en `collector/ai.js` |
 | Hora de la edición / frecuencia de última hora | líneas `cron` en `.github/workflows/noticias.yml` (hora UTC) |
 | Cuánto aprende de cada like, exploración, nº de noticias | `app/rank.js` |
 
 ## Coste
 
-Haiku cuesta 0,10 $ por millón de tokens leídos (un token ≈ ¾ de palabra). Cada ejecución lee unas 120 noticias,
-así que el total ronda **unos céntimos al día**. GitHub Actions y Pages son gratis para este uso.
+**0 €.** Gemini gratis permite unas 20 llamadas al día y la app usa ~9 (1 edición + 8 de última hora).
+Si Google rebaja el cupo y se agota, ese rato la app muestra los titulares sin resumir y sigue funcionando.
+GitHub Actions y Pages son gratis para este uso.
 
 ## Para desarrolladores
 

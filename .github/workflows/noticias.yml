@@ -35,7 +35,8 @@ jobs:
       - run: npm ci
       - name: Recoger y resumir noticias
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}       # gratis (recomendado)
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }} # opcional, de pago
         run: |
           MODO="${{ github.event.inputs.modo }}"
           if [ "${{ github.event.schedule }}" = "0 */3 * * *" ]; then MODO=breaking; fi

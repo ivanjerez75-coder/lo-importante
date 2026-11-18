@@ -1,6 +1,6 @@
 {
- "generado": "2026-11-18T18:45:03.851Z",
- "actualizado": "2026-11-18T18:45:03.851Z",
+ "generado": "2026-11-18T19:11:28.242Z",
+ "actualizado": "2026-11-18T19:11:28.242Z",
  "modo": "crudo",
  "top3": [
   "d6d5307aa417",
@@ -60,6 +60,23 @@
    ],
    "url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
    "fecha": "2026-11-18T13:55:14.000Z",
+   "ultimaHora": false
+  },
+  {
+   "id": "c6b2b2f09f69",
+   "titulo": "España traza su ruta para dejar los combustibles: 100% de electricidad renovable en 2040 y nada de petróleo y gas en 2050",
+   "resumen": "El Gobierno anuncia en la cumbre del clima un plan cuya aplicación, en todo caso, dependerá del siguiente Ejecutivo",
+   "porQue": "",
+   "pilar": "global",
+   "etiquetas": [],
+   "importancia": 6,
+   "fuente": "El País Clima",
+   "fuentes": [
+    "El País Clima",
+    "El País"
+   ],
+   "url": "https://elpais.com/clima-y-medio-ambiente/2026-11-18/espana-traza-su-ruta-para-dejar-los-combustibles-100-de-electricidad-renovable-en-2040-y-nada-de-petroleo-y-gas-en-2050.html",
+   "fecha": "2026-11-18T18:34:05.000Z",
    "ultimaHora": false
   },
   {
@@ -335,6 +352,390 @@
    "ultimaHora": false
   },
   {
+   "id": "879c59d879df",
+   "titulo": "Nvidia interim CEO Kress tells employees ‘let’s move forward’ at first all-hands meeting since Jensen Huang exit",
+   "resumen": "Nvidia's interim CEO Colette Kress urges staff forward and offers pay raises after Jensen Huang exit.",
+   "porQue": "",
+   "pilar": "economia",
+   "etiquetas": [],
+   "importancia": 5,
+   "fuente": "CNBC",
+   "fuentes": [
+    "CNBC"
+   ],
+   "url": "https://www.cnbc.com/2026/11/18/nvidia-interim-ceo-kress-addresses-staff-after-jensen-huang-exit-.html",
+   "fecha": "2026-11-18T19:09:48.000Z",
+   "ultimaHora": false
+  },
+  {
+   "id": "3a261481b746",
+   "titulo": "Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show",
+   "resumen": "The Federal Reserve on Wednesday released minutes from its October policy meeting at which it voted to hold its benchmark interest rate in a range between 3.75%-4%.",
+   "porQue": "",
+   "pilar": "economia",
+   "etiquetas": [],
+   "importancia": 5,
+   "fuente": "CNBC",
+   "fuentes": [
+    "CNBC"
+   ],
+   "url": "https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html",
+   "fecha": "2026-11-18T19:08:44.000Z",
+   "ultimaHora": false
+  },
+  {
+   "id": "95c693fe543d",
+   "titulo": "Nvidia's earnings report had something for the bulls, bears and everyone in between",
+   "resumen": "Nvidia's commentary on its buyback and AI ecosystem support was encouraging. But it's not a shock to see the stock down Wednesday.",
+   "porQue": "",
+   "pilar": "economia",
+   "etiquetas": [],
+   "importancia": 5,
+   "fuente": "CNBC",
+   "fuentes": [
+    "CNBC"
+   ],
+   "url": "https://www.cnbc.com/investingclub/2026/11/18/nvidias-earnings-report-had-something-for-the-bulls-bears-and-everyone-in-between.html",
+   "fecha": "2026-11-18T19:07:39.000Z",
+   "ultimaHora": false
+  },
+  {
+   "id": "be113688fd9a",
+   "titulo": "Vance scraps schedule to address tech outages as Trump admin insists incidents aren't linked",
+   "resumen": "Recent disruptions include a nationwide ground stop, Microsoft Outlook outage and a reported blackout of the National Security Agency's communications network.",
+   "porQue": "",
+   "pilar": "economia",
+   "etiquetas": [],
+   "importancia": 5,
+   "fuente": "CNBC",
+   "fuentes": [
+    "CNBC"
+   ],
+   "url": "https://www.cnbc.com/2026/11/18/trump-tech-outages-nsa-faa-microsoft.html",
+   "fecha": "2026-11-18T19:07:35.000Z",
+   "ultimaHora": false
+  },
+  {
+   "id": "a19f9e7086b4",
+   "titulo": "Tech lawsuits defined 2026 — and lawmakers want more",
+   "resumen": "With just a few weeks remaining, lawmakers are trying to pass new protections for victims of online harm before the end of 2026, targeting deepfake creators and online platforms that block users from filing lawsuits. On Tuesday, members of…",
+   "porQue": "",
+   "pilar": "tecnologia",
+   "etiquetas": [],
+   "importancia": 5,
+   "fuente": "The Verge",
+   "fuentes": [
+    "The Verge"
+   ],
+   "url": "https://www.theverge.com/policy/1036935/congress-forced-arbitration-deepfakes-defiance-act",
+   "fecha": "2026-11-18T19:07:29.000Z",
+   "ultimaHora": false
+  },
+  {
+   "id": "178f94915ff3",
+   "titulo": "Markwayne Mullin defends move to take government plane to football game amid flight stoppage – US politics live",
+   "resumen": "The secretary of homeland security flew to attend a college game Saturday, after thousands of flights were cancelled Sign up for US breaking News email Linked to that, the White House held a briefing call with several reporters today about…",
+   "porQue": "",
+   "pilar": "geopolitica",
+   "etiquetas": [],
+   "importancia": 5,
+   "fuente": "The Guardian World",
+   "fuentes": [
+    "The Guardian World"
+   ],
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
+   "fecha": "2026-11-18T19:04:50.000Z",
+   "ultimaHora": false
+  },
+  {
+   "id": "b822906e6de8",
+   "titulo": "The leave campaign has been resurrected, so how should Burnham respond?",
+   "resumen": "No 10 is confident the PM can make the case for closer EU ties, while others worry about leaving the campaign solely in his hands The launch of a pro-Brexit campaign was one of the few genuine surprises this week in Westminster, even if…",
+   "porQue": "",
+   "pilar": "geopolitica",
+   "etiquetas": [],
+   "importancia": 5,
+   "fuente": "The Guardian World",
+   "fuentes": [
+    "The Guardian World"
+   ],
+   "url": "https://www.theguardian.com/politics/2026/nov/18/pro-brexit-stay-out-same-playbook-analysis",
+   "fecha": "2026-11-18T19:02:40.000Z",
+   "ultimaHora": false
+  },
+  {
+   "id": "a4a855012e76",
+   "titulo": "Nvidia reverses, metals crash ahead of Anthropic IPO: Options Action Live",
+   "resumen": "Big moves have options traders wondering if Anthropic's IPO is spurring a rotation trade.",
+   "porQue": "",
+   "pilar": "economia",
+   "etiquetas": [],
+   "importancia": 5,
+   "fuente": "CNBC",
+   "fuentes": [
+    "CNBC"
+   ],
+   "url": "https://www.cnbc.com/2026/11/18/nvidia-reverses-metals-crash-ahead-of-anthropic-ipo-options-action-live.html",
+   "fecha": "2026-11-18T19:01:42.000Z",
+   "ultimaHora": false
+  },
+  {
+   "id": "ee47945d9e82",
+   "titulo": "Antonio Roma tiene 350.000 seguidores y no existe. Lo más loco es que va a dar un concierto en Madrid ante 500 espectadores",
+   "resumen": "Es el primer cantante de flamenco hecho con IA que se sube a un escenario en España. Dicho así, suena a sinsentido, pero es que éste concretamente viene acompañado de alguien de carne y hueso que le pone voz y una banda real que tocará su…",
+   "porQue": "",
+   "pilar": "tecnologia",
+   "etiquetas": [],
+   "importancia": 5,
+   "fuente": "Xataka",
+   "fuentes": [
+    "Xataka"
+   ],
+   "url": "https://www.xataka.com/musica/antonio-roma-tiene-350-000-seguidores-no-existe-loco-que-va-a-dar-concierto-madrid-500-espectadores",
+   "fecha": "2026-11-18T19:01:15.000Z",
+   "ultimaHora": false
+  },
+  {
+   "id": "a52d0074114e",
+   "titulo": "The Good Daughter, una miniserie que no debes perderte si te gustan los thrillers",
+   "resumen": "Disponible en la plataforma HBO Max, esta creación es una opción de lo más interesante para no aburrirte en casa durante un fin de semana.",
+   "porQue": "",
+   "pilar": "economia",
+   "etiquetas": [],
+   "importancia": 5,
+   "fuente": "Cinco Días",
+   "fuentes": [
+    "Cinco Días"
+   ],
+   "url": "https://cincodias.elpais.com/smartlife/smart-tv/2026-11-18/the-good-daughter-serie-thriller.html",
+   "fecha": "2026-11-18T19:00:00.000Z",
+   "ultimaHora": false
+  },
+  {
+   "id": "fef0b8c6962c",
+   "titulo": "Alemania se pronuncia sobre las elecciones a la FIFA",
+   "resumen": "La Federación Alemana de Fútbol (DFB) oficializó este miércoles su apoyo de la candidatura del francés Philippe Diallo a la presidencia de la FIFA.",
+   "porQue": "",
+   "pilar": "deporte",
+   "etiquetas": [],
+   "importancia": 5,
+   "fuente": "Mundo Deportivo",
+   "fuentes": [
+    "Mundo Deportivo"
+   ],
+   "url": "https://www.mundodeportivo.com/futbol/internacional/20261118/1004252722/alemania-pronuncia-sobre-elecciones-fifa.html",
+   "fecha": "2026-11-18T18:58:32.000Z",
+   "ultimaHora": false
+  },
+  {
+   "id": "383656fa52b5",
+   "titulo": "‘Neighbourhood support teams’ to pave way for national care service, Cooper announces",
+   "resumen": "Health secretary said programme would help about 566,000 vulnerable people in England by April More than half a million of the most vulnerable people in England will be offered help from joint NHS and social care teams that will pave the…",
+   "porQue": "",
+   "pilar": "geopolitica",
+   "etiquetas": [],
+   "importancia": 5,
+   "fuente": "The Guardian World",
+   "fuentes": [
+    "The Guardian World"
+   ],
+   "url": "https://www.theguardian.com/society/2026/nov/18/new-neighbourhood-support-teams-to-pave-the-way-for-national-care-service-cooper-announces",
+   "fecha": "2026-11-18T18:56:02.000Z",
+   "ultimaHora": false
+  },
+  {
+   "id": "3b52a12b6b52",
+   "titulo": "Malas noticias para el Como de Cesc",
+   "resumen": "Malas noticias para el Como de Cesc Fàbregas, gran revelación de la actual Champions League, donde es cuarto con 9 puntos en cuatro jornadas y protagonizó una de las mayores goleadas de la historia de la competición con su 1-9 en Lille. Y…",
+   "porQue": "",
+   "pilar": "deporte",
+   "etiquetas": [],
+   "importancia": 5,
+   "fuente": "Mundo Deportivo",
+   "fuentes": [
+    "Mundo Deportivo"
+   ],
+   "url": "https://www.mundodeportivo.com/futbol/serie-a/20261118/1004252714/problemas-cesc-ataque.html",
+   "fecha": "2026-11-18T18:53:08.000Z",
+   "ultimaHora": false
+  },
+  {
+   "id": "251bcc5da014",
+   "titulo": "Ex-Tory defectors barred from shaping Reform’s immigration policy, says Zia Yusuf",
+   "resumen": "Comments by Reform’s home affairs spokesperson raise questions about unity at top of the party Former Conservative defectors to Reform UK have been barred from shaping the party’s immigration policy, its home affairs spokesperson has…",
+   "porQue": "",
+   "pilar": "geopolitica",
+   "etiquetas": [],
+   "importancia": 5,
+   "fuente": "The Guardian World",
+   "fuentes": [
+    "The Guardian World"
+   ],
+   "url": "https://www.theguardian.com/politics/2026/nov/18/ex-tory-defectors-barred-from-shaping-reform-uks-immigration-policy-says-yusuf",
+   "fecha": "2026-11-18T18:50:40.000Z",
+   "ultimaHora": false
+  },
+  {
+   "id": "7d6978c578f9",
+   "titulo": "Al Betis se le resiste el papel de favorito en el derbi",
+   "resumen": "El Real Betis visitará este sábado el Sánchez-Pizjuán con ocho puntos de ventaja sobre el Sevilla, 26 frente a 18, aunque la historia invita a relativizar su favoritismo. Los verdiblancos solo han ganado uno de los once derbis de Primera…",
+   "porQue": "",
+   "pilar": "deporte",
+   "etiquetas": [],
+   "importancia": 5,
+   "fuente": "Mundo Deportivo",
+   "fuentes": [
+    "Mundo Deportivo"
+   ],
+   "url": "https://www.mundodeportivo.com/futbol/betis/20261118/1004252716/betis-le-resiste-papel-favorito-derbi.html",
+   "fecha": "2026-11-18T18:49:45.000Z",
+   "ultimaHora": false
+  },
+  {
+   "id": "e96f55da03db",
+   "titulo": "Otra derrota y sigue sin haber semifinalista español en las ATP Finals de Turín",
+   "resumen": "Tres españoles en las ATP Finals de Turín 2026, ninguno tiene asegurada todavía la plaza en semifinales. Está cerca Carlos Alcaraz, impecable con sus dos victorias, pero la ratificación matemática llegará si Frances Tiafoe gana a Flavio…",
+   "porQue": "",
+   "pilar": "deporte",
+   "etiquetas": [],
+   "importancia": 5,
+   "fuente": "Mundo Deportivo",
+   "fuentes": [
+    "Mundo Deportivo"
+   ],
+   "url": "https://www.mundodeportivo.com/tenis/20261118/1004252717/derrota-sigue-haber-semifinalista-espanol-atp-finals-turin.html",
+   "fecha": "2026-11-18T18:46:51.000Z",
+   "ultimaHora": false
+  },
+  {
+   "id": "b10ebf43407e",
+   "titulo": "The best early Black Friday deals you can already shop",
+   "resumen": "The countdown to Black Friday is on, and the discounts are starting to appear. Although the shopping holiday isn&#8217;t officially until November 27th, retailers are already dropping early deals on some of our favorite tech. Of course,…",
+   "porQue": "",
+   "pilar": "tecnologia",
+   "etiquetas": [],
+   "importancia": 5,
+   "fuente": "The Verge",
+   "fuentes": [
+    "The Verge"
+   ],
+   "url": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
+   "fecha": "2026-11-18T18:46:46.000Z",
+   "ultimaHora": false
+  },
+  {
+   "id": "313425cc9651",
+   "titulo": "Trump admin orders Kalshi to halt wagers on what words Trump will say",
+   "resumen": "CFTC: Kalshi bets may violate US ban on contracts that can be easily manipulated.",
+   "porQue": "",
+   "pilar": "tecnologia",
+   "etiquetas": [],
+   "importancia": 5,
+   "fuente": "Ars Technica",
+   "fuentes": [
+    "Ars Technica"
+   ],
+   "url": "https://arstechnica.com/tech-policy/2026/11/trump-admin-orders-kalshi-to-halt-wagers-on-what-words-trump-will-say/",
+   "fecha": "2026-11-18T18:46:08.000Z",
+   "ultimaHora": false
+  },
+  {
+   "id": "2c2fb96330d2",
+   "titulo": "Real Madrid - Inter, en directo",
+   "resumen": "",
+   "porQue": "",
+   "pilar": "deporte",
+   "etiquetas": [],
+   "importancia": 5,
+   "fuente": "Mundo Deportivo",
+   "fuentes": [
+    "Mundo Deportivo"
+   ],
+   "url": "https://www.mundodeportivo.com/futbol/femenino/champions-league/20261118/1004252512/real-madrid-inter-directo-champions-league-futbol-femenino.html",
+   "fecha": "2026-11-18T18:45:37.000Z",
+   "ultimaHora": false
+  },
+  {
+   "id": "2af00eb12ef2",
+   "titulo": "Deco deja la puerta abierta a fichar un central en enero",
+   "resumen": "Andreson Luís de Souza 'Deco', director deportivo del FC Barcelona, y Bojan Krkic, cooordinador del área deportiva azulgrana, valoraron la situación de la plantilla azulgrana después de los tres primeros meses de temporada en una…",
+   "porQue": "",
+   "pilar": "deporte",
+   "etiquetas": [],
+   "importancia": 5,
+   "fuente": "Mundo Deportivo",
+   "fuentes": [
+    "Mundo Deportivo"
+   ],
+   "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261118/1004252707/deco.html",
+   "fecha": "2026-11-18T18:44:57.000Z",
+   "ultimaHora": false
+  },
+  {
+   "id": "41c14e41c703",
+   "titulo": "Posible unidad de fuerzas entre candidatos contra Infantino",
+   "resumen": "El japonés Kozo Tashima, candidato a la presidencia de la FIFA, declaró este miércoles en una entrevista a L'Équipe que desea \"mantener una conversación\" con Philippe Diallo, el máximo responsable de la Federación Francesa de Fútbol (FFF),…",
+   "porQue": "",
+   "pilar": "deporte",
+   "etiquetas": [],
+   "importancia": 5,
+   "fuente": "Mundo Deportivo",
+   "fuentes": [
+    "Mundo Deportivo"
+   ],
+   "url": "https://www.mundodeportivo.com/futbol/internacional/20261118/1004252713/posible-unidad-fuerzas-candidatos-infantino.html",
+   "fecha": "2026-11-18T18:43:58.000Z",
+   "ultimaHora": false
+  },
+  {
+   "id": "fef422c85df5",
+   "titulo": "Burnham considering cuts to national insurance to create more youth jobs",
+   "resumen": "PM hints he is open to suggestion in Milburn report to lower NICs contributions paid by companies for under-25s Who are the Neets? UK youth job crisis in five charts UK firms: what is stopping you hiring young people? Andy Burnham has said…",
+   "porQue": "",
+   "pilar": "geopolitica",
+   "etiquetas": [],
+   "importancia": 5,
+   "fuente": "The Guardian World",
+   "fuentes": [
+    "The Guardian World"
+   ],
+   "url": "https://www.theguardian.com/society/2026/nov/18/burnham-cuts-national-insurance-youth-jobs-milburn-report",
+   "fecha": "2026-11-18T18:43:37.000Z",
+   "ultimaHora": false
+  },
+  {
+   "id": "69a85382a6c6",
+   "titulo": "One of AI's most notorious 'doomers' stands to make billions in Anthropic's IPO",
+   "resumen": "An Estonian tech billionaire famous for his stance that AI could end humanity is expected to be one of the biggest winners in Anthropic's upcoming IPO.",
+   "porQue": "",
+   "pilar": "economia",
+   "etiquetas": [],
+   "importancia": 5,
+   "fuente": "CNBC",
+   "fuentes": [
+    "CNBC"
+   ],
+   "url": "https://www.cnbc.com/2026/11/18/jaan-tallinn-anthropic-ipo-series-a-investment.html",
+   "fecha": "2026-11-18T18:43:26.000Z",
+   "ultimaHora": false
+  },
+  {
+   "id": "d84764b56f12",
+   "titulo": "Salvajada total del hijo de Peja Stojakovic ante dos canteranos del Barça",
+   "resumen": "Noche grande en el baloncesto universitario. Esta última jornada, se medían cara a cara dos de los titanes de esta temporada en la NCAA. La siempre candidata a todo, la Duke de los canteranos del Barça Joaquim Boumtje-Boumtje y Dame Sarr,…",
+   "porQue": "",
+   "pilar": "deporte",
+   "etiquetas": [],
+   "importancia": 5,
+   "fuente": "Mundo Deportivo",
+   "fuentes": [
+    "Mundo Deportivo"
+   ],
+   "url": "https://www.mundodeportivo.com/baloncesto/nba/20261118/1004252715/salvajada-total-hijo-peja-stojakovic-leyenda-nba-dos-canteranos-barca.html",
+   "fecha": "2026-11-18T18:39:04.000Z",
+   "ultimaHora": false
+  },
+  {
    "id": "f94f9eb6342a",
    "titulo": "Deutsche Bank: millones de documentos revelan prácticas dudosas",
    "resumen": "El mayor banco de Alemania tiene también un pasado oscuro que ahora vuelve a perseguirlo. Según un informe periodístico, una filtración de datos revela numerosas prácticas comerciales cuestionables de la entidad.",
@@ -348,6 +749,22 @@
    ],
    "url": "https://www.dw.com/es/deutsche-bank-millones-de-documentos-revelan-prácticas-dudosas/a-79985529?maca=spa-rss-sp-all-1122-rdf",
    "fecha": "2026-11-18T18:36:00.000Z",
+   "ultimaHora": false
+  },
+  {
+   "id": "f26932e72fa9",
+   "titulo": "\"El día que cumplía 10 años me metieron en un tren. Las primeras semanas del internado fueron muy duras\"",
+   "resumen": "La conocida como humanización del político ha entrado de lleno en campaña. Los candidatos intentan mostrar a la audiencia su faceta más personal y familiar, para que no se les vea únicamente como personas que se mueven en el mundo de la…",
+   "porQue": "",
+   "pilar": "deporte",
+   "etiquetas": [],
+   "importancia": 5,
+   "fuente": "Mundo Deportivo",
+   "fuentes": [
+    "Mundo Deportivo"
+   ],
+   "url": "https://www.mundodeportivo.com/actualidad/20261118/1004252711/alberto-nunez-feijoo-dia-cumplia-10-anos-me-metieron-tren-primeras-semanas-internado-duras-dormiamos-90-personas-dormitorio-no-conocia-nadie-elecciones-dct.html",
+   "fecha": "2026-11-18T18:35:28.000Z",
    "ultimaHora": false
   },
   {
@@ -383,22 +800,6 @@
    "ultimaHora": false
   },
   {
-   "id": "c6b2b2f09f69",
-   "titulo": "España traza su ruta para dejar los combustibles: 100% de electricidad renovable en 2040 y nada de petróleo y gas en 2050",
-   "resumen": "El Gobierno anuncia en la cumbre del clima un plan cuya aplicación, en todo caso, dependerá del siguiente Ejecutivo",
-   "porQue": "",
-   "pilar": "global",
-   "etiquetas": [],
-   "importancia": 5,
-   "fuente": "El País Clima",
-   "fuentes": [
-    "El País Clima"
-   ],
-   "url": "https://elpais.com/clima-y-medio-ambiente/2026-11-18/espana-traza-su-ruta-para-dejar-los-combustibles-100-de-electricidad-renovable-en-2040-y-nada-de-petroleo-y-gas-en-2050.html",
-   "fecha": "2026-11-18T18:34:05.000Z",
-   "ultimaHora": false
-  },
-  {
    "id": "9ebb9a6aefb3",
    "titulo": "Jeffries wins Democratic House speaker race, on track to make history in January",
    "resumen": "Jeffries will still need to win a floor vote in January to officially become House speaker.",
@@ -417,7 +818,7 @@
   {
    "id": "81a31047b5ca",
    "titulo": "The \"shameful\" measles data that lost the US its elimination status",
-   "resumen": "Measles became endemic in the US months ago—and it's only accelerating",
+   "resumen": "Measles became endemic in the US months ago—and it's only accelerating.",
    "porQue": "",
    "pilar": "tecnologia",
    "etiquetas": [],
@@ -447,38 +848,6 @@
    "ultimaHora": false
   },
   {
-   "id": "178f94915ff3",
-   "titulo": "Markwayne Mullin defends move to take government plane to football game amid flight stoppage – US politics live",
-   "resumen": "The secretary of homeland security flew to attend a college game Saturday, after thousands of flights were cancelled Sign up for US breaking News email Linked to that, the White House held a briefing call with several reporters today about…",
-   "porQue": "",
-   "pilar": "geopolitica",
-   "etiquetas": [],
-   "importancia": 5,
-   "fuente": "The Guardian World",
-   "fuentes": [
-    "The Guardian World"
-   ],
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
-   "fecha": "2026-11-18T18:27:31.000Z",
-   "ultimaHora": false
-  },
-  {
-   "id": "251bcc5da014",
-   "titulo": "Ex-Tory defectors barred from shaping Reform UK’s immigration policy, says Yusuf",
-   "resumen": "Comments by Reform’s home affairs spokesperson raise questions about unity at the top of the party Former Conservative defectors to Reform UK have been barred from shaping the party’s immigration policy, its home affairs spokesperson has…",
-   "porQue": "",
-   "pilar": "geopolitica",
-   "etiquetas": [],
-   "importancia": 5,
-   "fuente": "The Guardian World",
-   "fuentes": [
-    "The Guardian World"
-   ],
-   "url": "https://www.theguardian.com/politics/2026/nov/18/ex-tory-defectors-barred-from-shaping-reform-uks-immigration-policy-says-yusuf",
-   "fecha": "2026-11-18T18:26:17.000Z",
-   "ultimaHora": false
-  },
-  {
    "id": "353427d689d3",
    "titulo": "Así es la Mediterranean Epic Gravel desde dentro: dureza, paisajes y ambiente ciclista",
    "resumen": "Después de la cancelación en la primera fecha prevista provocada por los efectos de la dana que azotó el litoral levantino en octubre, finalmente el pasado fin de semana se pudo llevar a cabo la primera edición de la Mediterranean Epic…",
@@ -495,22 +864,6 @@
    "ultimaHora": false
   },
   {
-   "id": "b822906e6de8",
-   "titulo": "The Leave campaign has been resurrected, so how does Burnham respond?",
-   "resumen": "No 10 is confident the PM can make the case for closer EU ties, while others worry about leaving the campaign solely in his hands The launch of a pro-Brexit campaign was one of the few genuine surprises this week in Westminster, even if…",
-   "porQue": "",
-   "pilar": "geopolitica",
-   "etiquetas": [],
-   "importancia": 5,
-   "fuente": "The Guardian World",
-   "fuentes": [
-    "The Guardian World"
-   ],
-   "url": "https://www.theguardian.com/politics/2026/nov/18/pro-brexit-stay-out-same-playbook-analysis",
-   "fecha": "2026-11-18T18:23:25.000Z",
-   "ultimaHora": false
-  },
-  {
    "id": "1826e3476159",
    "titulo": "Diallo contra Infantino: batalla por el control del fútbol mundial",
    "resumen": "El presidente de la federación francesa y candidato de la UEFA, Philippe Diallo, desafía al presidente de la FIFA, Gianni Infantino. Sus posibilidades son escasas, pero la justicia y la política podrían estar de su lado.",
@@ -524,22 +877,6 @@
    ],
    "url": "https://www.dw.com/es/diallo-contra-infantino-batalla-por-el-control-del-fútbol-mundial/a-79985014?maca=spa-rss-sp-all-1122-rdf",
    "fecha": "2026-11-18T18:23:00.000Z",
-   "ultimaHora": false
-  },
-  {
-   "id": "2c2fb96330d2",
-   "titulo": "Real Madrid - Inter, en directo",
-   "resumen": "",
-   "porQue": "",
-   "pilar": "deporte",
-   "etiquetas": [],
-   "importancia": 5,
-   "fuente": "Mundo Deportivo",
-   "fuentes": [
-    "Mundo Deportivo"
-   ],
-   "url": "https://www.mundodeportivo.com/futbol/femenino/champions-league/20261118/1004252512/real-madrid-inter-directo-champions-league-futbol-femenino.html",
-   "fecha": "2026-11-18T18:20:58.000Z",
    "ultimaHora": false
   },
   {
@@ -575,54 +912,6 @@
    "ultimaHora": false
   },
   {
-   "id": "a18658c44683",
-   "titulo": "Read Jim Cramer’s full interview with Nvidia’s Colette Kress: Demand, buybacks and China",
-   "resumen": "Interim CEO Kress sat down with CNBC’s Jim Cramer Tuesday evening shortly after the AI chip giant delivered a quarterly beat and strong guidance.",
-   "porQue": "",
-   "pilar": "economia",
-   "etiquetas": [],
-   "importancia": 5,
-   "fuente": "CNBC",
-   "fuentes": [
-    "CNBC"
-   ],
-   "url": "https://www.cnbc.com/2026/11/18/nvidia-interim-ceo-colette-kress-talks-earnings-china-transcript.html",
-   "fecha": "2026-11-18T18:14:42.000Z",
-   "ultimaHora": false
-  },
-  {
-   "id": "2419ce1ca64c",
-   "titulo": "Investigators make progress in hunt for cause of FAA ground stop",
-   "resumen": "Engineers and analysts are still searching for the root cause of the issue, which led to a four-hour ground stop on Friday.",
-   "porQue": "",
-   "pilar": "economia",
-   "etiquetas": [],
-   "importancia": 5,
-   "fuente": "CNBC",
-   "fuentes": [
-    "CNBC"
-   ],
-   "url": "https://www.cnbc.com/2026/11/18/faa-ground-stop-router-investigation.html",
-   "fecha": "2026-11-18T18:13:25.000Z",
-   "ultimaHora": false
-  },
-  {
-   "id": "52a552a79ca1",
-   "titulo": "Nvidia’s Kress faces a divided workforce as some employees push for Huang’s return",
-   "resumen": "Nvidia's interim CEO Colette Kress calmed investors. Now she has to calm employees.",
-   "porQue": "",
-   "pilar": "economia",
-   "etiquetas": [],
-   "importancia": 5,
-   "fuente": "CNBC",
-   "fuentes": [
-    "CNBC"
-   ],
-   "url": "https://www.cnbc.com/2026/11/18/nvidia-kress-jensen-huang-return.html",
-   "fecha": "2026-11-18T18:11:41.000Z",
-   "ultimaHora": false
-  },
-  {
    "id": "7ff02ec60acf",
    "titulo": "El 'incómodo' Coliseum que a Simeone se le da tan bien",
    "resumen": "El Atlético de Madrid visita este domingo al Getafe. Un partido que en el conjunto rojiblanco saben que no va a ser nada sencillo, y se toma como una visita al dentista, pero que siempre le ha sentado muy bien al equipo de Simeone.",
@@ -652,38 +941,6 @@
    ],
    "url": "https://arstechnica.com/gaming/2026/11/will-wrights-next-simulation-will-use-ai-to-mine-content-from-your-memories/",
    "fecha": "2026-11-18T18:10:33.000Z",
-   "ultimaHora": false
-  },
-  {
-   "id": "ff029315891e",
-   "titulo": "Is Apple the safe haven investors think it is? Here's a way to trade it with less risk",
-   "resumen": "Traders have flocked to Apple's perceived safety in the wake of Nvidia's scandal. It may not be so safe, says Mike Khouw",
-   "porQue": "",
-   "pilar": "economia",
-   "etiquetas": [],
-   "importancia": 5,
-   "fuente": "CNBC",
-   "fuentes": [
-    "CNBC"
-   ],
-   "url": "https://www.cnbc.com/2026/11/18/is-apple-the-safe-haven-investors-think-it-is-heres-a-way-to-trade-it-with-less-risk.html",
-   "fecha": "2026-11-18T18:10:21.000Z",
-   "ultimaHora": false
-  },
-  {
-   "id": "f927f7fc8958",
-   "titulo": "Off-price retailer TJX keeps its promise and the stock soars. We’re satisfied, for now",
-   "resumen": "TJX Companies is in rally mode.",
-   "porQue": "",
-   "pilar": "economia",
-   "etiquetas": [],
-   "importancia": 5,
-   "fuente": "CNBC",
-   "fuentes": [
-    "CNBC"
-   ],
-   "url": "https://www.cnbc.com/investingclub/2026/11/18/off-price-retailer-tjx-keeps-its-promise-and-the-stock-soars-were-satisfied-for-now.html",
-   "fecha": "2026-11-18T18:06:59.000Z",
    "ultimaHora": false
   },
   {
@@ -719,22 +976,6 @@
    "ultimaHora": false
   },
   {
-   "id": "b35fcb10d146",
-   "titulo": "Samsung comienza con las pruebas de One UI 9.5: primeros modelos elegidos y novedades",
-   "resumen": "Tres modelos de la gama alta de la firma coreana son los que ahora mismo pueden descargar la beta de la actualización de la que hablamos.",
-   "porQue": "",
-   "pilar": "economia",
-   "etiquetas": [],
-   "importancia": 5,
-   "fuente": "Cinco Días",
-   "fuentes": [
-    "Cinco Días"
-   ],
-   "url": "https://cincodias.elpais.com/smartlife/smartphones/2026-11-18/samsung-pruebas-publicas-one-ui-95.html",
-   "fecha": "2026-11-18T18:00:00.000Z",
-   "ultimaHora": false
-  },
-  {
    "id": "6133e1e96fee",
    "titulo": "Rinden pleitesía al Barça: \"Cuando entras en ese club, puedes sentir la historia. Esa es su enorme fortaleza\"",
    "resumen": "El Barça abre este jueves (18.45 h) la segunda fase de la Champions de balonmano en la pista del Industria Kielce, cuyo nuevo entrenador, Krzysztof Lijewski, sustituto de Talant Dujshebaev después de 12 años del técnico español en Polonia,…",
@@ -748,22 +989,6 @@
    ],
    "url": "https://www.mundodeportivo.com/balonmano/20261118/1004252700/lijewski-entrenador-kielce-rinde-pleitesia-barca-entras-ese-club-puedes-sentir-historia-ver-todos-trofeos-nombres-increibles-han-construido-historia-enorme-fortaleza.html",
    "fecha": "2026-11-18T17:56:54.000Z",
-   "ultimaHora": false
-  },
-  {
-   "id": "5296b6f36502",
-   "titulo": "Target shares rise 7% as retailer posts best sales growth in five years, hikes guidance",
-   "resumen": "Target beat third-quarter sales expectations and raised its guidance as it continues a turnaround effort.",
-   "porQue": "",
-   "pilar": "economia",
-   "etiquetas": [],
-   "importancia": 5,
-   "fuente": "CNBC",
-   "fuentes": [
-    "CNBC"
-   ],
-   "url": "https://www.cnbc.com/2026/11/18/target-tgt-q3-2026-earnings.html",
-   "fecha": "2026-11-18T17:56:50.000Z",
    "ultimaHora": false
   },
   {
@@ -831,38 +1056,6 @@
    "ultimaHora": false
   },
   {
-   "id": "00a34e9a7fe6",
-   "titulo": "Disney’s new Star Wars animatronics interact with guests using AI",
-   "resumen": "As advanced and lifelike as the animatronic characters at Disney parks have become, they typically either stick to predefined movements and routines, or there's an out of sight puppeteer helping make their behavior appear more spontaneous.…",
-   "porQue": "",
-   "pilar": "tecnologia",
-   "etiquetas": [],
-   "importancia": 5,
-   "fuente": "The Verge",
-   "fuentes": [
-    "The Verge"
-   ],
-   "url": "https://www.theverge.com/tech/1036729/disney-star-wars-anzellans-animatronic-amazon-aws-cloud-ai",
-   "fecha": "2026-11-18T17:53:48.000Z",
-   "ultimaHora": false
-  },
-  {
-   "id": "6d9ebfa928a5",
-   "titulo": "La nueva vida de los estadios; de un partido cada quince días a 365 de negocio",
-   "resumen": "Las grandes infraestructuras deportivas buscan nuevas fórmulas para rentabilizar sus instalaciones más allá de los días de partido. La clave está en convertirse en espacios de ocio, entretenimiento y actividad económica integrados en las…",
-   "porQue": "",
-   "pilar": "deporte",
-   "etiquetas": [],
-   "importancia": 5,
-   "fuente": "Mundo Deportivo",
-   "fuentes": [
-    "Mundo Deportivo"
-   ],
-   "url": "https://www.mundodeportivo.com/futbol/20261118/1004252701/nueva-vida-estadios-partido-quince-dias-365-negocio.html",
-   "fecha": "2026-11-18T17:53:24.000Z",
-   "ultimaHora": false
-  },
-  {
    "id": "9885e5a301e8",
    "titulo": "Alexander Zverev notified of abuse lawsuit by ex-partner during ATP Finals",
    "resumen": "Men’s world No 1 allegedly violated terms of settlement Lawyers say Zverev will ‘defend himself against lawsuit’ Alexander Zverev was officially notified of a lawsuit filed by his former partner during the middle of the season-ending ATP…",
@@ -879,22 +1072,6 @@
    "ultimaHora": false
   },
   {
-   "id": "65280d6e4cd2",
-   "titulo": "El 'soporte' de los pupilos del Cholo lidera la Segunda Federación",
-   "resumen": "Una de las razones que llevó al Atlético de Madrid, a recuperar el tercer equipo era que hiciese de soporte al equipo del Cholo Simeone. Por eso los pupilos de Manuel Ruano son los que completan habitualmente los entrenamientos. De este…",
-   "porQue": "",
-   "pilar": "deporte",
-   "etiquetas": [],
-   "importancia": 5,
-   "fuente": "Mundo Deportivo",
-   "fuentes": [
-    "Mundo Deportivo"
-   ],
-   "url": "https://www.mundodeportivo.com/futbol/atletico-madrid/20261118/1004252694/soporte-pupilos-cholo-lidera-segunda-federacion.html",
-   "fecha": "2026-11-18T17:52:00.000Z",
-   "ultimaHora": false
-  },
-  {
    "id": "e54ccd81a143",
    "titulo": "Apec summit as it happened: Xi welcomes Trump on China visit as Putin claims Europe in ‘humiliating decline’",
    "resumen": "This blog is now closed, you can read more on this story here Yalta became a byword for betrayal. Will Trump, Xi and Putin enact another carve-up? That is the question the Guardian’s diplomatic correspondent Patrick Wintour seeks to…",
@@ -908,102 +1085,6 @@
    ],
    "url": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
    "fecha": "2026-11-18T17:48:24.000Z",
-   "ultimaHora": false
-  },
-  {
-   "id": "421fe2bd9b34",
-   "titulo": "Senate committee rejects Trump nominee to lead National Science Foundation",
-   "resumen": "Committee chair Bill Cassidy, a Republican, said Jim O’Neill ‘did not do enough to stand up for science’ in previous posts Jim O’Neill will not undergo a confirmation hearing on Wednesday to head he National Science Foundation (NSF)…",
-   "porQue": "",
-   "pilar": "geopolitica",
-   "etiquetas": [],
-   "importancia": 5,
-   "fuente": "The Guardian World",
-   "fuentes": [
-    "The Guardian World"
-   ],
-   "url": "https://www.theguardian.com/us-news/2026/nov/18/trump-national-science-foundation-nominee",
-   "fecha": "2026-11-18T17:46:34.000Z",
-   "ultimaHora": false
-  },
-  {
-   "id": "1b0a3c395c8e",
-   "titulo": "Doble palo para Jasikevicius",
-   "resumen": "Las malas noticias llegan por partida doble en el Fenerbahce que dirige Sarunas Jasikevicius. El técnico lituano verá como su rotación será más corta de lo habitual durante las próximas semanas debido a dos lesiones de peso. Una de ellas…",
-   "porQue": "",
-   "pilar": "deporte",
-   "etiquetas": [],
-   "importancia": 5,
-   "fuente": "Mundo Deportivo",
-   "fuentes": [
-    "Mundo Deportivo"
-   ],
-   "url": "https://www.mundodeportivo.com/baloncesto/euroliga/20261118/1004252698/malas-noticias-partida-doble-jasikevicius.html",
-   "fecha": "2026-11-18T17:45:45.000Z",
-   "ultimaHora": false
-  },
-  {
-   "id": "b40948cf1a04",
-   "titulo": "El Corte Inglés ya ha empezado su Black Friday anticipado con ofertas en teles, auriculares, robots aspiradores y más",
-   "resumen": "Aunque oficialmente el Black Friday es la semana que viene, no son pocas las tiendas que están adelantando una buena cantidad de ofertas a esta semana. Una de ellas es El Corte Inglés, que hasta el 22 de noviembre tiene activa una promo…",
-   "porQue": "",
-   "pilar": "tecnologia",
-   "etiquetas": [],
-   "importancia": 5,
-   "fuente": "Xataka",
-   "fuentes": [
-    "Xataka"
-   ],
-   "url": "https://www.xataka.com/seleccion/corte-ingles-ha-empezado-su-black-friday-anticipado-ofertas-teles-auriculares-robots-aspiradores",
-   "fecha": "2026-11-18T17:45:16.000Z",
-   "ultimaHora": false
-  },
-  {
-   "id": "94cf0709b2e4",
-   "titulo": "All Blacks nightmare was making of me - Van Poortvliet",
-   "resumen": "Jack van Poortvliet was picked off and subbed off when he last met the All Blacks. Four years on, he says the experience made him a better player.",
-   "porQue": "",
-   "pilar": "deporte",
-   "etiquetas": [],
-   "importancia": 5,
-   "fuente": "BBC Sport",
-   "fuentes": [
-    "BBC Sport"
-   ],
-   "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cm930lv7kgx2o?at_medium=RSS&at_campaign=rss",
-   "fecha": "2026-11-18T17:44:36.000Z",
-   "ultimaHora": false
-  },
-  {
-   "id": "30d07b6e38bb",
-   "titulo": "Traces of filler found in heart and brain of woman who died after cosmetic procedure, UK inquest hears",
-   "resumen": "Jury told Jordan Parke injected seven times amount of filler he was taught to use during Alice Webb’s ‘Brazilian butt lift’ A man known as the “Lip King” who carried out a “Brazilian butt lift” (BBL) on a woman who later died injected her…",
-   "porQue": "",
-   "pilar": "geopolitica",
-   "etiquetas": [],
-   "importancia": 5,
-   "fuente": "The Guardian World",
-   "fuentes": [
-    "The Guardian World"
-   ],
-   "url": "https://www.theguardian.com/society/2026/nov/18/traces-of-filler-found-in-heart-and-brain-of-woman-who-died-after-cosmetic-procedure-uk-inquest-hears",
-   "fecha": "2026-11-18T17:42:22.000Z",
-   "ultimaHora": false
-  },
-  {
-   "id": "244a77719838",
-   "titulo": "De ser descartado por el Real Madrid a hacer historia con Marruecos",
-   "resumen": "Con solo 17 años, Abdellah Ouazane ya ha escrito su nombre con letras de oro en la historia de la selección de Marruecos. Justo en su tercer partido y su primera titularidad con los Leones del Atlas, el joven delantero del Ajax marcó el…",
-   "porQue": "",
-   "pilar": "deporte",
-   "etiquetas": [],
-   "importancia": 5,
-   "fuente": "Mundo Deportivo",
-   "fuentes": [
-    "Mundo Deportivo"
-   ],
-   "url": "https://www.mundodeportivo.com/futbol/internacional/20261118/1004252682/abdellah-ouazane-historia-marruecos.html",
-   "fecha": "2026-11-18T17:36:38.000Z",
    "ultimaHora": false
   },
   {
@@ -1039,70 +1120,6 @@
    "ultimaHora": false
   },
   {
-   "id": "97a99a26f452",
-   "titulo": "Kochen, titular imbatido en los tres últimos partidos de EE.UU.",
-   "resumen": "Diego Kochen, portero de 20 años que tiene contrato con el FC Barcelona hasta 2028, está rentabilizando la cesión al Lyngby Boldklub. Sus buenas actuaciones en la Primera División de Dinamarca llamaron la atención de Mauricio Pochettino,…",
-   "porQue": "",
-   "pilar": "deporte",
-   "etiquetas": [],
-   "importancia": 5,
-   "fuente": "Mundo Deportivo",
-   "fuentes": [
-    "Mundo Deportivo"
-   ],
-   "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261118/1004252689/kochen-titular-tres-ultimos-partidos-ee-uu.html",
-   "fecha": "2026-11-18T17:28:20.000Z",
-   "ultimaHora": false
-  },
-  {
-   "id": "f498c6026dfb",
-   "titulo": "La jornada 1º ronda de la Copa, en directo",
-   "resumen": "",
-   "porQue": "",
-   "pilar": "deporte",
-   "etiquetas": [],
-   "importancia": 5,
-   "fuente": "Mundo Deportivo",
-   "fuentes": [
-    "Mundo Deportivo"
-   ],
-   "url": "https://www.mundodeportivo.com/futbol/copa-del-rey/20261118/1004252468/copa-del-rey-futbol-primera-ronda-hoy-en-directo-ext-pau.html",
-   "fecha": "2026-11-18T17:25:17.000Z",
-   "ultimaHora": false
-  },
-  {
-   "id": "c41fb61b6b83",
-   "titulo": "¡Durísimo golpe para el Espanyol!",
-   "resumen": "Durísimo golpe el que ha recibido el Espanyol este miércoles. El club perico ha confirmado que Àlex Calatrava se ha roto el ligamento cruzado anterior de la rodilla izquierda durante la sesión de entrenamiento de este miércoles en la…",
-   "porQue": "",
-   "pilar": "deporte",
-   "etiquetas": [],
-   "importancia": 5,
-   "fuente": "Mundo Deportivo",
-   "fuentes": [
-    "Mundo Deportivo"
-   ],
-   "url": "https://www.mundodeportivo.com/futbol/rcd-espanyol/20261118/1004252691/durisimo-golpe-espanyol.html",
-   "fecha": "2026-11-18T17:22:32.000Z",
-   "ultimaHora": false
-  },
-  {
-   "id": "93fafd947e9d",
-   "titulo": "Lidl tiene hoy (y muy rebajada) esta cafetera De’Longhi con molinillo integrado y muy fácil de limpiar en su Black Friday",
-   "resumen": "Durante todo el año os estamos trayendo dispositivos, electrodomésticos y herramientas de Lidl porque podemos encontrar casi de todo a muy buen precio. Ahora bien, esta tienda también está de Black Friday y ahora mismo tenemos descuentos…",
-   "porQue": "",
-   "pilar": "tecnologia",
-   "etiquetas": [],
-   "importancia": 5,
-   "fuente": "Xataka",
-   "fuentes": [
-    "Xataka"
-   ],
-   "url": "https://www.xataka.com/seleccion/lidl-tiene-hoy-muy-rebajada-esta-cafetera-longhi-molinillo-integrado-muy-facil-limpiar-su-black-friday",
-   "fecha": "2026-11-18T17:15:17.000Z",
-   "ultimaHora": false
-  },
-  {
    "id": "2b30fa33e615",
    "titulo": "World ‘held hostage by oil mafia’, says Panama minister at Cop 31",
    "resumen": "Key issues unresolved as summit enters final days, with 30 countries signed up to forge fossil fuel treaty separate to UN process The world is “being held hostage by the petroleum mafia” and seems unable to break free, Panama’s environment…",
@@ -1116,22 +1133,6 @@
    ],
    "url": "https://www.theguardian.com/environment/2026/nov/18/world-held-hostage-by-oil-mafia-says-panama-minister-at-cop-31",
    "fecha": "2026-11-18T17:07:06.000Z",
-   "ultimaHora": false
-  },
-  {
-   "id": "282968aae1f3",
-   "titulo": "Nintendo se adelanta al Black Friday con todas estas ofertas en sus mandos exclusivos para Switch",
-   "resumen": "Quedan muy pocos días para que las tiendas celebren el Black Friday, pero ya han comenzado a calentar motores con numerosas ofertas. Nintendo no se ha perdido la diversión y ha lanzado descuentos en los mandos compatibles con Nintendo…",
-   "porQue": "",
-   "pilar": "tecnologia",
-   "etiquetas": [],
-   "importancia": 5,
-   "fuente": "Xataka",
-   "fuentes": [
-    "Xataka"
-   ],
-   "url": "https://www.xataka.com/seleccion/nintendo-se-adelanta-al-black-friday-todas-estas-ofertas-sus-mandos-exclusivos-para-switch",
-   "fecha": "2026-11-18T17:01:19.000Z",
    "ultimaHora": false
   },
   {
@@ -1169,7 +1170,7 @@
   {
    "id": "208b7ebb3cea",
    "titulo": "Seven new models at scalable price-performance",
-   "resumen": "Article URL: https://microsoft.ai/news/microsoft-ignite-2026/ Comments URL: https://news.ycombinator.com/item?id=50548021 Points: 208 # Comments: 143",
+   "resumen": "Article URL: https://microsoft.ai/news/microsoft-ignite-2026/ Comments URL: https://news.ycombinator.com/item?id=50548021 Points: 243 # Comments: 162",
    "porQue": "",
    "pilar": "emprendimiento",
    "etiquetas": [],
@@ -1201,7 +1202,7 @@
   {
    "id": "db253b67c20c",
    "titulo": "Inside Deutsche Bank",
-   "resumen": "Article URL: https://www.inside-db.com/ Comments URL: https://news.ycombinator.com/item?id=50547620 Points: 280 # Comments: 104",
+   "resumen": "Article URL: https://www.inside-db.com/ Comments URL: https://news.ycombinator.com/item?id=50547620 Points: 307 # Comments: 115",
    "porQue": "",
    "pilar": "emprendimiento",
    "etiquetas": [],
@@ -1248,8 +1249,8 @@
   },
   {
    "id": "ff0c2dfa0648",
-   "titulo": "Pre-auth RCE in Nginx HTTP/2 handling",
-   "resumen": "Article URL: https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities Comments URL: https://news.ycombinator.com/item?id=50547374 Points: 444 # Comments: 153",
+   "titulo": "Unauthenticated remote code execution in Nginx (CVE-2026-123633/CVE-2026-123007)",
+   "resumen": "Article URL: https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities Comments URL: https://news.ycombinator.com/item?id=50547374 Points: 499 # Comments: 175",
    "porQue": "",
    "pilar": "emprendimiento",
    "etiquetas": [],
@@ -1260,6 +1261,22 @@
    ],
    "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
    "fecha": "2026-11-18T15:19:55.000Z",
+   "ultimaHora": false
+  },
+  {
+   "id": "7370fbe8d7e4",
+   "titulo": "Poland says it thwarted false flag operation near border with Kaliningrad",
+   "resumen": "Article URL: https://www.yahoo.com/news/world/articles/russia-reportedly-planned-mass-casualty-090500574.html Comments URL: https://news.ycombinator.com/item?id=50547344 Points: 221 # Comments: 67",
+   "porQue": "",
+   "pilar": "emprendimiento",
+   "etiquetas": [],
+   "importancia": 5,
+   "fuente": "Hacker News",
+   "fuentes": [
+    "Hacker News"
+   ],
+   "url": "https://www.yahoo.com/news/world/articles/russia-reportedly-planned-mass-casualty-090500574.html",
+   "fecha": "2026-11-18T15:18:30.000Z",
    "ultimaHora": false
   },
   {
@@ -1276,22 +1293,6 @@
    ],
    "url": "https://sifted.eu/articles/payhawk-series-c/",
    "fecha": "2026-11-18T15:03:22.000Z",
-   "ultimaHora": false
-  },
-  {
-   "id": "9610a86cb801",
-   "titulo": "British hackers face prison for GTA 6 data breach and crypto thefts",
-   "resumen": "Two British hackers face lengthy prison sentences for hacks that broke into the Grand Theft Auto gamemaker and for stealing millions in crypto.",
-   "porQue": "",
-   "pilar": "emprendimiento",
-   "etiquetas": [],
-   "importancia": 5,
-   "fuente": "TechCrunch",
-   "fuentes": [
-    "TechCrunch"
-   ],
-   "url": "https://techcrunch.com/2026/11/18/british-hackers-face-prison-for-gta-6-data-breach-and-crypto-thefts/",
-   "fecha": "2026-11-18T14:55:13.000Z",
    "ultimaHora": false
   },
   {

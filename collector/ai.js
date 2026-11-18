@@ -153,7 +153,7 @@ export function geminiProvider(
             contents: [{ role: "user", parts: [{ text: user }] }],
             generationConfig: { responseMimeType: "application/json", maxOutputTokens: 32000 },
           }),
-          signal: AbortSignal.timeout(180000),
+          signal: AbortSignal.timeout(300000),
         });
         if (!res.ok) throw new Error(`${model}: HTTP ${res.status} ${(await res.text()).replace(/\s+/g, " ").slice(0, 200)}`);
         const body = await res.json();
@@ -188,11 +188,11 @@ export async function providerFromEnv(env = process.env, log = console.log) {
 export async function summarize(clusters, provider, { mode = "edicion", prev = null } = {}) {
   const ayer = mode === "edicion" ? formatAyer(prev) : "";
   const contexto = ayer ? `\n\nNoticias importantes de la edición anterior (para el campo reaccion):\n${ayer}` : "";
-  const input = clusters.slice(0, 120);
+  const input = clusters.slice(0, 100);
   const pedido =
     mode === "breaking"
       ? "Estas son las noticias de las últimas 3 horas. Elige SOLO las de última hora realmente relevantes (máximo 5, puede ser 0). Márcalas con ultimaHora: true. top3 vacío."
-      : "Estas son las noticias de las últimas 48 horas. Elige entre 40 y 60 para el pool del día (las más importantes primero) y marca las 3 más importantes en top3.";
+      : "Estas son las noticias de las últimas 48 horas. Elige entre 30 y 40 para el pool del día (las más importantes primero) y marca las 3 más importantes en top3.";
   const parsed = await provider({ system: SISTEMA, user: `${pedido}\n\n${formatInput(input)}${contexto}` });
   return toNoticias(parsed, input);
 }

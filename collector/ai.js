@@ -125,12 +125,27 @@ Responde SOLO con un objeto JSON con esta forma exacta:
 {"top3": [ref, ref, ref], "noticias": [{"ref": 0, "titulo": "", "resumen": "", "porQue": "", "pilar": "global|ultima|economia|geopolitica|tecnologia|emprendimiento|deporte", "etiquetas": [""], "importancia": 1, "ultimaHora": false, "reaccion": ""}]}`;
 
 /** Google Gemini (capa gratuita). Prueba varios modelos por si uno no está disponible o agotó su cupo. */
-export function geminiProvider(apiKey, { fetchFn = fetch, models = GEMINI_MODELS, log = () => {} } = {}) {
+const RETRY_STATUS = new Set([429, 500, 503]);
+const RETRY_WAITS_MS = [20000, 60000]; // reintentos si Google está saturado
+
+export function geminiProvider(
+  apiKey,
+  { fetchFn = fetch, models = GEMINI_MODELS, log = () => {}, sleep = (ms) => new Promise((r) => setTimeout(r, ms)), waits = RETRY_WAITS_MS } = {}
+) {
+  // fetch con reintentos ante saturación temporal
+  const call = async (url, init) => {
+    for (let i = 0; ; i++) {
+      const res = await fetchFn(url, init);
+      if (res.ok || !RETRY_STATUS.has(res.status) || i >= waits.length) return res;
+      log(`(gemini) HTTP ${res.status}, reintento en ${waits[i] / 1000}s`);
+      await sleep(waits[i]);
+    }
+  };
   return async ({ system, user }) => {
     let lastErr;
     for (const model of models) {
       try {
-        const res = await fetchFn(`https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent`, {
+        const res = await call(`https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent`, {
           method: "POST",
           headers: { "content-type": "application/json", "x-goog-api-key": apiKey },
           body: JSON.stringify({
@@ -140,7 +155,7 @@ export function geminiProvider(apiKey, { fetchFn = fetch, models = GEMINI_MODELS
           }),
           signal: AbortSignal.timeout(180000),
         });
-        if (!res.ok) throw new Error(`${model}: HTTP ${res.status} ${(await res.text()).slice(0, 200)}`);
+        if (!res.ok) throw new Error(`${model}: HTTP ${res.status} ${(await res.text()).replace(/\s+/g, " ").slice(0, 200)}`);
         const body = await res.json();
         const text = (body.candidates?.[0]?.content?.parts ?? []).map((p) => p.text ?? "").join("");
         const parsed = Salida.safeParse(JSON.parse(text.replace(/^```(?:json)?\s*|\s*```$/g, "")));

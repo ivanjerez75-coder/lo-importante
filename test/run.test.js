@@ -98,7 +98,7 @@ test("geminiProvider devuelve la salida validada y usa la clave en cabecera", as
 
 test("geminiProvider pasa al siguiente modelo si el primero falla", async () => {
   const urls = [];
-  const p = geminiProvider("K", { models: ["a", "b"], fetchFn: async (url) => { urls.push(url); return url.includes("/a:") ? geminiRes(null, 429) : geminiRes(salidaOk); } });
+  const p = geminiProvider("K", { models: ["a", "b"], waits: [], fetchFn: async (url) => { urls.push(url); return url.includes("/a:") ? geminiRes(null, 429) : geminiRes(salidaOk); } });
   const out = await p({ system: "s", user: "u" });
   assert.equal(urls.length, 2);
   assert.equal(out.top3[0], 0);
@@ -107,4 +107,17 @@ test("geminiProvider pasa al siguiente modelo si el primero falla", async () => 
 test("geminiProvider lanza si el JSON no tiene el formato", async () => {
   const p = geminiProvider("K", { models: ["a"], fetchFn: async () => geminiRes({ hola: 1 }) });
   await assert.rejects(p({ system: "s", user: "u" }));
+});
+
+test("geminiProvider reintenta si Google está saturado (503) y luego funciona", async () => {
+  let calls = 0;
+  const waited = [];
+  const p = geminiProvider("K", {
+    models: ["a"], waits: [1, 2], sleep: async (ms) => waited.push(ms),
+    fetchFn: async () => (++calls < 3 ? geminiRes(null, 503) : geminiRes(salidaOk)),
+  });
+  const out = await p({ system: "s", user: "u" });
+  assert.equal(calls, 3);
+  assert.deepEqual(waited, [1, 2]);
+  assert.equal(out.noticias.length, 1);
 });

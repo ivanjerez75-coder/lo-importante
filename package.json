@@ -1,0 +1,19 @@
+{
+  "name": "mis-noticias",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test test/*.test.js",
+    "collect": "node collector/run.js",
+    "breaking": "node collector/run.js breaking"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^1.10.0",
+    "fast-xml-parser": "^5.12.1",
+    "zod": "^4.6.7"
+  }
+}

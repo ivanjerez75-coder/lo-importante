@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <title>Lo importante</title>
+  <meta name="description" content="Las noticias que importan, cada día, a tu medida." />
+  <meta name="theme-color" content="#E9EDF0" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+  <meta name="apple-mobile-web-app-title" content="Lo importante" />
+  <link rel="manifest" href="manifest.webmanifest" />
+  <link rel="icon" href="icon.svg" type="image/svg+xml" />
+  <link rel="apple-touch-icon" href="icon-192.png" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Figtree:wght@400;500;600&family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <main id="hoy" class="view" aria-live="polite">
+    <p class="cargando">Cargando las noticias de hoy…</p>
+  </main>
+
+  <section id="ajustes" class="view" hidden>
+    <header class="ajustes-head">
+      <h1>Ajustes</h1>
+      <p class="sub">Ajusta cuánto quieres de cada tema. La app también aprende sola con tus 👍 y 👎.</p>
+    </header>
+    <div id="sliders"></div>
+    <h2>Lo que he aprendido de ti</h2>
+    <div id="aprendido"></div>
+    <h2>Tus datos</h2>
+    <p class="sub">Tus gustos se guardan solo en este móvil. Exporta una copia si vas a cambiar de teléfono.</p>
+    <div class="acciones">
+      <button id="exportar" type="button">Exportar mis gustos</button>
+      <label class="boton-file">Importar gustos<input id="importar" type="file" accept="application/json" hidden /></label>
+      <button id="reiniciar" type="button" class="peligro">Empezar de cero</button>
+    </div>
+    <p id="info-edicion" class="sub"></p>
+  </section>
+
+  <nav class="tabbar" aria-label="Secciones">
+    <button type="button" data-view="hoy" aria-current="page">Hoy</button>
+    <button type="button" data-view="ajustes">Ajustes</button>
+  </nav>
+
+  <div id="toast" role="status" hidden></div>
+  <script type="module" src="app.js"></script>
+</body>
+</html>

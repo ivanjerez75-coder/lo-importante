@@ -1,0 +1,66 @@
+name: Noticias
+
+on:
+  schedule:
+    - cron: "30 4 * * *"   # edición diaria (lista antes de las 7:00 en España, invierno y verano)
+    - cron: "0 */3 * * *"  # última hora cada 3 horas
+  workflow_dispatch:
+    inputs:
+      modo:
+        description: "edicion o breaking"
+        default: edicion
+  push:
+    branches: [main]
+    paths: ["app/**", "collector/**", ".github/workflows/**"]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: noticias
+  cancel-in-progress: false
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    if: github.event_name != 'push'
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - name: Recoger y resumir noticias
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          MODO="${{ github.event.inputs.modo }}"
+          if [ "${{ github.event.schedule }}" = "0 */3 * * *" ]; then MODO=breaking; fi
+          node collector/run.js "${MODO:-edicion}"
+      - name: Guardar noticias
+        run: |
+          git config user.name "noticias-bot"
+          git config user.email "noticias-bot@users.noreply.github.com"
+          git add app/data/noticias.json
+          git diff --cached --quiet || git commit -m "noticias $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push
+
+  publicar:
+    runs-on: ubuntu-latest
+    needs: [actualizar]
+    if: always() && (needs.actualizar.result == 'success' || needs.actualizar.result == 'skipped')
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: app
+      - id: deploy
+        uses: actions/deploy-pages@v4

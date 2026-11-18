@@ -1,11 +1,11 @@
 {
- "generado": "2026-11-18T19:11:28.242Z",
- "actualizado": "2026-11-18T19:11:28.242Z",
+ "generado": "2026-11-18T19:31:31.565Z",
+ "actualizado": "2026-11-18T19:31:31.565Z",
  "modo": "crudo",
  "top3": [
   "d6d5307aa417",
   "611410237137",
-  "b7ed276b63ab"
+  "cb2b474b8707"
  ],
  "noticias": [
   {
@@ -15,15 +15,17 @@
    "porQue": "",
    "pilar": "ultima",
    "etiquetas": [],
-   "importancia": 7,
+   "importancia": 8,
    "fuente": "El País",
    "fuentes": [
     "El País",
     "Europa Press",
+    "La Vanguardia",
     "Cinco Días"
    ],
    "url": "https://elpais.com/espana/catalunya/2026-11-18/isak-andic-tramo-con-la-terapeuta-un-plan-para-apartar-definitivamente-a-su-hijo-jonathan-de-mango.html",
    "fecha": "2026-11-18T18:27:28.000Z",
+   "reaccion": "",
    "ultimaHora": true
   },
   {
@@ -42,6 +44,26 @@
    ],
    "url": "https://elpais.com/economia/2026-11-18/el-eurogrupo-amplia-el-plazo-para-presentar-candidatos-a-la-direccion-del-bce-con-hernandez-de-cos-como-favorito-a-la-presidencia.html",
    "fecha": "2026-11-18T18:15:45.000Z",
+   "reaccion": "",
+   "ultimaHora": true
+  },
+  {
+   "id": "cb2b474b8707",
+   "titulo": "Los demócratas proponen a Hakeem Jeffries como primer presidente negro de la Cámara de Representantes en el nuevo Congreso",
+   "resumen": "El nombramiento del congresista neoyorquino, que se daba por sentado desde hace semanas, fue objeto de críticas del ala progresista del partido al considerarlo demasiado moderado",
+   "porQue": "",
+   "pilar": "ultima",
+   "etiquetas": [],
+   "importancia": 7,
+   "fuente": "El País",
+   "fuentes": [
+    "El País",
+    "La Vanguardia",
+    "El País Internacional"
+   ],
+   "url": "https://elpais.com/us/2026-11-18/los-democratas-proponen-a-hakeem-jefferies-como-primer-presidente-negro-de-la-camara-de-representantes-en-el-nuevo-congreso.html",
+   "fecha": "2026-11-18T16:43:01.000Z",
+   "reaccion": "",
    "ultimaHora": true
   },
   {
@@ -60,6 +82,25 @@
    ],
    "url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
    "fecha": "2026-11-18T13:55:14.000Z",
+   "reaccion": "",
+   "ultimaHora": false
+  },
+  {
+   "id": "d379a7e9ffaf",
+   "titulo": "La crisis migratoria en El Hierro eleva a 3.313 los menores acogidos en Canarias",
+   "resumen": "El fuerte repunte migratorio que sufre Canarias este mes de noviembre, especialmente en la isla de El Hierro, ha elevado a 3.313 los menores tutelados en la red de la comunidad autónoma, lo que supera con creces los criterios de…",
+   "porQue": "",
+   "pilar": "ultima",
+   "etiquetas": [],
+   "importancia": 6,
+   "fuente": "Europa Press",
+   "fuentes": [
+    "Europa Press",
+    "20minutos"
+   ],
+   "url": "https://www.europapress.es/islas-canarias/noticia-crisis-migratoria-hierro-eleva-3313-menores-acogidos-canarias-20261118181723.html",
+   "fecha": "2026-11-18T18:46:17.000Z",
+   "reaccion": "",
    "ultimaHora": false
   },
   {
@@ -77,6 +118,25 @@
    ],
    "url": "https://elpais.com/clima-y-medio-ambiente/2026-11-18/espana-traza-su-ruta-para-dejar-los-combustibles-100-de-electricidad-renovable-en-2040-y-nada-de-petroleo-y-gas-en-2050.html",
    "fecha": "2026-11-18T18:34:05.000Z",
+   "reaccion": "",
+   "ultimaHora": false
+  },
+  {
+   "id": "37d14ba9facb",
+   "titulo": "Desalojos y revisiones en al menos 45 colegios de Galicia por falsos avisos de bomba",
+   "resumen": "En algunos casos, no fue necesario efectuar un desalojo al no haber personas en el centro",
+   "porQue": "",
+   "pilar": "ultima",
+   "etiquetas": [],
+   "importancia": 6,
+   "fuente": "La Vanguardia",
+   "fuentes": [
+    "La Vanguardia",
+    "elDiario.es"
+   ],
+   "url": "https://www.lavanguardia.com/vida/20261118/11687529/desalojos-revisiones-45-colegios-galicia-falsos-avisos-bomba.html",
+   "fecha": "2026-11-18T18:18:16.000Z",
+   "reaccion": "",
    "ultimaHora": false
   },
   {
@@ -94,23 +154,7 @@
    ],
    "url": "https://elpais.com/internacional/2026-11-18/verificacion-el-ataque-de-ucrania-destruyo-mas-de-200-metros-del-sector-central-y-mas-iconico-del-puente-de-crimea.html",
    "fecha": "2026-11-18T17:40:48.000Z",
-   "ultimaHora": false
-  },
-  {
-   "id": "77109af97eba",
-   "titulo": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
-   "resumen": "The nomination sets him on the path to become the first black lawmaker to lead the chamber when Democrats take control of the House in January.",
-   "porQue": "",
-   "pilar": "ultima",
-   "etiquetas": [],
-   "importancia": 6,
-   "fuente": "BBC World",
-   "fuentes": [
-    "BBC World",
-    "The Guardian World"
-   ],
-   "url": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
-   "fecha": "2026-11-18T17:34:23.000Z",
+   "reaccion": "",
    "ultimaHora": false
   },
   {
@@ -128,6 +172,25 @@
    ],
    "url": "https://elpais.com/internacional/2026-11-18/ha-cometido-myanmar-un-genocidio-contra-los-rohinyas-el-maximo-organo-judicial-de-la-onu-resolvera-este-jueves.html",
    "fecha": "2026-11-18T17:25:13.000Z",
+   "reaccion": "",
+   "ultimaHora": false
+  },
+  {
+   "id": "7d51b3080ebd",
+   "titulo": "El Congreso aprueba siete decretos sociales con un amplísimo respaldo pero entre críticas de campaña",
+   "resumen": "La Diputación Permanente convalida medidas para Ceuta, las danas, los accidentes ferroviarios, las familias monomarentales y más dependencia",
+   "porQue": "",
+   "pilar": "ultima",
+   "etiquetas": [],
+   "importancia": 6,
+   "fuente": "El País",
+   "fuentes": [
+    "El País",
+    "El País España"
+   ],
+   "url": "https://elpais.com/espana/2026-11-18/el-congreso-aprueba-siete-decretos-sociales-con-un-amplisimo-respaldo-pero-entre-criticas-de-campana.html",
+   "fecha": "2026-11-18T17:10:51.000Z",
+   "reaccion": "",
    "ultimaHora": false
   },
   {
@@ -145,6 +208,7 @@
    ],
    "url": "https://elpais.com/internacional/2026-11-18/trump-y-putin-vuelven-a-verse-en-una-cumbre-historica-organizada-por-xi.html",
    "fecha": "2026-11-18T17:10:33.000Z",
+   "reaccion": "",
    "ultimaHora": false
   },
   {
@@ -162,6 +226,7 @@
    ],
    "url": "https://elpais.com/deportes/futbol/2026-11-18/luis-rubiales-ya-puede-ejercer-cargos-en-el-futbol-y-tantea-una-mocion-de-censura-contra-rafael-louzan-para-recuperar-el-trono-de-la-rfef.html",
    "fecha": "2026-11-18T16:59:28.000Z",
+   "reaccion": "",
    "ultimaHora": false
   },
   {
@@ -179,6 +244,7 @@
    ],
    "url": "https://elpais.com/espana/2026-11-18/un-juez-de-teruel-envia-el-caso-forestalia-a-la-audiencia-nacional-por-la-conexion-con-el-caso-leire-diez.html",
    "fecha": "2026-11-18T16:47:55.000Z",
+   "reaccion": "",
    "ultimaHora": false
   },
   {
@@ -196,6 +262,7 @@
    ],
    "url": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss",
    "fecha": "2026-11-18T16:40:03.000Z",
+   "reaccion": "",
    "ultimaHora": false
   },
   {
@@ -213,23 +280,7 @@
    ],
    "url": "https://elpais.com/comunicacion/2026-11-18/prisa-y-le-monde-firman-un-acuerdo-para-compartir-contenidos-y-desarrollar-nuevos-proyectos.html",
    "fecha": "2026-11-18T16:39:46.000Z",
-   "ultimaHora": false
-  },
-  {
-   "id": "cb2b474b8707",
-   "titulo": "Los demócratas proponen a Hakeem Jeffries como primer presidente negro de la Cámara de Representantes en el nuevo Congreso",
-   "resumen": "El nombramiento del congresista neoyorquino, que se daba por sentado desde hace semanas, fue objeto de críticas del ala progresista del partido al considerarlo demasiado moderado",
-   "porQue": "",
-   "pilar": "ultima",
-   "etiquetas": [],
-   "importancia": 6,
-   "fuente": "El País",
-   "fuentes": [
-    "El País",
-    "El País Internacional"
-   ],
-   "url": "https://elpais.com/us/2026-11-18/los-democratas-proponen-a-hakeem-jefferies-como-primer-presidente-negro-de-la-camara-de-representantes-en-el-nuevo-congreso.html",
-   "fecha": "2026-11-18T16:35:28.000Z",
+   "reaccion": "",
    "ultimaHora": false
   },
   {
@@ -247,40 +298,7 @@
    ],
    "url": "https://www.europapress.es/economia/noticia-bruselas-propone-nuevo-prestamo-45000-ucrania-2027-20261118113512.html",
    "fecha": "2026-11-18T16:27:00.000Z",
-   "ultimaHora": false
-  },
-  {
-   "id": "fc58adcd6598",
-   "titulo": "Xi y Putin reafirman su alianza estratégica antes de su reunión a tres bandas con Trump",
-   "resumen": "El líder chino inaugura el foro de cooperación Asia-Pacífico en Shenzhen con una defensa del libre comercio y una advertencia contra el “unilateralismo y el proteccionismo”. Su homólogo ruso critica el “declive humillante” de Europa",
-   "porQue": "",
-   "pilar": "ultima",
-   "etiquetas": [],
-   "importancia": 6,
-   "fuente": "El País",
-   "fuentes": [
-    "El País",
-    "El País Internacional"
-   ],
-   "url": "https://elpais.com/internacional/2026-11-18/xi-jinping-y-putin-reivindican-su-firme-relacion-poco-antes-de-la-llegada-de-trump-a-la-cumbre-de-la-apec-en-china.html",
-   "fecha": "2026-11-18T16:24:14.000Z",
-   "ultimaHora": false
-  },
-  {
-   "id": "9e930e1b7543",
-   "titulo": "Alcaraz, más y mejor contra Medvedev... con susto incluido en la pierna",
-   "resumen": "El murciano logra su segunda victoria en la liguilla (6-2 y 6-4) y, tras sufrir un percance muscular, aguarda al Tiafoe-Cobolli para sellar el pase a semifinales",
-   "porQue": "",
-   "pilar": "ultima",
-   "etiquetas": [],
-   "importancia": 6,
-   "fuente": "El País",
-   "fuentes": [
-    "El País",
-    "El País Deportes"
-   ],
-   "url": "https://elpais.com/deportes/tenis/2026-11-18/alcaraz-mas-y-mejor-contra-medvedev-con-susto-incluido-en-la-pierna.html",
-   "fecha": "2026-11-18T15:25:30.000Z",
+   "reaccion": "",
    "ultimaHora": false
   },
   {
@@ -298,6 +316,7 @@
    ],
    "url": "https://elpais.com/economia/2026-11-18/los-sindicatos-ugt-cc-oo-y-el-ferroviario-scf-firman-la-paz-con-transportes-en-favor-de-reforzar-la-seguridad-en-las-vias.html",
    "fecha": "2026-11-18T15:12:57.000Z",
+   "reaccion": "",
    "ultimaHora": false
   },
   {
@@ -315,6 +334,7 @@
    ],
    "url": "https://www.theguardian.com/australia-news/2026/nov/19/bca-policy-energy-companies-members-climate-concerns",
    "fecha": "2026-11-18T14:00:02.000Z",
+   "reaccion": "",
    "ultimaHora": false
   },
   {
@@ -332,39 +352,7 @@
    ],
    "url": "https://www.theguardian.com/environment/2026/nov/18/phantom-forests-in-australian-arid-outback-used-to-create-carbon-credits-meant-to-offset-emissions-report-claims",
    "fecha": "2026-11-18T09:30:36.000Z",
-   "ultimaHora": false
-  },
-  {
-   "id": "367dc24f66ba",
-   "titulo": "Democrats Signal US Return to Global Climate Talks",
-   "resumen": "ANTALYA, Turkey—After their big gains in the 2026 midterm elections, a delegation of Democratic U.S. House members appeared at the United Nations COP31 climate change conference Monday, pledging to rejoin the international fight against…",
-   "porQue": "",
-   "pilar": "global",
-   "etiquetas": [],
-   "importancia": 6,
-   "fuente": "Inside Climate News",
-   "fuentes": [
-    "Inside Climate News",
-    "Ars Technica"
-   ],
-   "url": "https://insideclimatenews.org/news/16112026/congress-democrats-united-states-cop31/",
-   "fecha": "2026-11-17T15:32:43.000Z",
-   "ultimaHora": false
-  },
-  {
-   "id": "879c59d879df",
-   "titulo": "Nvidia interim CEO Kress tells employees ‘let’s move forward’ at first all-hands meeting since Jensen Huang exit",
-   "resumen": "Nvidia's interim CEO Colette Kress urges staff forward and offers pay raises after Jensen Huang exit.",
-   "porQue": "",
-   "pilar": "economia",
-   "etiquetas": [],
-   "importancia": 5,
-   "fuente": "CNBC",
-   "fuentes": [
-    "CNBC"
-   ],
-   "url": "https://www.cnbc.com/2026/11/18/nvidia-interim-ceo-kress-addresses-staff-after-jensen-huang-exit-.html",
-   "fecha": "2026-11-18T19:09:48.000Z",
+   "reaccion": "",
    "ultimaHora": false
   },
   {
@@ -380,7 +368,127 @@
     "CNBC"
    ],
    "url": "https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html",
-   "fecha": "2026-11-18T19:08:44.000Z",
+   "fecha": "2026-11-18T19:26:32.000Z",
+   "reaccion": "",
+   "ultimaHora": false
+  },
+  {
+   "id": "879c59d879df",
+   "titulo": "Nvidia interim CEO Kress tells employees ‘let’s move forward’ at first all-hands meeting since Jensen Huang exit",
+   "resumen": "Nvidia's interim CEO Colette Kress urges staff forward and offers pay raises after Jensen Huang exit.",
+   "porQue": "",
+   "pilar": "economia",
+   "etiquetas": [],
+   "importancia": 5,
+   "fuente": "CNBC",
+   "fuentes": [
+    "CNBC"
+   ],
+   "url": "https://www.cnbc.com/2026/11/18/nvidia-interim-ceo-kress-addresses-staff-after-jensen-huang-exit-.html",
+   "fecha": "2026-11-18T19:21:59.000Z",
+   "reaccion": "",
+   "ultimaHora": false
+  },
+  {
+   "id": "be28d25a0e42",
+   "titulo": "Muse privacy invasions are freaking out Meta staffers, internal chats show",
+   "resumen": "Erratic Muse outputs sharing random bank, Bitcoin balances aren’t real, Meta says.",
+   "porQue": "",
+   "pilar": "tecnologia",
+   "etiquetas": [],
+   "importancia": 5,
+   "fuente": "Ars Technica",
+   "fuentes": [
+    "Ars Technica"
+   ],
+   "url": "https://arstechnica.com/tech-policy/2026/11/muse-privacy-invasions-are-freaking-out-meta-staffers-internal-chats-show/",
+   "fecha": "2026-11-18T19:19:33.000Z",
+   "reaccion": "",
+   "ultimaHora": false
+  },
+  {
+   "id": "6a0c40898d54",
+   "titulo": "Heavy rain and snow predicted in California as ‘atmospheric river’ moves across state",
+   "resumen": "Flood advisories issued for much of Bay Area with coastal flooding and heavy surf possible in southern California Heavy rain or snowfall is predicted across California this week, as an “atmospheric river” dumps precipitation across the…",
+   "porQue": "",
+   "pilar": "geopolitica",
+   "etiquetas": [],
+   "importancia": 5,
+   "fuente": "The Guardian World",
+   "fuentes": [
+    "The Guardian World"
+   ],
+   "url": "https://www.theguardian.com/us-news/2026/nov/18/california-atmospheric-river-flooding",
+   "fecha": "2026-11-18T19:18:18.000Z",
+   "reaccion": "",
+   "ultimaHora": false
+  },
+  {
+   "id": "be113688fd9a",
+   "titulo": "Vance scraps schedule to address tech outages as Trump admin insists incidents aren't linked",
+   "resumen": "Recent disruptions include a nationwide ground stop, Microsoft Outlook outage and a reported blackout of the National Security Agency's communications network.",
+   "porQue": "",
+   "pilar": "economia",
+   "etiquetas": [],
+   "importancia": 5,
+   "fuente": "CNBC",
+   "fuentes": [
+    "CNBC"
+   ],
+   "url": "https://www.cnbc.com/2026/11/18/trump-tech-outages-nsa-faa-microsoft.html",
+   "fecha": "2026-11-18T19:17:27.000Z",
+   "reaccion": "",
+   "ultimaHora": false
+  },
+  {
+   "id": "51664ed2311d",
+   "titulo": "EU to reject UK talks on longer-term ties pending clarity from Burnham on next steps",
+   "resumen": "Diplomats says piecemeal approach of resets coming to an end and they want government decision on whether it will seek to reverse Brexit The EU will shut the door to discussions with Andy Burnham about the UK’s longer-term relationship…",
+   "porQue": "",
+   "pilar": "geopolitica",
+   "etiquetas": [],
+   "importancia": 5,
+   "fuente": "The Guardian World",
+   "fuentes": [
+    "The Guardian World"
+   ],
+   "url": "https://www.theguardian.com/politics/2026/nov/18/eu-uk-reset-summit-talks-burnham-brexit",
+   "fecha": "2026-11-18T19:17:19.000Z",
+   "reaccion": "",
+   "ultimaHora": false
+  },
+  {
+   "id": "969391b425f9",
+   "titulo": "FAA administrator urges ‘lay off’ Sean Duffy for the flight stoppage: ‘Blame me’",
+   "resumen": "The comments come as the top US transportation official faces scrutiny over his handling of the tech outage crisis The head of the Federal Aviation Administration (FAA) took responsibility for the nationwide ground stop that impacted more…",
+   "porQue": "",
+   "pilar": "geopolitica",
+   "etiquetas": [],
+   "importancia": 5,
+   "fuente": "The Guardian World",
+   "fuentes": [
+    "The Guardian World"
+   ],
+   "url": "https://www.theguardian.com/world/2026/nov/18/faa-sean-duffy-flight-stoppage",
+   "fecha": "2026-11-18T19:14:38.000Z",
+   "reaccion": "",
+   "ultimaHora": false
+  },
+  {
+   "id": "ceb4a9d2a8ed",
+   "titulo": "The leaked Lenovo Legion Go Beam could be the affordable handheld we need",
+   "resumen": "For a while there, it seemed like Lenovo had given up on selling handheld gaming PCs, hiking the price of its Legion Go 2 and Legion Go S even higher than other RAM-starved competitors. A decent one can easily cost $1,000 if not $2,000…",
+   "porQue": "",
+   "pilar": "tecnologia",
+   "etiquetas": [],
+   "importancia": 5,
+   "fuente": "The Verge",
+   "fuentes": [
+    "The Verge"
+   ],
+   "url": "https://www.theverge.com/games/1036819/the-leaked-lenovo-legion-go-beam-could-be-the-affordable-handheld-we-need",
+   "fecha": "2026-11-18T19:13:35.000Z",
+   "reaccion": "",
    "ultimaHora": false
   },
   {
@@ -397,22 +505,7 @@
    ],
    "url": "https://www.cnbc.com/investingclub/2026/11/18/nvidias-earnings-report-had-something-for-the-bulls-bears-and-everyone-in-between.html",
    "fecha": "2026-11-18T19:07:39.000Z",
-   "ultimaHora": false
-  },
-  {
-   "id": "be113688fd9a",
-   "titulo": "Vance scraps schedule to address tech outages as Trump admin insists incidents aren't linked",
-   "resumen": "Recent disruptions include a nationwide ground stop, Microsoft Outlook outage and a reported blackout of the National Security Agency's communications network.",
-   "porQue": "",
-   "pilar": "economia",
-   "etiquetas": [],
-   "importancia": 5,
-   "fuente": "CNBC",
-   "fuentes": [
-    "CNBC"
-   ],
-   "url": "https://www.cnbc.com/2026/11/18/trump-tech-outages-nsa-faa-microsoft.html",
-   "fecha": "2026-11-18T19:07:35.000Z",
+   "reaccion": "",
    "ultimaHora": false
   },
   {
@@ -429,6 +522,7 @@
    ],
    "url": "https://www.theverge.com/policy/1036935/congress-forced-arbitration-deepfakes-defiance-act",
    "fecha": "2026-11-18T19:07:29.000Z",
+   "reaccion": "",
    "ultimaHora": false
   },
   {
@@ -445,6 +539,7 @@
    ],
    "url": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
    "fecha": "2026-11-18T19:04:50.000Z",
+   "reaccion": "",
    "ultimaHora": false
   },
   {
@@ -461,6 +556,7 @@
    ],
    "url": "https://www.theguardian.com/politics/2026/nov/18/pro-brexit-stay-out-same-playbook-analysis",
    "fecha": "2026-11-18T19:02:40.000Z",
+   "reaccion": "",
    "ultimaHora": false
   },
   {
@@ -477,6 +573,7 @@
    ],
    "url": "https://www.cnbc.com/2026/11/18/nvidia-reverses-metals-crash-ahead-of-anthropic-ipo-options-action-live.html",
    "fecha": "2026-11-18T19:01:42.000Z",
+   "reaccion": "",
    "ultimaHora": false
   },
   {
@@ -493,6 +590,7 @@
    ],
    "url": "https://www.xataka.com/musica/antonio-roma-tiene-350-000-seguidores-no-existe-loco-que-va-a-dar-concierto-madrid-500-espectadores",
    "fecha": "2026-11-18T19:01:15.000Z",
+   "reaccion": "",
    "ultimaHora": false
   },
   {
@@ -509,6 +607,7 @@
    ],
    "url": "https://cincodias.elpais.com/smartlife/smart-tv/2026-11-18/the-good-daughter-serie-thriller.html",
    "fecha": "2026-11-18T19:00:00.000Z",
+   "reaccion": "",
    "ultimaHora": false
   },
   {
@@ -525,6 +624,7 @@
    ],
    "url": "https://www.mundodeportivo.com/futbol/internacional/20261118/1004252722/alemania-pronuncia-sobre-elecciones-fifa.html",
    "fecha": "2026-11-18T18:58:32.000Z",
+   "reaccion": "",
    "ultimaHora": false
   },
   {
@@ -541,6 +641,7 @@
    ],
    "url": "https://www.theguardian.com/society/2026/nov/18/new-neighbourhood-support-teams-to-pave-the-way-for-national-care-service-cooper-announces",
    "fecha": "2026-11-18T18:56:02.000Z",
+   "reaccion": "",
    "ultimaHora": false
   },
   {
@@ -557,6 +658,7 @@
    ],
    "url": "https://www.mundodeportivo.com/futbol/serie-a/20261118/1004252714/problemas-cesc-ataque.html",
    "fecha": "2026-11-18T18:53:08.000Z",
+   "reaccion": "",
    "ultimaHora": false
   },
   {
@@ -573,6 +675,7 @@
    ],
    "url": "https://www.theguardian.com/politics/2026/nov/18/ex-tory-defectors-barred-from-shaping-reform-uks-immigration-policy-says-yusuf",
    "fecha": "2026-11-18T18:50:40.000Z",
+   "reaccion": "",
    "ultimaHora": false
   },
   {
@@ -589,6 +692,7 @@
    ],
    "url": "https://www.mundodeportivo.com/futbol/betis/20261118/1004252716/betis-le-resiste-papel-favorito-derbi.html",
    "fecha": "2026-11-18T18:49:45.000Z",
+   "reaccion": "",
    "ultimaHora": false
   },
   {
@@ -605,6 +709,7 @@
    ],
    "url": "https://www.mundodeportivo.com/tenis/20261118/1004252717/derrota-sigue-haber-semifinalista-espanol-atp-finals-turin.html",
    "fecha": "2026-11-18T18:46:51.000Z",
+   "reaccion": "",
    "ultimaHora": false
   },
   {
@@ -621,6 +726,7 @@
    ],
    "url": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
    "fecha": "2026-11-18T18:46:46.000Z",
+   "reaccion": "",
    "ultimaHora": false
   },
   {
@@ -637,6 +743,7 @@
    ],
    "url": "https://arstechnica.com/tech-policy/2026/11/trump-admin-orders-kalshi-to-halt-wagers-on-what-words-trump-will-say/",
    "fecha": "2026-11-18T18:46:08.000Z",
+   "reaccion": "",
    "ultimaHora": false
   },
   {
@@ -653,6 +760,7 @@
    ],
    "url": "https://www.mundodeportivo.com/futbol/femenino/champions-league/20261118/1004252512/real-madrid-inter-directo-champions-league-futbol-femenino.html",
    "fecha": "2026-11-18T18:45:37.000Z",
+   "reaccion": "",
    "ultimaHora": false
   },
   {
@@ -669,6 +777,7 @@
    ],
    "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261118/1004252707/deco.html",
    "fecha": "2026-11-18T18:44:57.000Z",
+   "reaccion": "",
    "ultimaHora": false
   },
   {
@@ -685,6 +794,7 @@
    ],
    "url": "https://www.mundodeportivo.com/futbol/internacional/20261118/1004252713/posible-unidad-fuerzas-candidatos-infantino.html",
    "fecha": "2026-11-18T18:43:58.000Z",
+   "reaccion": "",
    "ultimaHora": false
   },
   {
@@ -701,6 +811,7 @@
    ],
    "url": "https://www.theguardian.com/society/2026/nov/18/burnham-cuts-national-insurance-youth-jobs-milburn-report",
    "fecha": "2026-11-18T18:43:37.000Z",
+   "reaccion": "",
    "ultimaHora": false
   },
   {
@@ -717,6 +828,7 @@
    ],
    "url": "https://www.cnbc.com/2026/11/18/jaan-tallinn-anthropic-ipo-series-a-investment.html",
    "fecha": "2026-11-18T18:43:26.000Z",
+   "reaccion": "",
    "ultimaHora": false
   },
   {
@@ -733,6 +845,7 @@
    ],
    "url": "https://www.mundodeportivo.com/baloncesto/nba/20261118/1004252715/salvajada-total-hijo-peja-stojakovic-leyenda-nba-dos-canteranos-barca.html",
    "fecha": "2026-11-18T18:39:04.000Z",
+   "reaccion": "",
    "ultimaHora": false
   },
   {
@@ -749,6 +862,7 @@
    ],
    "url": "https://www.dw.com/es/deutsche-bank-millones-de-documentos-revelan-prácticas-dudosas/a-79985529?maca=spa-rss-sp-all-1122-rdf",
    "fecha": "2026-11-18T18:36:00.000Z",
+   "reaccion": "",
    "ultimaHora": false
   },
   {
@@ -765,6 +879,7 @@
    ],
    "url": "https://www.mundodeportivo.com/actualidad/20261118/1004252711/alberto-nunez-feijoo-dia-cumplia-10-anos-me-metieron-tren-primeras-semanas-internado-duras-dormiamos-90-personas-dormitorio-no-conocia-nadie-elecciones-dct.html",
    "fecha": "2026-11-18T18:35:28.000Z",
+   "reaccion": "",
    "ultimaHora": false
   },
   {
@@ -781,6 +896,7 @@
    ],
    "url": "https://www.theverge.com/tech/1036880/nvidia-rtx-spark-ai-mini-pc-desktops",
    "fecha": "2026-11-18T18:34:55.000Z",
+   "reaccion": "",
    "ultimaHora": false
   },
   {
@@ -797,6 +913,7 @@
    ],
    "url": "https://www.theverge.com/ai-artificial-intelligence/1036776/nvidia-earnings-kress-jensen-huang-petition",
    "fecha": "2026-11-18T18:34:15.000Z",
+   "reaccion": "",
    "ultimaHora": false
   },
   {
@@ -813,6 +930,7 @@
    ],
    "url": "https://www.cnbc.com/2026/11/18/jeffries-house-speaker-congress.html",
    "fecha": "2026-11-18T18:32:39.000Z",
+   "reaccion": "",
    "ultimaHora": false
   },
   {
@@ -829,6 +947,7 @@
    ],
    "url": "https://arstechnica.com/health/2026/11/the-shameful-measles-data-that-lost-the-us-its-elimination-status/",
    "fecha": "2026-11-18T18:30:23.000Z",
+   "reaccion": "",
    "ultimaHora": false
   },
   {
@@ -845,6 +964,7 @@
    ],
    "url": "https://www.cnbc.com/2026/11/18/lowes-low-q3-2026-earnings.html",
    "fecha": "2026-11-18T18:27:52.000Z",
+   "reaccion": "",
    "ultimaHora": false
   },
   {
@@ -861,6 +981,7 @@
    ],
    "url": "https://www.mundodeportivo.com/solobici/20261118/1004252636/asi-mediterranean-epic-gravel-dureza-paisajes-ambiente-ciclista.html",
    "fecha": "2026-11-18T18:24:23.000Z",
+   "reaccion": "",
    "ultimaHora": false
   },
   {
@@ -877,6 +998,7 @@
    ],
    "url": "https://www.dw.com/es/diallo-contra-infantino-batalla-por-el-control-del-fútbol-mundial/a-79985014?maca=spa-rss-sp-all-1122-rdf",
    "fecha": "2026-11-18T18:23:00.000Z",
+   "reaccion": "",
    "ultimaHora": false
   },
   {
@@ -893,6 +1015,7 @@
    ],
    "url": "https://www.theverge.com/gadgets/1033262/best-gta-6-gaming-accessories-controllers-headsets-tvs",
    "fecha": "2026-11-18T18:19:15.000Z",
+   "reaccion": "",
    "ultimaHora": false
   },
   {
@@ -909,6 +1032,7 @@
    ],
    "url": "https://www.dw.com/es/¿renunciaría-ucrania-al-donbás-a-cambio-de-ingresar-en-la-otan/a-79984054?maca=spa-rss-sp-all-1122-rdf",
    "fecha": "2026-11-18T18:16:00.000Z",
+   "reaccion": "",
    "ultimaHora": false
   },
   {
@@ -925,6 +1049,7 @@
    ],
    "url": "https://www.mundodeportivo.com/futbol/atletico-madrid/20261118/1004252704/incomodo-coliseum-simeone-le-da.html",
    "fecha": "2026-11-18T18:11:24.000Z",
+   "reaccion": "",
    "ultimaHora": false
   },
   {
@@ -941,6 +1066,7 @@
    ],
    "url": "https://arstechnica.com/gaming/2026/11/will-wrights-next-simulation-will-use-ai-to-mine-content-from-your-memories/",
    "fecha": "2026-11-18T18:10:33.000Z",
+   "reaccion": "",
    "ultimaHora": false
   },
   {
@@ -957,6 +1083,7 @@
    ],
    "url": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/",
    "fecha": "2026-11-18T18:04:05.000Z",
+   "reaccion": "",
    "ultimaHora": false
   },
   {
@@ -973,6 +1100,7 @@
    ],
    "url": "https://www.xataka.com/energia/gobierno-da-ultimo-paso-para-aprobar-inversion-record-red-electrica-2030",
    "fecha": "2026-11-18T18:01:13.000Z",
+   "reaccion": "",
    "ultimaHora": false
   },
   {
@@ -989,6 +1117,7 @@
    ],
    "url": "https://www.mundodeportivo.com/balonmano/20261118/1004252700/lijewski-entrenador-kielce-rinde-pleitesia-barca-entras-ese-club-puedes-sentir-historia-ver-todos-trofeos-nombres-increibles-han-construido-historia-enorme-fortaleza.html",
    "fecha": "2026-11-18T17:56:54.000Z",
+   "reaccion": "",
    "ultimaHora": false
   },
   {
@@ -1005,86 +1134,7 @@
    ],
    "url": "https://www.theguardian.com/politics/2026/nov/18/uk-eu-relationship-reset-draft-explainer",
    "fecha": "2026-11-18T17:56:39.000Z",
-   "ultimaHora": false
-  },
-  {
-   "id": "2559e1aba1f8",
-   "titulo": "Bacterial toxin produced by E coli leading suspect in rise in bowel cancer among under-50s",
-   "resumen": "Scientists tell Commons exposure to colibactin in early life is potential driver of early-onset colorectal cancer Exposure to a bacterial toxin in early life has emerged as a leading suspect in the rise of bowel cancer among those under…",
-   "porQue": "",
-   "pilar": "geopolitica",
-   "etiquetas": [],
-   "importancia": 5,
-   "fuente": "The Guardian World",
-   "fuentes": [
-    "The Guardian World"
-   ],
-   "url": "https://www.theguardian.com/science/2026/nov/18/bacterial-toxin-e-coli-bowel-cancer-under-50s",
-   "fecha": "2026-11-18T17:55:14.000Z",
-   "ultimaHora": false
-  },
-  {
-   "id": "2ac4ecea9008",
-   "titulo": "Google is forcing Android app developers to properly support foldables",
-   "resumen": "Now that Apple's foldable is here, Google wants to make sure apps on Android foldables are a good experience. Starting in April 2027, Google is going to require Android developers to make sure their apps have a baseline level of support…",
-   "porQue": "",
-   "pilar": "tecnologia",
-   "etiquetas": [],
-   "importancia": 5,
-   "fuente": "The Verge",
-   "fuentes": [
-    "The Verge"
-   ],
-   "url": "https://www.theverge.com/tech/1036796/google-android-app-games-developers-foldables-support",
-   "fecha": "2026-11-18T17:54:58.000Z",
-   "ultimaHora": false
-  },
-  {
-   "id": "0acf333306e0",
-   "titulo": "It shouldn’t be this easy to pedal 25 mph: Specialized’s Turbo Vado 3 Evo",
-   "resumen": "This commuter bike will have you blazing through streets without any range anxiety.",
-   "porQue": "",
-   "pilar": "tecnologia",
-   "etiquetas": [],
-   "importancia": 5,
-   "fuente": "Ars Technica",
-   "fuentes": [
-    "Ars Technica"
-   ],
-   "url": "https://arstechnica.com/gadgets/2026/11/it-shouldnt-be-this-easy-to-pedal-25-mph-specializeds-turbo-vado-3-evo/",
-   "fecha": "2026-11-18T17:53:59.000Z",
-   "ultimaHora": false
-  },
-  {
-   "id": "9885e5a301e8",
-   "titulo": "Alexander Zverev notified of abuse lawsuit by ex-partner during ATP Finals",
-   "resumen": "Men’s world No 1 allegedly violated terms of settlement Lawyers say Zverev will ‘defend himself against lawsuit’ Alexander Zverev was officially notified of a lawsuit filed by his former partner during the middle of the season-ending ATP…",
-   "porQue": "",
-   "pilar": "geopolitica",
-   "etiquetas": [],
-   "importancia": 5,
-   "fuente": "The Guardian World",
-   "fuentes": [
-    "The Guardian World"
-   ],
-   "url": "https://www.theguardian.com/sport/2026/nov/18/alexander-zverev-abuse-lawsuit-atp-finals-finals-brenda-patea",
-   "fecha": "2026-11-18T17:52:39.000Z",
-   "ultimaHora": false
-  },
-  {
-   "id": "e54ccd81a143",
-   "titulo": "Apec summit as it happened: Xi welcomes Trump on China visit as Putin claims Europe in ‘humiliating decline’",
-   "resumen": "This blog is now closed, you can read more on this story here Yalta became a byword for betrayal. Will Trump, Xi and Putin enact another carve-up? That is the question the Guardian’s diplomatic correspondent Patrick Wintour seeks to…",
-   "porQue": "",
-   "pilar": "geopolitica",
-   "etiquetas": [],
-   "importancia": 5,
-   "fuente": "The Guardian World",
-   "fuentes": [
-    "The Guardian World"
-   ],
-   "url": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
-   "fecha": "2026-11-18T17:48:24.000Z",
+   "reaccion": "",
    "ultimaHora": false
   },
   {
@@ -1101,6 +1151,7 @@
    ],
    "url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
    "fecha": "2026-11-18T17:32:10.000Z",
+   "reaccion": "",
    "ultimaHora": false
   },
   {
@@ -1117,6 +1168,7 @@
    ],
    "url": "https://techcrunch.com/2026/11/18/david-ellison-says-hbo-will-air-critical-elon-musk-documentary-despite-1b-investment-in-skydance/",
    "fecha": "2026-11-18T17:30:56.000Z",
+   "reaccion": "",
    "ultimaHora": false
   },
   {
@@ -1133,6 +1185,7 @@
    ],
    "url": "https://www.theguardian.com/environment/2026/nov/18/world-held-hostage-by-oil-mafia-says-panama-minister-at-cop-31",
    "fecha": "2026-11-18T17:07:06.000Z",
+   "reaccion": "",
    "ultimaHora": false
   },
   {
@@ -1149,6 +1202,7 @@
    ],
    "url": "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/",
    "fecha": "2026-11-18T16:59:00.000Z",
+   "reaccion": "",
    "ultimaHora": false
   },
   {
@@ -1165,12 +1219,13 @@
    ],
    "url": "https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/",
    "fecha": "2026-11-18T16:14:09.000Z",
+   "reaccion": "",
    "ultimaHora": false
   },
   {
    "id": "208b7ebb3cea",
    "titulo": "Seven new models at scalable price-performance",
-   "resumen": "Article URL: https://microsoft.ai/news/microsoft-ignite-2026/ Comments URL: https://news.ycombinator.com/item?id=50548021 Points: 243 # Comments: 162",
+   "resumen": "Article URL: https://microsoft.ai/news/microsoft-ignite-2026/ Comments URL: https://news.ycombinator.com/item?id=50548021 Points: 260 # Comments: 168",
    "porQue": "",
    "pilar": "emprendimiento",
    "etiquetas": [],
@@ -1181,6 +1236,7 @@
    ],
    "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
    "fecha": "2026-11-18T16:08:24.000Z",
+   "reaccion": "",
    "ultimaHora": false
   },
   {
@@ -1197,12 +1253,13 @@
    ],
    "url": "https://techcrunch.com/2026/11/18/sonys-updated-turntable-is-an-easy-entry-into-the-world-of-vinyl/",
    "fecha": "2026-11-18T16:00:00.000Z",
+   "reaccion": "",
    "ultimaHora": false
   },
   {
    "id": "db253b67c20c",
    "titulo": "Inside Deutsche Bank",
-   "resumen": "Article URL: https://www.inside-db.com/ Comments URL: https://news.ycombinator.com/item?id=50547620 Points: 307 # Comments: 115",
+   "resumen": "Article URL: https://www.inside-db.com/ Comments URL: https://news.ycombinator.com/item?id=50547620 Points: 322 # Comments: 117",
    "porQue": "",
    "pilar": "emprendimiento",
    "etiquetas": [],
@@ -1213,6 +1270,7 @@
    ],
    "url": "https://www.inside-db.com/",
    "fecha": "2026-11-18T15:38:33.000Z",
+   "reaccion": "",
    "ultimaHora": false
   },
   {
@@ -1229,6 +1287,7 @@
    ],
    "url": "https://www.elespanol.com/invertia/mercados/20261118/salvador-gptadvisor-anthropic-empresa-salir-bolsa-hecho-bien-ejemplar/1003744463040_0.html",
    "fecha": "2026-11-18T15:34:20.000Z",
+   "reaccion": "",
    "ultimaHora": false
   },
   {
@@ -1245,12 +1304,13 @@
    ],
    "url": "https://www.theguardian.com/environment/live/2026/nov/18/cop31-climate-crisis-talks-turkey-latest-news-updates",
    "fecha": "2026-11-18T15:34:06.000Z",
+   "reaccion": "",
    "ultimaHora": false
   },
   {
    "id": "ff0c2dfa0648",
    "titulo": "Unauthenticated remote code execution in Nginx (CVE-2026-123633/CVE-2026-123007)",
-   "resumen": "Article URL: https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities Comments URL: https://news.ycombinator.com/item?id=50547374 Points: 499 # Comments: 175",
+   "resumen": "Article URL: https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities Comments URL: https://news.ycombinator.com/item?id=50547374 Points: 561 # Comments: 198",
    "porQue": "",
    "pilar": "emprendimiento",
    "etiquetas": [],
@@ -1261,12 +1321,13 @@
    ],
    "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
    "fecha": "2026-11-18T15:19:55.000Z",
+   "reaccion": "",
    "ultimaHora": false
   },
   {
    "id": "7370fbe8d7e4",
    "titulo": "Poland says it thwarted false flag operation near border with Kaliningrad",
-   "resumen": "Article URL: https://www.yahoo.com/news/world/articles/russia-reportedly-planned-mass-casualty-090500574.html Comments URL: https://news.ycombinator.com/item?id=50547344 Points: 221 # Comments: 67",
+   "resumen": "Article URL: https://www.yahoo.com/news/world/articles/russia-reportedly-planned-mass-casualty-090500574.html Comments URL: https://news.ycombinator.com/item?id=50547344 Points: 238 # Comments: 77",
    "porQue": "",
    "pilar": "emprendimiento",
    "etiquetas": [],
@@ -1277,6 +1338,7 @@
    ],
    "url": "https://www.yahoo.com/news/world/articles/russia-reportedly-planned-mass-casualty-090500574.html",
    "fecha": "2026-11-18T15:18:30.000Z",
+   "reaccion": "",
    "ultimaHora": false
   },
   {
@@ -1293,6 +1355,7 @@
    ],
    "url": "https://sifted.eu/articles/payhawk-series-c/",
    "fecha": "2026-11-18T15:03:22.000Z",
+   "reaccion": "",
    "ultimaHora": false
   },
   {
@@ -1309,6 +1372,24 @@
    ],
    "url": "https://www.theguardian.com/us-news/2026/nov/18/big-oil-immunity-bill-climate",
    "fecha": "2026-11-18T13:00:04.000Z",
+   "reaccion": "",
+   "ultimaHora": false
+  },
+  {
+   "id": "db7ed2304078",
+   "titulo": "Stormont department failing to protect wild birds, investigation finds",
+   "resumen": "The Office for Environmental Protection said Daera had not complied with environmental law requiring it to classify and update Special Protection Areas.",
+   "porQue": "",
+   "pilar": "global",
+   "etiquetas": [],
+   "importancia": 5,
+   "fuente": "BBC Ciencia y Medio Ambiente",
+   "fuentes": [
+    "BBC Ciencia y Medio Ambiente"
+   ],
+   "url": "https://www.bbc.co.uk/news/articles/c8p3vwevreyqo?at_medium=RSS&at_campaign=rss",
+   "fecha": "2026-11-18T12:13:32.000Z",
+   "reaccion": "",
    "ultimaHora": false
   }
  ]

@@ -37,14 +37,24 @@ export async function buildEdition({ mode = "edicion", fetchFn = fetch, provider
     clusters = clusters.filter((c) => Date.parse(c.published) >= cutoff);
   }
 
-  let result, modo;
-  try {
-    if (!provider) throw new Error("sin clave de IA (GEMINI_API_KEY o ANTHROPIC_API_KEY)");
-    result = await summarize(clusters, provider, { mode, prev });
-    modo = "ia";
-    if (mode === "edicion" && result.noticias.length < 10) throw new Error(`la IA devolvió sólo ${result.noticias.length}`);
-  } catch (e) {
-    log(`IA no disponible (${e.message}) → modo crudo`);
+  // provider puede ser una función o una lista; se prueban en orden hasta que uno funcione.
+  const providers = [provider].flat().filter(Boolean);
+  let result, modo, lastErr = new Error("sin clave de IA (GEMINI_API_KEY, GROQ_API_KEY o ANTHROPIC_API_KEY)");
+  for (const p of providers) {
+    try {
+      const r = await summarize(clusters, p, { mode, prev, log });
+      if (mode === "edicion" && r.noticias.length < 10) throw new Error(`devolvió sólo ${r.noticias.length}`);
+      result = r;
+      modo = "ia";
+      log(`✔ IA: ${p.label ?? "ia"} (${r.noticias.length} noticias)`);
+      break;
+    } catch (e) {
+      lastErr = e;
+      log(`(${p.label ?? "ia"}) no disponible: ${e.message}`);
+    }
+  }
+  if (!result) {
+    log(`IA no disponible (${lastErr.message}) → modo crudo`);
     result = rawPool(clusters);
     modo = "crudo";
     if (mode === "breaking") result.noticias = result.noticias.filter((n) => n.ultimaHora);
@@ -66,7 +76,7 @@ async function main() {
   } catch {}
   // "breaking" hace una edición completa si no hay edición previa, o si la de hoy salió sin IA
   // (p. ej. Google saturado por la mañana): así se arregla sola en la siguiente pasada.
-  const effective = mode === "breaking" && (!prev || (prev.modo === "crudo" && provider)) ? "edicion" : mode;
+  const effective = mode === "breaking" && (!prev || (prev.modo === "crudo" && provider.length > 0)) ? "edicion" : mode;
   const out = await buildEdition({ mode: effective, provider, prev });
   if (!out.noticias.length) {
     console.error("0 noticias: no sobrescribo el fichero anterior");

@@ -121,3 +121,71 @@ test("geminiProvider reintenta si Google está saturado (503) y luego funciona",
   assert.deepEqual(waited, [1, 2]);
   assert.equal(out.noticias.length, 1);
 });
+
+// ── Groq + lotes + cadena de proveedores ──
+import { groqProvider, summarize, strictSchema } from "../collector/ai.js";
+
+const groqRes = (obj, status = 200, headers = {}) => ({
+  ok: status === 200, status, headers: { get: (k) => headers[k] ?? null },
+  text: async () => "err", json: async () => ({ choices: [{ message: { content: JSON.stringify(obj) } }] }),
+});
+
+test("groqProvider usa Bearer, esquema estricto y procesa por lotes", async () => {
+  let seen;
+  const p = groqProvider("GK", { gapMs: 0, fetchFn: async (url, init) => { seen = { url, body: JSON.parse(init.body), auth: init.headers.authorization }; return groqRes(salidaOk); } });
+  assert.ok(p.batchSize > 0 && p.batchSize <= 30);
+  const out = await p({ system: "s", user: "u" });
+  assert.equal(out.noticias[0].titulo, "Ola de calor");
+  assert.equal(seen.auth, "Bearer GK");
+  assert.match(seen.url, /api\.groq\.com\/openai\/v1\/chat\/completions$/);
+  assert.equal(seen.body.response_format.type, "json_schema");
+  assert.equal(seen.body.response_format.json_schema.strict, true);
+});
+
+test("groqProvider espera entre llamadas para no pasar el límite por minuto", async () => {
+  const waits = [];
+  const p = groqProvider("GK", { gapMs: 60000, sleep: async (ms) => waits.push(ms), fetchFn: async () => groqRes(salidaOk) });
+  await p({ system: "s", user: "u" });
+  await p({ system: "s", user: "u" });
+  assert.equal(waits.length, 1);
+  assert.ok(waits[0] > 50000);
+});
+
+test("groqProvider reintenta tras 429 respetando retry-after", async () => {
+  let n = 0; const waits = [];
+  const p = groqProvider("GK", { gapMs: 0, sleep: async (ms) => waits.push(ms), fetchFn: async () => (++n === 1 ? groqRes(null, 429, { "retry-after": "7" }) : groqRes(salidaOk)) });
+  await p({ system: "s", user: "u" });
+  assert.equal(n, 2);
+  assert.deepEqual(waits, [7000]);
+});
+
+test("strictSchema quita $schema y límites numéricos, y exige todas las propiedades", () => {
+  const s = strictSchema();
+  assert.equal(s.$schema, undefined);
+  const item = s.properties.noticias.items;
+  assert.equal(item.additionalProperties, false);
+  assert.deepEqual([...item.required].sort(), Object.keys(item.properties).sort());
+  assert.equal(item.properties.importancia.maximum, undefined);
+});
+
+test("summarize por lotes: reparte, mapea refs de cada lote y elige top3 por importancia", async () => {
+  const cl = ["A", "B", "C", "D", "E"].map((t) => cluster(t));
+  const calls = [];
+  const provider = async ({ user }) => {
+    calls.push(user);
+    // devuelve la primera noticia de cada lote, con importancia distinta por lote
+    return { top3: [], noticias: [{ ref: 0, titulo: `T${calls.length}`, resumen: "", porQue: "", pilar: "global", etiquetas: [], importancia: calls.length * 2, ultimaHora: false, reaccion: "" }] };
+  };
+  provider.batchSize = 2;
+  const out = await summarize(cl, provider);
+  assert.equal(calls.length, 3);
+  assert.deepEqual(out.noticias.map((n) => n.url).sort(), [cl[0].link, cl[2].link, cl[4].link].sort());
+  assert.equal(out.top3[0], out.noticias.find((n) => n.url === cl[4].link).id);
+});
+
+test("buildEdition prueba el siguiente proveedor si el primero falla", async () => {
+  const falla = async () => { throw new Error("503"); };
+  const ok = async () => ({ top3: [0], noticias: Array.from({ length: 2 }, (_, i) => ({ ref: i, titulo: `T${i}`, resumen: "", porQue: "", pilar: "global", etiquetas: [], importancia: 6, ultimaHora: false, reaccion: "" })) });
+  const out = await buildEdition({ mode: "breaking", fetchFn: fakeFetch, provider: [falla, ok], feeds: [{ url: "u", source: "S", pillar: "global" }], log: () => {} });
+  assert.equal(out.modo, "ia");
+});

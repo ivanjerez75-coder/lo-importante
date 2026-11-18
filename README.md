@@ -22,6 +22,8 @@ y que aprende de tus 👍 / 👎.
    - Entra en https://aistudio.google.com/apikey con tu cuenta de Google → *Create API key* (gratis, sin tarjeta).
    - En tu repositorio: *Settings → Secrets and variables → Actions → New repository secret*.
    - Nombre: `GEMINI_API_KEY`, valor: tu clave.
+   - **Respaldo gratis (recomendado):** crea otra clave en https://console.groq.com/keys y guárdala como `GROQ_API_KEY`.
+     Si Gemini está saturado, la app usa Groq.
    - (Alternativa de pago: `ANTHROPIC_API_KEY` con una clave de https://console.anthropic.com.)
 5. **Activa GitHub Pages**: *Settings → Pages → Source: GitHub Actions*.
 6. **Lanza la primera edición**: pestaña *Actions → Noticias → Run workflow*.
@@ -45,7 +47,8 @@ y que aprende de tus 👍 / 👎.
 ## Coste
 
 **0 €.** Gemini gratis permite unas 20 llamadas al día y la app usa ~9 (1 edición + 8 de última hora).
-Si Google rebaja el cupo y se agota, ese rato la app muestra los titulares sin resumir y sigue funcionando.
+Si Gemini está saturado, prueba Groq (gratis, por lotes con pausas de 1 minuto).
+Si los dos fallan, ese rato la app muestra los titulares sin resumir, y la siguiente pasada (cada 3 h) lo vuelve a intentar.
 GitHub Actions y Pages son gratis para este uso.
 
 ## Para desarrolladores

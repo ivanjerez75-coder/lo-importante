@@ -61,10 +61,10 @@ function formatInput(clusters) {
 }
 
 /** Lista breve de las noticias importantes de la edición anterior, para detectar continuaciones. */
-export function formatAyer(prev, minImp = 7) {
-  const lista = (prev?.noticias ?? []).filter((n) => n.importancia >= minImp).slice(0, 25);
+export function formatAyer(prev, minImp = 7, max = 25, len = 160) {
+  const lista = (prev?.noticias ?? []).filter((n) => n.importancia >= minImp).slice(0, max);
   if (!lista.length) return "";
-  return lista.map((n) => `- ${n.titulo}${n.resumen ? " — " + recortar(n.resumen, 160) : ""}`).join("\n");
+  return lista.map((n) => `- ${n.titulo}${n.resumen ? " — " + recortar(n.resumen, len) : ""}`).join("\n");
 }
 
 /** Convierte la salida del modelo en noticias completas, enlazando con los clusters de entrada. */
@@ -172,21 +172,101 @@ export function geminiProvider(
   };
 }
 
-/** Elige proveedor según las claves disponibles. null = sin IA. */
+/** JSON Schema estricto (sin $schema ni límites numéricos) para Groq. */
+export function strictSchema() {
+  const clean = (node) => {
+    if (Array.isArray(node)) return node.map(clean);
+    if (!node || typeof node !== "object") return node;
+    const out = {};
+    for (const [k, v] of Object.entries(node)) {
+      if (k === "$schema" || k === "minimum" || k === "maximum") continue;
+      out[k] = clean(v);
+    }
+    if (out.type === "object" && out.properties) {
+      out.additionalProperties = false;
+      out.required = Object.keys(out.properties);
+    }
+    return out;
+  };
+  return clean(z.toJSONSchema(Salida));
+}
+
+export const GROQ_MODEL = "openai/gpt-oss-120b";
+
+/**
+ * Groq (capa gratuita, ~8.000 tokens/minuto). Va por lotes pequeños y espera entre llamadas.
+ * `batchSize` le dice a summarize() que trocee la entrada.
+ */
+export function groqProvider(
+  apiKey,
+  { fetchFn = fetch, model = GROQ_MODEL, log = () => {}, sleep = (ms) => new Promise((r) => setTimeout(r, ms)), gapMs = 62000 } = {}
+) {
+  let last = 0;
+  const schema = strictSchema();
+  const p = async ({ system, user }) => {
+    for (let attempt = 0; ; attempt++) {
+      const wait = last ? last + gapMs - Date.now() : 0;
+      if (wait > 0) await sleep(wait);
+      const res = await fetchFn("https://api.groq.com/openai/v1/chat/completions", {
+        method: "POST",
+        headers: { "content-type": "application/json", authorization: `Bearer ${apiKey}` },
+        body: JSON.stringify({
+          model,
+          messages: [{ role: "system", content: system }, { role: "user", content: user }],
+          response_format: { type: "json_schema", json_schema: { name: "briefing", strict: true, schema } },
+          reasoning_effort: "low",
+          max_completion_tokens: 3500,
+        }),
+        signal: AbortSignal.timeout(120000),
+      });
+      last = Date.now();
+      if (res.status === 429 && attempt < 2) {
+        const ra = Number(res.headers.get("retry-after"));
+        const ms = Number.isFinite(ra) && ra > 0 ? ra * 1000 : 60000;
+        log(`(groq) 429, reintento en ${ms / 1000}s`);
+        await sleep(ms);
+        last = 0;
+        continue;
+      }
+      if (!res.ok) throw new Error(`groq: HTTP ${res.status} ${(await res.text()).replace(/\s+/g, " ").slice(0, 200)}`);
+      const body = await res.json();
+      const parsed = Salida.safeParse(JSON.parse(body.choices?.[0]?.message?.content ?? "null"));
+      if (!parsed.success) throw new Error("groq: JSON con formato inesperado");
+      return parsed.data;
+    }
+  };
+  p.batchSize = 25;
+  p.label = `groq ${model}`;
+  return p;
+}
+
+/**
+ * Proveedores disponibles según las claves, en orden de preferencia:
+ * Claude (de pago, si lo pones) → Gemini (gratis) → Groq (gratis, respaldo). [] = sin IA.
+ */
 export async function providerFromEnv(env = process.env, log = console.log) {
-  if (env.GEMINI_API_KEY) return geminiProvider(env.GEMINI_API_KEY, { log });
+  const list = [];
   if (env.ANTHROPIC_API_KEY) {
     const { default: Anthropic } = await import("@anthropic-ai/sdk");
-    return claudeProvider(new Anthropic());
+    const p = claudeProvider(new Anthropic());
+    p.label = "claude";
+    list.push(p);
   }
-  return null;
+  if (env.GEMINI_API_KEY) {
+    const p = geminiProvider(env.GEMINI_API_KEY, { log });
+    p.label = "gemini";
+    list.push(p);
+  }
+  if (env.GROQ_API_KEY) list.push(groqProvider(env.GROQ_API_KEY, { log }));
+  return list;
 }
 
 /**
  * Pide a la IA que elija y resuma. mode "edicion": pool de 40-60; "breaking": sólo lo urgente.
  * Lanza si la IA falla, para que el llamador use el modo crudo.
  */
-export async function summarize(clusters, provider, { mode = "edicion", prev = null } = {}) {
+export async function summarize(clusters, provider, { mode = "edicion", prev = null, log = () => {} } = {}) {
+  if (provider.batchSize) return summarizeBatched(clusters, provider, { mode, prev, log });
   const ayer = mode === "edicion" ? formatAyer(prev) : "";
   const contexto = ayer ? `\n\nNoticias importantes de la edición anterior (para el campo reaccion):\n${ayer}` : "";
   const input = clusters.slice(0, 100);
@@ -196,4 +276,36 @@ export async function summarize(clusters, provider, { mode = "edicion", prev = n
       : "Estas son las noticias de las últimas 48 horas. Elige entre 30 y 40 para el pool del día (las más importantes primero) y marca las 3 más importantes en top3.";
   const parsed = await provider({ system: SISTEMA, user: `${pedido}\n\n${formatInput(input)}${contexto}` });
   return toNoticias(parsed, input);
+}
+
+/** Para proveedores con poco margen por llamada: trocea, elige unas pocas por lote y junta. */
+async function summarizeBatched(clusters, provider, { mode, prev, log }) {
+  const bs = provider.batchSize;
+  const input = clusters.slice(0, mode === "breaking" ? 50 : 100);
+  const lotes = [];
+  for (let i = 0; i < input.length; i += bs) lotes.push(input.slice(i, i + bs));
+  const porLote = mode === "breaking" ? 2 : Math.ceil(36 / Math.max(1, lotes.length));
+  const ayer = mode === "edicion" ? formatAyer(prev, 7, 12, 90) : "";
+  const contexto = ayer ? `\n\nNoticias importantes de la edición anterior (para el campo reaccion):\n${ayer}` : "";
+
+  const noticias = [];
+  let ok = 0, lastErr;
+  for (const [i, lote] of lotes.entries()) {
+    const pedido =
+      mode === "breaking"
+        ? `Lote ${i + 1} de ${lotes.length} con noticias de las últimas 3 horas. Elige SOLO las de última hora realmente relevantes (máximo ${porLote}, puede ser 0), con ultimaHora: true. top3 vacío.`
+        : `Lote ${i + 1} de ${lotes.length} con noticias de las últimas 48 horas. Elige las ${porLote} más importantes de este lote (menos si no hay material bueno). top3 vacío.`;
+    try {
+      const parsed = await provider({ system: SISTEMA, user: `${pedido}\n\n${formatInput(lote)}${contexto}` });
+      noticias.push(...toNoticias({ ...parsed, top3: [] }, lote).noticias);
+      ok++;
+    } catch (e) {
+      lastErr = e;
+      log(`(${provider.label ?? "ia"}) lote ${i + 1} falló: ${e.message}`);
+    }
+  }
+  if (!ok) throw lastErr ?? new Error("ningún lote salió bien");
+  noticias.sort((a, b) => b.importancia - a.importancia);
+  const final = mode === "breaking" ? noticias.slice(0, 5) : noticias;
+  return { top3: mode === "breaking" ? [] : final.slice(0, 3).map((n) => n.id), noticias: final };
 }

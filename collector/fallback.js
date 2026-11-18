@@ -18,6 +18,7 @@ export function rawPool(clusters, { limit = 80, breakingHours = 3, now = Date.no
     fuentes: c.sources,
     url: c.link,
     fecha: c.published,
+    reaccion: "",
     ultimaHora: c.sourceCount >= 3 && now - Date.parse(c.published) < breakingHours * 3600e3,
   }));
   return { top3: noticias.slice(0, 3).map((n) => n.id), noticias };

@@ -67,6 +67,7 @@ export function score(noticia, profile) {
     2 * tanh(profile.pilares[noticia.pilar] ?? 0) +
     1.5 * tagPref +
     0.5 * tanh(profile.fuentes[noticia.fuente] ?? 0) +
+    (noticia.reaccion ? 1 : 0) + // historia importante que sigue moviéndose
     prioridad;
   return base * (profile.manual[noticia.pilar] ?? 1);
 }

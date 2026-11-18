@@ -2,7 +2,7 @@ import { test } from "node:test";
 import assert from "node:assert/strict";
 import { rawPool } from "../collector/fallback.js";
 import { buildEdition, mergeBreaking } from "../collector/run.js";
-import { toNoticias } from "../collector/ai.js";
+import { toNoticias, formatAyer } from "../collector/ai.js";
 
 const now = Date.now();
 const iso = (hAgo) => new Date(now - hAgo * 3600e3).toISOString();
@@ -11,7 +11,7 @@ const cluster = (title, extra = {}) => ({
   published: iso(1), source: "BBC", sources: ["BBC"], sourceCount: 1, pillar: "global", ...extra,
 });
 
-const KEYS = ["id", "titulo", "resumen", "porQue", "pilar", "etiquetas", "importancia", "fuente", "fuentes", "url", "fecha", "ultimaHora"];
+const KEYS = ["id", "titulo", "resumen", "porQue", "pilar", "etiquetas", "importancia", "fuente", "fuentes", "url", "fecha", "ultimaHora", "reaccion"];
 
 test("rawPool produce noticias con el formato completo", () => {
   const out = rawPool([cluster("A", { sourceCount: 3, sources: ["a", "b", "c"] }), cluster("B")]);
@@ -26,8 +26,8 @@ test("toNoticias mapea refs, ignora refs inválidas y limita importancia", () =>
   const cl = [cluster("A"), cluster("B")];
   const out = toNoticias(
     { top3: [0, 9], noticias: [
-      { ref: 0, titulo: "T", resumen: "R", porQue: "P", pilar: "economia", etiquetas: ["X ", "x"], importancia: 14, ultimaHora: false },
-      { ref: 7, titulo: "no existe", resumen: "", porQue: "", pilar: "global", etiquetas: [], importancia: 5, ultimaHora: false },
+      { ref: 0, titulo: "T", resumen: "R", porQue: "P", pilar: "economia", etiquetas: ["X ", "x"], importancia: 14, ultimaHora: false, reaccion: " Nvidia rebota un 3%. " },
+      { ref: 7, titulo: "no existe", resumen: "", porQue: "", pilar: "global", etiquetas: [], importancia: 5, ultimaHora: false, reaccion: "" },
     ] },
     cl
   );
@@ -36,6 +36,17 @@ test("toNoticias mapea refs, ignora refs inválidas y limita importancia", () =>
   assert.equal(out.noticias[0].url, cl[0].link);
   assert.deepEqual(out.noticias[0].etiquetas, ["x"]);
   assert.deepEqual(out.top3, [out.noticias[0].id]);
+  assert.equal(out.noticias[0].reaccion, "Nvidia rebota un 3%.");
+});
+
+test("formatAyer lista sólo las noticias importantes de la edición anterior", () => {
+  const txt = formatAyer({ noticias: [
+    { titulo: "Nvidia se desploma", resumen: "Cae un 12%", importancia: 8 },
+    { titulo: "Gol de Lamine", resumen: "", importancia: 4 },
+  ] });
+  assert.match(txt, /Nvidia se desploma/);
+  assert.doesNotMatch(txt, /Lamine/);
+  assert.equal(formatAyer(null), "");
 });
 
 const fakeFetch = async () => ({

@@ -16,11 +16,14 @@ const Salida = z.object({
       etiquetas: z.array(z.string()),
       importancia: z.number().int(),
       ultimaHora: z.boolean(),
+      reaccion: z.string().describe("vacío salvo que continúe una noticia importante de ayer"),
     })
   ),
 });
 
 const SISTEMA = `Eres el editor jefe de un briefing diario de noticias en español para una persona que quiere saber lo que de verdad importa en el mundo, sin ruido.
+
+Vive en Barcelona (España). Las noticias importantes de España y Cataluña le interesan aunque no sean globales: huelgas o caos en los trenes, elecciones, vivienda, economía española, decisiones del Gobierno o la Generalitat. No le interesan sucesos locales menores.
 
 Sus pilares, por prioridad:
 1. global: grandes problemas del mundo (cambio climático, crisis humanitarias, pandemias, hambre, migraciones, riesgos que vienen). Es lo más importante para él.
@@ -43,7 +46,10 @@ Para cada noticia elegida:
 - pilar: uno de los ids indicados. Reasigna si la fuente lo clasificó mal.
 - etiquetas: 2-4 etiquetas cortas en minúsculas y en español que describan el tema concreto (ej. "clima", "ia", "china", "startups", "fútbol", "petróleo", "ucrania", "bce").
 - importancia: 1-10 a escala mundial. 9-10 solo para hechos históricos o de impacto global inmediato (guerras que estallan, catástrofes masivas, crisis financieras). La mayoría estará entre 4 y 8.
-- ultimaHora: true solo si es un hecho en desarrollo de las últimas horas y de gran impacto.`;
+- ultimaHora: true solo si es un hecho en desarrollo de las últimas horas y de gran impacto.
+- reaccion: casi siempre cadena vacía. Rellénalo SOLO si la noticia continúa una de las noticias importantes de la edición anterior (te las paso aparte) y hay novedades reales: 1-2 frases sobre qué está pasando ahora (cómo reacciona el mercado, si las acciones siguen cayendo o rebotan, qué dicen gobiernos, analistas o afectados). No repitas el resumen.
+
+Si una noticia importante de ayer tiene novedades hoy en las noticias de entrada, inclúyela en el pool con su reaccion, aunque hoy haya menos fuentes hablando de ella.`;
 
 function formatInput(clusters) {
   return clusters
@@ -52,6 +58,13 @@ function formatInput(clusters) {
       return `[${i}] (${c.pillar} · ${fuentes} · ${c.published.slice(0, 16)}) ${c.title}${c.summary ? " — " + recortar(c.summary, 220) : ""}`;
     })
     .join("\n");
+}
+
+/** Lista breve de las noticias importantes de la edición anterior, para detectar continuaciones. */
+export function formatAyer(prev, minImp = 7) {
+  const lista = (prev?.noticias ?? []).filter((n) => n.importancia >= minImp).slice(0, 25);
+  if (!lista.length) return "";
+  return lista.map((n) => `- ${n.titulo}${n.resumen ? " — " + recortar(n.resumen, 160) : ""}`).join("\n");
 }
 
 /** Convierte la salida del modelo en noticias completas, enlazando con los clusters de entrada. */
@@ -76,6 +89,7 @@ export function toNoticias(parsed, clusters) {
       url: c.link,
       fecha: c.published,
       ultimaHora: Boolean(n.ultimaHora),
+      reaccion: (n.reaccion ?? "").trim(),
     };
     byRef.set(n.ref, noticia.id);
     noticias.push(noticia);
@@ -88,7 +102,9 @@ export function toNoticias(parsed, clusters) {
  * Pide a Claude que elija y resuma. mode "edicion": pool de 40-60; "breaking": sólo lo urgente.
  * Lanza si la API falla o rechaza, para que el llamador use el modo crudo.
  */
-export async function summarize(clusters, client, { mode = "edicion" } = {}) {
+export async function summarize(clusters, client, { mode = "edicion", prev = null } = {}) {
+  const ayer = mode === "edicion" ? formatAyer(prev) : "";
+  const contexto = ayer ? `\n\nNoticias importantes de la edición anterior (para el campo reaccion):\n${ayer}` : "";
   const input = clusters.slice(0, 120);
   const pedido =
     mode === "breaking"
@@ -98,7 +114,7 @@ export async function summarize(clusters, client, { mode = "edicion" } = {}) {
     model: MODEL,
     max_tokens: 16000,
     system: SISTEMA,
-    messages: [{ role: "user", content: `${pedido}\n\n${formatInput(input)}` }],
+    messages: [{ role: "user", content: `${pedido}\n\n${formatInput(input)}${contexto}` }],
     output_config: { format: zodOutputFormat(Salida) },
   });
   if (res.stop_reason === "refusal") throw new Error("Claude rechazó la petición");

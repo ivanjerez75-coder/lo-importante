@@ -40,7 +40,7 @@ export async function buildEdition({ mode = "edicion", fetchFn = fetch, client, 
   let result, modo;
   try {
     if (!client) throw new Error("sin ANTHROPIC_API_KEY");
-    result = await summarize(clusters, client, { mode });
+    result = await summarize(clusters, client, { mode, prev });
     modo = "ia";
     if (mode === "edicion" && result.noticias.length < 10) throw new Error(`la IA devolvió sólo ${result.noticias.length}`);
   } catch (e) {

@@ -105,7 +105,11 @@ a { color: inherit; }
   margin: 0 0 10px; font-family: var(--sans); font-size: .88rem; line-height: 1.45;
   color: var(--tinta); background: var(--blanco); padding: 8px 10px; border-radius: 6px;
 }
-.noticia .porque b { font-weight: 600; }
+.noticia .porque b, .noticia .reaccion b { font-weight: 600; }
+.noticia .reaccion {
+  margin: 0 0 8px; font-family: var(--sans); font-size: .88rem; line-height: 1.45;
+  border-left: 3px solid var(--ultima); padding: 2px 0 2px 10px; color: var(--tinta);
+}
 .pie {
   display: flex; align-items: center; gap: 6px; flex-wrap: wrap;
   font-family: var(--sans); font-size: .8rem; color: var(--tinta-2);

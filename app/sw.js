@@ -1,4 +1,4 @@
-const CACHE = "lo-importante-v1";
+const CACHE = "lo-importante-v2";
 const SHELL = ["./", "index.html", "styles.css", "app.js", "rank.js", "store.js", "manifest.webmanifest", "icon.svg", "icon-192.png", "icon-512.png"];
 
 self.addEventListener("install", (e) => {

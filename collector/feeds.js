@@ -16,6 +16,11 @@ export const FEEDS = [
   { pillar: "ultima", source: "Al Jazeera", url: "https://www.aljazeera.com/xml/rss/all.xml" },
   { pillar: "ultima", source: "Europa Press", url: "https://www.europapress.es/rss/rss.aspx" },
   { pillar: "ultima", source: "France 24 ES", url: "https://www.france24.com/es/rss" },
+  // España y Barcelona (entran si son importantes: trenes, elecciones, vivienda…)
+  { pillar: "ultima", source: "La Vanguardia", url: "https://www.lavanguardia.com/rss/home.xml" },
+  { pillar: "ultima", source: "El País España", url: "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/espana/portada" },
+  { pillar: "ultima", source: "elDiario.es", url: "https://www.eldiario.es/rss/" },
+  { pillar: "ultima", source: "20minutos", url: "https://www.20minutos.es/rss/" },
 
   // 💶 Economía
   { pillar: "economia", source: "Cinco Días", url: "https://feeds.elpais.com/mrss-s/pages/ep/site/cincodias.elpais.com/portada" },

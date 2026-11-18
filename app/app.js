@@ -62,6 +62,7 @@ function cuerpo(n, { conPilar = true } = {}) {
   return `${conPilar ? pilarTag(n) : ""}${n.explora ? `<span class="prueba">Probando un tema nuevo</span>` : ""}
     <h3><a href="${esc(safeUrl(n.url))}" target="_blank" rel="noopener" data-id="${n.id}">${esc(n.titulo)}</a></h3>
     ${n.resumen ? `<p class="resumen">${esc(n.resumen)}</p>` : ""}
+    ${n.reaccion ? `<p class="reaccion"><b>Lo último:</b> ${esc(n.reaccion)}</p>` : ""}
     ${n.porQue ? `<p class="porque"><b>Por qué importa:</b> ${esc(n.porQue)}</p>` : ""}
     ${pie(n)}`;
 }

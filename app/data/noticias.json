@@ -1,6 +1,6 @@
 {
- "generado": "2026-11-18T19:31:31.565Z",
- "actualizado": "2026-11-18T19:31:31.565Z",
+ "generado": "2026-11-18T19:42:25.855Z",
+ "actualizado": "2026-11-18T19:42:25.855Z",
  "modo": "crudo",
  "top3": [
   "d6d5307aa417",
@@ -356,6 +356,91 @@
    "ultimaHora": false
   },
   {
+   "id": "bf45b68b22eb",
+   "titulo": "Best Buy sells Blu-rays again after quitting the business in 2024",
+   "resumen": "Popular titles like The Odyssey are being “sold &#038; shipped by Best Buy\" again.",
+   "porQue": "",
+   "pilar": "tecnologia",
+   "etiquetas": [],
+   "importancia": 5,
+   "fuente": "Ars Technica",
+   "fuentes": [
+    "Ars Technica"
+   ],
+   "url": "https://arstechnica.com/gadgets/2026/11/best-buy-sells-blu-rays-again-after-quitting-the-business-in-2024/",
+   "fecha": "2026-11-18T19:31:17.000Z",
+   "reaccion": "",
+   "ultimaHora": false
+  },
+  {
+   "id": "d0d45b2248dd",
+   "titulo": "What’s next for Nvidia? Whatever doesn’t rock the mind-bogglingly profitable boat",
+   "resumen": "If someone handed you $8,300 every second, what would you do? That's how much pure profit Nvidia now makes. By the time you finish reading this paragraph, Nvidia will likely have cleared $45,000 and change. It's easy to look at Nvidia, a…",
+   "porQue": "",
+   "pilar": "tecnologia",
+   "etiquetas": [],
+   "importancia": 5,
+   "fuente": "The Verge",
+   "fuentes": [
+    "The Verge"
+   ],
+   "url": "https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang",
+   "fecha": "2026-11-18T19:29:43.000Z",
+   "reaccion": "",
+   "ultimaHora": false
+  },
+  {
+   "id": "371d4074c9b5",
+   "titulo": "Spend management platform Payhawk announces $280M raise, 2B valuation",
+   "resumen": "UK fintech Payhawk announced Wednesday a $280 million Series C round led by Goldman Sachs’ growth equity arm.",
+   "porQue": "",
+   "pilar": "emprendimiento",
+   "etiquetas": [],
+   "importancia": 5,
+   "fuente": "TechCrunch",
+   "fuentes": [
+    "TechCrunch"
+   ],
+   "url": "https://techcrunch.com/2026/11/18/spend-management-platform-payhawk-announces-280m-raise-2b-valuation/",
+   "fecha": "2026-11-18T19:29:41.000Z",
+   "reaccion": "",
+   "ultimaHora": false
+  },
+  {
+   "id": "936f18e64ab6",
+   "titulo": "Instagram now lets you edit your stories after you post them",
+   "resumen": "Instagram's latest update will allow you to edit your Stories without losing your views, likes, or replies. You can now edit the text, music, stickers, and drawings for up to 15 minutes after sharing your Story, Instagram head Adam Mosseri…",
+   "porQue": "",
+   "pilar": "tecnologia",
+   "etiquetas": [],
+   "importancia": 5,
+   "fuente": "The Verge",
+   "fuentes": [
+    "The Verge"
+   ],
+   "url": "https://www.theverge.com/tech/1036941/instagram-now-lets-you-edit-your-stories-after-you-post-them",
+   "fecha": "2026-11-18T19:29:10.000Z",
+   "reaccion": "",
+   "ultimaHora": false
+  },
+  {
+   "id": "ae7be53bde5f",
+   "titulo": "Movistar estrena mañana la segunda temporada de una de sus series españolas más exitosas y premiadas",
+   "resumen": "La segunda temporada de ' Celeste ', la serie Original Movistar Plus creada por Diego San José y protagonizada por Carmen Machi, se estrena en Movistar Plus este jueves 19 de noviembre. Diego San José firma los guiones junto a Oriol Puig y…",
+   "porQue": "",
+   "pilar": "deporte",
+   "etiquetas": [],
+   "importancia": 5,
+   "fuente": "Mundo Deportivo",
+   "fuentes": [
+    "Mundo Deportivo"
+   ],
+   "url": "https://www.mundodeportivo.com/elotromundo/television/20261118/1004252736/6-episodios-llega-jueves-19-noviembre-movistar-plus-estrena-segunda-temporada-series-espanolas-mas-exitosas-premiadas-tvp-dct.html",
+   "fecha": "2026-11-18T19:27:20.000Z",
+   "reaccion": "",
+   "ultimaHora": false
+  },
+  {
    "id": "3a261481b746",
    "titulo": "Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show",
    "resumen": "The Federal Reserve on Wednesday released minutes from its October policy meeting at which it voted to hold its benchmark interest rate in a range between 3.75%-4%.",
@@ -369,6 +454,23 @@
    ],
    "url": "https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html",
    "fecha": "2026-11-18T19:26:32.000Z",
+   "reaccion": "",
+   "ultimaHora": false
+  },
+  {
+   "id": "ca33af4ec851",
+   "titulo": "Deco se 'moja' sobre la lesión de De Jong",
+   "resumen": "Deco habló claro en Catalunya Ràdio sobre la situación generada con Frenkie de Jong el pasado verano, cuando jugó en el Mundial con P aíses Bajos con un fuerte apósito en su rodilla derecha dado que estaba lesionado. Posteriormente se supo…",
+   "porQue": "",
+   "pilar": "deporte",
+   "etiquetas": [],
+   "importancia": 5,
+   "fuente": "Mundo Deportivo",
+   "fuentes": [
+    "Mundo Deportivo"
+   ],
+   "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261118/1004252732/deco-claro-sobre-lesion-jong-nadie-enfadado.html",
+   "fecha": "2026-11-18T19:26:10.000Z",
    "reaccion": "",
    "ultimaHora": false
   },
@@ -390,9 +492,43 @@
    "ultimaHora": false
   },
   {
+   "id": "085fcd07649b",
+   "titulo": "Así queda la clasificación de la Euroliga tras el tropiezo inesperado del Real Madrid",
+   "resumen": "Decepción blanca en Turquía. El Real Madrid, siempre a remolque, no pudo sumar la octava victoria en la Euroliga y cayó en la pista de un gran Besiktas por 83-79. El conjunto de Pedro Martínez perdió su quinto partido en la máxima…",
+   "porQue": "",
+   "pilar": "deporte",
+   "etiquetas": [],
+   "importancia": 5,
+   "fuente": "Mundo Deportivo",
+   "fuentes": [
+    "Mundo Deportivo"
+   ],
+   "url": "https://www.mundodeportivo.com/baloncesto/euroliga/20261118/1004252731/asi-queda-clasificacion-euroliga-tropiezo-inesperado-real-madrid-pista-besiktas.html",
+   "fecha": "2026-11-18T19:20:27.000Z",
+   "reaccion": "",
+   "ultimaHora": false
+  },
+  {
+   "id": "3bd70b89ea4b",
+   "titulo": "Satriano vuelve para tirar del ataque del Getafe",
+   "resumen": "Al Getafe le cuesta encontrar el gol, pero Martín Satriano suele tener algo que ver cuando lo consigue. El uruguayo ha marcado tres de los ocho tantos azulones en Liga y ha servido otros dos. Una aportación que explica por qué José…",
+   "porQue": "",
+   "pilar": "deporte",
+   "etiquetas": [],
+   "importancia": 5,
+   "fuente": "Mundo Deportivo",
+   "fuentes": [
+    "Mundo Deportivo"
+   ],
+   "url": "https://www.mundodeportivo.com/futbol/getafe/20261118/1004252708/satriano-vuelve-tirar-ataque-getafe.html",
+   "fecha": "2026-11-18T19:19:44.000Z",
+   "reaccion": "",
+   "ultimaHora": false
+  },
+  {
    "id": "be28d25a0e42",
    "titulo": "Muse privacy invasions are freaking out Meta staffers, internal chats show",
-   "resumen": "Erratic Muse outputs sharing random bank, Bitcoin balances aren’t real, Meta says.",
+   "resumen": "Erratic Muse outputs sharing random bank, bitcoin balances aren’t real, Meta says.",
    "porQue": "",
    "pilar": "tecnologia",
    "etiquetas": [],
@@ -403,6 +539,23 @@
    ],
    "url": "https://arstechnica.com/tech-policy/2026/11/muse-privacy-invasions-are-freaking-out-meta-staffers-internal-chats-show/",
    "fecha": "2026-11-18T19:19:33.000Z",
+   "reaccion": "",
+   "ultimaHora": false
+  },
+  {
+   "id": "6ecf79472212",
+   "titulo": "Bojan: \"El rendimiento de Raphinha no nos hace pensar en un '9'\"",
+   "resumen": "Deco y Bojan Krkic, director deportivo y coordinador del área deportiva del FC Barcelona, no escondieron durante la entrevista concedida al programa 'Tot Costa' (Catalunya Ràdio) que el extraordinario rendimiento de Raphinha como '9' hace…",
+   "porQue": "",
+   "pilar": "deporte",
+   "etiquetas": [],
+   "importancia": 5,
+   "fuente": "Mundo Deportivo",
+   "fuentes": [
+    "Mundo Deportivo"
+   ],
+   "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261118/1004252719/tranquilidad.html",
+   "fecha": "2026-11-18T19:18:31.000Z",
    "reaccion": "",
    "ultimaHora": false
   },
@@ -420,6 +573,23 @@
    ],
    "url": "https://www.theguardian.com/us-news/2026/nov/18/california-atmospheric-river-flooding",
    "fecha": "2026-11-18T19:18:18.000Z",
+   "reaccion": "",
+   "ultimaHora": false
+  },
+  {
+   "id": "2c2fb96330d2",
+   "titulo": "Real Madrid - Inter, en directo",
+   "resumen": "",
+   "porQue": "",
+   "pilar": "deporte",
+   "etiquetas": [],
+   "importancia": 5,
+   "fuente": "Mundo Deportivo",
+   "fuentes": [
+    "Mundo Deportivo"
+   ],
+   "url": "https://www.mundodeportivo.com/futbol/femenino/champions-league/20261118/1004252512/real-madrid-inter-directo-champions-league-futbol-femenino.html",
+   "fecha": "2026-11-18T19:18:02.000Z",
    "reaccion": "",
    "ultimaHora": false
   },
@@ -492,6 +662,23 @@
    "ultimaHora": false
   },
   {
+   "id": "e4e8b4a5097f",
+   "titulo": "Impactante fichaje de Primoz Roglic: \"Siento que la conexión es perfecta\"",
+   "resumen": "El equipo ciclista NSN ha anunciado este miércoles el impactante fichaje de Primoz Roglic para la próxima temporada 2027. Tras los tres últimos años defendiendo los colores del Red Bull BORA-hansgrohe, el ciclista esloveno empieza un nuevo…",
+   "porQue": "",
+   "pilar": "deporte",
+   "etiquetas": [],
+   "importancia": 5,
+   "fuente": "Mundo Deportivo",
+   "fuentes": [
+    "Mundo Deportivo"
+   ],
+   "url": "https://www.mundodeportivo.com/ciclismo/20261118/1004252729/impactante-fichaje-primoz-roglic-siento-conexion-perfecta-siempre-me-han-gustado-desafios-mantengo-motivacion-conseguir-grandes-cosas.html",
+   "fecha": "2026-11-18T19:10:20.000Z",
+   "reaccion": "",
+   "ultimaHora": false
+  },
+  {
    "id": "95c693fe543d",
    "titulo": "Nvidia's earnings report had something for the bulls, bears and everyone in between",
    "resumen": "Nvidia's commentary on its buyback and AI ecosystem support was encouraging. But it's not a shock to see the stock down Wednesday.",
@@ -560,6 +747,23 @@
    "ultimaHora": false
   },
   {
+   "id": "9a56a04ff82f",
+   "titulo": "83-79: Batacazo del Real Madrid en Turquía",
+   "resumen": "El Real Madrid se llevó un serio correctivo en su visita al Besiktas y dejó una imagen muy alejada de la que acostumbra (83-79). El conjunto blanco, irreconocible, no supo frenar la intensidad de los turcos, fue siempre a remolque y acabó…",
+   "porQue": "",
+   "pilar": "deporte",
+   "etiquetas": [],
+   "importancia": 5,
+   "fuente": "Mundo Deportivo",
+   "fuentes": [
+    "Mundo Deportivo"
+   ],
+   "url": "https://www.mundodeportivo.com/baloncesto/euroliga/20261118/1004252705/real-madrid-lleva-buen-susto-turquia.html",
+   "fecha": "2026-11-18T19:02:23.000Z",
+   "reaccion": "",
+   "ultimaHora": false
+  },
+  {
    "id": "a4a855012e76",
    "titulo": "Nvidia reverses, metals crash ahead of Anthropic IPO: Options Action Live",
    "resumen": "Big moves have options traders wondering if Anthropic's IPO is spurring a rotation trade.",
@@ -590,6 +794,40 @@
    ],
    "url": "https://www.xataka.com/musica/antonio-roma-tiene-350-000-seguidores-no-existe-loco-que-va-a-dar-concierto-madrid-500-espectadores",
    "fecha": "2026-11-18T19:01:15.000Z",
+   "reaccion": "",
+   "ultimaHora": false
+  },
+  {
+   "id": "50cf24b6c457",
+   "titulo": "10-11. El Astralpool Sabadell cae en un partido clave ante el Jadran Herceg Novi",
+   "resumen": "El Astralpool Sabadell ha perdido este miércoles por 10-11 contra el Jadran Herceg Novi montenegrino en la cuarta jornada del grupo A de la Champions. Era, quizá, el partido más importante que le quedaba al equipo vallesano en esta fase,…",
+   "porQue": "",
+   "pilar": "deporte",
+   "etiquetas": [],
+   "importancia": 5,
+   "fuente": "Mundo Deportivo",
+   "fuentes": [
+    "Mundo Deportivo"
+   ],
+   "url": "https://www.mundodeportivo.com/waterpolo/20261118/1004252721/10-11-astralpool-sabadell-cae-partido-clave-jadran-herceg-novi.html",
+   "fecha": "2026-11-18T19:00:57.000Z",
+   "reaccion": "",
+   "ultimaHora": false
+  },
+  {
+   "id": "5d0ca014f086",
+   "titulo": "Sony’s impressive Bravia 8 II OLED hits a new low price ahead of Black Friday",
+   "resumen": "Black Friday is a great time to save on a new OLED television for your winter movie nights. Though, it turns out that you can already get a great deal on the 65-inch Sony Bravia 8 II, one of our favorite OLED televisions. It’s currently…",
+   "porQue": "",
+   "pilar": "tecnologia",
+   "etiquetas": [],
+   "importancia": 5,
+   "fuente": "The Verge",
+   "fuentes": [
+    "The Verge"
+   ],
+   "url": "https://www.theverge.com/gadgets/1036693/sony-bravia-8-ii-oled-black-friday-2026-deal-sale",
+   "fecha": "2026-11-18T19:00:42.000Z",
    "reaccion": "",
    "ultimaHora": false
   },
@@ -696,23 +934,6 @@
    "ultimaHora": false
   },
   {
-   "id": "e96f55da03db",
-   "titulo": "Otra derrota y sigue sin haber semifinalista español en las ATP Finals de Turín",
-   "resumen": "Tres españoles en las ATP Finals de Turín 2026, ninguno tiene asegurada todavía la plaza en semifinales. Está cerca Carlos Alcaraz, impecable con sus dos victorias, pero la ratificación matemática llegará si Frances Tiafoe gana a Flavio…",
-   "porQue": "",
-   "pilar": "deporte",
-   "etiquetas": [],
-   "importancia": 5,
-   "fuente": "Mundo Deportivo",
-   "fuentes": [
-    "Mundo Deportivo"
-   ],
-   "url": "https://www.mundodeportivo.com/tenis/20261118/1004252717/derrota-sigue-haber-semifinalista-espanol-atp-finals-turin.html",
-   "fecha": "2026-11-18T18:46:51.000Z",
-   "reaccion": "",
-   "ultimaHora": false
-  },
-  {
    "id": "b10ebf43407e",
    "titulo": "The best early Black Friday deals you can already shop",
    "resumen": "The countdown to Black Friday is on, and the discounts are starting to appear. Although the shopping holiday isn&#8217;t officially until November 27th, retailers are already dropping early deals on some of our favorite tech. Of course,…",
@@ -743,57 +964,6 @@
    ],
    "url": "https://arstechnica.com/tech-policy/2026/11/trump-admin-orders-kalshi-to-halt-wagers-on-what-words-trump-will-say/",
    "fecha": "2026-11-18T18:46:08.000Z",
-   "reaccion": "",
-   "ultimaHora": false
-  },
-  {
-   "id": "2c2fb96330d2",
-   "titulo": "Real Madrid - Inter, en directo",
-   "resumen": "",
-   "porQue": "",
-   "pilar": "deporte",
-   "etiquetas": [],
-   "importancia": 5,
-   "fuente": "Mundo Deportivo",
-   "fuentes": [
-    "Mundo Deportivo"
-   ],
-   "url": "https://www.mundodeportivo.com/futbol/femenino/champions-league/20261118/1004252512/real-madrid-inter-directo-champions-league-futbol-femenino.html",
-   "fecha": "2026-11-18T18:45:37.000Z",
-   "reaccion": "",
-   "ultimaHora": false
-  },
-  {
-   "id": "2af00eb12ef2",
-   "titulo": "Deco deja la puerta abierta a fichar un central en enero",
-   "resumen": "Andreson Luís de Souza 'Deco', director deportivo del FC Barcelona, y Bojan Krkic, cooordinador del área deportiva azulgrana, valoraron la situación de la plantilla azulgrana después de los tres primeros meses de temporada en una…",
-   "porQue": "",
-   "pilar": "deporte",
-   "etiquetas": [],
-   "importancia": 5,
-   "fuente": "Mundo Deportivo",
-   "fuentes": [
-    "Mundo Deportivo"
-   ],
-   "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261118/1004252707/deco.html",
-   "fecha": "2026-11-18T18:44:57.000Z",
-   "reaccion": "",
-   "ultimaHora": false
-  },
-  {
-   "id": "41c14e41c703",
-   "titulo": "Posible unidad de fuerzas entre candidatos contra Infantino",
-   "resumen": "El japonés Kozo Tashima, candidato a la presidencia de la FIFA, declaró este miércoles en una entrevista a L'Équipe que desea \"mantener una conversación\" con Philippe Diallo, el máximo responsable de la Federación Francesa de Fútbol (FFF),…",
-   "porQue": "",
-   "pilar": "deporte",
-   "etiquetas": [],
-   "importancia": 5,
-   "fuente": "Mundo Deportivo",
-   "fuentes": [
-    "Mundo Deportivo"
-   ],
-   "url": "https://www.mundodeportivo.com/futbol/internacional/20261118/1004252713/posible-unidad-fuerzas-candidatos-infantino.html",
-   "fecha": "2026-11-18T18:43:58.000Z",
    "reaccion": "",
    "ultimaHora": false
   },
@@ -832,23 +1002,6 @@
    "ultimaHora": false
   },
   {
-   "id": "d84764b56f12",
-   "titulo": "Salvajada total del hijo de Peja Stojakovic ante dos canteranos del Barça",
-   "resumen": "Noche grande en el baloncesto universitario. Esta última jornada, se medían cara a cara dos de los titanes de esta temporada en la NCAA. La siempre candidata a todo, la Duke de los canteranos del Barça Joaquim Boumtje-Boumtje y Dame Sarr,…",
-   "porQue": "",
-   "pilar": "deporte",
-   "etiquetas": [],
-   "importancia": 5,
-   "fuente": "Mundo Deportivo",
-   "fuentes": [
-    "Mundo Deportivo"
-   ],
-   "url": "https://www.mundodeportivo.com/baloncesto/nba/20261118/1004252715/salvajada-total-hijo-peja-stojakovic-leyenda-nba-dos-canteranos-barca.html",
-   "fecha": "2026-11-18T18:39:04.000Z",
-   "reaccion": "",
-   "ultimaHora": false
-  },
-  {
    "id": "f94f9eb6342a",
    "titulo": "Deutsche Bank: millones de documentos revelan prácticas dudosas",
    "resumen": "El mayor banco de Alemania tiene también un pasado oscuro que ahora vuelve a perseguirlo. Según un informe periodístico, una filtración de datos revela numerosas prácticas comerciales cuestionables de la entidad.",
@@ -862,23 +1015,6 @@
    ],
    "url": "https://www.dw.com/es/deutsche-bank-millones-de-documentos-revelan-prácticas-dudosas/a-79985529?maca=spa-rss-sp-all-1122-rdf",
    "fecha": "2026-11-18T18:36:00.000Z",
-   "reaccion": "",
-   "ultimaHora": false
-  },
-  {
-   "id": "f26932e72fa9",
-   "titulo": "\"El día que cumplía 10 años me metieron en un tren. Las primeras semanas del internado fueron muy duras\"",
-   "resumen": "La conocida como humanización del político ha entrado de lleno en campaña. Los candidatos intentan mostrar a la audiencia su faceta más personal y familiar, para que no se les vea únicamente como personas que se mueven en el mundo de la…",
-   "porQue": "",
-   "pilar": "deporte",
-   "etiquetas": [],
-   "importancia": 5,
-   "fuente": "Mundo Deportivo",
-   "fuentes": [
-    "Mundo Deportivo"
-   ],
-   "url": "https://www.mundodeportivo.com/actualidad/20261118/1004252711/alberto-nunez-feijoo-dia-cumplia-10-anos-me-metieron-tren-primeras-semanas-internado-duras-dormiamos-90-personas-dormitorio-no-conocia-nadie-elecciones-dct.html",
-   "fecha": "2026-11-18T18:35:28.000Z",
    "reaccion": "",
    "ultimaHora": false
   },
@@ -934,23 +1070,6 @@
    "ultimaHora": false
   },
   {
-   "id": "81a31047b5ca",
-   "titulo": "The \"shameful\" measles data that lost the US its elimination status",
-   "resumen": "Measles became endemic in the US months ago—and it's only accelerating.",
-   "porQue": "",
-   "pilar": "tecnologia",
-   "etiquetas": [],
-   "importancia": 5,
-   "fuente": "Ars Technica",
-   "fuentes": [
-    "Ars Technica"
-   ],
-   "url": "https://arstechnica.com/health/2026/11/the-shameful-measles-data-that-lost-the-us-its-elimination-status/",
-   "fecha": "2026-11-18T18:30:23.000Z",
-   "reaccion": "",
-   "ultimaHora": false
-  },
-  {
    "id": "ea1ca0398887",
    "titulo": "Lowe's posts strong online sales, raises outlook despite slow housing market",
    "resumen": "Lowe's said it saw strength in online sales during its quarter that contributed to a guidance raise for the full year.",
@@ -964,23 +1083,6 @@
    ],
    "url": "https://www.cnbc.com/2026/11/18/lowes-low-q3-2026-earnings.html",
    "fecha": "2026-11-18T18:27:52.000Z",
-   "reaccion": "",
-   "ultimaHora": false
-  },
-  {
-   "id": "353427d689d3",
-   "titulo": "Así es la Mediterranean Epic Gravel desde dentro: dureza, paisajes y ambiente ciclista",
-   "resumen": "Después de la cancelación en la primera fecha prevista provocada por los efectos de la dana que azotó el litoral levantino en octubre, finalmente el pasado fin de semana se pudo llevar a cabo la primera edición de la Mediterranean Epic…",
-   "porQue": "",
-   "pilar": "deporte",
-   "etiquetas": [],
-   "importancia": 5,
-   "fuente": "Mundo Deportivo",
-   "fuentes": [
-    "Mundo Deportivo"
-   ],
-   "url": "https://www.mundodeportivo.com/solobici/20261118/1004252636/asi-mediterranean-epic-gravel-dureza-paisajes-ambiente-ciclista.html",
-   "fecha": "2026-11-18T18:24:23.000Z",
    "reaccion": "",
    "ultimaHora": false
   },
@@ -1002,23 +1104,6 @@
    "ultimaHora": false
   },
   {
-   "id": "6718a9137b65",
-   "titulo": "Our favorite accessories to level up your gaming setup ahead of GTA VI",
-   "resumen": "With Grand Theft Auto VI set to finally launch tomorrow, November 19th, our long-awaited return to Vice City is nearly here. But after all this time, some of the gear you’ve used in San Andreas might feel out of place on the glamorous…",
-   "porQue": "",
-   "pilar": "tecnologia",
-   "etiquetas": [],
-   "importancia": 5,
-   "fuente": "The Verge",
-   "fuentes": [
-    "The Verge"
-   ],
-   "url": "https://www.theverge.com/gadgets/1033262/best-gta-6-gaming-accessories-controllers-headsets-tvs",
-   "fecha": "2026-11-18T18:19:15.000Z",
-   "reaccion": "",
-   "ultimaHora": false
-  },
-  {
    "id": "bd7546f5e0ac",
    "titulo": "¿Renunciaría Ucrania al Donbás a cambio de ingresar en la OTAN?",
    "resumen": "EE. UU. quiere saber si Ucrania estaría dispuesta a retirarse de la parte de Donetsk que Rusia no ocupa a cambio de ingresar en la OTAN. Expertos consultados por DW explican por qué esta propuesta es peligrosa.",
@@ -1036,40 +1121,6 @@
    "ultimaHora": false
   },
   {
-   "id": "7ff02ec60acf",
-   "titulo": "El 'incómodo' Coliseum que a Simeone se le da tan bien",
-   "resumen": "El Atlético de Madrid visita este domingo al Getafe. Un partido que en el conjunto rojiblanco saben que no va a ser nada sencillo, y se toma como una visita al dentista, pero que siempre le ha sentado muy bien al equipo de Simeone.",
-   "porQue": "",
-   "pilar": "deporte",
-   "etiquetas": [],
-   "importancia": 5,
-   "fuente": "Mundo Deportivo",
-   "fuentes": [
-    "Mundo Deportivo"
-   ],
-   "url": "https://www.mundodeportivo.com/futbol/atletico-madrid/20261118/1004252704/incomodo-coliseum-simeone-le-da.html",
-   "fecha": "2026-11-18T18:11:24.000Z",
-   "reaccion": "",
-   "ultimaHora": false
-  },
-  {
-   "id": "cb39ce49d008",
-   "titulo": "Will Wright's next simulation will use AI to mine content from your memories",
-   "resumen": "With MyMems, Wright says he wants to \"turn the simulation inward.\"",
-   "porQue": "",
-   "pilar": "tecnologia",
-   "etiquetas": [],
-   "importancia": 5,
-   "fuente": "Ars Technica",
-   "fuentes": [
-    "Ars Technica"
-   ],
-   "url": "https://arstechnica.com/gaming/2026/11/will-wrights-next-simulation-will-use-ai-to-mine-content-from-your-memories/",
-   "fecha": "2026-11-18T18:10:33.000Z",
-   "reaccion": "",
-   "ultimaHora": false
-  },
-  {
    "id": "890e2f7b3ac9",
    "titulo": "Google’s AI feature in Search gets its own incognito mode",
    "resumen": "Google's new temporary threads let users have conversations in AI Mode without adding them to their search history or influencing future recommendations.",
@@ -1083,40 +1134,6 @@
    ],
    "url": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/",
    "fecha": "2026-11-18T18:04:05.000Z",
-   "reaccion": "",
-   "ultimaHora": false
-  },
-  {
-   "id": "0bf82bdb1334",
-   "titulo": "El Gobierno da el último paso para aprobar una inversión récord en la red eléctrica hasta 2030",
-   "resumen": "La red eléctrica se ha convertido en uno de los grandes desafíos de la transición energética en España. El crecimiento de las renovables, la electrificación industrial y la llegada de nuevos centros de datos están elevando las necesidades…",
-   "porQue": "",
-   "pilar": "tecnologia",
-   "etiquetas": [],
-   "importancia": 5,
-   "fuente": "Xataka",
-   "fuentes": [
-    "Xataka"
-   ],
-   "url": "https://www.xataka.com/energia/gobierno-da-ultimo-paso-para-aprobar-inversion-record-red-electrica-2030",
-   "fecha": "2026-11-18T18:01:13.000Z",
-   "reaccion": "",
-   "ultimaHora": false
-  },
-  {
-   "id": "6133e1e96fee",
-   "titulo": "Rinden pleitesía al Barça: \"Cuando entras en ese club, puedes sentir la historia. Esa es su enorme fortaleza\"",
-   "resumen": "El Barça abre este jueves (18.45 h) la segunda fase de la Champions de balonmano en la pista del Industria Kielce, cuyo nuevo entrenador, Krzysztof Lijewski, sustituto de Talant Dujshebaev después de 12 años del técnico español en Polonia,…",
-   "porQue": "",
-   "pilar": "deporte",
-   "etiquetas": [],
-   "importancia": 5,
-   "fuente": "Mundo Deportivo",
-   "fuentes": [
-    "Mundo Deportivo"
-   ],
-   "url": "https://www.mundodeportivo.com/balonmano/20261118/1004252700/lijewski-entrenador-kielce-rinde-pleitesia-barca-entras-ese-club-puedes-sentir-historia-ver-todos-trofeos-nombres-increibles-han-construido-historia-enorme-fortaleza.html",
-   "fecha": "2026-11-18T17:56:54.000Z",
    "reaccion": "",
    "ultimaHora": false
   },
@@ -1225,7 +1242,7 @@
   {
    "id": "208b7ebb3cea",
    "titulo": "Seven new models at scalable price-performance",
-   "resumen": "Article URL: https://microsoft.ai/news/microsoft-ignite-2026/ Comments URL: https://news.ycombinator.com/item?id=50548021 Points: 260 # Comments: 168",
+   "resumen": "Article URL: https://microsoft.ai/news/microsoft-ignite-2026/ Comments URL: https://news.ycombinator.com/item?id=50548021 Points: 275 # Comments: 177",
    "porQue": "",
    "pilar": "emprendimiento",
    "etiquetas": [],
@@ -1259,7 +1276,7 @@
   {
    "id": "db253b67c20c",
    "titulo": "Inside Deutsche Bank",
-   "resumen": "Article URL: https://www.inside-db.com/ Comments URL: https://news.ycombinator.com/item?id=50547620 Points: 322 # Comments: 117",
+   "resumen": "Article URL: https://www.inside-db.com/ Comments URL: https://news.ycombinator.com/item?id=50547620 Points: 337 # Comments: 121",
    "porQue": "",
    "pilar": "emprendimiento",
    "etiquetas": [],
@@ -1309,8 +1326,8 @@
   },
   {
    "id": "ff0c2dfa0648",
-   "titulo": "Unauthenticated remote code execution in Nginx (CVE-2026-123633/CVE-2026-123007)",
-   "resumen": "Article URL: https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities Comments URL: https://news.ycombinator.com/item?id=50547374 Points: 561 # Comments: 198",
+   "titulo": "Unauthenticated remote code execution in Nginx",
+   "resumen": "Article URL: https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities Comments URL: https://news.ycombinator.com/item?id=50547374 Points: 616 # Comments: 223",
    "porQue": "",
    "pilar": "emprendimiento",
    "etiquetas": [],
@@ -1327,7 +1344,7 @@
   {
    "id": "7370fbe8d7e4",
    "titulo": "Poland says it thwarted false flag operation near border with Kaliningrad",
-   "resumen": "Article URL: https://www.yahoo.com/news/world/articles/russia-reportedly-planned-mass-casualty-090500574.html Comments URL: https://news.ycombinator.com/item?id=50547344 Points: 238 # Comments: 77",
+   "resumen": "Article URL: https://www.yahoo.com/news/world/articles/russia-reportedly-planned-mass-casualty-090500574.html Comments URL: https://news.ycombinator.com/item?id=50547344 Points: 256 # Comments: 87",
    "porQue": "",
    "pilar": "emprendimiento",
    "etiquetas": [],
@@ -1338,23 +1355,6 @@
    ],
    "url": "https://www.yahoo.com/news/world/articles/russia-reportedly-planned-mass-casualty-090500574.html",
    "fecha": "2026-11-18T15:18:30.000Z",
-   "reaccion": "",
-   "ultimaHora": false
-  },
-  {
-   "id": "56f7df450724",
-   "titulo": "How Payhawk raised $280m amid fintech downturn",
-   "resumen": "",
-   "porQue": "",
-   "pilar": "emprendimiento",
-   "etiquetas": [],
-   "importancia": 5,
-   "fuente": "Sifted",
-   "fuentes": [
-    "Sifted"
-   ],
-   "url": "https://sifted.eu/articles/payhawk-series-c/",
-   "fecha": "2026-11-18T15:03:22.000Z",
    "reaccion": "",
    "ultimaHora": false
   },

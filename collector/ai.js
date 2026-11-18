@@ -117,7 +117,8 @@ export function claudeProvider(client) {
   };
 }
 
-export const GEMINI_MODELS = ["gemini-flash-latest", "gemini-flash-lite-latest"];
+// Se prueban en orden; si uno está saturado o no existe, se pasa al siguiente.
+export const GEMINI_MODELS = ["gemini-flash-latest", "gemini-flash-lite-latest", "gemini-2.5-flash", "gemini-2.5-flash-lite"];
 
 const FORMATO_JSON = `
 

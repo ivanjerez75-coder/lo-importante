@@ -64,8 +64,9 @@ async function main() {
   try {
     prev = JSON.parse(await readFile(OUT, "utf8"));
   } catch {}
-  // Sin edición previa, "breaking" hace una edición completa.
-  const effective = mode === "breaking" && !prev ? "edicion" : mode;
+  // "breaking" hace una edición completa si no hay edición previa, o si la de hoy salió sin IA
+  // (p. ej. Google saturado por la mañana): así se arregla sola en la siguiente pasada.
+  const effective = mode === "breaking" && (!prev || (prev.modo === "crudo" && provider)) ? "edicion" : mode;
   const out = await buildEdition({ mode: effective, provider, prev });
   if (!out.noticias.length) {
     console.error("0 noticias: no sobrescribo el fichero anterior");

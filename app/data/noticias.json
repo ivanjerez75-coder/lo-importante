@@ -1,6 +1,6 @@
 {
- "generado": "2026-11-18T19:42:25.855Z",
- "actualizado": "2026-11-18T19:42:25.855Z",
+ "generado": "2026-11-18T19:47:03.679Z",
+ "actualizado": "2026-11-18T19:47:03.679Z",
  "modo": "crudo",
  "top3": [
   "d6d5307aa417",
@@ -64,7 +64,7 @@
    "url": "https://elpais.com/us/2026-11-18/los-democratas-proponen-a-hakeem-jefferies-como-primer-presidente-negro-de-la-camara-de-representantes-en-el-nuevo-congreso.html",
    "fecha": "2026-11-18T16:43:01.000Z",
    "reaccion": "",
-   "ultimaHora": true
+   "ultimaHora": false
   },
   {
    "id": "b7ed276b63ab",
@@ -356,6 +356,108 @@
    "ultimaHora": false
   },
   {
+   "id": "3a261481b746",
+   "titulo": "Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show",
+   "resumen": "The Federal Reserve on Wednesday released minutes from its October policy meeting at which it voted to hold its benchmark interest rate in a range between 3.75%-4%.",
+   "porQue": "",
+   "pilar": "economia",
+   "etiquetas": [],
+   "importancia": 5,
+   "fuente": "CNBC",
+   "fuentes": [
+    "CNBC"
+   ],
+   "url": "https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html",
+   "fecha": "2026-11-18T19:41:59.000Z",
+   "reaccion": "",
+   "ultimaHora": false
+  },
+  {
+   "id": "5ac9c76f3260",
+   "titulo": "The Key Numbers I’m Watching As Anthropic Makes Its IPO Debut",
+   "resumen": "Just three years after launching with zero revenue, Anthropic brought in $17 billion and says more than 11,900 customers now spend at least $100,000 a year. But its IPO filing also reveals enormous computing commitments and big questions…",
+   "porQue": "",
+   "pilar": "emprendimiento",
+   "etiquetas": [],
+   "importancia": 5,
+   "fuente": "Crunchbase News",
+   "fuentes": [
+    "Crunchbase News"
+   ],
+   "url": "https://news.crunchbase.com/ai/anthropic-ant-ipo-revenue-growth-risks-s1-analysis/",
+   "fecha": "2026-11-18T19:39:58.000Z",
+   "reaccion": "",
+   "ultimaHora": false
+  },
+  {
+   "id": "ac7bfee9bf71",
+   "titulo": "How high is UK inflation and how will you be affected?",
+   "resumen": "Prices rose 3.6% in the year to October, mainly because of higher petrol and diesel prices, official figures show.",
+   "porQue": "",
+   "pilar": "economia",
+   "etiquetas": [],
+   "importancia": 5,
+   "fuente": "BBC Business",
+   "fuentes": [
+    "BBC Business"
+   ],
+   "url": "https://www.bbc.co.uk/news/videos/cxp80q5pv4q5o?at_medium=RSS&at_campaign=rss",
+   "fecha": "2026-11-18T19:37:27.000Z",
+   "reaccion": "",
+   "ultimaHora": false
+  },
+  {
+   "id": "251bcc5da014",
+   "titulo": "Ex-Tory MPs barred from shaping Reform UK’s immigration policy, says Zia Yusuf",
+   "resumen": "Comments by Reform’s home affairs spokesperson raise questions about unity at top of the party Former Conservative defectors to Reform UK have been barred from shaping the party’s immigration policy, its home affairs spokesperson has…",
+   "porQue": "",
+   "pilar": "geopolitica",
+   "etiquetas": [],
+   "importancia": 5,
+   "fuente": "The Guardian World",
+   "fuentes": [
+    "The Guardian World"
+   ],
+   "url": "https://www.theguardian.com/politics/2026/nov/18/ex-tory-defectors-barred-from-shaping-reform-uks-immigration-policy-says-yusuf",
+   "fecha": "2026-11-18T19:34:31.000Z",
+   "reaccion": "",
+   "ultimaHora": false
+  },
+  {
+   "id": "178f94915ff3",
+   "titulo": "Markwayne Mullin defends move to take government plane to football game amid flight stoppage – US politics live",
+   "resumen": "The secretary of homeland security flew to attend a college game Saturday, after thousands of flights were cancelled Sign up for US breaking News email Linked to that, the White House held a briefing call with several reporters today about…",
+   "porQue": "",
+   "pilar": "geopolitica",
+   "etiquetas": [],
+   "importancia": 5,
+   "fuente": "The Guardian World",
+   "fuentes": [
+    "The Guardian World"
+   ],
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
+   "fecha": "2026-11-18T19:33:14.000Z",
+   "reaccion": "",
+   "ultimaHora": false
+  },
+  {
+   "id": "55cee39d438a",
+   "titulo": "Shabana Mahmood backs ban on police marching in Pride events in uniform",
+   "resumen": "Home secretary said rule needed to reverse fall in public’s faith in law enforcement Shabana Mahmood backed a ban on police officers marching in Pride events in uniform as she said there had been a “few examples” of two-tier policing.…",
+   "porQue": "",
+   "pilar": "geopolitica",
+   "etiquetas": [],
+   "importancia": 5,
+   "fuente": "The Guardian World",
+   "fuentes": [
+    "The Guardian World"
+   ],
+   "url": "https://www.theguardian.com/politics/2026/nov/18/shabana-mahmood-backs-ban-on-police-marching-in-pride-events-in-uniform",
+   "fecha": "2026-11-18T19:33:13.000Z",
+   "reaccion": "",
+   "ultimaHora": false
+  },
+  {
    "id": "bf45b68b22eb",
    "titulo": "Best Buy sells Blu-rays again after quitting the business in 2024",
    "resumen": "Popular titles like The Odyssey are being “sold &#038; shipped by Best Buy\" again.",
@@ -441,19 +543,19 @@
    "ultimaHora": false
   },
   {
-   "id": "3a261481b746",
-   "titulo": "Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show",
-   "resumen": "The Federal Reserve on Wednesday released minutes from its October policy meeting at which it voted to hold its benchmark interest rate in a range between 3.75%-4%.",
+   "id": "ad3ebddfe141",
+   "titulo": "Con Alaska, los demócratas firman una reconquista del Senado inédita en casi 70 años",
+   "resumen": "El triunfo de Mary Peltola cierra la cuenta de la Cámara alta: una mayoría de 56 escaños que abre la puerta a que el control del partido en el Capitolio vaya más allá de 2028",
    "porQue": "",
-   "pilar": "economia",
+   "pilar": "geopolitica",
    "etiquetas": [],
    "importancia": 5,
-   "fuente": "CNBC",
+   "fuente": "El País Internacional",
    "fuentes": [
-    "CNBC"
+    "El País Internacional"
    ],
-   "url": "https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html",
-   "fecha": "2026-11-18T19:26:32.000Z",
+   "url": "https://elpais.com/us/2026-11-18/con-alaska-los-democratas-firman-una-reconquista-del-senado-inedita-en-casi-70-anos.html",
+   "fecha": "2026-11-18T19:26:49.000Z",
    "reaccion": "",
    "ultimaHora": false
   },
@@ -630,7 +732,7 @@
   {
    "id": "969391b425f9",
    "titulo": "FAA administrator urges ‘lay off’ Sean Duffy for the flight stoppage: ‘Blame me’",
-   "resumen": "The comments come as the top US transportation official faces scrutiny over his handling of the tech outage crisis The head of the Federal Aviation Administration (FAA) took responsibility for the nationwide ground stop that impacted more…",
+   "resumen": "The comments come as the top US transportation official faces scrutiny over his handling of the tech outage crisis The head of the Federal Aviation Administration (FAA) took responsibility for the nationwide ground stop that affected more…",
    "porQue": "",
    "pilar": "geopolitica",
    "etiquetas": [],
@@ -709,23 +811,6 @@
    ],
    "url": "https://www.theverge.com/policy/1036935/congress-forced-arbitration-deepfakes-defiance-act",
    "fecha": "2026-11-18T19:07:29.000Z",
-   "reaccion": "",
-   "ultimaHora": false
-  },
-  {
-   "id": "178f94915ff3",
-   "titulo": "Markwayne Mullin defends move to take government plane to football game amid flight stoppage – US politics live",
-   "resumen": "The secretary of homeland security flew to attend a college game Saturday, after thousands of flights were cancelled Sign up for US breaking News email Linked to that, the White House held a briefing call with several reporters today about…",
-   "porQue": "",
-   "pilar": "geopolitica",
-   "etiquetas": [],
-   "importancia": 5,
-   "fuente": "The Guardian World",
-   "fuentes": [
-    "The Guardian World"
-   ],
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
-   "fecha": "2026-11-18T19:04:50.000Z",
    "reaccion": "",
    "ultimaHora": false
   },
@@ -900,23 +985,6 @@
    "ultimaHora": false
   },
   {
-   "id": "251bcc5da014",
-   "titulo": "Ex-Tory defectors barred from shaping Reform’s immigration policy, says Zia Yusuf",
-   "resumen": "Comments by Reform’s home affairs spokesperson raise questions about unity at top of the party Former Conservative defectors to Reform UK have been barred from shaping the party’s immigration policy, its home affairs spokesperson has…",
-   "porQue": "",
-   "pilar": "geopolitica",
-   "etiquetas": [],
-   "importancia": 5,
-   "fuente": "The Guardian World",
-   "fuentes": [
-    "The Guardian World"
-   ],
-   "url": "https://www.theguardian.com/politics/2026/nov/18/ex-tory-defectors-barred-from-shaping-reform-uks-immigration-policy-says-yusuf",
-   "fecha": "2026-11-18T18:50:40.000Z",
-   "reaccion": "",
-   "ultimaHora": false
-  },
-  {
    "id": "7d6978c578f9",
    "titulo": "Al Betis se le resiste el papel de favorito en el derbi",
    "resumen": "El Real Betis visitará este sábado el Sánchez-Pizjuán con ocho puntos de ventaja sobre el Sevilla, 26 frente a 18, aunque la historia invita a relativizar su favoritismo. Los verdiblancos solo han ganado uno de los once derbis de Primera…",
@@ -1070,23 +1138,6 @@
    "ultimaHora": false
   },
   {
-   "id": "ea1ca0398887",
-   "titulo": "Lowe's posts strong online sales, raises outlook despite slow housing market",
-   "resumen": "Lowe's said it saw strength in online sales during its quarter that contributed to a guidance raise for the full year.",
-   "porQue": "",
-   "pilar": "economia",
-   "etiquetas": [],
-   "importancia": 5,
-   "fuente": "CNBC",
-   "fuentes": [
-    "CNBC"
-   ],
-   "url": "https://www.cnbc.com/2026/11/18/lowes-low-q3-2026-earnings.html",
-   "fecha": "2026-11-18T18:27:52.000Z",
-   "reaccion": "",
-   "ultimaHora": false
-  },
-  {
    "id": "1826e3476159",
    "titulo": "Diallo contra Infantino: batalla por el control del fútbol mundial",
    "resumen": "El presidente de la federación francesa y candidato de la UEFA, Philippe Diallo, desafía al presidente de la FIFA, Gianni Infantino. Sus posibilidades son escasas, pero la justicia y la política podrían estar de su lado.",
@@ -1104,23 +1155,6 @@
    "ultimaHora": false
   },
   {
-   "id": "bd7546f5e0ac",
-   "titulo": "¿Renunciaría Ucrania al Donbás a cambio de ingresar en la OTAN?",
-   "resumen": "EE. UU. quiere saber si Ucrania estaría dispuesta a retirarse de la parte de Donetsk que Rusia no ocupa a cambio de ingresar en la OTAN. Expertos consultados por DW explican por qué esta propuesta es peligrosa.",
-   "porQue": "",
-   "pilar": "geopolitica",
-   "etiquetas": [],
-   "importancia": 5,
-   "fuente": "DW Español",
-   "fuentes": [
-    "DW Español"
-   ],
-   "url": "https://www.dw.com/es/¿renunciaría-ucrania-al-donbás-a-cambio-de-ingresar-en-la-otan/a-79984054?maca=spa-rss-sp-all-1122-rdf",
-   "fecha": "2026-11-18T18:16:00.000Z",
-   "reaccion": "",
-   "ultimaHora": false
-  },
-  {
    "id": "890e2f7b3ac9",
    "titulo": "Google’s AI feature in Search gets its own incognito mode",
    "resumen": "Google's new temporary threads let users have conversations in AI Mode without adding them to their search history or influencing future recommendations.",
@@ -1134,23 +1168,6 @@
    ],
    "url": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/",
    "fecha": "2026-11-18T18:04:05.000Z",
-   "reaccion": "",
-   "ultimaHora": false
-  },
-  {
-   "id": "6addfade593e",
-   "titulo": "Cheese, pet passports and youth mobility: what’s in the UK-EU ‘relationship reset’ draft?",
-   "resumen": "Leaked text of 72-paragraph second draft shows agreement has largely been reached before expected signoff on Friday The UK-EU “relationship reset” agreement, which began in earnest under Keir Starmer, is expected to be signed off by Andy…",
-   "porQue": "",
-   "pilar": "geopolitica",
-   "etiquetas": [],
-   "importancia": 5,
-   "fuente": "The Guardian World",
-   "fuentes": [
-    "The Guardian World"
-   ],
-   "url": "https://www.theguardian.com/politics/2026/nov/18/uk-eu-relationship-reset-draft-explainer",
-   "fecha": "2026-11-18T17:56:39.000Z",
    "reaccion": "",
    "ultimaHora": false
   },
@@ -1338,23 +1355,6 @@
    ],
    "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
    "fecha": "2026-11-18T15:19:55.000Z",
-   "reaccion": "",
-   "ultimaHora": false
-  },
-  {
-   "id": "7370fbe8d7e4",
-   "titulo": "Poland says it thwarted false flag operation near border with Kaliningrad",
-   "resumen": "Article URL: https://www.yahoo.com/news/world/articles/russia-reportedly-planned-mass-casualty-090500574.html Comments URL: https://news.ycombinator.com/item?id=50547344 Points: 256 # Comments: 87",
-   "porQue": "",
-   "pilar": "emprendimiento",
-   "etiquetas": [],
-   "importancia": 5,
-   "fuente": "Hacker News",
-   "fuentes": [
-    "Hacker News"
-   ],
-   "url": "https://www.yahoo.com/news/world/articles/russia-reportedly-planned-mass-casualty-090500574.html",
-   "fecha": "2026-11-18T15:18:30.000Z",
    "reaccion": "",
    "ultimaHora": false
   },

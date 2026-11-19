@@ -2,8 +2,9 @@ name: Noticias
 
 on:
   schedule:
-    - cron: "30 4 * * *"   # edición diaria (lista antes de las 7:00 en España, invierno y verano)
-    - cron: "0 */3 * * *"  # última hora cada 3 horas
+    # Minutos "raros" a propósito: GitHub retrasa o se salta los horarios en punto cuando va cargado.
+    - cron: "43 3 * * *"     # edición diaria (lista antes de las 7:00 en España)
+    - cron: "17 */2 * * *"   # última hora cada 2 h (si falta la edición del día, la rehace)
   workflow_dispatch:
     inputs:
       modo:
@@ -40,7 +41,7 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }} # opcional, de pago
         run: |
           MODO="${{ github.event.inputs.modo }}"
-          if [ "${{ github.event.schedule }}" = "0 */3 * * *" ]; then MODO=breaking; fi
+          if [ "${{ github.event.schedule }}" = "17 */2 * * *" ]; then MODO=breaking; fi
           node collector/run.js "${MODO:-edicion}"
       - name: Guardar noticias
         run: |

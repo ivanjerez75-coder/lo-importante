@@ -12,6 +12,7 @@ import { summarize, providerFromEnv } from "./ai.js";
 const OUT = join(dirname(fileURLToPath(import.meta.url)), "..", "app", "data", "noticias.json");
 const BREAKING_WINDOW_H = 3;
 const BREAKING_TTL_H = 6;
+const EDITION_MAX_AGE_H = 18;
 
 /** Mezcla noticias de última hora en la edición previa; caduca las de última hora viejas. */
 export function mergeBreaking(prev, nuevas, now = Date.now()) {
@@ -67,6 +68,19 @@ export async function buildEdition({ mode = "edicion", fetchFn = fetch, provider
   return { generado, actualizado: generado, modo, top3: result.top3, noticias: result.noticias };
 }
 
+/**
+ * Una pasada de "última hora" hace la edición completa cuando:
+ * - no hay edición previa,
+ * - la edición salió sin IA y ahora hay IA (Google saturado por la mañana), o
+ * - la edición tiene más de 18 h (GitHub se saltó la de la mañana).
+ * Así la app se arregla sola en la siguiente pasada.
+ */
+export function needsFullEdition(prev, hasAI, now = Date.now()) {
+  if (!prev?.generado) return true;
+  if (prev.modo === "crudo" && hasAI) return true;
+  return now - Date.parse(prev.generado) > EDITION_MAX_AGE_H * 3600e3;
+}
+
 async function main() {
   const mode = process.argv[2] === "breaking" ? "breaking" : "edicion";
   const provider = await providerFromEnv();
@@ -74,9 +88,7 @@ async function main() {
   try {
     prev = JSON.parse(await readFile(OUT, "utf8"));
   } catch {}
-  // "breaking" hace una edición completa si no hay edición previa, o si la de hoy salió sin IA
-  // (p. ej. Google saturado por la mañana): así se arregla sola en la siguiente pasada.
-  const effective = mode === "breaking" && (!prev || (prev.modo === "crudo" && provider.length > 0)) ? "edicion" : mode;
+  const effective = mode === "breaking" && needsFullEdition(prev, provider.length > 0) ? "edicion" : mode;
   const out = await buildEdition({ mode: effective, provider, prev });
   if (!out.noticias.length) {
     console.error("0 noticias: no sobrescribo el fichero anterior");

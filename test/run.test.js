@@ -189,3 +189,14 @@ test("buildEdition prueba el siguiente proveedor si el primero falla", async () 
   const out = await buildEdition({ mode: "breaking", fetchFn: fakeFetch, provider: [falla, ok], feeds: [{ url: "u", source: "S", pillar: "global" }], log: () => {} });
   assert.equal(out.modo, "ia");
 });
+
+import { needsFullEdition } from "../collector/run.js";
+
+test("needsFullEdition: rehace si falta, si salió sin IA, o si tiene más de 18 h", () => {
+  const now = Date.parse("2026-11-19T10:00:00Z");
+  assert.equal(needsFullEdition(null, true, now), true);
+  assert.equal(needsFullEdition({ modo: "crudo", generado: "2026-11-19T05:00:00Z" }, true, now), true);
+  assert.equal(needsFullEdition({ modo: "crudo", generado: "2026-11-19T05:00:00Z" }, false, now), false);
+  assert.equal(needsFullEdition({ modo: "ia", generado: "2026-11-19T05:00:00Z" }, true, now), false);
+  assert.equal(needsFullEdition({ modo: "ia", generado: "2026-11-18T14:00:00Z" }, true, now), true);
+});

@@ -1,856 +1,112 @@
 {
- "generado": "2026-11-18T20:46:09.271Z",
- "actualizado": "2026-11-19T02:29:35.305Z",
+ "generado": "2026-11-19T10:39:45.321Z",
+ "actualizado": "2026-11-19T10:39:45.321Z",
  "modo": "ia",
  "top3": [
-  "eba19e73279e",
-  "c09ed4d93f10",
-  "92cdbaff4de0"
+  "31dc8abe3adc",
+  "3a383acc1ad5",
+  "6e2232510f59"
  ],
  "noticias": [
   {
-   "id": "eba19e73279e",
-   "titulo": "Trump, Putin y Xi celebran una cumbre trilateral inédita en China",
-   "resumen": "Los líderes de Estados Unidos, China y Rusia se reúnen por primera vez en Pekín en el marco del foro APEC. El encuentro busca redefinir la arquitectura de seguridad global y abordar el desenlace de los conflictos en Ucrania e Irán.",
-   "porQue": "Reúne de forma simultánea a las tres mayores potencias mundiales con potencial de reconfigurar los equilibrios bélicos y comerciales del planeta.",
+   "id": "31dc8abe3adc",
+   "titulo": "Xi, Trump y Putin cierran en Shenzhen una histórica cumbre de potencias",
+   "resumen": "Los líderes de Estados Unidos, China y Rusia mantuvieron una reunión inédita de 80 minutos en la ciudad china de Shenzhen. El diálogo abordó la desescalada en Ucrania, el conflicto en Oriente Medio y la reducción de arsenales nucleares.",
+   "porQue": "Supone el primer intento trilateral directo de estabilizar la gobernanza mundial tras años de tensión extrema entre las grandes potencias nucleares.",
    "pilar": "geopolitica",
    "etiquetas": [
-    "cumbre",
-    "eeuu",
     "china",
-    "rusia"
+    "eeuu",
+    "rusia",
+    "diplomacia"
    ],
    "importancia": 9,
-   "fuente": "BBC World",
+   "fuente": "El País",
    "fuentes": [
-    "BBC World",
-    "Al Jazeera"
+    "El País",
+    "Cinco Días",
+    "El País Internacional"
    ],
-   "url": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss",
-   "fecha": "2026-11-18T16:40:03.000Z",
-   "ultimaHora": false,
-   "reaccion": ""
+   "url": "https://elpais.com/internacional/2026-11-19/trump-y-putin-interactuan-en-shenzhen-antes-de-las-reuniones-con-xi.html",
+   "fecha": "2026-11-19T10:17:02.000Z",
+   "ultimaHora": true,
+   "reaccion": "Gobiernos aliados de Ucrania como Francia y Polonia han recibido con escepticismo el encuentro, criticando que no se haya contado con Europa para discutir su propia seguridad."
   },
   {
-   "id": "c09ed4d93f10",
-   "titulo": "Israel lanza una incursión terrestre en Gaza más allá de la Línea Amarilla",
-   "resumen": "Tropas y blindados del ejército israelí han penetrado en el centro de la Franja alegando el desmantelamiento de túneles operativos. La incursión sobrepasa la Línea Amarilla fijada en el alto el fuego de 2025 y amenaza con dinamitar la tregua.",
-   "porQue": "La ruptura formal de la línea pactada reactiva el riesgo de reanudación total de las hostilidades y pone en peligro a miles de civiles desplazados.",
-   "pilar": "ultima",
+   "id": "3a383acc1ad5",
+   "titulo": "La AIE alerta de que la crisis en Oriente Medio amenaza el suministro global",
+   "resumen": "La Agencia Internacional de la Energía advirtió que las tensiones en Oriente Medio y el bloqueo iraní en el estrecho de Ormuz representan el mayor peligro energético registrado. El corte parcial del tránsito petrolero presiona al alza la inflación y las reservas mundiales.",
+   "porQue": "Un estrangulamiento prolongado en Ormuz podría desatar una crisis económica global de estanflación inmediata.",
+   "pilar": "global",
    "etiquetas": [
-    "gaza",
-    "israel",
-    "conflicto",
-    "oriente medio"
+    "petróleo",
+    "energía",
+    "oriente medio",
+    "inflación"
    ],
-   "importancia": 8,
-   "fuente": "elDiario.es",
+   "importancia": 9,
+   "fuente": "France 24 ES",
    "fuentes": [
-    "elDiario.es"
+    "France 24 ES",
+    "DW Español"
    ],
-   "url": "https://www.eldiario.es/internacional/israel-lanza-operacion-terrestre-gaza-linea-amarilla-acordada-alto-fuego-2025_1_13675414.html",
-   "fecha": "2026-11-18T20:22:19.000Z",
+   "url": "https://www.france24.com/es/medio-oriente/20261119-la-crisis-en-medio-oriente-supone-la-mayor-amenaza-para-la-seguridad-energ%C3%A9tica-de-la-historia-advierte-la-aie",
+   "fecha": "2026-11-19T07:32:25.000Z",
    "ultimaHora": false,
    "reaccion": ""
   },
   {
-   "id": "92cdbaff4de0",
-   "titulo": "Anthropic prepara su salida a bolsa en el Nasdaq ante una fuerte demanda",
-   "resumen": "La compañía creadora del modelo de IA Claude planea ampliar su oferta pública inicial ante el aluvión de órdenes de inversores institucionales. La firma debutará con el símbolo ANT tras registrar 17.000 millones de dólares de facturación en solo tres años.",
-   "porQue": "Es la primera gran salida a bolsa de un laboratorio pionero de inteligencia artificial generativa y medirá el apetito real del mercado por el sector.",
+   "id": "6e2232510f59",
+   "titulo": "Anthropic fija en 83 dólares su salida a Bolsa en la mayor OPI histórica",
+   "resumen": "La compañía creadora del modelo de inteligencia artificial Claude recaudó más de 81.000 millones de dólares en su estreno bursátil en Wall Street. La operación valora a la empresa en 1,5 billones de dólares y supera la marca establecida previamente por SpaceX.",
+   "porQue": "Confirma el apetito institucional desenfrenado por liderar la infraestructura de la inteligencia artificial generativa a escala global.",
    "pilar": "emprendimiento",
    "etiquetas": [
     "ia",
-    "anthropic",
     "bolsa",
+    "anthropic",
     "startups"
    ],
    "importancia": 8,
-   "fuente": "CNBC",
-   "fuentes": [
-    "CNBC"
-   ],
-   "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html",
-   "fecha": "2026-11-18T20:20:35.000Z",
-   "ultimaHora": false,
-   "reaccion": "Los mercados reaccionan con rotaciones intensas desde fabricantes de hardware como Nvidia hacia la firma de software, mientras la dirección evalúa elevar el precio de corte por la sobredemanda."
-  },
-  {
-   "id": "611410237137",
-   "titulo": "Hernández de Cos se consolida como favorito para presidir el BCE",
-   "resumen": "El Eurogrupo ha extendido el plazo de candidaturas al Banco Central Europeo con el exgobernador del Banco de España Pablo Hernández de Cos en cabeza de la carrera. Alemania ha postulado oficialmente a Markus K. Brunnermeier para el puesto de economista jefe.",
-   "porQue": "El relevo en la cúpula del BCE definirá la política monetaria y los tipos de interés para toda la eurozona en un periodo clave de desinflación.",
-   "pilar": "economia",
-   "etiquetas": [
-    "bce",
-    "españa",
-    "eurogrupo",
-    "banca"
-   ],
-   "importancia": 8,
-   "fuente": "El País",
-   "fuentes": [
-    "El País",
-    "Cinco Días",
-    "El País Economía"
-   ],
-   "url": "https://elpais.com/economia/2026-11-18/el-eurogrupo-amplia-el-plazo-para-presentar-candidatos-a-la-direccion-del-bce-con-hernandez-de-cos-como-favorito-a-la-presidencia.html",
-   "fecha": "2026-11-18T18:15:45.000Z",
-   "ultimaHora": false,
-   "reaccion": ""
-  },
-  {
-   "id": "733bba04a7ac",
-   "titulo": "Las actas de la Fed apuntan a subidas de tipos por encima de 25 puntos básicos",
-   "resumen": "La Reserva Federal estadounidense debate endurecer el ritmo de endurecimiento monetario en diciembre tras mantener las tasas en el rango del 3,75%-4%. Varios miembros del comité alertaron de presiones inflacionarias adicionales ligadas al gasto en infraestructura de IA.",
-   "porQue": "Un giro restrictivo en EE.UU. encarecería la deuda soberana y corporativa a escala internacional y presionaría las divisas de economías emergentes.",
-   "pilar": "economia",
-   "etiquetas": [
-    "fed",
-    "tipos de interés",
-    "eeuu",
-    "inflación"
-   ],
-   "importancia": 7,
-   "fuente": "20minutos",
-   "fuentes": [
-    "20minutos",
-    "Europa Press Economía"
-   ],
-   "url": "https://www.20minutos.es/lainformacion/economia-y-finanzas/las-actas-reserva-federal-abren-puerta-subir-los-tipos-por-encima-25-puntos-diciembre_7062876_0.html",
-   "fecha": "2026-11-18T20:21:28.000Z",
-   "ultimaHora": false,
-   "reaccion": ""
-  },
-  {
-   "id": "b3098d3a3447",
-   "titulo": "Bruselas propone prestar 45.000 millones de euros a Ucrania en 2027",
-   "resumen": "La Comisión Europea ha presentado un paquete de préstamos para cubrir casi dos tercios de las necesidades presupuestarias y militares de Kiev, calculadas en 70.000 millones. La propuesta busca garantizar la estabilidad financiera del país a medio plazo.",
-   "porQue": "Blinda el respaldo comunitario frente a la incertidumbre presupuestaria en Washington y consolida la carga financiera de la guerra en la UE.",
-   "pilar": "geopolitica",
-   "etiquetas": [
-    "ucrania",
-    "comisión europea",
-    "guerra",
-    "finanzas"
-   ],
-   "importancia": 7,
-   "fuente": "Europa Press Economía",
-   "fuentes": [
-    "Europa Press Economía",
-    "DW Español"
-   ],
-   "url": "https://www.europapress.es/economia/noticia-bruselas-propone-nuevo-prestamo-45000-ucrania-2027-20261118113512.html",
-   "fecha": "2026-11-18T16:27:00.000Z",
-   "ultimaHora": false,
-   "reaccion": ""
-  },
-  {
-   "id": "d7c60e3a06f5",
-   "titulo": "Un misil ucraniano destruye más de 200 metros del puente de Crimea",
-   "resumen": "Nuevas imágenes verificadas confirman que un ataque ucraniano derribó un tramo de 200 metros de la calzada del puente del estrecho de Kerch. La vía rodada ha quedado totalmente intransitable, aunque la estructura ferroviaria se mantiene bajo inspección.",
-   "porQue": "Corta la principal arteria logística para el reabastecimiento militar de las tropas rusas apostadas en el sur ocupado de Ucrania.",
-   "pilar": "geopolitica",
-   "etiquetas": [
-    "ucrania",
-    "rusia",
-    "crimea",
-    "defensa"
-   ],
-   "importancia": 7,
-   "fuente": "El País",
-   "fuentes": [
-    "El País",
-    "El País Internacional"
-   ],
-   "url": "https://elpais.com/internacional/2026-11-18/verificacion-el-ataque-de-ucrania-destruyo-mas-de-200-metros-del-sector-central-y-mas-iconico-del-puente-de-crimea.html",
-   "fecha": "2026-11-18T17:40:48.000Z",
-   "ultimaHora": false,
-   "reaccion": ""
-  },
-  {
-   "id": "c6b2b2f09f69",
-   "titulo": "España fija el fin del petróleo y el gas para 2050 en su plan climático",
-   "resumen": "El Gobierno ha presentado en la cumbre climática su hoja de ruta energética para alcanzar un 100% de generación eléctrica renovable en 2040 y erradicar por completo los combustibles fósiles en 2050. El cumplimiento dependerá de las inversiones legisladas en los próximos ciclos.",
-   "porQue": "Marca el calendario oficial de transición industrial e inversora en España para las próximas dos décadas y media.",
-   "pilar": "global",
-   "etiquetas": [
-    "clima",
-    "energía",
-    "españa",
-    "renovables"
-   ],
-   "importancia": 7,
-   "fuente": "El País Clima",
-   "fuentes": [
-    "El País Clima",
-    "El País"
-   ],
-   "url": "https://elpais.com/clima-y-medio-ambiente/2026-11-18/espana-traza-su-ruta-para-dejar-los-combustibles-100-de-electricidad-renovable-en-2040-y-nada-de-petroleo-y-gas-en-2050.html",
-   "fecha": "2026-11-18T18:34:05.000Z",
-   "ultimaHora": false,
-   "reaccion": ""
-  },
-  {
-   "id": "366c11dbc400",
-   "titulo": "Transportes y los grandes sindicatos pactan medidas pero Semaf mantiene la huelga",
-   "resumen": "UGT, CC OO y SCF han alcanzado un acuerdo con el Ministerio para reforzar las plantillas propias de Adif y revisar la seguridad en vías. Sin embargo, el sindicato de maquinistas Semaf no se adhiere y mantiene los paros previstos para el próximo lunes.",
-   "porQue": "Aunque reduce la conflictividad general, la huelga de maquinistas amenaza con causar graves retrasos en Cercanías y Rodalies la próxima semana.",
-   "pilar": "economia",
-   "etiquetas": [
-    "trenes",
-    "transporte",
-    "huelga",
-    "españa"
-   ],
-   "importancia": 6,
-   "fuente": "Cinco Días",
-   "fuentes": [
-    "Cinco Días",
-    "El País Economía"
-   ],
-   "url": "https://elpais.com/economia/2026-11-18/los-sindicatos-ugt-cc-oo-y-el-ferroviario-scf-firman-la-paz-con-transportes-en-favor-de-reforzar-la-seguridad-en-las-vias.html",
-   "fecha": "2026-11-18T15:12:57.000Z",
-   "ultimaHora": false,
-   "reaccion": ""
-  },
-  {
-   "id": "d379a7e9ffaf",
-   "titulo": "La ola migratoria en El Hierro satura la red canaria con 3.313 menores",
-   "resumen": "La continua llegada de pateras a El Hierro ha desbordado los dispositivos de emergencia y elevado a 3.313 la cifra de menores tutelados por el Gobierno insular. El Ejecutivo central ha anunciado partidas extraordinarias ante las quejas por falta de traslados a la península.",
-   "porQue": "Evidencia el colapso asistencial en la frontera sur española y la falta de consenso autonómico para el reparto obligatorio de menores.",
-   "pilar": "global",
-   "etiquetas": [
-    "migración",
-    "canarias",
-    "españa",
-    "infancia"
-   ],
-   "importancia": 7,
    "fuente": "Europa Press",
    "fuentes": [
     "Europa Press",
-    "20minutos"
+    "El País Economía",
+    "Europa Press Economía",
+    "El Español Invertia"
    ],
-   "url": "https://www.europapress.es/islas-canarias/noticia-crisis-migratoria-hierro-eleva-3313-menores-acogidos-canarias-20261118181723.html",
-   "fecha": "2026-11-18T18:46:17.000Z",
+   "url": "https://www.europapress.es/economia/finanzas-00340/noticia-anthropic-fija-83-dolares-precio-salida-bolsa-mayor-opi-historia-20261119014905.html",
+   "fecha": "2026-11-19T00:49:05.000Z",
    "ultimaHora": false,
-   "reaccion": ""
+   "reaccion": "La fuerte demanda de los inversores institucionales ha disipado a corto plazo las especulaciones sobre un eventual pinchazo de la burbuja en el sector de la IA."
   },
   {
-   "id": "0a1613c1a615",
-   "titulo": "Indígenas awá aislados salen de la selva brasileña cercados por furtivos",
-   "resumen": "Una veintena de nativos del pueblo awá, uno de los grupos más vulnerables del planeta, han abandonado su aislamiento en el Amazonas para demandar alimentos. Grupos de madereros y ganaderos ilegales han diezmado su territorio de caza y recolección.",
-   "porQue": "Ilustra el punto crítico de supervivencia de las últimas comunidades aisladas y la persistente degradación del bioma amazónico.",
+   "id": "2f5503f274ed",
+   "titulo": "La CIJ da por probado el asesinato de 10.000 rohinyás a manos de Birmania",
+   "resumen": "El máximo tribunal de Naciones Unidas confirmó judicialmente las matanzas masivas de civiles de la minoría musulmana rohinyá perpetradas por el ejército birmano en 2017. Pese a acreditar la sistematicidad de los crímenes, el fallo evita de momento emplear formalmente el término genocidio.",
+   "porQue": "Marca un hito jurídico internacional indispensable para exigir reparaciones y procesar penalmente a la cúpula militar birmana.",
    "pilar": "global",
    "etiquetas": [
-    "amazonas",
-    "indígenas",
-    "brasil",
-    "medio ambiente"
-   ],
-   "importancia": 7,
-   "fuente": "El País",
-   "fuentes": [
-    "El País",
-    "El País Internacional"
-   ],
-   "url": "https://elpais.com/internacional/2026-11-18/unas-imagenes-ineditas-en-30-anos-de-un-contacto-con-indigenas-aislados-subrayan-las-amenazas-a-la-amazonia-en-brasil.html",
-   "fecha": "2026-11-18T19:50:50.000Z",
-   "ultimaHora": false,
-   "reaccion": ""
-  },
-  {
-   "id": "472e2e82a2bb",
-   "titulo": "La Corte Internacional de Justicia decide si Myanmar cometió genocidio",
-   "resumen": "El máximo tribunal de Naciones Unidas emitirá este jueves su sentencia definitiva sobre la acusación contra el Estado birmano por genocidio de la minoría rohinyá. El proceso examina las matanzas y la expulsión de más de 700.000 personas en 2017.",
-   "porQue": "Sentará jurisprudencia internacional clave sobre la responsabilidad estatal ante atrocidades masivas y crímenes de lesa humanidad.",
-   "pilar": "global",
-   "etiquetas": [
+    "onu",
     "derechos humanos",
-    "tij",
-    "myanmar",
-    "onu"
-   ],
-   "importancia": 7,
-   "fuente": "El País",
-   "fuentes": [
-    "El País",
-    "El País Internacional"
-   ],
-   "url": "https://elpais.com/internacional/2026-11-18/ha-cometido-myanmar-un-genocidio-contra-los-rohinyas-el-maximo-organo-judicial-de-la-onu-resolvera-este-jueves.html",
-   "fecha": "2026-11-18T17:25:13.000Z",
-   "ultimaHora": false,
-   "reaccion": ""
-  },
-  {
-   "id": "ef28fb89fd52",
-   "titulo": "Nvidia retrocede en bolsa tras sus resultados y sacude al sector de servidores",
-   "resumen": "Las acciones de Nvidia han caído con fuerza tras presentar cuentas financieras, arrastrando a operadores de centros de datos como CoreWeave e Iren. Las dudas giran en torno a la sostenibilidad de los márgenes y la transición de liderazgo tras la salida de Jensen Huang.",
-   "porQue": "Un frenazo en el gigante de chips impacta de lleno en las valoraciones de todo el ecosistema de computación para inteligencia artificial.",
-   "pilar": "economia",
-   "etiquetas": [
-    "nvidia",
-    "chips",
-    "bolsa",
-    "ia"
-   ],
-   "importancia": 7,
-   "fuente": "CNBC",
-   "fuentes": [
-    "CNBC"
-   ],
-   "url": "https://www.cnbc.com/2026/11/18/nvidia-stock-earnings.html",
-   "fecha": "2026-11-18T20:21:07.000Z",
-   "ultimaHora": false,
-   "reaccion": ""
-  },
-  {
-   "id": "879c59d879df",
-   "titulo": "La CEO interina de Nvidia reúne a la plantilla y ofrece subidas salariales",
-   "resumen": "Colette Kress ha liderado su primera asamblea general con empleados de Nvidia tras la renuncia del fundador Jensen Huang. La ejecutiva instó a la estabilidad y anunció aumentos salariales para retener el talento técnico clave.",
-   "porQue": "Busca aplacar el nerviosismo interno en la empresa más valiosa de semiconductores en plena batalla global por el hardware.",
-   "pilar": "tecnologia",
-   "etiquetas": [
-    "nvidia",
-    "tecnología",
-    "liderazgo",
-    "chips"
-   ],
-   "importancia": 6,
-   "fuente": "CNBC",
-   "fuentes": [
-    "CNBC"
-   ],
-   "url": "https://www.cnbc.com/2026/11/18/nvidia-interim-ceo-kress-addresses-staff-after-jensen-huang-exit-.html",
-   "fecha": "2026-11-18T19:21:59.000Z",
-   "ultimaHora": false,
-   "reaccion": ""
-  },
-  {
-   "id": "942df5e1cc0d",
-   "titulo": "Waymo suspende el servicio de taxis autónomos en todas las autopistas de EE.UU.",
-   "resumen": "La filial de Alphabet ha decidido retirar sus vehículos sin conductor de las vías rápidas tras la prohibición decretada por California por incidentes viales. La medida supone un retroceso severo en el despliegue comercial del transporte autónomo de pasajeros.",
-   "porQue": "Frena la expansión nacional del coche autónomo y abre interrogantes sobre la madurez de estos sistemas a altas velocidades.",
-   "pilar": "tecnologia",
-   "etiquetas": [
-    "waymo",
-    "conducción autónoma",
-    "tecnología",
-    "transporte"
-   ],
-   "importancia": 6,
-   "fuente": "BBC World",
-   "fuentes": [
-    "BBC World",
-    "BBC Business"
-   ],
-   "url": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss",
-   "fecha": "2026-11-18T03:07:22.000Z",
-   "ultimaHora": false,
-   "reaccion": ""
-  },
-  {
-   "id": "2ff1d41d4132",
-   "titulo": "EE.UU. pierde su estatus de país libre de sarampión tras 26 años",
-   "resumen": "Las autoridades sanitarias federales han confirmado la pérdida del estatus de erradicación del sarampión a causa del mayor brote epidemiológico en tres décadas. La caída en las coberturas de vacunación infantil en varios estados aceleró el contagio comunitario.",
-   "porQue": "Refleja el impacto directo del escepticismo vacunal en la salud pública de una de las principales potencias sanitarias.",
-   "pilar": "global",
-   "etiquetas": [
-    "salud",
-    "sarampión",
-    "vacunas",
-    "eeuu"
-   ],
-   "importancia": 6,
-   "fuente": "Al Jazeera",
-   "fuentes": [
-    "Al Jazeera"
-   ],
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/aje-onl-nf_us-loses-measles-free-status-after-26-years-181126?traffic_source=rss",
-   "fecha": "2026-11-18T20:18:25.000Z",
-   "ultimaHora": false,
-   "reaccion": ""
-  },
-  {
-   "id": "ad3ebddfe141",
-   "titulo": "Los demócratas amplían a 56 escaños su control del Senado tras ganar Alaska",
-   "resumen": "La victoria de Mary Peltola en Alaska cierra el recuento final de las elecciones legislativas estadounidenses, asegurando a los demócratas una sólida mayoría de 56 asientos en la Cámara alta. La cifra otorga margen de maniobra para nombramientos judiciales hasta 2028.",
-   "porQue": "Garantiza un contrapeso legislativo determinante frente a la agenda republicana en Washington.",
-   "pilar": "geopolitica",
-   "etiquetas": [
-    "eeuu",
-    "senado",
-    "elecciones",
-    "congreso"
-   ],
-   "importancia": 6,
-   "fuente": "El País Internacional",
-   "fuentes": [
-    "El País Internacional"
-   ],
-   "url": "https://elpais.com/us/2026-11-18/con-alaska-los-democratas-firman-una-reconquista-del-senado-inedita-en-casi-70-anos.html",
-   "fecha": "2026-11-18T19:26:49.000Z",
-   "ultimaHora": false,
-   "reaccion": ""
-  },
-  {
-   "id": "cb2b474b8707",
-   "titulo": "Los demócratas eligen a Hakeem Jeffries para liderar la Cámara Baja",
-   "resumen": "El grupo parlamentario demócrata ha oficializado la candidatura del congresista neoyorquino Hakeem Jeffries como ‘speaker’. Pese a ciertas reservas del flanco progresista por su perfil moderado, Jeffries se convertirá en el primer afroamericano en presidir la cámara.",
-   "porQue": "Consolida el relevo generacional en la cúpula demócrata y marcará la estrategia opositora ante la administración Trump.",
-   "pilar": "geopolitica",
-   "etiquetas": [
-    "eeuu",
-    "congreso",
-    "demócratas",
-    "política"
-   ],
-   "importancia": 6,
-   "fuente": "El País",
-   "fuentes": [
-    "El País",
-    "La Vanguardia",
-    "El País Internacional"
-   ],
-   "url": "https://elpais.com/us/2026-11-18/los-democratas-proponen-a-hakeem-jefferies-como-primer-presidente-negro-de-la-camara-de-representantes-en-el-nuevo-congreso.html",
-   "fecha": "2026-11-18T16:43:01.000Z",
-   "ultimaHora": false,
-   "reaccion": ""
-  },
-  {
-   "id": "ee7b14dff891",
-   "titulo": "Pete Hegseth viaja a Caracas y anuncia cooperación militar con Venezuela",
-   "resumen": "El secretario de Defensa estadounidense ha visitado por primera vez Venezuela tras la operación especial que capturó al expresidente Nicolás Maduro. Hegseth calificó la acción de hito y acordó con los mandos interinos estrechar los vínculos castrenses con Washington.",
-   "porQue": "Confirma el giro radical en la geopolítica sudamericana y la alineación tutelada de las fuerzas armadas venezolanas con EE.UU.",
-   "pilar": "geopolitica",
-   "etiquetas": [
-    "venezuela",
-    "eeuu",
-    "defensa",
-    "geopolítica"
-   ],
-   "importancia": 7,
-   "fuente": "The Guardian World",
-   "fuentes": [
-    "The Guardian World"
-   ],
-   "url": "https://www.theguardian.com/world/2026/nov/18/pete-hegseth-venezuela-nicolas-maduro-military",
-   "fecha": "2026-11-18T20:24:19.000Z",
-   "ultimaHora": false,
-   "reaccion": ""
-  },
-  {
-   "id": "7d51b3080ebd",
-   "titulo": "La Diputación Permanente convalida siete decretos de protección social",
-   "resumen": "El Congreso ha aprobado con amplio respaldo los decretos de urgencia destinados a ayudas por las danas, apoyo a Ceuta, familias monomarentales e indemnizaciones por accidentes ferroviarios. La votación se desarrolló entre acusaciones cruzadas de electoralismo.",
-   "porQue": "Garantiza fondos asistenciales clave para miles de afectados por desastres climáticos y colectivos vulnerables en España.",
-   "pilar": "economia",
-   "etiquetas": [
-    "congreso",
-    "españa",
-    "política social",
-    "ayudas"
-   ],
-   "importancia": 6,
-   "fuente": "El País",
-   "fuentes": [
-    "El País",
-    "El País España"
-   ],
-   "url": "https://elpais.com/espana/2026-11-18/el-congreso-aprueba-siete-decretos-sociales-con-un-amplisimo-respaldo-pero-entre-criticas-de-campana.html",
-   "fecha": "2026-11-18T17:10:51.000Z",
-   "ultimaHora": false,
-   "reaccion": ""
-  },
-  {
-   "id": "d6d5307aa417",
-   "titulo": "La justicia concluye que Isak Andic apartó a su hijo de Mango sin móvil económico",
-   "resumen": "Nuevas revelaciones judiciales señalan que el fundador de Mango diseñó junto a su terapeuta una estrategia para apartar a su hijo Jonathan de la cúpula del grupo textil. El tribunal determinó que el primogénito ignoraba la maniobra y desestimó el lucro patrimonial.",
-   "porQue": "Afecta a la gobernanza y al relevo familiar de una de las mayores multinacionales de moda con sede en Cataluña.",
-   "pilar": "economia",
-   "etiquetas": [
-    "mango",
-    "empresas",
-    "cataluña",
+    "birmania",
     "justicia"
    ],
-   "importancia": 5,
-   "fuente": "El País",
-   "fuentes": [
-    "El País",
-    "Europa Press",
-    "La Vanguardia",
-    "Cinco Días"
-   ],
-   "url": "https://elpais.com/espana/catalunya/2026-11-18/isak-andic-tramo-con-la-terapeuta-un-plan-para-apartar-definitivamente-a-su-hijo-jonathan-de-mango.html",
-   "fecha": "2026-11-18T18:27:28.000Z",
-   "ultimaHora": false,
-   "reaccion": ""
-  },
-  {
-   "id": "88152ddb8f72",
-   "titulo": "La Audiencia Nacional asume el caso Forestalia por sus nexos políticos",
-   "resumen": "Un juzgado de Teruel se ha inhibido a favor de la Audiencia Nacional al detectar conexiones entre el caso Forestalia y la trama de Leire Díez. La causa investiga presuntas adjudicaciones irregulares en proyectos renovables ligadas a empresarios afines a la cúpula del PSOE.",
-   "porQue": "Eleva al máximo tribunal de instrucción las sospechas sobre favoritismos en la tramitación de macroparques energéticos.",
-   "pilar": "economia",
-   "etiquetas": [
-    "justicia",
-    "corrupción",
-    "renovables",
-    "españa"
-   ],
-   "importancia": 5,
-   "fuente": "El País",
-   "fuentes": [
-    "El País",
-    "Cinco Días"
-   ],
-   "url": "https://elpais.com/espana/2026-11-18/un-juez-de-teruel-envia-el-caso-forestalia-a-la-audiencia-nacional-por-la-conexion-con-el-caso-leire-diez.html",
-   "fecha": "2026-11-18T16:47:55.000Z",
-   "ultimaHora": false,
-   "reaccion": ""
-  },
-  {
-   "id": "a112542e179a",
-   "titulo": "España bate su récord de temperatura tardía con 32,2 ºC en Murcia",
-   "resumen": "La estación meteorológica de Murcia registró este miércoles 32,2 grados, superando el máximo histórico peninsular para la segunda quincena de noviembre registrado en 2009. Las anomalías térmicas positivas han persistido en todo el arco mediterráneo.",
-   "porQue": "Confirma la recurrencia de episodios de calor fuera de temporada en la península ibérica atribuibles al calentamiento global.",
-   "pilar": "global",
-   "etiquetas": [
-    "clima",
-    "temperaturas",
-    "españa",
-    "sequía"
-   ],
-   "importancia": 5,
+   "importancia": 8,
    "fuente": "20minutos",
    "fuentes": [
     "20minutos"
    ],
-   "url": "https://www.20minutos.es/nacional/espana-peninsular-supera-los-32-grados-mas-tardios-desde-que-hay-datos_7062870_0.html",
-   "fecha": "2026-11-18T20:01:19.000Z",
+   "url": "https://www.20minutos.es/internacional/corte-internacional-justicia-considera-probado-asesinato-10-000-rohinyas-ofensiva-2017-birmania_7063018_0.html",
+   "fecha": "2026-11-19T09:51:17.000Z",
    "ultimaHora": false,
-   "reaccion": ""
+   "reaccion": "Colectivos de derechos humanos y líderes de la diáspora rohinyá han celebrado la condena judicial de los hechos, aunque lamentan la cautela del tribunal al evitar tipificarlo como genocidio."
   },
   {
-   "id": "371d4074c9b5",
-   "titulo": "La fintech Payhawk cierra una ronda de 280 millones y eleva su valor a 2.000M$",
-   "resumen": "La plataforma de gestión financiera y pagos corporativos Payhawk ha cerrado una ronda de financiación Serie C de 280 millones de dólares. La empresa integrará agentes autónomos de IA para auditar gastos empresariales y tramitar adquisiciones.",
-   "porQue": "Demuestra la solidez del apetito inversor por herramientas corporativas que combinan fintech e inteligencia artificial autónoma.",
-   "pilar": "emprendimiento",
-   "etiquetas": [
-    "startups",
-    "fintech",
-    "financiación",
-    "ia"
-   ],
-   "importancia": 5,
-   "fuente": "TechCrunch",
-   "fuentes": [
-    "TechCrunch"
-   ],
-   "url": "https://techcrunch.com/2026/11/18/spend-management-platform-payhawk-announces-280m-raise-2b-valuation/",
-   "fecha": "2026-11-18T19:29:41.000Z",
-   "ultimaHora": false,
-   "reaccion": ""
-  },
-  {
-   "id": "a3aa46a92b21",
-   "titulo": "Repsol adquiere activos petrolíferos en el Mar del Norte por 874 millones",
-   "resumen": "A través de su filial conjunta Neo Next+, Repsol ha comprado los pozos marinos de EnQuest en aguas de Reino Unido. La operación suma más de 31.000 barriles diarios de crudo a su cartera para maximizar generación de caja a corto plazo.",
-   "porQue": "Refuerza los activos tradicionales de la energética española en Europa mientras financia su cartera de descarbonización.",
-   "pilar": "economia",
-   "etiquetas": [
-    "repsol",
-    "petróleo",
-    "energía",
-    "empresas"
-   ],
-   "importancia": 5,
-   "fuente": "Cinco Días",
-   "fuentes": [
-    "Cinco Días"
-   ],
-   "url": "https://cincodias.elpais.com/companias/2026-11-18/repsol-y-sus-socios-en-reino-unido-compran-por-874-millones-los-pozos-petroliferos-de-enquest-en-el-mar-del-norte.html",
-   "fecha": "2026-11-18T19:58:48.000Z",
-   "ultimaHora": false,
-   "reaccion": ""
-  },
-  {
-   "id": "8a40891885c2",
-   "titulo": "El estreno de GTA VI supera los 1.500 millones en ingresos y satura servidores",
-   "resumen": "Rockstar Games ha lanzado comercialmente Grand Theft Auto VI, alcanzando críticas excelentes y una recaudación récord en reservas anticipadas. El pico de descargas simultáneas provocó la caída general de la red PlayStation Network en todo el mundo.",
-   "porQue": "Se consolida como el mayor lanzamiento comercial de la historia del entretenimiento digital y tensa las infraestructuras cloud.",
-   "pilar": "tecnologia",
-   "etiquetas": [
-    "videojuegos",
-    "tecnología",
-    "playstation",
-    "cultura"
-   ],
-   "importancia": 5,
-   "fuente": "DW Español",
-   "fuentes": [
-    "DW Español"
-   ],
-   "url": "https://www.dw.com/es/rockstar-lanza-gta-vi-y-desata-una-fiebre-global-entre-los-jugadores/a-79986047?maca=spa-rss-sp-all-1122-rdf",
-   "fecha": "2026-11-18T19:34:00.000Z",
-   "ultimaHora": false,
-   "reaccion": ""
-  },
-  {
-   "id": "be28d25a0e42",
-   "titulo": "Fugas simuladas en la IA 'Muse' de Meta desatan la alarma entre sus empleados",
-   "resumen": "Mensajes internos de Meta muestran la preocupación de ingenieros por salidas erráticas de su nuevo modelo Muse, que exhibía supuestos balances bancarios y carteras de criptomonedas. La compañía afirma que los datos son alucinaciones sintéticas y no información real.",
-   "porQue": "Pone de relieve la dificultad técnica de garantizar la privacidad y contención de datos en modelos multimodales complejos.",
-   "pilar": "tecnologia",
-   "etiquetas": [
-    "meta",
-    "ia",
-    "privacidad",
-    "ciberseguridad"
-   ],
-   "importancia": 5,
-   "fuente": "Ars Technica",
-   "fuentes": [
-    "Ars Technica"
-   ],
-   "url": "https://arstechnica.com/tech-policy/2026/11/muse-privacy-invasions-are-freaking-out-meta-staffers-internal-chats-show/",
-   "fecha": "2026-11-18T19:19:33.000Z",
-   "ultimaHora": false,
-   "reaccion": ""
-  },
-  {
-   "id": "834d0a321b5f",
-   "titulo": "La sonda Voyager 1 alcanza una distancia de un día luz de la Tierra",
-   "resumen": "Tras 49 años de travesía en el espacio interestelar, el vehículo de la NASA ha superado las 16.000 millones de millas de distancia, lo que equivale a un tiempo de propagación de su señal de 24 horas. Sigue enviando datos científicos con instrumentos operativos básicos.",
-   "porQue": "Marca un hito tecnológico histórico en la exploración humana más allá de los límites del sistema solar.",
-   "pilar": "tecnologia",
-   "etiquetas": [
-    "espacio",
-    "nasa",
-    "ciencia",
-    "astronomía"
-   ],
-   "importancia": 5,
-   "fuente": "Al Jazeera",
-   "fuentes": [
-    "Al Jazeera"
-   ],
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/voyager-1-reaches-one-light-day-from-earth-after-49-years-in-space?traffic_source=rss",
-   "fecha": "2026-11-18T19:30:51.000Z",
-   "ultimaHora": false,
-   "reaccion": ""
-  },
-  {
-   "id": "966121d632c4",
-   "titulo": "Denuncian la venta de créditos de carbono basados en 'bosques fantasma' en Australia",
-   "resumen": "Una investigación de organizaciones ambientales expone que millones de créditos de compensación de emisiones en Australia se emitieron sobre zonas áridas sin masa forestal real verificada. Las certificadoras niegan irregularidades pese a imágenes satelitales.",
-   "porQue": "Cuestiona la validez de los mercados voluntarios de carbono utilizados por grandes multinacionales para proclamar neutralidad climática.",
-   "pilar": "global",
-   "etiquetas": [
-    "carbono",
-    "clima",
-    "fraude",
-    "sostenibilidad"
-   ],
-   "importancia": 6,
-   "fuente": "The Guardian Clima",
-   "fuentes": [
-    "The Guardian Clima",
-    "The Guardian World"
-   ],
-   "url": "https://www.theguardian.com/environment/2026/nov/18/phantom-forests-in-australian-arid-outback-used-to-create-carbon-credits-meant-to-offset-emissions-report-claims",
-   "fecha": "2026-11-18T09:30:36.000Z",
-   "ultimaHora": false,
-   "reaccion": ""
-  },
-  {
-   "id": "7545245e638b",
-   "titulo": "El Congreso de EE.UU. investiga al secretario Lutnick por vínculos con Nvidia",
-   "resumen": "Comités legislativos han abierto pesquisas sobre Howard Lutnick por no incluir a la firma Megaspeed en la lista negra comercial estadounidense. El informe apunta a un posible conflicto de interés relacionado con intereses financieros en proveedores de chips.",
-   "porQue": "Aumenta la fiscalización sobre las decisiones comerciales estratégicas de Washington en la guerra tecnológica con Pekín.",
-   "pilar": "geopolitica",
-   "etiquetas": [
-    "eeuu",
-    "comercio",
-    "chips",
-    "geopolítica"
-   ],
-   "importancia": 5,
-   "fuente": "Al Jazeera",
-   "fuentes": [
-    "Al Jazeera"
-   ],
-   "url": "https://www.aljazeera.com/economy/2026/11/18/us-lawmakers-launch-probe-into-lutnicks-actions-amid-nvidia-scandal?traffic_source=rss",
-   "fecha": "2026-11-18T20:14:04.000Z",
-   "ultimaHora": false,
-   "reaccion": ""
-  },
-  {
-   "id": "363e00042c11",
-   "titulo": "Lluvias torrenciales provocan severas inundaciones en el sur de Florida",
-   "resumen": "Precipitaciones extremas han anegado distritos urbanos en los condados de Broward y Miami-Dade, forzando la clausura de centros educativos y perturbando aeropuertos. Los equipos de rescate asisten a vecindarios enteros bloqueados por el nivel de agua.",
-   "porQue": "Subraya la vulnerabilidad de las metrópolis costeras ante fenómenos meteorológicos exacerbados por el alza del nivel del mar.",
-   "pilar": "global",
-   "etiquetas": [
-    "inundaciones",
-    "clima",
-    "eeuu",
-    "desastres"
-   ],
-   "importancia": 5,
-   "fuente": "BBC Ciencia y Medio Ambiente",
-   "fuentes": [
-    "BBC Ciencia y Medio Ambiente"
-   ],
-   "url": "https://www.bbc.co.uk/news/videos/crgj3205jv98o?at_medium=RSS&at_campaign=rss",
-   "fecha": "2026-11-18T20:29:18.000Z",
-   "ultimaHora": false,
-   "reaccion": ""
-  },
-  {
-   "id": "bccb191ac878",
-   "titulo": "Bombardeos rusos causan cuatro muertos y trece heridos en el puerto de Odesa",
-   "resumen": "Ataques con drones y proyectiles rusos han alcanzado almacenes e instalaciones portuarias en la ciudad ucraniana de Odesa. Las autoridades locales informan de al menos cuatro trabajadores fallecidos y graves daños logísticos en muelles exportadores.",
-   "porQue": "Mantiene la presión militar sobre las exportaciones marítimas de grano ucranianas en el mar Negro.",
-   "pilar": "geopolitica",
-   "etiquetas": [
-    "ucrania",
-    "rusia",
-    "odesa",
-    "guerra"
-   ],
-   "importancia": 6,
-   "fuente": "Al Jazeera",
-   "fuentes": [
-    "Al Jazeera"
-   ],
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/four-killed-as-russian-strikes-hit-ukraines-odesa?traffic_source=rss",
-   "fecha": "2026-11-18T19:31:31.000Z",
-   "ultimaHora": false,
-   "reaccion": ""
-  },
-  {
-   "id": "52301ce6961d",
-   "titulo": "El Real Madrid de baloncesto encadena su quinta derrota europea en Estambul",
-   "resumen": "El equipo blanco cayó por 83-79 ante el Besiktas en la Euroliga tras un encuentro dominado por los turcos. El tropiezo agrava las dudas competitivas del cuadro de Pedro Martínez en la fase regular del torneo continental.",
-   "porQue": "Pone en peligro la clasificación directa a cuartos y tensa la dinámica deportiva del club en Europa.",
-   "pilar": "deporte",
-   "etiquetas": [
-    "baloncesto",
-    "real madrid",
-    "euroliga",
-    "deporte"
-   ],
-   "importancia": 4,
-   "fuente": "El País",
-   "fuentes": [
-    "El País",
-    "El País Deportes"
-   ],
-   "url": "https://elpais.com/deportes/baloncesto/2026-11-18/un-madrid-irreconocible-se-diluye-en-estambul-contra-el-besiktas.html",
-   "fecha": "2026-11-18T19:48:20.000Z",
-   "ultimaHora": false,
-   "reaccion": ""
-  },
-  {
-   "id": "3b8f99bf84b1",
-   "titulo": "Luis Rubiales tantea apoyos federativos tras cumplir tres años de sanción",
-   "resumen": "Finalizada la inhabilitación impuesta tras el Mundial femenino de 2023, Luis Rubiales ha sondeado a barones territoriales para promover una moción de censura contra Rafael Louzán en la RFEF. Representantes federativos descartan por ahora viabilidad a sus planes.",
-   "porQue": "Podría reabrir la inestabilidad institucional en el órgano rector del fútbol español en vísperas del Mundial 2030.",
-   "pilar": "deporte",
-   "etiquetas": [
-    "fútbol",
-    "rfef",
-    "rubiales",
-    "españa"
-   ],
-   "importancia": 4,
-   "fuente": "El País",
-   "fuentes": [
-    "El País",
-    "El País Deportes"
-   ],
-   "url": "https://elpais.com/deportes/futbol/2026-11-18/luis-rubiales-ya-puede-ejercer-cargos-en-el-futbol-y-tantea-una-mocion-de-censura-contra-rafael-louzan-para-recuperar-el-trono-de-la-rfef.html",
-   "fecha": "2026-11-18T16:59:28.000Z",
-   "ultimaHora": false,
-   "reaccion": ""
-  },
-  {
-   "id": "45d8abddf0bb",
-   "titulo": "Anthropic debuta en Bolsa con 1,5 billones de valoración tras superar a SpaceX",
-   "resumen": "La empresa de inteligencia artificial Anthropic ha fijado su estreno bursátil en el Nasdaq con un precio de 83 dólares por acción tras recaudar más de 81.000 millones de dólares en la mayor salida a Bolsa de la historia, desbancando a SpaceX. La fuerte demanda de los inversores ha permitido ampliar la oferta un 19%.",
-   "porQue": "Marca un hito histórico en la financiación del sector de la inteligencia artificial y consolida la valoración récord de los gigantes tecnológicos actuales.",
-   "pilar": "economia",
-   "etiquetas": [
-    "ia",
-    "bolsa",
-    "anthropic",
-    "tecnologia"
-   ],
-   "importancia": 9,
-   "fuente": "El País",
-   "fuentes": [
-    "El País",
-    "Cinco Días",
-    "El País Economía"
-   ],
-   "url": "https://elpais.com/economia/2026-11-18/anthropic-desbanca-a-spacex-y-protagoniza-la-mayor-salida-a-bolsa-de-la-historia.html",
-   "fecha": "2026-11-19T00:25:13.000Z",
-   "ultimaHora": true,
-   "reaccion": ""
-  },
-  {
-   "id": "8fe81af2c81d",
-   "titulo": "EE. UU. y Venezuela firman un nuevo acuerdo de cooperación militar",
-   "resumen": "El secretario de Defensa de EE. UU., Pete Hegseth, ha viajado a Caracas para sellar un acuerdo de reinicio de la cooperación militar bilateral. Esta visita oficial se produce diez meses después de la captura de Nicolás Maduro en una operación liderada por el propio dirigente estadounidense.",
-   "porQue": "Rediseña por completo el mapa geopolítico y de seguridad en América Latina tras la intervención directa de Washington en Venezuela.",
-   "pilar": "geopolitica",
-   "etiquetas": [
-    "venezuela",
-    "eeuu",
-    "geopolitica",
-    "defensa"
-   ],
-   "importancia": 8,
-   "fuente": "Al Jazeera",
-   "fuentes": [
-    "Al Jazeera"
-   ],
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/hegseth-unveils-new-us-venezuela-military-deal?traffic_source=rss",
-   "fecha": "2026-11-19T01:48:46.000Z",
-   "ultimaHora": true,
-   "reaccion": ""
-  },
-  {
-   "id": "dc8971aae4da",
-   "titulo": "Elon Musk se distancia de MAGA y admite que gastar en las elecciones fue un error",
-   "resumen": "Durante su intervención en la cumbre DealBook de The New York Times, Elon Musk ha asegurado que no forma parte del movimiento MAGA y ha calificado de 'bastante tonto' su récord de gasto financiero para apoyar a los republicanos en las elecciones de mitad de mandato.",
-   "porQue": "Representa un giro importante en la postura pública y las alianzas políticas del magnate tecnológico respecto al trumpismo.",
-   "pilar": "global",
-   "etiquetas": [
-    "elon musk",
-    "eeuu",
-    "politica",
-    "republicanos"
-   ],
-   "importancia": 7,
-   "fuente": "The Guardian World",
-   "fuentes": [
-    "The Guardian World"
-   ],
-   "url": "https://www.theguardian.com/us-news/2026/nov/18/elon-musk-maga-trump",
-   "fecha": "2026-11-19T01:07:51.000Z",
-   "ultimaHora": true,
-   "reaccion": ""
-  },
-  {
-   "id": "8944b9bf2f7d",
-   "titulo": "Nuevo ataque contra el puente de Crimea según autoridades rusas",
-   "resumen": "El gobernador impuesto por Moscú en Crimea ha informado de un nuevo ataque contra la infraestructura que une Rusia con la península anexionada. El tráfico ha quedado suspendido temporalmente mientras se evalúan los daños materiales en la zona.",
-   "porQue": "Intensifica la tensión en infraestructuras críticas del conflicto entre Rusia y Ucrania y afecta a las rutas logísticas militares.",
+   "id": "1db2571aced6",
+   "titulo": "Ucrania ataca por tercera vez el puente de Crimea y corta el tráfico de trenes",
+   "resumen": "Fuerzas ucranianas lanzaron una oleada combinada de misiles y drones que impactaron sobre la infraestructura ferroviaria del puente del estrecho de Kerch. La ofensiva se produjo de forma paralela a la reunión entre mandatarios en Shenzhen.",
+   "porQue": "Interrumpe la principal arteria logística para el reabastecimiento militar del contingente ruso en el sur de Ucrania.",
    "pilar": "geopolitica",
    "etiquetas": [
     "ucrania",
@@ -859,35 +115,707 @@
     "crimea"
    ],
    "importancia": 8,
-   "fuente": "BBC World",
+   "fuente": "elDiario.es",
    "fuentes": [
-    "BBC World"
+    "elDiario.es",
+    "20minutos"
    ],
-   "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
-   "fecha": "2026-11-19T01:05:03.000Z",
-   "ultimaHora": true,
-   "reaccion": ""
+   "url": "https://www.eldiario.es/internacional/ucrania-golpea-tercera-vez-puente-crimea-trump-putin-xi-reunen-china_1_13675832.html",
+   "fecha": "2026-11-19T09:33:41.000Z",
+   "ultimaHora": false,
+   "reaccion": "El tráfico rodado y ferroviario continúa suspendido mientras ingenieros militares rusos examinan la integridad estructural de los pilares alcanzados."
   },
   {
-   "id": "d8abb0b94743",
-   "titulo": "EE. UU. pierde su estatus de eliminación del sarampión tras registrar muertes",
-   "resumen": "Pensilvania ha registrado la octava muerte por sarampión del año en un paciente no vacunado, coincidiendo con la pérdida formal por parte de Estados Unidos de su estatus de territorio libre de sarampión tras 26 años de erradicación.",
-   "porQue": "Advierte sobre el peligro real del resurgimiento de enfermedades evitables debido a la caída de las tasas de vacunación.",
+   "id": "1aaebe7d96fe",
+   "titulo": "Las ONG declaran el colapso del plan de paz en Gaza tras los desplazamientos",
+   "resumen": "Organizaciones humanitarias denunciaron que dos millones de personas continúan atrapadas en un área reducida a menos de 130 kilómetros cuadrados en el centro y sur de la Franja. El confinamiento masivo y la falta de corredores seguros inutilizan cualquier esquema de ayuda.",
+   "porQue": "Profundiza una catástrofe de hambruna y epidemias sin precedentes para la población civil palestina.",
    "pilar": "global",
    "etiquetas": [
-    "salud",
-    "eeuu",
-    "vacunas",
-    "pandemias"
+    "gaza",
+    "crisis humanitaria",
+    "palestina",
+    "onu"
    ],
-   "importancia": 7,
+   "importancia": 8,
    "fuente": "Al Jazeera",
    "fuentes": [
     "Al Jazeera"
    ],
-   "url": "https://www.aljazeera.com/news/2026/11/19/unvaccinated-pennsylvania-resident-dies-amid-historic-us-measles-resurgence?traffic_source=rss",
-   "fecha": "2026-11-19T00:14:40.000Z",
-   "ultimaHora": true,
+   "url": "https://www.aljazeera.com/news/2026/11/19/displacement-by-design-trumps-gaza-peace-plan-a-failure-aid-groups-say?traffic_source=rss",
+   "fecha": "2026-11-19T10:05:33.000Z",
+   "ultimaHora": false,
+   "reaccion": "Representantes de Naciones Unidas insisten en que los corredores de ayuda son inoperantes sobre el terreno tras los últimos movimientos de tropas en la zona."
+  },
+  {
+   "id": "6785798f0fbd",
+   "titulo": "La crisis de vivienda amenaza con frenar el crecimiento económico de España",
+   "resumen": "Informes de analistas y advertencias de la Comisión Europea alertan del grave impacto que la escalada de precios del alquiler y compra tiene sobre la economía española. La dificultad para acceder a un techo reduce el consumo de los hogares y frena la movilidad laboral entre regiones.",
+   "porQue": "El desequilibrio inmobiliario pone en riesgo el principal motor de dinamismo laboral y bienestar de las familias en las grandes urbes españolas.",
+   "pilar": "economia",
+   "etiquetas": [
+    "vivienda",
+    "españa",
+    "economía",
+    "empleo"
+   ],
+   "importancia": 7,
+   "fuente": "Cinco Días",
+   "fuentes": [
+    "Cinco Días",
+    "El País Economía"
+   ],
+   "url": "https://elpais.com/economia/2026-11-19/menos-consumo-trabas-laborales-y-mas-desigualdad-la-crisis-de-la-vivienda-amenaza-con-enfriar-el-auge-economico-espanol.html",
+   "fecha": "2026-11-19T04:45:01.000Z",
+   "ultimaHora": false,
+   "reaccion": ""
+  },
+  {
+   "id": "a05971638f08",
+   "titulo": "Alemania y UniCredit alcanzan un principio de acuerdo sobre Commerzbank",
+   "resumen": "El Gobierno de Berlín y la directiva del banco italiano UniCredit pactaron los términos para la absorción de Commerzbank. La entidad italiana se compromete a salvaguardar los puestos de trabajo y retener la sede operativa en territorio alemán.",
+   "porQue": "Abre el camino a la mayor fusión bancaria transfronteriza de la Unión Europea desde la creación del euro.",
+   "pilar": "economia",
+   "etiquetas": [
+    "banca",
+    "alemania",
+    "fusiones",
+    "finanzas"
+   ],
+   "importancia": 7,
+   "fuente": "Cinco Días",
+   "fuentes": [
+    "Cinco Días"
+   ],
+   "url": "https://elpais.com/economia/2026-11-19/el-gobierno-aleman-y-unicredit-llegan-a-un-acuerdo-sobre-la-adquisicion-de-commerzbank.html",
+   "fecha": "2026-11-19T09:43:53.000Z",
+   "ultimaHora": false,
+   "reaccion": ""
+  },
+  {
+   "id": "2d8eb3a112c5",
+   "titulo": "El Gobierno fija para 2040 el objetivo de electricidad 100% renovable",
+   "resumen": "El Ministerio de Transición Ecológica presentó el borrador de su hoja de ruta energética para desterrar totalmente los combustibles fósiles del mix eléctrico antes de 2040. La medida busca acelerar las inversiones en almacenamiento masivo y redes de transporte.",
+   "porQue": "Condicionará las exigencias regulatorias y la planificación industrial de España durante las próximas dos décadas.",
+   "pilar": "global",
+   "etiquetas": [
+    "renovables",
+    "clima",
+    "energía",
+    "españa"
+   ],
+   "importancia": 7,
+   "fuente": "20minutos",
+   "fuentes": [
+    "20minutos"
+   ],
+   "url": "https://www.20minutos.es/nacional/gobierno-quiere-aprobar-antes-29-n-una-hoja-ruta-para-que-2040-toda-electricidad-se-genere-con-energia-renovable_7063010_0.html",
+   "fecha": "2026-11-19T09:41:16.000Z",
+   "ultimaHora": false,
+   "reaccion": "El Ejecutivo acelera los plazos de publicación para fijar los compromisos medioambientales antes de que concluya la actual legislatura electoral."
+  },
+  {
+   "id": "d5ba42fbe1ea",
+   "titulo": "El consumo eléctrico de los centros de datos se duplicará en 2030 por la IA",
+   "resumen": "Un informe de la Agencia Internacional de la Energía calcula que la demanda de electricidad vinculada a servidores e inteligencia artificial requerirá el doble de energía a finales de la década. El crecimiento tensionará los tendidos eléctricos en Estados Unidos, Europa y Asia.",
+   "porQue": "Obligará a una expansión colosal de potencia limpia para evitar que la digitalización dispare las emisiones fósiles.",
+   "pilar": "tecnologia",
+   "etiquetas": [
+    "ia",
+    "energía",
+    "centros de datos",
+    "clima"
+   ],
+   "importancia": 7,
+   "fuente": "CNBC",
+   "fuentes": [
+    "CNBC"
+   ],
+   "url": "https://www.cnbc.com/2026/11/19/data-center-electricity-demand-iea.html",
+   "fecha": "2026-11-19T10:22:10.000Z",
+   "ultimaHora": false,
+   "reaccion": ""
+  },
+  {
+   "id": "87fd25ae87d1",
+   "titulo": "Waymo retira sus taxis autónomos de las autopistas en Estados Unidos",
+   "resumen": "La división de vehículos autónomos de Alphabet suspendió las operaciones comerciales de sus taxis sin conductor en las autovías estadounidenses. La decisión se produjo tras una prohibición emitida por los reguladores de tráfico de California motivada por incidentes recientes.",
+   "porQue": "Representa un importante revés regulatorio y operativo para el despliegue a gran escala del transporte no tripulado.",
+   "pilar": "tecnologia",
+   "etiquetas": [
+    "conducción autónoma",
+    "waymo",
+    "tecnología",
+    "movilidad"
+   ],
+   "importancia": 7,
+   "fuente": "BBC World",
+   "fuentes": [
+    "BBC World",
+    "BBC Business"
+   ],
+   "url": "https://www.bbc.co.uk/news/videos/cmx2ryw97x4go?at_medium=RSS&at_campaign=rss",
+   "fecha": "2026-11-18T23:47:46.000Z",
+   "ultimaHora": false,
+   "reaccion": ""
+  },
+  {
+   "id": "50e95d8a0eee",
+   "titulo": "Rodalies, vivienda e inversiones copan el debate electoral en Barcelona",
+   "resumen": "Los cabezas de lista por la provincia de Barcelona confrontaron sus programas en el debate organizado por 'La Vanguardia' y RAC1 de cara a las elecciones del 29-N. La gestión de la red ferroviaria, la financiación autonómica y el mercado del alquiler centraron las críticas entre bloques.",
+   "porQue": "Pone de relieve las prioridades materiales que decidirán el voto decisivo en Cataluña.",
+   "pilar": "ultima",
+   "etiquetas": [
+    "barcelona",
+    "rodalies",
+    "elecciones",
+    "cataluña"
+   ],
+   "importancia": 7,
+   "fuente": "La Vanguardia",
+   "fuentes": [
+    "La Vanguardia"
+   ],
+   "url": "https://www.lavanguardia.com/politica/20261119/11687967/inversiones-rodalies-vivienda-focalizan-debate-catalan-ecuador-campana.html",
+   "fecha": "2026-11-19T09:39:18.000Z",
+   "ultimaHora": false,
+   "reaccion": ""
+  },
+  {
+   "id": "e2a1859ddb99",
+   "titulo": "Sánchez y Feijóo protagonizan el debate televisivo central del 29-N",
+   "resumen": "Los candidatos a la presidencia del Gobierno de PSOE y PP se enfrentan este jueves en el debate organizado por la Academia de Televisión. El cara a cara supone el momento de máxima audiencia de una campaña polarizada por los pactos parlamentarios y la fiscalidad.",
+   "porQue": "Puede inclinar la decisión final de los electores indecisos a diez días de la cita con las urnas.",
+   "pilar": "ultima",
+   "etiquetas": [
+    "elecciones",
+    "españa",
+    "política",
+    "debate"
+   ],
+   "importancia": 7,
+   "fuente": "El País",
+   "fuentes": [
+    "El País"
+   ],
+   "url": "https://elpais.com/television/2026-11-19/a-que-hora-y-donde-ver-el-debate-entre-sanchez-y-feijoo-todas-las-cadenas-que-emiten-el-cara-a-cara.html",
+   "fecha": "2026-11-19T09:58:00.000Z",
+   "ultimaHora": false,
+   "reaccion": ""
+  },
+  {
+   "id": "e0082bc12316",
+   "titulo": "El comercio 'online' asiático encarece precios por el arancel de la UE",
+   "resumen": "Plataformas como Amazon, Temu y AliExpress han aplicado un incremento medio del 11% en los envíos de bajo importe procedentes de fuera de la Unión Europea. La subida traslada a los usuarios el impacto de la nueva tasa comunitaria diseñada para frenar la competencia desleal.",
+   "porQue": "Aumentará el coste del comercio minorista transfronterizo y reordenará los hábitos de compra digital de millones de europeos.",
+   "pilar": "economia",
+   "etiquetas": [
+    "comercio",
+    "aranceles",
+    "ue",
+    "consumo"
+   ],
+   "importancia": 6,
+   "fuente": "Cinco Días",
+   "fuentes": [
+    "Cinco Días",
+    "El País Economía"
+   ],
+   "url": "https://elpais.com/economia/2026-11-19/amazon-temu-y-aliexpress-suben-precios-por-el-nuevo-arancel-europeo-a-los-pedidos-de-bajo-coste.html",
+   "fecha": "2026-11-19T06:00:00.000Z",
+   "ultimaHora": false,
+   "reaccion": ""
+  },
+  {
+   "id": "1b143fdade71",
+   "titulo": "Supervivientes del alud en Uganda denuncian su desamparo ante la ONU",
+   "resumen": "Afectados por los recientes desprendimientos de tierra mortíferos en el este de Uganda recurrieron a instancias de Naciones Unidas para exigir reparación. Rechazan los planes estatales de reubicación por considerar que vulneran sus derechos de propiedad comunal y medios de vida.",
+   "porQue": "Ejemplifica los conflictos territoriales y de derechos humanos derivados del aumento de catástrofes climáticas extremas en África.",
+   "pilar": "global",
+   "etiquetas": [
+    "uganda",
+    "clima",
+    "desastres",
+    "onu"
+   ],
+   "importancia": 6,
+   "fuente": "BBC Ciencia y Medio Ambiente",
+   "fuentes": [
+    "BBC Ciencia y Medio Ambiente",
+    "BBC World"
+   ],
+   "url": "https://www.bbc.co.uk/news/articles/c920xgxp5785o?at_medium=RSS&at_campaign=rss",
+   "fecha": "2026-11-19T09:21:54.000Z",
+   "ultimaHora": false,
+   "reaccion": ""
+  },
+  {
+   "id": "d412c50db1b7",
+   "titulo": "Elon Musk califica de insensato su gasto político y se distancia de MAGA",
+   "resumen": "El director ejecutivo de Tesla y SpaceX afirmó que gastar 446 millones de dólares en las recientes elecciones legislativas de Estados Unidos fue un error. Asimismo, declaró explícitamente que no se identifica con los postulados ideológicos del movimiento conservador de Donald Trump.",
+   "porQue": "Modifica la influencia del hombre más rico del mundo sobre la maquinaria política conservadora en Washington.",
+   "pilar": "geopolitica",
+   "etiquetas": [
+    "musk",
+    "eeuu",
+    "elecciones",
+    "política"
+   ],
+   "importancia": 6,
+   "fuente": "BBC Ciencia y Medio Ambiente",
+   "fuentes": [
+    "BBC Ciencia y Medio Ambiente",
+    "BBC World",
+    "BBC Business"
+   ],
+   "url": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
+   "fecha": "2026-11-19T02:59:06.000Z",
+   "ultimaHora": false,
+   "reaccion": "Sectores afines a la órbita de Trump han manifestado malestar por el repentino desmarque financiero del magnate tras el resultado electoral."
+  },
+  {
+   "id": "bb2bc19cae1d",
+   "titulo": "Nvidia bate récords de ingresos y prepara el relevo de su cúpula",
+   "resumen": "La compañía tecnológica duplicó sus beneficios e ingresos trimestrales gracias al tirón de los aceleradores para inteligencia artificial. Al mismo tiempo, el consejo de administración ha comenzado a diseñar planes de contingencia para una futura transición tras la etapa de Jensen Huang.",
+   "porQue": "El fabricante es la piedra angular del hardware mundial y cualquier movimiento en su liderazgo afecta a las valoraciones tecnológicas globales.",
+   "pilar": "tecnologia",
+   "etiquetas": [
+    "nvidia",
+    "chips",
+    "ia",
+    "empresas"
+   ],
+   "importancia": 6,
+   "fuente": "Cinco Días",
+   "fuentes": [
+    "Cinco Días",
+    "El País Economía"
+   ],
+   "url": "https://cincodias.elpais.com/opinion/2026-11-19/las-claves-nvidia-se-atreve-a-pensar-en-un-futuro-sin-su-gran-lider.html",
+   "fecha": "2026-11-19T04:40:00.000Z",
+   "ultimaHora": false,
+   "reaccion": "Las acciones de los proveedores de centros de datos estabilizaron sus cotizaciones tras la digestión de las cuentas récord de la compañía."
+  },
+  {
+   "id": "3199972389ae",
+   "titulo": "Google presenta Gemini 4 Neon para abaratar tareas complejas de IA",
+   "resumen": "Google amplió su catálogo de modelos de lenguaje con Gemini 4 Neon, diseñado para ofrecer una mayor velocidad de inferencia a una fracción del coste operativo actual. La empresa busca acelerar la integración masiva de IA en aplicaciones comerciales y de consumo.",
+   "porQue": "Intensifica la batalla de precios entre gigantes tecnológicos para convertir la inteligencia artificial en un servicio asequible.",
+   "pilar": "tecnologia",
+   "etiquetas": [
+    "google",
+    "gemini",
+    "ia",
+    "software"
+   ],
+   "importancia": 6,
+   "fuente": "Xataka",
+   "fuentes": [
+    "Xataka"
+   ],
+   "url": "https://www.xataka.com/robotica-e-ia/google-quiere-que-gemini-4-neon-sea-tu-modelo-para-casi-todo-rapido-que-carbon-barato-tarea",
+   "fecha": "2026-11-19T10:15:14.000Z",
+   "ultimaHora": false,
+   "reaccion": ""
+  },
+  {
+   "id": "ce5ab7aff4b3",
+   "titulo": "España capta la señal de la Voyager 1 a 24 horas luz de distancia",
+   "resumen": "El complejo de antenas de Robledo de Chavela en Madrid recibió con éxito las emisiones enviadas por la sonda Voyager 1 desde el espacio interestelar. La señal tardó un día entero en recorrer los casi 26.000 millones de kilómetros que separan a la nave de la Tierra.",
+   "porQue": "Demuestra la viabilidad del seguimiento tecnológico a las misiones de exploración más remotas de la historia humana.",
+   "pilar": "tecnologia",
+   "etiquetas": [
+    "espacio",
+    "ciencia",
+    "nasa",
+    "españa"
+   ],
+   "importancia": 6,
+   "fuente": "El País",
+   "fuentes": [
+    "El País"
+   ],
+   "url": "https://elpais.com/ciencia/2026-11-19/mas-alla-de-un-dia-luz-espana-capta-el-primer-saludo-de-la-voyager-1-desde-el-otro-lado-de-la-frontera-interestelar.html",
+   "fecha": "2026-11-19T10:17:21.000Z",
+   "ultimaHora": false,
+   "reaccion": ""
+  },
+  {
+   "id": "db86e2f82bea",
+   "titulo": "La campeona de maratón Peres Jepchirchir recibe tres años de sanción",
+   "resumen": "La Unidad de Integridad del Atletismo suspendió por tres años a la atleta keniana Peres Jepchirchir, vigente campeona olímpica y plusmarquista mundial de ruta. Las autoridades confirmaron un positivo por eritropoyetina (EPO) en un control antidopaje.",
+   "porQue": "Asesta un duro golpe a la credibilidad del atletismo de fondo y del fondismo de élite keniano.",
+   "pilar": "deporte",
+   "etiquetas": [
+    "atletismo",
+    "dopaje",
+    "maratón",
+    "deporte"
+   ],
+   "importancia": 6,
+   "fuente": "Al Jazeera",
+   "fuentes": [
+    "Al Jazeera",
+    "BBC Sport"
+   ],
+   "url": "https://www.aljazeera.com/sports/2026/11/19/kenyas-marathon-champion-peres-jepchirchir-gets-three-year-ban-for-doping?traffic_source=rss",
+   "fecha": "2026-11-19T09:06:36.000Z",
+   "ultimaHora": false,
+   "reaccion": ""
+  },
+  {
+   "id": "1e32ab2f5c9b",
+   "titulo": "Desmantelan en Ceuta una red clandestina de pase irregular de migrantes",
+   "resumen": "La Policía Nacional arrestó a cuatro integrantes de una organización que cobraba elevadas sumas desde Marruecos para trasladar a personas en lanchas neumáticas hacia las costas de Cádiz. La trama utilizaba viviendas francas en la barriada de El Príncipe para coordinar las salidas.",
+   "porQue": "Pone de manifiesto la profesionalización del tráfico de personas en las rutas marítimas del Estrecho.",
+   "pilar": "global",
+   "etiquetas": [
+    "migraciones",
+    "ceuta",
+    "seguridad",
+    "fronteras"
+   ],
+   "importancia": 6,
+   "fuente": "El País",
+   "fuentes": [
+    "El País"
+   ],
+   "url": "https://elpais.com/espana/2026-11-19/pagos-desde-marruecos-y-esperas-en-las-playas-de-la-linea-asi-funcionaba-la-ultima-red-de-pase-de-migrantes-de-ceuta.html",
+   "fecha": "2026-11-19T09:52:08.000Z",
+   "ultimaHora": false,
+   "reaccion": ""
+  },
+  {
+   "id": "62fc408eb700",
+   "titulo": "El Congreso amplía las indemnizaciones a las víctimas del terrorismo",
+   "resumen": "La Cámara Baja convalidó una reforma legal que permite reclamar mayores compensaciones económicas en causas donde la sentencia judicial no fijó responsabilidad civil directa. Asimismo, el texto incrementa un 34% las pensiones mínimas para los damnificados.",
+   "porQue": "Cierra vacíos jurídicos históricos de desamparo económico para cientos de víctimas y sus familiares.",
+   "pilar": "ultima",
+   "etiquetas": [
+    "congreso",
+    "terrorismo",
+    "derechos",
+    "españa"
+   ],
+   "importancia": 6,
+   "fuente": "El País",
+   "fuentes": [
+    "El País"
+   ],
+   "url": "https://elpais.com/espana/2026-11-19/el-congreso-convalida-una-reparacion-historica-para-las-victimas-del-terrorismo.html",
+   "fecha": "2026-11-19T09:51:50.000Z",
+   "ultimaHora": false,
+   "reaccion": ""
+  },
+  {
+   "id": "73a206c1cd7f",
+   "titulo": "La mitad de los jóvenes alemanes prevé un futuro peor que el de sus padres",
+   "resumen": "Un sondeo en Alemania reflejó que el 50% de los ciudadanos de entre 18 y 25 años no confía en lograr el ascenso social o superar el nivel de vida de la generación anterior. La crisis presupuestaria del Estado y la contracción industrial alimentan el desánimo juvenil.",
+   "porQue": "Alerta de la quiebra del pacto generacional en la mayor economía de Europa, abonando la desafección política.",
+   "pilar": "economia",
+   "etiquetas": [
+    "alemania",
+    "jóvenes",
+    "sociedad",
+    "empleo"
+   ],
+   "importancia": 6,
+   "fuente": "Cinco Días",
+   "fuentes": [
+    "Cinco Días",
+    "El País Economía"
+   ],
+   "url": "https://cincodias.elpais.com/opinion/2026-11-19/ante-un-agujero-financiero-gigantesco-alemania-pierde-el-sueno-joven-de-ascenso-generacional.html",
+   "fecha": "2026-11-19T04:40:00.000Z",
+   "ultimaHora": false,
+   "reaccion": ""
+  },
+  {
+   "id": "62e29005280a",
+   "titulo": "El Banco de Francia defiende el euro digital ante el temor de la banca",
+   "resumen": "La subgobernadora del Banco de Francia, Agnès Bénassy-Quéré, aseguró que el proyecto del euro digital no desencadenará fugas de depósitos en el sistema comercial. La dirigente instó a los bancos centrales europeos a adaptarse a las tecnologías descentralizadas para proteger su soberanía monetaria.",
+   "porQue": "Busca calmar a la banca tradicional mientras la eurozona acelera el diseño técnico de su moneda pública electrónica.",
+   "pilar": "economia",
+   "etiquetas": [
+    "bce",
+    "euro digital",
+    "banca",
+    "finanzas"
+   ],
+   "importancia": 5,
+   "fuente": "Cinco Días",
+   "fuentes": [
+    "Cinco Días",
+    "El País Economía"
+   ],
+   "url": "https://elpais.com/economia/2026-11-19/agnes-benassy-quere-el-temor-a-una-fuga-de-depositos-por-el-euro-digital-esta-fuera-de-lugar.html",
+   "fecha": "2026-11-19T04:30:01.000Z",
+   "ultimaHora": false,
+   "reaccion": ""
+  },
+  {
+   "id": "8fcf6de1b04a",
+   "titulo": "JP Morgan señala la influencia de Vox como riesgo económico ante el 29-N",
+   "resumen": "Un análisis para clientes de JP Morgan consideró que una entrada de Vox en un futuro Gobierno liderado por el Partido Popular constituiría la principal incertidumbre financiera para los mercados. No obstante, el banco anticipa beneficios para el sector bancario y energético si cambia la fiscalidad.",
+   "porQue": "Muestra cómo los grandes fondos de inversión internacionales evalúan el impacto de las alianzas políticas en España.",
+   "pilar": "economia",
+   "etiquetas": [
+    "inversión",
+    "elecciones",
+    "banca",
+    "españa"
+   ],
+   "importancia": 5,
+   "fuente": "Cinco Días",
+   "fuentes": [
+    "Cinco Días",
+    "El País Economía"
+   ],
+   "url": "https://cincodias.elpais.com/mercados-financieros/2026-11-19/jp-morgan-el-principal-riesgo-de-un-futuro-gobierno-del-pp-es-vox.html",
+   "fecha": "2026-11-19T04:30:01.000Z",
+   "ultimaHora": false,
+   "reaccion": ""
+  },
+  {
+   "id": "314ac435f7ec",
+   "titulo": "Ciberdelincuentes usan herramientas oficiales de Microsoft para robar accesos",
+   "resumen": "Un grupo de atacantes informáticos logró insertar código malicioso en dos versiones legítimas de un programa de diagnóstico de Microsoft. La vulnerabilidad permitió sustraer credenciales de seguridad corporativas en decenas de organizaciones antes de ser neutralizada.",
+   "porQue": "Demuestra los peligros crecientes del compromiso en la cadena de suministro de software de proveedores dominantes.",
+   "pilar": "tecnologia",
+   "etiquetas": [
+    "ciberseguridad",
+    "microsoft",
+    "hackers",
+    "software"
+   ],
+   "importancia": 5,
+   "fuente": "20minutos",
+   "fuentes": [
+    "20minutos"
+   ],
+   "url": "https://www.20minutos.es/tecnologia/ciberseguridad/microsoft-ciberataque-agent-framework-malware-robo-credenciales_7063019_0.html",
+   "fecha": "2026-11-19T10:06:35.000Z",
+   "ultimaHora": false,
+   "reaccion": ""
+  },
+  {
+   "id": "e802d9d6471f",
+   "titulo": "Vicente Luis Mora gana el prestigioso National Book Award de Estados Unidos",
+   "resumen": "El autor cordobés fue galardonado con el National Book Award en la categoría de obra traducida por su novela 'Centroeuropa'. El reconocimiento consolida al escritor en la escena literaria norteamericana y distingue la traducción al inglés de su trabajo.",
+   "porQue": "Supone un reconocimiento cultural excepcional para la narrativa contemporánea en lengua española en EE. UU.",
+   "pilar": "ultima",
+   "etiquetas": [
+    "literatura",
+    "cultura",
+    "premios",
+    "españa"
+   ],
+   "importancia": 5,
+   "fuente": "El País",
+   "fuentes": [
+    "El País"
+   ],
+   "url": "https://elpais.com/cultura/2026-11-19/el-escritor-espanol-vicente-luis-mora-gana-el-national-book-award-el-premio-mas-prestigioso-de-las-letras-en-ee-uu.html",
+   "fecha": "2026-11-19T10:26:56.000Z",
+   "ultimaHora": false,
+   "reaccion": ""
+  },
+  {
+   "id": "9086ca40964e",
+   "titulo": "Novartis eleva a 18.000 millones la previsión de ingresos por sus fármacos clave",
+   "resumen": "La farmacéutica suiza incrementó sus estimaciones máximas de facturación gracias al auge comercial de sus tratamientos punteros contra la leucemia, la esclerosis múltiple y el colesterol. La empresa prevé un flujo de ingresos sostenido para blindarse ante las pérdidas de patentes.",
+   "porQue": "Refleja la rentabilidad y resiliencia de la gran industria biotecnológica internacional.",
+   "pilar": "economia",
+   "etiquetas": [
+    "farmacéuticas",
+    "salud",
+    "novartis",
+    "negocio"
+   ],
+   "importancia": 5,
+   "fuente": "CNBC",
+   "fuentes": [
+    "CNBC"
+   ],
+   "url": "https://www.cnbc.com/2026/11/19/novartis-stock-cmd-2026-ceo.html",
+   "fecha": "2026-11-19T09:57:53.000Z",
+   "ultimaHora": false,
+   "reaccion": ""
+  },
+  {
+   "id": "c5d019f981c3",
+   "titulo": "Científicos logran avances para cultivar patatas en sustrato lunar",
+   "resumen": "Una serie de experimentos científicos logró germinar tubérculos en simuladores de regolito lunar enriquecidos con abonos biológicos y lombrices. Las investigaciones buscan diseñar sistemas agroalimentarios autosuficientes para las futuras bases permanentes en la Luna.",
+   "porQue": "Es un paso fundamental para hacer viables las colonias tripuladas sin depender del suministro continuo terrestre.",
+   "pilar": "tecnologia",
+   "etiquetas": [
+    "espacio",
+    "agricultura",
+    "luna",
+    "ciencia"
+   ],
+   "importancia": 5,
+   "fuente": "El País",
+   "fuentes": [
+    "El País"
+   ],
+   "url": "https://elpais.com/ciencia/2026-11-19/lombrices-hongos-y-orina-para-cultivar-patatas-en-la-mala-tierra-de-la-luna.html",
+   "fecha": "2026-11-19T10:14:46.000Z",
+   "ultimaHora": false,
+   "reaccion": ""
+  },
+  {
+   "id": "56285e48e46e",
+   "titulo": "El canterano Xavi Espart renueva su contrato con el FC Barcelona hasta 2030",
+   "resumen": "El defensa de 19 años sellará este viernes la extensión de su vinculación contractual con el Barça hasta junio de 2030 en las oficinas del club. La directiva azulgrana blinda a otra de las promesas formadas en La Masia con una cláusula de rescisión elevada.",
+   "porQue": "Asegura la continuidad de la cantera culé como base de su proyecto deportivo y patrimonial.",
+   "pilar": "deporte",
+   "etiquetas": [
+    "barça",
+    "fútbol",
+    "cantera",
+    "fichajes"
+   ],
+   "importancia": 5,
+   "fuente": "Mundo Deportivo",
+   "fuentes": [
+    "Mundo Deportivo"
+   ],
+   "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261119/1004252895/confirmado-xavi-espart-renueva-barca-viernes-avanzo-md.html",
+   "fecha": "2026-11-19T10:23:34.000Z",
+   "ultimaHora": false,
+   "reaccion": ""
+  },
+  {
+   "id": "afb2fea8221a",
+   "titulo": "Killian Hayes se incorpora como nuevo base del Barça de baloncesto",
+   "resumen": "El base zurdo internacional de 25 años fue presentado como refuerzo del FC Barcelona de baloncesto hasta el término de la presente temporada. Hayes recala en Europa tras una etapa de seis cursos en la NBA con el objetivo de aspirar a la Euroliga.",
+   "porQue": "Cubre las carencias en la dirección de juego del conjunto azulgrana para el tramo decisivo del año.",
+   "pilar": "deporte",
+   "etiquetas": [
+    "baloncesto",
+    "barça",
+    "euroliga",
+    "fichajes"
+   ],
+   "importancia": 5,
+   "fuente": "Mundo Deportivo",
+   "fuentes": [
+    "Mundo Deportivo"
+   ],
+   "url": "https://www.mundodeportivo.com/baloncesto/acb/20261119/1004252884/killian-hayes-presentado-nuevo-jugador-azulgrana-fisicamente-tope-he-venido-barca-ganar-titulos.html",
+   "fecha": "2026-11-19T10:22:19.000Z",
+   "ultimaHora": false,
+   "reaccion": ""
+  },
+  {
+   "id": "2462fa89f884",
+   "titulo": "Ferran Adrià estrena serie documental sobre los orígenes de elBulli",
+   "resumen": "Netflix estrena la producción 'Génesis', dirigida por David Pujol, que reconstruye la revolución gastronómica liderada por Ferran Adrià en Cala Montjoi. La docuserie aborda el proceso creativo que transformó un restaurante familiar en el referente mundial de la alta cocina.",
+   "porQue": "Documenta la historia de uno de los mayores hitos culturales e innovadores de Cataluña hacia el mundo.",
+   "pilar": "ultima",
+   "etiquetas": [
+    "gastronomía",
+    "cultura",
+    "cataluña",
+    "televisión"
+   ],
+   "importancia": 4,
+   "fuente": "El País",
+   "fuentes": [
+    "El País"
+   ],
+   "url": "https://elpais.com/espana/catalunya/2026-11-19/ferran-adria-desembarca-este-viernes-en-netflix-con-genesis-no-eramos-nadie-cuando-empezamos.html",
+   "fecha": "2026-11-19T09:59:09.000Z",
+   "ultimaHora": false,
+   "reaccion": ""
+  },
+  {
+   "id": "66130100ff1a",
+   "titulo": "La Generalitat lanza una campaña de prevención de violencias machistas",
+   "resumen": "El Govern catalán presentó la iniciativa institucional con motivo del 25N, centrada en fomentar la intervención ciudadana ante agresiones en espacios públicos, el ocio nocturno y el transporte. Los anuncios recrean pautas prácticas de auxilio a las víctimas.",
+   "porQue": "Busca involucrar activamente al entorno social para cortar situaciones de riesgo en la vida cotidiana en Cataluña.",
+   "pilar": "ultima",
+   "etiquetas": [
+    "cataluña",
+    "sociedad",
+    "seguridad",
+    "generalitat"
+   ],
+   "importancia": 4,
+   "fuente": "20minutos",
+   "fuentes": [
+    "20minutos"
+   ],
+   "url": "https://www.20minutos.es/cataluna/barcelona/ante-las-violencias-machistas-actuemos-generalitat-lanza-su-campana-25n-que-reivindica-compromiso-colectivo_7063025_0.html",
+   "fecha": "2026-11-19T10:05:17.000Z",
+   "ultimaHora": false,
+   "reaccion": ""
+  },
+  {
+   "id": "c7fc855ae7b3",
+   "titulo": "El seguro del automóvil se encarece hasta un 19% en España",
+   "resumen": "Las primas medias de las pólizas de coche registraron subidas de hasta el 19% en coberturas a todo riesgo y terceros durante el último año. Las aseguradoras justifican los aumentos por el encarecimiento de los recambios mecánicos y la mayor siniestralidad vial.",
+   "porQue": "Añade presión económica sobre el mantenimiento de vehículos en millones de hogares españoles.",
+   "pilar": "economia",
+   "etiquetas": [
+    "seguros",
+    "consumo",
+    "coches",
+    "españa"
+   ],
+   "importancia": 4,
+   "fuente": "elDiario.es",
+   "fuentes": [
+    "elDiario.es"
+   ],
+   "url": "https://www.eldiario.es/motor/sector_y_mercado/precios-seguros-automoviles-siguen-escalando_1_13670767.html",
+   "fecha": "2026-11-19T10:00:21.000Z",
+   "ultimaHora": false,
+   "reaccion": ""
+  },
+  {
+   "id": "86b0af1b94c5",
+   "titulo": "Fallece a los 88 años el escritor gallego Xosé Luis Méndez Ferrín",
+   "resumen": "El prolífico poeta, narrador y miembro de la Real Academia Galega murió en Vigo a los 88 años. Referente del antifranquismo cultural y propuesto en diversas ocasiones al Premio Nobel, dejó un extenso legado literario con títulos capitales como 'Con pólvora e magnolias'.",
+   "porQue": "Despide a una de las figuras más determinantes de la literatura y la identidad gallega del siglo XX.",
+   "pilar": "ultima",
+   "etiquetas": [
+    "cultura",
+    "galicia",
+    "literatura",
+    "obituario"
+   ],
+   "importancia": 4,
+   "fuente": "El País",
+   "fuentes": [
+    "El País"
+   ],
+   "url": "https://elpais.com/cultura/2026-11-19/muere-xose-luis-mendez-ferrin-el-ultimo-totem-de-la-cultura-y-la-resistencia-gallegas.html",
+   "fecha": "2026-11-19T10:24:05.000Z",
+   "ultimaHora": false,
+   "reaccion": ""
+  },
+  {
+   "id": "b6f2cbdb13a7",
+   "titulo": "Entra en vigor la norma que obliga a apartarse a los lados en atascos",
+   "resumen": "La Dirección General de Tráfico aplicó una modificación del reglamento vial que sanciona a los conductores que no despejen el centro del carril ante retenciones en autopistas y autovías. La medida busca habilitar un pasillo de emergencia automático para ambulancias y bomberos.",
+   "porQue": "Cambia las pautas de conducción obligatorias en carretera para recortar los tiempos de rescate en accidentes graves.",
+   "pilar": "ultima",
+   "etiquetas": [
+    "dgt",
+    "tráfico",
+    "seguridad vial",
+    "españa"
+   ],
+   "importancia": 4,
+   "fuente": "Xataka",
+   "fuentes": [
+    "Xataka"
+   ],
+   "url": "https://www.xataka.com/movilidad/gobierno-cambio-normas-han-entrado-vigor-multa-dejar-coche-centro-carril-cuando-hay-atasco",
+   "fecha": "2026-11-19T10:06:29.000Z",
+   "ultimaHora": false,
    "reaccion": ""
   }
  ]

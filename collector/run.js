@@ -12,7 +12,7 @@ import { summarize, providerFromEnv } from "./ai.js";
 const OUT = join(dirname(fileURLToPath(import.meta.url)), "..", "app", "data", "noticias.json");
 const BREAKING_WINDOW_H = 3;
 const BREAKING_TTL_H = 6;
-const EDITION_MAX_AGE_H = 18;
+const EDITION_HOUR = 4; // a partir de las 4:00 (Barcelona) se prepara la edición del día
 
 /** Mezcla noticias de última hora en la edición previa; caduca las de última hora viejas. */
 export function mergeBreaking(prev, nuevas, now = Date.now()) {
@@ -68,17 +68,26 @@ export async function buildEdition({ mode = "edicion", fetchFn = fetch, provider
   return { generado, actualizado: generado, modo, top3: result.top3, noticias: result.noticias };
 }
 
+const madrid = (t) => {
+  const p = Object.fromEntries(
+    new Intl.DateTimeFormat("en-CA", { timeZone: "Europe/Madrid", year: "numeric", month: "2-digit", day: "2-digit", hour: "2-digit", hourCycle: "h23" })
+      .formatToParts(new Date(t)).map((x) => [x.type, x.value])
+  );
+  return { dia: `${p.year}-${p.month}-${p.day}`, hora: Number(p.hour) };
+};
+
 /**
- * Una pasada de "última hora" hace la edición completa cuando:
+ * Una pasada programada hace la edición completa cuando:
  * - no hay edición previa,
- * - la edición salió sin IA y ahora hay IA (Google saturado por la mañana), o
- * - la edición tiene más de 18 h (GitHub se saltó la de la mañana).
- * Así la app se arregla sola en la siguiente pasada.
+ * - la edición salió sin IA y ahora hay IA (Google saturado), o
+ * - en Barcelona ya son más de las 4:00 y la edición no es de hoy (GitHub se saltó la de la madrugada).
+ * Así la app se arregla sola en la siguiente pasada y está lista antes de las 6:30.
  */
 export function needsFullEdition(prev, hasAI, now = Date.now()) {
   if (!prev?.generado) return true;
   if (prev.modo === "crudo" && hasAI) return true;
-  return now - Date.parse(prev.generado) > EDITION_MAX_AGE_H * 3600e3;
+  const hoy = madrid(now);
+  return hoy.hora >= EDITION_HOUR && madrid(Date.parse(prev.generado)).dia !== hoy.dia;
 }
 
 async function main() {

@@ -25,12 +25,14 @@ test("un like a tecnología la sube por encima de deporte con la misma importanc
 
 test("pulsar like dos veces lo deshace; cambiar a dislike resta", () => {
   const x = n("economia");
-  let p = applyFeedback(defaultProfile(), x, "like");
+  const t = Date.parse("2026-11-19T10:00:00Z");
+  let p = { ...defaultProfile(), actualizado: t };
+  p = applyFeedback(p, x, "like", t);
   assert.equal(p.votos[x.id], "like");
-  p = applyFeedback(p, x, "like");
+  p = applyFeedback(p, x, "like", t);
   assert.equal(p.votos[x.id], undefined);
   assert.equal(p.pilares.economia, 0);
-  p = applyFeedback(applyFeedback(p, x, "like"), x, "dislike");
+  p = applyFeedback(applyFeedback(p, x, "like", t), x, "dislike", t);
   assert.equal(p.votos[x.id], "dislike");
   assert.equal(p.pilares.economia, -1);
 });

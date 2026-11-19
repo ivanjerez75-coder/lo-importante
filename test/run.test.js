@@ -192,11 +192,18 @@ test("buildEdition prueba el siguiente proveedor si el primero falla", async () 
 
 import { needsFullEdition } from "../collector/run.js";
 
-test("needsFullEdition: rehace si falta, si salió sin IA, o si tiene más de 18 h", () => {
-  const now = Date.parse("2026-11-19T10:00:00Z");
-  assert.equal(needsFullEdition(null, true, now), true);
-  assert.equal(needsFullEdition({ modo: "crudo", generado: "2026-11-19T05:00:00Z" }, true, now), true);
-  assert.equal(needsFullEdition({ modo: "crudo", generado: "2026-11-19T05:00:00Z" }, false, now), false);
-  assert.equal(needsFullEdition({ modo: "ia", generado: "2026-11-19T05:00:00Z" }, true, now), false);
-  assert.equal(needsFullEdition({ modo: "ia", generado: "2026-11-18T14:00:00Z" }, true, now), true);
+test("needsFullEdition: según el día en Barcelona, desde las 4:00", () => {
+  const ia = (g) => ({ modo: "ia", generado: g });
+  // 19 nov 03:30 UTC = 04:30 Barcelona; edición de ayer 10:40 → toca rehacer
+  assert.equal(needsFullEdition(ia("2026-11-18T10:40:00Z"), true, Date.parse("2026-11-19T03:30:00Z")), true);
+  // 19 nov 02:30 UTC = 03:30 Barcelona → todavía no
+  assert.equal(needsFullEdition(ia("2026-11-18T10:40:00Z"), true, Date.parse("2026-11-19T02:30:00Z")), false);
+  // ya hay edición de hoy → no
+  assert.equal(needsFullEdition(ia("2026-11-19T03:15:00Z"), true, Date.parse("2026-11-19T05:17:00Z")), false);
+  // verano: 23:30 UTC del 18 jun = 01:30 del 19 en Barcelona; a las 02:17 UTC (04:17) toca
+  assert.equal(needsFullEdition(ia("2026-06-18T03:00:00Z"), true, Date.parse("2026-06-19T02:17:00Z")), true);
+  // sin edición, o sin IA habiendo IA → sí
+  assert.equal(needsFullEdition(null, true), true);
+  assert.equal(needsFullEdition({ modo: "crudo", generado: "2026-11-19T04:00:00Z" }, true, Date.parse("2026-11-19T06:00:00Z")), true);
+  assert.equal(needsFullEdition({ modo: "crudo", generado: "2026-11-19T04:00:00Z" }, false, Date.parse("2026-11-19T06:00:00Z")), false);
 });

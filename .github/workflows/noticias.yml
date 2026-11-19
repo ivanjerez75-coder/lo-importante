@@ -3,8 +3,12 @@ name: Noticias
 on:
   schedule:
     # Minutos "raros" a propósito: GitHub retrasa o se salta los horarios en punto cuando va cargado.
-    - cron: "43 3 * * *"     # edición diaria (lista antes de las 7:00 en España)
-    - cron: "17 */2 * * *"   # última hora cada 2 h (si falta la edición del día, la rehace)
+    # Todas las pasadas programadas comprueban primero si ya existe la edición de hoy (hora de Barcelona):
+    # si falta o salió sin IA, la hacen; si ya está, sólo actualizan la última hora.
+    # Tres oportunidades antes de las 6:30: 4:13, 4:43, 5:17 en invierno (5:13, 5:43, 6:17 en verano).
+    - cron: "13 3 * * *"
+    - cron: "43 3 * * *"
+    - cron: "17 */2 * * *"   # y última hora cada 2 h todo el día
   workflow_dispatch:
     inputs:
       modo:
@@ -41,7 +45,7 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }} # opcional, de pago
         run: |
           MODO="${{ github.event.inputs.modo }}"
-          if [ "${{ github.event.schedule }}" = "17 */2 * * *" ]; then MODO=breaking; fi
+          if [ "${{ github.event_name }}" = "schedule" ]; then MODO=breaking; fi
           node collector/run.js "${MODO:-edicion}"
       - name: Guardar noticias
         run: |
@@ -49,6 +53,7 @@ jobs:
           git config user.email "noticias-bot@users.noreply.github.com"
           git add app/data/noticias.json
           git diff --cached --quiet || git commit -m "noticias $(date -u +%Y-%m-%dT%H:%MZ)"
+          git pull --rebase -X theirs origin main || true
           git push
 
   publicar:

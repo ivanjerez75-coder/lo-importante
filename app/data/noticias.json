@@ -1,6 +1,6 @@
 {
  "generado": "2026-11-19T10:39:45.321Z",
- "actualizado": "2026-11-19T10:39:45.321Z",
+ "actualizado": "2026-11-19T20:41:16.747Z",
  "modo": "ia",
  "top3": [
   "31dc8abe3adc",
@@ -29,7 +29,7 @@
    ],
    "url": "https://elpais.com/internacional/2026-11-19/trump-y-putin-interactuan-en-shenzhen-antes-de-las-reuniones-con-xi.html",
    "fecha": "2026-11-19T10:17:02.000Z",
-   "ultimaHora": true,
+   "ultimaHora": false,
    "reaccion": "Gobiernos aliados de Ucrania como Francia y Polonia han recibido con escepticismo el encuentro, criticando que no se haya contado con Europa para discutir su propia seguridad."
   },
   {
@@ -816,6 +816,97 @@
    "url": "https://www.xataka.com/movilidad/gobierno-cambio-normas-han-entrado-vigor-multa-dejar-coche-centro-carril-cuando-hay-atasco",
    "fecha": "2026-11-19T10:06:29.000Z",
    "ultimaHora": false,
+   "reaccion": ""
+  },
+  {
+   "id": "11685b3b01c1",
+   "titulo": "La Corte Internacional de Justicia dictamina que Myanmar cometió genocidio rohinyá",
+   "resumen": "El máximo tribunal de la ONU ha emitido un fallo histórico que declara a Myanmar responsable de genocidio contra la minoría rohinyá en 2017. La sentencia sin precedentes condena la masiva ofensiva militar que causó miles de muertos y forzó el éxodo de casi un millón de personas.",
+   "porQue": "Es la primera vez que la CIJ responsabiliza directamente a un Estado soberano por el crimen de genocidio, sentando jurisprudencia global.",
+   "pilar": "global",
+   "etiquetas": [
+    "onu",
+    "myanmar",
+    "derechos humanos",
+    "justicia"
+   ],
+   "importancia": 9,
+   "fuente": "BBC World",
+   "fuentes": [
+    "BBC World",
+    "Foreign Policy",
+    "The Guardian World"
+   ],
+   "url": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
+   "fecha": "2026-11-19T20:07:02.000Z",
+   "ultimaHora": true,
+   "reaccion": ""
+  },
+  {
+   "id": "09fd694e6c97",
+   "titulo": "Sánchez y Feijóo afrontan su único cara a cara televisivo a diez días del 29-N",
+   "resumen": "Pedro Sánchez y Alberto Núñez Feijóo han llegado a los estudios de la Academia de Televisión para celebrar el debate decisivo de la campaña electoral. El encuentro se centra en los bloques de economía, vivienda y pactos de gobernabilidad a las puertas de los comicios del 29 de noviembre.",
+   "porQue": "Es el único debate directo entre los dos principales aspirantes y puede decantar el voto de los indecisos en la recta final de las generales.",
+   "pilar": "ultima",
+   "etiquetas": [
+    "españa",
+    "elecciones",
+    "psoe",
+    "pp"
+   ],
+   "importancia": 7,
+   "fuente": "El País",
+   "fuentes": [
+    "El País",
+    "Cinco Días"
+   ],
+   "url": "https://elpais.com/espana/elecciones-generales/2026-11-19/debate-electoral-entre-pedro-sanchez-y-alberto-nunez-feijoo-en-directo.html",
+   "fecha": "2026-11-19T20:37:58.000Z",
+   "ultimaHora": true,
+   "reaccion": ""
+  },
+  {
+   "id": "7a3c367e77c2",
+   "titulo": "Los líderes europeos exigen participar en las negociaciones de paz sobre Ucrania",
+   "resumen": "Reunidos de urgencia en Berlín, casi 40 aliados europeos han pactado una postura común para intervenir en las conversaciones de paz con EE. UU., Rusia y Ucrania. El canciller alemán Friedrich Merz advirtió de que cualquier pacto sin Europa carecerá de validez y rechazó un reparto global de esferas de influencia.",
+   "porQue": "Europa busca evitar que el eje Trump-Putin-Xi pacte el futuro de la seguridad europea al margen de los países de la Unión.",
+   "pilar": "geopolitica",
+   "etiquetas": [
+    "ucrania",
+    "rusia",
+    "europa",
+    "paz"
+   ],
+   "importancia": 8,
+   "fuente": "La Vanguardia",
+   "fuentes": [
+    "La Vanguardia"
+   ],
+   "url": "https://www.lavanguardia.com/internacional/20261119/11688459/aliados-europeos-ucrania-estaran-pronto-conversaciones-paz-rusos-ucranianos-estadounidenses.html",
+   "fecha": "2026-11-19T19:23:36.000Z",
+   "ultimaHora": true,
+   "reaccion": ""
+  },
+  {
+   "id": "13a8e61aa274",
+   "titulo": "Anthropic recauda 81.000 millones en el mayor debut bursátil de la historia",
+   "resumen": "La compañía desarrolladora del modelo de IA Claude ha salido a bolsa con una valoración de 1,5 billones de dólares tras captar 81.000 millones. El estreno supera el récord histórico previo y dispara los recursos de su fundación sin ánimo de lucro.",
+   "porQue": "Confirma la hegemonía del sector de inteligencia artificial generativa en los mercados financieros y consolida a Anthropic frente a OpenAI y los gigantes tecnológicos.",
+   "pilar": "tecnologia",
+   "etiquetas": [
+    "ia",
+    "anthropic",
+    "bolsa",
+    "ipo"
+   ],
+   "importancia": 8,
+   "fuente": "France 24 ES",
+   "fuentes": [
+    "France 24 ES"
+   ],
+   "url": "https://www.france24.com/es/ciencia-y-tecnolog%C3%ADas/20261119-anthropic-supera-a-spacex-en-el-salto-m%C3%A1s-exitoso-a-la-bolsa-con-ingresos-por-usd-81-000-millones",
+   "fecha": "2026-11-19T19:21:17.000Z",
+   "ultimaHora": true,
    "reaccion": ""
   }
  ]

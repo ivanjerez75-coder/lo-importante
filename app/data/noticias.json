@@ -1,6 +1,6 @@
 {
  "generado": "2026-11-18T20:46:09.271Z",
- "actualizado": "2026-11-18T20:46:09.271Z",
+ "actualizado": "2026-11-19T02:29:35.305Z",
  "modo": "ia",
  "top3": [
   "eba19e73279e",
@@ -28,7 +28,7 @@
    ],
    "url": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss",
    "fecha": "2026-11-18T16:40:03.000Z",
-   "ultimaHora": true,
+   "ultimaHora": false,
    "reaccion": ""
   },
   {
@@ -50,7 +50,7 @@
    ],
    "url": "https://www.eldiario.es/internacional/israel-lanza-operacion-terrestre-gaza-linea-amarilla-acordada-alto-fuego-2025_1_13675414.html",
    "fecha": "2026-11-18T20:22:19.000Z",
-   "ultimaHora": true,
+   "ultimaHora": false,
    "reaccion": ""
   },
   {
@@ -776,6 +776,118 @@
    "url": "https://elpais.com/deportes/futbol/2026-11-18/luis-rubiales-ya-puede-ejercer-cargos-en-el-futbol-y-tantea-una-mocion-de-censura-contra-rafael-louzan-para-recuperar-el-trono-de-la-rfef.html",
    "fecha": "2026-11-18T16:59:28.000Z",
    "ultimaHora": false,
+   "reaccion": ""
+  },
+  {
+   "id": "45d8abddf0bb",
+   "titulo": "Anthropic debuta en Bolsa con 1,5 billones de valoración tras superar a SpaceX",
+   "resumen": "La empresa de inteligencia artificial Anthropic ha fijado su estreno bursátil en el Nasdaq con un precio de 83 dólares por acción tras recaudar más de 81.000 millones de dólares en la mayor salida a Bolsa de la historia, desbancando a SpaceX. La fuerte demanda de los inversores ha permitido ampliar la oferta un 19%.",
+   "porQue": "Marca un hito histórico en la financiación del sector de la inteligencia artificial y consolida la valoración récord de los gigantes tecnológicos actuales.",
+   "pilar": "economia",
+   "etiquetas": [
+    "ia",
+    "bolsa",
+    "anthropic",
+    "tecnologia"
+   ],
+   "importancia": 9,
+   "fuente": "El País",
+   "fuentes": [
+    "El País",
+    "Cinco Días",
+    "El País Economía"
+   ],
+   "url": "https://elpais.com/economia/2026-11-18/anthropic-desbanca-a-spacex-y-protagoniza-la-mayor-salida-a-bolsa-de-la-historia.html",
+   "fecha": "2026-11-19T00:25:13.000Z",
+   "ultimaHora": true,
+   "reaccion": ""
+  },
+  {
+   "id": "8fe81af2c81d",
+   "titulo": "EE. UU. y Venezuela firman un nuevo acuerdo de cooperación militar",
+   "resumen": "El secretario de Defensa de EE. UU., Pete Hegseth, ha viajado a Caracas para sellar un acuerdo de reinicio de la cooperación militar bilateral. Esta visita oficial se produce diez meses después de la captura de Nicolás Maduro en una operación liderada por el propio dirigente estadounidense.",
+   "porQue": "Rediseña por completo el mapa geopolítico y de seguridad en América Latina tras la intervención directa de Washington en Venezuela.",
+   "pilar": "geopolitica",
+   "etiquetas": [
+    "venezuela",
+    "eeuu",
+    "geopolitica",
+    "defensa"
+   ],
+   "importancia": 8,
+   "fuente": "Al Jazeera",
+   "fuentes": [
+    "Al Jazeera"
+   ],
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/hegseth-unveils-new-us-venezuela-military-deal?traffic_source=rss",
+   "fecha": "2026-11-19T01:48:46.000Z",
+   "ultimaHora": true,
+   "reaccion": ""
+  },
+  {
+   "id": "dc8971aae4da",
+   "titulo": "Elon Musk se distancia de MAGA y admite que gastar en las elecciones fue un error",
+   "resumen": "Durante su intervención en la cumbre DealBook de The New York Times, Elon Musk ha asegurado que no forma parte del movimiento MAGA y ha calificado de 'bastante tonto' su récord de gasto financiero para apoyar a los republicanos en las elecciones de mitad de mandato.",
+   "porQue": "Representa un giro importante en la postura pública y las alianzas políticas del magnate tecnológico respecto al trumpismo.",
+   "pilar": "global",
+   "etiquetas": [
+    "elon musk",
+    "eeuu",
+    "politica",
+    "republicanos"
+   ],
+   "importancia": 7,
+   "fuente": "The Guardian World",
+   "fuentes": [
+    "The Guardian World"
+   ],
+   "url": "https://www.theguardian.com/us-news/2026/nov/18/elon-musk-maga-trump",
+   "fecha": "2026-11-19T01:07:51.000Z",
+   "ultimaHora": true,
+   "reaccion": ""
+  },
+  {
+   "id": "8944b9bf2f7d",
+   "titulo": "Nuevo ataque contra el puente de Crimea según autoridades rusas",
+   "resumen": "El gobernador impuesto por Moscú en Crimea ha informado de un nuevo ataque contra la infraestructura que une Rusia con la península anexionada. El tráfico ha quedado suspendido temporalmente mientras se evalúan los daños materiales en la zona.",
+   "porQue": "Intensifica la tensión en infraestructuras críticas del conflicto entre Rusia y Ucrania y afecta a las rutas logísticas militares.",
+   "pilar": "geopolitica",
+   "etiquetas": [
+    "ucrania",
+    "rusia",
+    "guerra",
+    "crimea"
+   ],
+   "importancia": 8,
+   "fuente": "BBC World",
+   "fuentes": [
+    "BBC World"
+   ],
+   "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
+   "fecha": "2026-11-19T01:05:03.000Z",
+   "ultimaHora": true,
+   "reaccion": ""
+  },
+  {
+   "id": "d8abb0b94743",
+   "titulo": "EE. UU. pierde su estatus de eliminación del sarampión tras registrar muertes",
+   "resumen": "Pensilvania ha registrado la octava muerte por sarampión del año en un paciente no vacunado, coincidiendo con la pérdida formal por parte de Estados Unidos de su estatus de territorio libre de sarampión tras 26 años de erradicación.",
+   "porQue": "Advierte sobre el peligro real del resurgimiento de enfermedades evitables debido a la caída de las tasas de vacunación.",
+   "pilar": "global",
+   "etiquetas": [
+    "salud",
+    "eeuu",
+    "vacunas",
+    "pandemias"
+   ],
+   "importancia": 7,
+   "fuente": "Al Jazeera",
+   "fuentes": [
+    "Al Jazeera"
+   ],
+   "url": "https://www.aljazeera.com/news/2026/11/19/unvaccinated-pennsylvania-resident-dies-amid-historic-us-measles-resurgence?traffic_source=rss",
+   "fecha": "2026-11-19T00:14:40.000Z",
+   "ultimaHora": true,
    "reaccion": ""
   }
  ]

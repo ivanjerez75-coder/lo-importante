@@ -1,6 +1,6 @@
 {
  "generado": "2026-11-20T03:22:15.630Z",
- "actualizado": "2026-11-20T03:22:15.630Z",
+ "actualizado": "2026-11-20T11:33:43.405Z",
  "modo": "ia",
  "top3": [
   "11685b3b01c1",
@@ -52,7 +52,7 @@
    ],
    "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
    "fecha": "2026-11-19T23:33:51.000Z",
-   "ultimaHora": true,
+   "ultimaHora": false,
    "reaccion": "Tras la euforia inicial en Nueva York, SoftBank se hundió un 16% en Tokio y los fabricantes de componentes semiconductores sufrieron ventas masivas ante las dudas sobre el retorno de capital."
   },
   {
@@ -119,7 +119,7 @@
    ],
    "url": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-houthis-escalate-attacks-on-saudi-capital?traffic_source=rss",
    "fecha": "2026-11-19T23:58:40.000Z",
-   "ultimaHora": true,
+   "ultimaHora": false,
    "reaccion": ""
   },
   {
@@ -277,7 +277,7 @@
    ],
    "url": "https://www.aljazeera.com/news/2026/11/20/four-bodies-recovered-after-senegal-boat-capsizes-amid-migration-surge?traffic_source=rss",
    "fecha": "2026-11-20T00:10:04.000Z",
-   "ultimaHora": true,
+   "ultimaHora": false,
    "reaccion": ""
   },
   {
@@ -745,6 +745,119 @@
    "url": "https://elpais.com/deportes/baloncesto/2026-11-19/un-gran-tj-shorts-sostiene-al-valencia-como-lider-de-la-euroliga.html",
    "fecha": "2026-11-19T22:34:55.000Z",
    "ultimaHora": false,
+   "reaccion": ""
+  },
+  {
+   "id": "b87f50594ed2",
+   "titulo": "Rusia ataca los puentes de Kiev y la infraestructura energética de Ucrania",
+   "resumen": "Los bombardeos rusos han matado a una decena de personas, herido a otras 28 y provocado apagones en diez regiones ucranianas tras la ofensiva en el estrecho de Kerch. Polonia investiga además la caída de un proyectil en su territorio cerca de la frontera.",
+   "porQue": "Escala gravemente el conflicto militar en Europa del Este y amenaza con implicar directamente a países de la OTAN tras la caída de un proyectil en suelo polaco.",
+   "pilar": "geopolitica",
+   "etiquetas": [
+    "ucrania",
+    "rusia",
+    "guerra",
+    "polonia"
+   ],
+   "importancia": 9,
+   "fuente": "El País",
+   "fuentes": [
+    "El País",
+    "El País Internacional"
+   ],
+   "url": "https://elpais.com/internacional/2026-11-20/rusia-ataca-los-puentes-de-kiev-y-la-infraestructura-energetica-de-ucrania-tras-la-ofensiva-en-el-estrecho-de-kerch.html",
+   "fecha": "2026-11-20T09:49:25.000Z",
+   "ultimaHora": true,
+   "reaccion": ""
+  },
+  {
+   "id": "23f1c0f3e456",
+   "titulo": "La cumbre del clima llega a su recta final entre el bloqueo y las duras críticas",
+   "resumen": "La COP31 afronta sus últimas horas con la amenaza de bloqueo por parte de Panamá y fuertes tensiones entre el bloque europeo y los países en desarrollo sobre las reglas para frenar los combustibles fósiles.",
+   "porQue": "Define el compromiso global vinculante para frenar el calentamiento global y la transición energética de los próximos años.",
+   "pilar": "global",
+   "etiquetas": [
+    "clima",
+    "cop31",
+    "energia",
+    "onu"
+   ],
+   "importancia": 8,
+   "fuente": "El País Clima",
+   "fuentes": [
+    "El País Clima",
+    "El País"
+   ],
+   "url": "https://elpais.com/clima-y-medio-ambiente/2026-11-20/la-cumbre-del-clima-llega-a-su-recta-final-entre-el-bloqueo-y-las-criticas-a-sus-propias-reglas-son-una-receta-para-el-fracaso.html",
+   "fecha": "2026-11-20T11:16:41.000Z",
+   "ultimaHora": true,
+   "reaccion": ""
+  },
+  {
+   "id": "7dfcaff2d6d3",
+   "titulo": "El Ibex pone en jaque los 19.000 puntos en plena huida de la Bolsa de la IA",
+   "resumen": "El selectivo español cae en torno a un 1% y acumula un retroceso superior al 5% en la semana arrastrado por las ventas masivas en los mercados globales y el impacto del estreno de Anthropic.",
+   "porQue": "Refleja la corrección y el nerviosismo de los inversores ante la volatilidad del sector tecnológico y su contagio a los mercados europeos.",
+   "pilar": "economia",
+   "etiquetas": [
+    "ibex",
+    "bolsa",
+    "ia",
+    "economia"
+   ],
+   "importancia": 7,
+   "fuente": "Cinco Días",
+   "fuentes": [
+    "Cinco Días"
+   ],
+   "url": "https://cincodias.elpais.com/mercados-financieros/2026-11-20/la-bolsa-y-el-ibex-35.html",
+   "fecha": "2026-11-20T11:08:06.000Z",
+   "ultimaHora": true,
+   "reaccion": ""
+  },
+  {
+   "id": "3b3c40417f40",
+   "titulo": "Detenidos cuatro presuntos terroristas que usaban IA para radicalizar jóvenes",
+   "resumen": "La policía ha arrestado en San Sebastián, Vilanova i la Geltrú, Fuengirola y Melilla a cuatro personas que consumían propaganda de Daesh y Hamas y empleaban inteligencia artificial para acelerar captaciones.",
+   "porQue": "Evidencia la peligrosa convergencia entre las nuevas tecnologías de IA y las redes de radicalización yihadista en España.",
+   "pilar": "tecnologia",
+   "etiquetas": [
+    "ia",
+    "seguridad",
+    "terrorismo",
+    "espana"
+   ],
+   "importancia": 7,
+   "fuente": "La Vanguardia",
+   "fuentes": [
+    "La Vanguardia"
+   ],
+   "url": "https://www.lavanguardia.com/politica/20261120/11688983/detenidos-cuatro-presuntos-terroristas-consumian-propaganda-daesh-hamas.html",
+   "fecha": "2026-11-20T10:11:00.000Z",
+   "ultimaHora": true,
+   "reaccion": ""
+  },
+  {
+   "id": "52d35d9e02ae",
+   "titulo": "El Gobierno aprueba el decreto de centros de datos y la planificación eléctrica",
+   "resumen": "El Consejo de Ministros da luz verde este viernes a la norma impulsada por Aagesen para regular las inversiones de los 'data centers' y fijar condiciones más estrictas a las grandes tecnológicas antes de las elecciones.",
+   "porQue": "Condiciona el despliegue de la infraestructura digital e industrial en España y choca frontalmente con los intereses del sector tecnológico.",
+   "pilar": "emprendimiento",
+   "etiquetas": [
+    "espana",
+    "centros de datos",
+    "tecnologia",
+    "gobierno"
+   ],
+   "importancia": 7,
+   "fuente": "El País",
+   "fuentes": [
+    "El País",
+    "Cinco Días"
+   ],
+   "url": "https://elpais.com/economia/2026-11-20/el-gobierno-aprueba-este-viernes-el-decreto-de-centros-de-datos-y-la-planificacion-electrica.html",
+   "fecha": "2026-11-20T10:32:18.000Z",
+   "ultimaHora": true,
    "reaccion": ""
   }
  ]

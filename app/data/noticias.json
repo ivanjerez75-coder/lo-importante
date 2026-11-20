@@ -1,6 +1,6 @@
 {
  "generado": "2026-11-20T03:22:15.630Z",
- "actualizado": "2026-11-20T12:18:04.959Z",
+ "actualizado": "2026-11-20T12:58:20.834Z",
  "modo": "ia",
  "top3": [
   "11685b3b01c1",
@@ -749,24 +749,24 @@
   },
   {
    "id": "b87f50594ed2",
-   "titulo": "Rusia ataca intensamente los puentes de Kiev y la red energética ucraniana",
-   "resumen": "Los bombardeos masivos rusos han matado a una decena de personas, herido a otras 28 y provocado apagones generalizados en diez regiones de Ucrania. El ataque coincide con la investigación abierta en Polonia por la caída de proyectiles en su territorio fronterizo.",
-   "porQue": "Representa una de las escaladas bélicas más severas recientes, agravando la crisis humanitaria y energética en plena ofensiva.",
-   "pilar": "ultima",
+   "titulo": "Rusia bombardea Kiev y varias regiones ucranianas tras los ataques en el estrecho de Kerch",
+   "resumen": "Una oleada masiva de ataques aéreos rusos contra los puentes de Kiev y la infraestructura energética de Ucrania ha dejado una decena de muertos, 28 heridos y apagones generalizados en diez regiones del país. Los bombardeos coinciden con la caída de proyectiles en la vecina Polonia.",
+   "porQue": "Profundiza la crisis humanitaria y energética en Ucrania con cortes masivos de suministro y víctimas civiles en pleno invierno.",
+   "pilar": "global",
    "etiquetas": [
     "ucrania",
     "rusia",
     "guerra",
     "energia"
    ],
-   "importancia": 9,
+   "importancia": 8,
    "fuente": "El País",
    "fuentes": [
     "El País",
     "El País Internacional"
    ],
    "url": "https://elpais.com/internacional/2026-11-20/rusia-ataca-los-puentes-de-kiev-y-la-infraestructura-energetica-de-ucrania-tras-la-ofensiva-en-el-estrecho-de-kerch.html",
-   "fecha": "2026-11-20T09:49:25.000Z",
+   "fecha": "2026-11-20T12:25:45.000Z",
    "ultimaHora": true,
    "reaccion": ""
   },
@@ -924,6 +924,76 @@
    ],
    "url": "https://elpais.com/internacional/2026-11-20/turquia-acogera-a-10000-rohinyas-reubicados-desde-malasia.html",
    "fecha": "2026-11-20T11:38:18.000Z",
+   "ultimaHora": true,
+   "reaccion": ""
+  },
+  {
+   "id": "796b9c2d43e0",
+   "titulo": "Dos misiles y un dron rusos caen en Polonia en plenas maniobras militares de la OTAN",
+   "resumen": "Dos misiles de crucero y un dron rusos han impactado este viernes en territorio polaco durante un ejercicio militar conjunto de diez países europeos. El ministro de Defensa de Polonia ha calificado el suceso de provocación intencionada y ha exigido a la Alianza Atlántica un refuerzo inmediato del flanco oriental.",
+   "porQue": "Representa una escalada directa y muy peligrosa en el conflicto entre Rusia y la OTAN al traspasar suelo de un Estado miembro.",
+   "pilar": "geopolitica",
+   "etiquetas": [
+    "polonia",
+    "rusia",
+    "otan",
+    "ucrania"
+   ],
+   "importancia": 9,
+   "fuente": "El País",
+   "fuentes": [
+    "El País",
+    "El País Internacional"
+   ],
+   "url": "https://elpais.com/internacional/2026-11-20/dos-misiles-y-un-dron-rusos-caen-en-el-este-de-polonia-en-plenas-maniobras-militares-de-una-decena-de-paises-europeos.html",
+   "fecha": "2026-11-20T12:35:38.000Z",
+   "ultimaHora": true,
+   "reaccion": ""
+  },
+  {
+   "id": "ddedded09aef",
+   "titulo": "Adif evalúa los daños en la línea Madrid-Sevilla y calcula dos semanas de reparación",
+   "resumen": "Técnicos de Adif han accedido a la zona del siniestro en Urda para valorar los daños en la línea de alta velocidad Madrid-Sevilla, estimando un plazo de unas dos semanas para restablecer el servicio. Mientras tanto, operadores como Renfe, Iryo y Ouigo comercializan billetes alternativos para el corredor Sur a partir del 13 de diciembre.",
+   "porQue": "Afecta de forma crítica a las comunicaciones ferroviarias de alta velocidad en España, paralizando un corredor clave para miles de pasajeros.",
+   "pilar": "ultima",
+   "etiquetas": [
+    "renfe",
+    "adif",
+    "transporte",
+    "alta velocidad"
+   ],
+   "importancia": 7,
+   "fuente": "El País",
+   "fuentes": [
+    "El País",
+    "Cinco Días",
+    "El País Economía"
+   ],
+   "url": "https://elpais.com/economia/2026-11-20/transportes-confia-en-que-la-linea-madrid-sevilla-en-urda-se-repare-en-unas-dos-semanas.html",
+   "fecha": "2026-11-20T12:31:22.000Z",
+   "ultimaHora": true,
+   "reaccion": ""
+  },
+  {
+   "id": "2608ccd8ef78",
+   "titulo": "El Gobierno aprueba el decreto de centros de datos para contener la factura eléctrica",
+   "resumen": "El Consejo de Ministros ha aprobado este viernes el real decreto que regula los centros de datos en España, una medida impulsada para evitar un sobrecoste de hasta 5.000 millones de euros en la factura de la luz. La norma flexibiliza los plazos de consumo de energía renovable por hora para dar cabida a la avalancha de proyectos.",
+   "porQue": "Armoniza el boom tecnológico de la inteligencia artificial y la computación en nube con la sostenibilidad de la red eléctrica española.",
+   "pilar": "economia",
+   "etiquetas": [
+    "espana",
+    "energia",
+    "centros de datos",
+    "gobierno"
+   ],
+   "importancia": 7,
+   "fuente": "Europa Press",
+   "fuentes": [
+    "Europa Press",
+    "Europa Press Economía"
+   ],
+   "url": "https://www.europapress.es/economia/noticia-gobierno-aprueba-decreto-centros-datos-evitar-alza-5000-millones-factura-20261120125128.html",
+   "fecha": "2026-11-20T11:51:28.000Z",
    "ultimaHora": true,
    "reaccion": ""
   }

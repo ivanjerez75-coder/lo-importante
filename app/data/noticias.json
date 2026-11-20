@@ -1,6 +1,6 @@
 {
  "generado": "2026-11-20T03:22:15.630Z",
- "actualizado": "2026-11-20T12:58:20.834Z",
+ "actualizado": "2026-11-20T21:52:42.875Z",
  "modo": "ia",
  "top3": [
   "11685b3b01c1",
@@ -767,7 +767,7 @@
    ],
    "url": "https://elpais.com/internacional/2026-11-20/rusia-ataca-los-puentes-de-kiev-y-la-infraestructura-energetica-de-ucrania-tras-la-ofensiva-en-el-estrecho-de-kerch.html",
    "fecha": "2026-11-20T12:25:45.000Z",
-   "ultimaHora": true,
+   "ultimaHora": false,
    "reaccion": ""
   },
   {
@@ -790,7 +790,7 @@
    ],
    "url": "https://elpais.com/clima-y-medio-ambiente/2026-11-20/la-cumbre-del-clima-llega-a-su-recta-final-entre-el-bloqueo-y-las-criticas-a-sus-propias-reglas-son-una-receta-para-el-fracaso.html",
    "fecha": "2026-11-20T11:16:41.000Z",
-   "ultimaHora": true,
+   "ultimaHora": false,
    "reaccion": ""
   },
   {
@@ -812,7 +812,7 @@
    ],
    "url": "https://cincodias.elpais.com/mercados-financieros/2026-11-20/la-bolsa-y-el-ibex-35.html",
    "fecha": "2026-11-20T11:08:06.000Z",
-   "ultimaHora": true,
+   "ultimaHora": false,
    "reaccion": ""
   },
   {
@@ -834,7 +834,7 @@
    ],
    "url": "https://www.lavanguardia.com/politica/20261120/11688983/detenidos-cuatro-presuntos-terroristas-consumian-propaganda-daesh-hamas.html",
    "fecha": "2026-11-20T10:11:00.000Z",
-   "ultimaHora": true,
+   "ultimaHora": false,
    "reaccion": ""
   },
   {
@@ -857,7 +857,7 @@
    ],
    "url": "https://elpais.com/economia/2026-11-20/el-gobierno-aprueba-este-viernes-el-decreto-de-centros-de-datos-y-la-planificacion-electrica.html",
    "fecha": "2026-11-20T10:32:18.000Z",
-   "ultimaHora": true,
+   "ultimaHora": false,
    "reaccion": ""
   },
   {
@@ -879,7 +879,7 @@
    ],
    "url": "https://www.dw.com/es/dos-misiles-rusos-caen-en-polonia-que-denuncia-provocación/a-80001438?maca=spa-rss-sp-all-1122-rdf",
    "fecha": "2026-11-20T11:56:00.000Z",
-   "ultimaHora": true,
+   "ultimaHora": false,
    "reaccion": ""
   },
   {
@@ -901,7 +901,7 @@
    ],
    "url": "https://www.aljazeera.com/news/2026/11/20/eu-and-uk-seal-reset-deal?traffic_source=rss",
    "fecha": "2026-11-20T11:20:19.000Z",
-   "ultimaHora": true,
+   "ultimaHora": false,
    "reaccion": ""
   },
   {
@@ -924,7 +924,7 @@
    ],
    "url": "https://elpais.com/internacional/2026-11-20/turquia-acogera-a-10000-rohinyas-reubicados-desde-malasia.html",
    "fecha": "2026-11-20T11:38:18.000Z",
-   "ultimaHora": true,
+   "ultimaHora": false,
    "reaccion": ""
   },
   {
@@ -947,7 +947,7 @@
    ],
    "url": "https://elpais.com/internacional/2026-11-20/dos-misiles-y-un-dron-rusos-caen-en-el-este-de-polonia-en-plenas-maniobras-militares-de-una-decena-de-paises-europeos.html",
    "fecha": "2026-11-20T12:35:38.000Z",
-   "ultimaHora": true,
+   "ultimaHora": false,
    "reaccion": ""
   },
   {
@@ -971,7 +971,7 @@
    ],
    "url": "https://elpais.com/economia/2026-11-20/transportes-confia-en-que-la-linea-madrid-sevilla-en-urda-se-repare-en-unas-dos-semanas.html",
    "fecha": "2026-11-20T12:31:22.000Z",
-   "ultimaHora": true,
+   "ultimaHora": false,
    "reaccion": ""
   },
   {
@@ -994,6 +994,118 @@
    ],
    "url": "https://www.europapress.es/economia/noticia-gobierno-aprueba-decreto-centros-datos-evitar-alza-5000-millones-factura-20261120125128.html",
    "fecha": "2026-11-20T11:51:28.000Z",
+   "ultimaHora": false,
+   "reaccion": ""
+  },
+  {
+   "id": "83f20e69dee5",
+   "titulo": "El desplome de la IA hunde al Nasdaq en su peor semana en año y medio",
+   "resumen": "La caída del sector tecnológico arrastra al índice bursátil estadounidense, con Anthropic sufriendo un retroceso del 8,5% tras su reciente y sonado estreno bursátil. Los inversores cuestionan las ingentes sumas de dinero invertidas en infraestructuras de inteligencia artificial.",
+   "porQue": "Evidencia el pinchazo de las expectativas bursátiles en torno a la burbuja de la IA, afectando a los mercados globales.",
+   "pilar": "economia",
+   "etiquetas": [
+    "ia",
+    "bolsa",
+    "nasdaq",
+    "anthropic"
+   ],
+   "importancia": 8,
+   "fuente": "El País",
+   "fuentes": [
+    "El País",
+    "Cinco Días"
+   ],
+   "url": "https://elpais.com/economia/2026-11-20/la-segunda-jornada-en-bolsa-de-anthropic.html",
+   "fecha": "2026-11-20T21:06:58.000Z",
+   "ultimaHora": true,
+   "reaccion": ""
+  },
+  {
+   "id": "42f30b711df4",
+   "titulo": "Sánchez se reivindica en Galicia arropado por la pareja de Ramón Sampedro",
+   "resumen": "En plena campaña electoral, el presidente del Gobierno abarrota un pabellón en Santiago junto a Ramona Maneiro, convertida en símbolo de la muerte digna. Desde allí, carga duramente contra la postura de Alberto Núñez Feijóo respecto a la eutanasia.",
+   "porQue": "Marca el tono bronco y polarizado de la recta final de la campaña electoral española, utilizando derechos civiles como arma política.",
+   "pilar": "ultima",
+   "etiquetas": [
+    "elecciones",
+    "psoe",
+    "galicia",
+    "eutanasia"
+   ],
+   "importancia": 7,
+   "fuente": "El País",
+   "fuentes": [
+    "El País",
+    "El País España"
+   ],
+   "url": "https://elpais.com/espana/elecciones-generales/2026-11-20/sanchez-se-toma-la-revancha-en-galicia-y-esgrime-contra-feijoo-el-derecho-a-la-eutanasia-votemos-en-homenaje-a-ramon-sampedro.html",
+   "fecha": "2026-11-20T20:09:42.000Z",
+   "ultimaHora": true,
+   "reaccion": ""
+  },
+  {
+   "id": "0bb6721bd680",
+   "titulo": "Trump amenaza con imponer fuertes aranceles a las tecnológicas que construyan centros de datos fuera de EE UU",
+   "resumen": "El presidente estadounidense ha avanzado su intención de sancionar a las firmas nacionales que levanten infraestructuras de IA en el extranjero. La medida busca blindar la capacidad tecnológica nacional a pesar del rechazo medioambiental y energético local.",
+   "porQue": "Introduce fricciones proteccionistas y geopolíticas directas en el desarrollo global de la inteligencia artificial.",
+   "pilar": "geopolitica",
+   "etiquetas": [
+    "eeuu",
+    "ia",
+    "trump",
+    "tecnologia"
+   ],
+   "importancia": 8,
+   "fuente": "El País",
+   "fuentes": [
+    "El País"
+   ],
+   "url": "https://elpais.com/us/2026-11-20/trump-amenaza-con-sancionar-a-las-empresas-estadounidenses-que-construyan-centros-de-datos-en-otros-paises.html",
+   "fecha": "2026-11-20T21:19:03.000Z",
+   "ultimaHora": true,
+   "reaccion": ""
+  },
+  {
+   "id": "9efc52d1f8b3",
+   "titulo": "YouTube negocia pagar 3.000 millones para cerrar demandas por adicción infantil",
+   "resumen": "La plataforma de vídeo prepara un acuerdo millonario con miles de distritos escolares en Estados Unidos. Las demandas acusan al diseño adictivo de la aplicación de causar daños psicológicos graves a los menores.",
+   "porQue": "Establece un precedente histórico sobre la responsabilidad civil y económica de las grandes tecnológicas en la salud mental de los jóvenes.",
+   "pilar": "tecnologia",
+   "etiquetas": [
+    "youtube",
+    "saludmental",
+    "tecnologia",
+    "demandas"
+   ],
+   "importancia": 8,
+   "fuente": "The Verge",
+   "fuentes": [
+    "The Verge"
+   ],
+   "url": "https://www.theverge.com/streaming/1039096/youtube-social-media-addiction-school-districts-settlement",
+   "fecha": "2026-11-20T20:43:52.000Z",
+   "ultimaHora": true,
+   "reaccion": ""
+  },
+  {
+   "id": "f7c87ba793e1",
+   "titulo": "'Grand Theft Auto VI' bate todos los récords con 3.790 millones en su primer día",
+   "resumen": "La esperada sexta entrega de la saga de Rockstar Games recauda cifras históricas en su lanzamiento, superando los registros comerciales iniciales de las mayores superproducciones cinematográficas de Hollywood.",
+   "porQue": "Muestra la magnitud económica y cultural de la industria del videojuego, superando con creces al cine tradicional.",
+   "pilar": "tecnologia",
+   "etiquetas": [
+    "videojuegos",
+    "gta6",
+    "entretenimiento",
+    "economia"
+   ],
+   "importancia": 6,
+   "fuente": "La Vanguardia",
+   "fuentes": [
+    "La Vanguardia"
+   ],
+   "url": "https://www.lavanguardia.com/cultura/20261120/11689505/grand-theft-auto-vi-mayor-lanzamiento-historia-entretenimiento.html",
+   "fecha": "2026-11-20T20:11:36.000Z",
    "ultimaHora": true,
    "reaccion": ""
   }

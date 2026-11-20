@@ -1,6 +1,6 @@
 {
  "generado": "2026-11-20T03:22:15.630Z",
- "actualizado": "2026-11-20T11:33:43.405Z",
+ "actualizado": "2026-11-20T12:18:04.959Z",
  "modo": "ia",
  "top3": [
   "11685b3b01c1",
@@ -749,15 +749,15 @@
   },
   {
    "id": "b87f50594ed2",
-   "titulo": "Rusia ataca los puentes de Kiev y la infraestructura energética de Ucrania",
-   "resumen": "Los bombardeos rusos han matado a una decena de personas, herido a otras 28 y provocado apagones en diez regiones ucranianas tras la ofensiva en el estrecho de Kerch. Polonia investiga además la caída de un proyectil en su territorio cerca de la frontera.",
-   "porQue": "Escala gravemente el conflicto militar en Europa del Este y amenaza con implicar directamente a países de la OTAN tras la caída de un proyectil en suelo polaco.",
-   "pilar": "geopolitica",
+   "titulo": "Rusia ataca intensamente los puentes de Kiev y la red energética ucraniana",
+   "resumen": "Los bombardeos masivos rusos han matado a una decena de personas, herido a otras 28 y provocado apagones generalizados en diez regiones de Ucrania. El ataque coincide con la investigación abierta en Polonia por la caída de proyectiles en su territorio fronterizo.",
+   "porQue": "Representa una de las escaladas bélicas más severas recientes, agravando la crisis humanitaria y energética en plena ofensiva.",
+   "pilar": "ultima",
    "etiquetas": [
     "ucrania",
     "rusia",
     "guerra",
-    "polonia"
+    "energia"
    ],
    "importancia": 9,
    "fuente": "El País",
@@ -840,14 +840,14 @@
   {
    "id": "52d35d9e02ae",
    "titulo": "El Gobierno aprueba el decreto de centros de datos y la planificación eléctrica",
-   "resumen": "El Consejo de Ministros da luz verde este viernes a la norma impulsada por Aagesen para regular las inversiones de los 'data centers' y fijar condiciones más estrictas a las grandes tecnológicas antes de las elecciones.",
-   "porQue": "Condiciona el despliegue de la infraestructura digital e industrial en España y choca frontalmente con los intereses del sector tecnológico.",
-   "pilar": "emprendimiento",
+   "resumen": "El Consejo de Ministros ha dado luz verde a la norma impulsada por Transición Ecológica a una semana de las elecciones para regular las inversiones y exigir un consumo energético renovable estricto, evitando un sobrecoste estimado en 5.000 millones.",
+   "porQue": "Ordena el boom de las infraestructuras tecnológicas en España y marca un precedente regulatorio único a nivel global.",
+   "pilar": "ultima",
    "etiquetas": [
+    "economia",
+    "energia",
     "espana",
-    "centros de datos",
-    "tecnologia",
-    "gobierno"
+    "tecnologia"
    ],
    "importancia": 7,
    "fuente": "El País",
@@ -857,6 +857,73 @@
    ],
    "url": "https://elpais.com/economia/2026-11-20/el-gobierno-aprueba-este-viernes-el-decreto-de-centros-de-datos-y-la-planificacion-electrica.html",
    "fecha": "2026-11-20T10:32:18.000Z",
+   "ultimaHora": true,
+   "reaccion": ""
+  },
+  {
+   "id": "8b3becb03cc3",
+   "titulo": "Dos misiles rusos caen en Polonia y el Gobierno denuncia una \"provocación\"",
+   "resumen": "El ministro de Defensa polaco ha confirmado la caída de dos misiles en su territorio y ha anunciado que pedirá a la OTAN un refuerzo urgente de la vigilancia en su flanco oriental.",
+   "porQue": "El impacto de proyectiles en un país aliado de la OTAN eleva drásticamente el riesgo de una expansión del conflicto a territorio europeo.",
+   "pilar": "geopolitica",
+   "etiquetas": [
+    "polonia",
+    "rusia",
+    "otan",
+    "misiles"
+   ],
+   "importancia": 9,
+   "fuente": "DW Español",
+   "fuentes": [
+    "DW Español"
+   ],
+   "url": "https://www.dw.com/es/dos-misiles-rusos-caen-en-polonia-que-denuncia-provocación/a-80001438?maca=spa-rss-sp-all-1122-rdf",
+   "fecha": "2026-11-20T11:56:00.000Z",
+   "ultimaHora": true,
+   "reaccion": ""
+  },
+  {
+   "id": "0cfb735f2465",
+   "titulo": "La Unión Europea y el Reino Unido cierran un acuerdo de descongelación",
+   "resumen": "Ambos bloques han sellado un pacto inicial para relanzar sus relaciones bilaterales tras el Brexit, aunque los equipos negociadores continuarán perfilando detalles clave en áreas específicas.",
+   "porQue": "Supone un acercamiento político y comercial fundamental para la estabilidad económica y la movilidad en Europa tras años de desencuentros.",
+   "pilar": "ultima",
+   "etiquetas": [
+    "ue",
+    "reino unido",
+    "brexit",
+    "diplomacia"
+   ],
+   "importancia": 8,
+   "fuente": "Al Jazeera",
+   "fuentes": [
+    "Al Jazeera"
+   ],
+   "url": "https://www.aljazeera.com/news/2026/11/20/eu-and-uk-seal-reset-deal?traffic_source=rss",
+   "fecha": "2026-11-20T11:20:19.000Z",
+   "ultimaHora": true,
+   "reaccion": ""
+  },
+  {
+   "id": "bbdc53f7ec54",
+   "titulo": "Malasia pacta con Turquía la reubicación de 10.000 rohinyás exiliados",
+   "resumen": "El anuncio de Kuala Lumpur se produce apenas un día después de que el Tribunal Internacional de Justicia concluyera que Myanmar cometió genocidio contra esta minoría musulmana.",
+   "porQue": "Ofrece una vía de auxilio humanitario urgente a una de las poblaciones más perseguidas del mundo tras el fallo histórico de la ONU.",
+   "pilar": "ultima",
+   "etiquetas": [
+    "refugiados",
+    "myanmar",
+    "turquia",
+    "derechos humanos"
+   ],
+   "importancia": 8,
+   "fuente": "El País",
+   "fuentes": [
+    "El País",
+    "El País Internacional"
+   ],
+   "url": "https://elpais.com/internacional/2026-11-20/turquia-acogera-a-10000-rohinyas-reubicados-desde-malasia.html",
+   "fecha": "2026-11-20T11:38:18.000Z",
    "ultimaHora": true,
    "reaccion": ""
   }

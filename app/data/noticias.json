@@ -1,6 +1,6 @@
 {
  "generado": "2026-11-21T03:19:59.681Z",
- "actualizado": "2026-11-21T11:51:05.301Z",
+ "actualizado": "2026-11-21T12:43:57.594Z",
  "modo": "ia",
  "top3": [
   "83f20e69dee5",
@@ -525,9 +525,9 @@
   },
   {
    "id": "32b9aece313c",
-   "titulo": "Zelenski tacha a Putin de \"asesino\" tras las palabras de Trump",
-   "resumen": "El presidente ucraniano ha respondido duramente después de que Donald Trump se refiriera al líder ruso como un \"amigo\". Zelenski ha advertido que solo Estados Unidos posee la capacidad real de presionar a Moscú y criticó que este tipo de declaraciones entorpecen la resolución del conflicto.",
-   "porQue": "Marca las tensiones diplomáticas y el choque de posturas internacionales ante el futuro de la guerra en Ucrania.",
+   "titulo": "Zelenski tacha a Putin de \"asesino\" tras las declaraciones de Trump",
+   "resumen": "El presidente de Ucrania ha respondido con dureza después de que Donald Trump se refiriera al líder ruso como un \"amigo\". Zelenski ha recalcado que solo Estados Unidos posee la influencia necesaria para presionar a Moscú y que este tipo de discursos entorpecen la resolución del conflicto.",
+   "porQue": "Evidencia las crecientes tensiones diplomáticas entre Kiev y la nueva postura de Washington respecto al Kremlin.",
    "pilar": "geopolitica",
    "etiquetas": [
     "ucrania",
@@ -548,9 +548,9 @@
   },
   {
    "id": "42ee2d3f28d7",
-   "titulo": "El Gobierno prorrogará el impuesto a la banca en 2027 para vivienda",
-   "resumen": "El presidente del Gobierno ha anunciado que el Consejo de Ministros aprobará la prórroga del impuesto extraordinario a la banca durante el año 2027. La medida prevé recaudar unos 1.400 millones de euros que se destinarán íntegramente a financiar políticas públicas de vivienda.",
-   "porQue": "Afecta directamente al sector financiero y moviliza recursos fiscales importantes para aliviar la crisis de acceso a la vivienda en España.",
+   "titulo": "El Gobierno prorrogará el impuesto a la banca un año más para financiar políticas de vivienda",
+   "resumen": "El presidente del Gobierno, Pedro Sánchez, ha anunciado la extensión del gravamen extraordinario a la banca durante el año 2027. La medida prevé una recaudación estimada en 1.400 millones de euros que se destinarán íntegramente a políticas de acceso a la vivienda.",
+   "porQue": "Afecta de manera directa al sector financiero y moviliza recursos públicos clave para paliar la crisis de la vivienda en España.",
    "pilar": "economia",
    "etiquetas": [
     "banca",
@@ -562,6 +562,7 @@
    "fuente": "El País",
    "fuentes": [
     "El País",
+    "La Vanguardia",
     "Cinco Días"
    ],
    "url": "https://elpais.com/economia/2026-11-21/el-gobierno-prorrogara-el-impuesto-a-la-banca-un-ano-mas-para-financiar-politicas-de-vivienda.html",
@@ -659,9 +660,9 @@
   },
   {
    "id": "040c95d5f039",
-   "titulo": "Bloqueo total en la cumbre del clima COP31 por los combustibles fósiles",
-   "resumen": "Las negociaciones de la cumbre climática COP31 se encuentran en un punto muerto debido al desacuerdo entre cerca de 200 países sobre cómo redactar el nuevo acuerdo global. Las organizaciones ecologistas alertan de que la cita corre el riesgo de convertirse en una de las más decepcionantes de la historia.",
-   "porQue": "Amenaza los compromisos internacionales clave para frenar el avance del cambio climático a escala global.",
+   "titulo": "Las negociaciones de la cumbre climática COP31 concluyen sin un acuerdo global",
+   "resumen": "Las conversaciones oficiales de la cumbre climática COP31 han finalizado superando el plazo previsto y sumidas en un bloqueo total debido a las profundas discrepancias entre cerca de 200 países en torno al fin de los combustibles fósiles.",
+   "porQue": "Frustra los avances multilaterales urgentes necesarios para frenar el calentamiento global y cumplir los objetivos climáticos internacionales.",
    "pilar": "global",
    "etiquetas": [
     "clima",
@@ -682,15 +683,15 @@
   },
   {
    "id": "acfb35e15f56",
-   "titulo": "Chema Alonso deja Cloudflare y ficha por Meta como vicepresidente",
-   "resumen": "El conocido directivo y ex hacker español se incorpora a la compañía de Mark Zuckerberg como vicepresidente global de Gestión de Producto. Este movimiento se produce tras algo más de año y medio trabajando en Cloudflare.",
-   "porQue": "Representa uno de los fichajes ejecutivos tecnológicos de mayor perfil internacional para un talento español.",
+   "titulo": "Chema Alonso ficha por Meta como vicepresidente global de Gestión de Producto",
+   "resumen": "El conocido directivo y ex hacker español abandona Cloudflare tras año y medio para incorporarse a la compañía de Mark Zuckerberg. Asumirá un rol estratégico de alta responsabilidad en la gestión global de productos.",
+   "porQue": "Representa uno de los movimientos directivos del sector tecnológico español con mayor proyección internacional en el ecosistema de Silicon Valley.",
    "pilar": "tecnologia",
    "etiquetas": [
     "meta",
-    "fichaje",
     "tecnologia",
-    "ia"
+    "ia",
+    "fichajes"
    ],
    "importancia": 6,
    "fuente": "El País",
@@ -701,6 +702,28 @@
    ],
    "url": "https://cincodias.elpais.com/companias/2026-11-21/chema-alonso-el-ex-hacker-de-telefonica-ficha-por-meta-facebook-y-abandona-cloudflare.html",
    "fecha": "2026-11-21T11:28:22.000Z",
+   "ultimaHora": true,
+   "reaccion": ""
+  },
+  {
+   "id": "52f4029d95ae",
+   "titulo": "Drones ucranianos atacan un carguero ruso en el golfo de Finlandia",
+   "resumen": "Ucrania ha intensificado sus operaciones con drones de largo alcance, logrando golpear un carguero ruso en el golfo de Finlandia. Por su parte, Moscú afirma haber interceptado cientos de aeronaves no tripuladas en varias regiones del país.",
+   "porQue": "Muestra la expansión geográfica de los ataques de Kiev sobre infraestructuras y objetivos rusos fuera de las zonas tradicionales de combate.",
+   "pilar": "geopolitica",
+   "etiquetas": [
+    "ucrania",
+    "rusia",
+    "guerra",
+    "drones"
+   ],
+   "importancia": 8,
+   "fuente": "La Vanguardia",
+   "fuentes": [
+    "La Vanguardia"
+   ],
+   "url": "https://www.lavanguardia.com/internacional/20261121/11689834/drones-ucranianos-atacan-carguero-ruso-golfo-finlandia.html",
+   "fecha": "2026-11-21T11:21:23.000Z",
    "ultimaHora": true,
    "reaccion": ""
   }

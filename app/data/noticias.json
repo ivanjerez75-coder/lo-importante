@@ -1,6 +1,6 @@
 {
  "generado": "2026-11-21T03:19:59.681Z",
- "actualizado": "2026-11-21T12:43:57.594Z",
+ "actualizado": "2026-11-21T20:34:37.281Z",
  "modo": "ia",
  "top3": [
   "83f20e69dee5",
@@ -543,7 +543,7 @@
    ],
    "url": "https://elpais.com/internacional/2026-11-21/zelenski-despues-de-que-trump-se-refiriera-a-putin-como-un-amigo-para-nosotros-es-un-asesino.html",
    "fecha": "2026-11-21T10:44:14.000Z",
-   "ultimaHora": true,
+   "ultimaHora": false,
    "reaccion": ""
   },
   {
@@ -567,7 +567,7 @@
    ],
    "url": "https://elpais.com/economia/2026-11-21/el-gobierno-prorrogara-el-impuesto-a-la-banca-un-ano-mas-para-financiar-politicas-de-vivienda.html",
    "fecha": "2026-11-21T10:32:32.000Z",
-   "ultimaHora": true,
+   "ultimaHora": false,
    "reaccion": ""
   },
   {
@@ -589,7 +589,7 @@
    ],
    "url": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
    "fecha": "2026-11-21T10:26:36.000Z",
-   "ultimaHora": true,
+   "ultimaHora": false,
    "reaccion": ""
   },
   {
@@ -611,7 +611,7 @@
    ],
    "url": "https://www.europapress.es/economia/finanzas-00340/noticia-costa-plantea-recorte-10-proximo-presupuesto-europeo-20261121112253.html",
    "fecha": "2026-11-21T10:22:53.000Z",
-   "ultimaHora": true,
+   "ultimaHora": false,
    "reaccion": ""
   },
   {
@@ -633,7 +633,7 @@
    ],
    "url": "https://www.20minutos.es/internacional/dos-buques-son-alcanzados-por-proyectiles-estrecho-ormuz-segun-marina-britanica_7063992_0.html",
    "fecha": "2026-11-21T09:58:30.000Z",
-   "ultimaHora": true,
+   "ultimaHora": false,
    "reaccion": ""
   },
   {
@@ -655,29 +655,29 @@
    ],
    "url": "https://www.eldiario.es/economia/costa-rinde-austeros-presenta-proyecto-presupuesto-europeo-recorte-10-2_1_13682378.html",
    "fecha": "2026-11-21T10:13:09.000Z",
-   "ultimaHora": true,
+   "ultimaHora": false,
    "reaccion": ""
   },
   {
    "id": "040c95d5f039",
-   "titulo": "Las negociaciones de la cumbre climática COP31 concluyen sin un acuerdo global",
-   "resumen": "Las conversaciones oficiales de la cumbre climática COP31 han finalizado superando el plazo previsto y sumidas en un bloqueo total debido a las profundas discrepancias entre cerca de 200 países en torno al fin de los combustibles fósiles.",
-   "porQue": "Frustra los avances multilaterales urgentes necesarios para frenar el calentamiento global y cumplir los objetivos climáticos internacionales.",
+   "titulo": "La COP31 entra en punto muerto tras expirar el plazo sin acuerdo sobre fósiles",
+   "resumen": "Las negociaciones climáticas de la COP31 de la ONU han quedado bloqueadas al vencer el plazo oficial sin un texto de consenso entre casi 200 países. El choque central radica en la exigencia de la Unión Europea y otros 130 países de incluir el abandono de los combustibles fósiles, rechazada por las potencias productoras.",
+   "porQue": "Define el grado de ambición de la política climática internacional y el marco multilateral para la transición energética global.",
    "pilar": "global",
    "etiquetas": [
-    "clima",
     "cop31",
-    "energia",
-    "medio ambiente"
+    "clima",
+    "combustibles fósiles",
+    "onu"
    ],
-   "importancia": 9,
+   "importancia": 8,
    "fuente": "BBC Ciencia y Medio Ambiente",
    "fuentes": [
     "BBC Ciencia y Medio Ambiente",
     "BBC World"
    ],
    "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
-   "fecha": "2026-11-21T09:52:11.000Z",
+   "fecha": "2026-11-21T19:33:49.000Z",
    "ultimaHora": true,
    "reaccion": ""
   },
@@ -702,7 +702,7 @@
    ],
    "url": "https://cincodias.elpais.com/companias/2026-11-21/chema-alonso-el-ex-hacker-de-telefonica-ficha-por-meta-facebook-y-abandona-cloudflare.html",
    "fecha": "2026-11-21T11:28:22.000Z",
-   "ultimaHora": true,
+   "ultimaHora": false,
    "reaccion": ""
   },
   {
@@ -724,6 +724,94 @@
    ],
    "url": "https://www.lavanguardia.com/internacional/20261121/11689834/drones-ucranianos-atacan-carguero-ruso-golfo-finlandia.html",
    "fecha": "2026-11-21T11:21:23.000Z",
+   "ultimaHora": false,
+   "reaccion": ""
+  },
+  {
+   "id": "286cc01f5f7e",
+   "titulo": "Ataque masivo ruso con más de 500 misiles y drones deja al menos siete muertos en Kiev",
+   "resumen": "Rusia ha lanzado una de sus mayores ofensivas aéreas sobre Ucrania, disparando más de 400 drones y 110 misiles en una sola noche. El bombardeo ha causado al menos siete muertos en Kiev e impactado infraestructuras estratégicas en varios puntos del país.",
+   "porQue": "Eleva al máximo la presión sobre la defensa antiaérea ucraniana y compromete de nuevo la red energética civil a las puertas del invierno.",
+   "pilar": "geopolitica",
+   "etiquetas": [
+    "ucrania",
+    "rusia",
+    "guerra",
+    "kiev"
+   ],
+   "importancia": 8,
+   "fuente": "Al Jazeera",
+   "fuentes": [
+    "Al Jazeera"
+   ],
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/aje-onl-nf_deadly-attack-in-kyiv-as-russia-launches-barrage-211126?traffic_source=rss",
+   "fecha": "2026-11-21T18:42:38.000Z",
+   "ultimaHora": true,
+   "reaccion": ""
+  },
+  {
+   "id": "d2dc60bf52a9",
+   "titulo": "Un ataque con drones incendia un carguero ruso en aguas del golfo de Finlandia",
+   "resumen": "Un buque mercante ruso ha sufrido un incendio tras ser impactado en aguas internacionales del golfo de Finlandia por un presunto ataque de drones. Tanto autoridades rusas como la inteligencia finlandesa señalan la implicación militar de Ucrania en la operación.",
+   "porQue": "Extiende las operaciones de sabotaje naval de la guerra al mar Báltico, una zona de fricción crítica y fronteriza con la OTAN.",
+   "pilar": "geopolitica",
+   "etiquetas": [
+    "ucrania",
+    "rusia",
+    "báltico",
+    "drones"
+   ],
+   "importancia": 7,
+   "fuente": "France 24 ES",
+   "fuentes": [
+    "France 24 ES"
+   ],
+   "url": "https://www.france24.com/es/europa/20261121-un-ataque-con-drones-atribuido-a-ucrania-incendia-un-carguero-ruso-en-el-golfo-de-finlandia",
+   "fecha": "2026-11-21T19:35:48.000Z",
+   "ultimaHora": true,
+   "reaccion": ""
+  },
+  {
+   "id": "f9e247fc35da",
+   "titulo": "La captura de 'El Chapo Isidro' desata enfrentamientos armados en Sinaloa",
+   "resumen": "Las fuerzas armadas mexicanas han detenido a Fausto Isidro Meza Flores, uno de los jefes del Cártel de Sinaloa y prófugo prioritario en la lista del FBI. El operativo militar y la respuesta armada de los grupos de sicarios han dejado al menos cuatro soldados y siete sospechosos muertos.",
+   "porQue": "Descabeza una de las estructuras operativas clave del narcotráfico hacia Estados Unidos y amenaza con desatar represalias violentas en la región.",
+   "pilar": "ultima",
+   "etiquetas": [
+    "méxico",
+    "sinaloa",
+    "seguridad",
+    "narcotráfico"
+   ],
+   "importancia": 6,
+   "fuente": "El País",
+   "fuentes": [
+    "El País"
+   ],
+   "url": "https://elpais.com/mexico/2026-11-21/detenido-el-chapo-isidro-en-un-operativo-que-desata-el-terror-en-sinaloa.html",
+   "fecha": "2026-11-21T19:23:33.000Z",
+   "ultimaHora": true,
+   "reaccion": ""
+  },
+  {
+   "id": "50e54375c600",
+   "titulo": "Investigan un segundo ciberataque contra la base de datos criminal del FBI",
+   "resumen": "Autoridades federales de Estados Unidos investigan una intrusión informática en el Centro Nacional de Información sobre el Crimen del FBI y en redes del Departamento de Agricultura. Es el segundo incidente de acceso no autorizado detectado en esta infraestructura policial crítica en los últimos meses.",
+   "porQue": "Compromete el registro central utilizado por agencias policiales para gestionar órdenes de captura, antecedentes y pesquisas en curso.",
+   "pilar": "tecnologia",
+   "etiquetas": [
+    "ciberseguridad",
+    "fbi",
+    "estados unidos",
+    "hackeo"
+   ],
+   "importancia": 6,
+   "fuente": "20minutos",
+   "fuentes": [
+    "20minutos"
+   ],
+   "url": "https://www.20minutos.es/internacional/hackean-base-datos-informacion-criminal-fbi-segunda-vez-pocos-meses_7064132_0.html",
+   "fecha": "2026-11-21T19:11:33.000Z",
    "ultimaHora": true,
    "reaccion": ""
   }

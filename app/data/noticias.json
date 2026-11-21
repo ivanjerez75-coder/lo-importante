@@ -1,1015 +1,26 @@
 {
- "generado": "2026-11-20T03:22:15.630Z",
- "actualizado": "2026-11-20T21:52:42.875Z",
+ "generado": "2026-11-21T03:19:59.681Z",
+ "actualizado": "2026-11-21T03:19:59.681Z",
  "modo": "ia",
  "top3": [
-  "11685b3b01c1",
-  "779c3aaa135e",
-  "4adaa648ff6c"
+  "83f20e69dee5",
+  "05c7cc17b93b",
+  "819d3babef6f"
  ],
  "noticias": [
   {
-   "id": "11685b3b01c1",
-   "titulo": "La CIJ declara a Myanmar culpable de cometer genocidio contra los rohinyás",
-   "resumen": "La Corte Internacional de Justicia de la ONU determinó formalmente que el ejército de Myanmar perpetró genocidio contra la minoría rohinyá en 2017. El fallo, calificado de histórico por organizaciones de derechos humanos, responsabiliza directamente al Estado birmano de matanzas sistemáticas, violaciones masivas y la expulsión de cientos de miles de civiles hacia Bangladés.",
-   "porQue": "Sienta un precedente vinculante en el derecho internacional que allana el camino para sanciones globales y exigencias de reparación para cientos de miles de refugiados apátridas.",
-   "pilar": "global",
-   "etiquetas": [
-    "ddhh",
-    "onu",
-    "myanmar",
-    "justicia"
-   ],
-   "importancia": 9,
-   "fuente": "BBC World",
-   "fuentes": [
-    "BBC World",
-    "Foreign Policy",
-    "The Guardian World"
-   ],
-   "url": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
-   "fecha": "2026-11-19T20:07:02.000Z",
-   "ultimaHora": false,
-   "reaccion": "El veredicto final desestima los recursos de la junta militar y refuerza la presión para que el Consejo de Seguridad aplique medidas coercitivas y embargos comerciales."
-  },
-  {
-   "id": "779c3aaa135e",
-   "titulo": "Anthropic debuta en bolsa con fuerte subida pero desata ventas masivas en Asia",
-   "resumen": "La empresa de inteligencia artificial Anthropic protagonizó el mayor estreno bursátil del sector tecnológico al cerrar con un alza del 17% y alcanzar valoraciones multimillonarias. Sin embargo, horas después los parqués asiáticos liderados por Tokio, Seúl y Taipéi sufrieron fuertes caídas por el temor de los inversores a una burbuja en el gasto de infraestructura de IA.",
-   "porQue": "La reacción dispar de los mercados muestra que el entusiasmo bursátil inicial por la IA convive con un creciente recelo sobre la rentabilidad real de las colosales inversiones en chips y centros de datos.",
-   "pilar": "economia",
-   "etiquetas": [
-    "anthropic",
-    "ia",
-    "wall street",
-    "bolsa"
-   ],
-   "importancia": 8,
-   "fuente": "BBC World",
-   "fuentes": [
-    "BBC World",
-    "BBC Business"
-   ],
-   "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
-   "fecha": "2026-11-19T23:33:51.000Z",
-   "ultimaHora": false,
-   "reaccion": "Tras la euforia inicial en Nueva York, SoftBank se hundió un 16% en Tokio y los fabricantes de componentes semiconductores sufrieron ventas masivas ante las dudas sobre el retorno de capital."
-  },
-  {
-   "id": "4adaa648ff6c",
-   "titulo": "Sánchez y Feijóo chocan con dureza en el único cara a cara antes del 29-N",
-   "resumen": "Pedro Sánchez y Alberto Núñez Feijóo mantuvieron un tenso debate televisivo marcado por reproches cruzados sobre vivienda, fiscalidad, la crisis del transporte ferroviario y los pactos territoriales. Los analistas y sondeos posteriores reflejaron una ventaja táctica del líder de la oposición frente a la postura defensiva del presidente del Gobierno a diez días de los comicios.",
-   "porQue": "El debate polariza la recta final de la campaña y puede movilizar a los votantes indecisos clave en circunscripciones disputadas como Barcelona y Madrid.",
-   "pilar": "ultima",
-   "etiquetas": [
-    "españa",
-    "elecciones",
-    "psoe",
-    "pp"
-   ],
-   "importancia": 8,
-   "fuente": "La Vanguardia",
-   "fuentes": [
-    "La Vanguardia",
-    "elDiario.es"
-   ],
-   "url": "https://www.lavanguardia.com/politica/20261120/11688475/ganado-cara-cara.html",
-   "fecha": "2026-11-19T23:29:19.000Z",
-   "ultimaHora": false,
-   "reaccion": "Las direcciones de ambos partidos exhibieron balances opuestos tras el plató, mientras la dirección popular intensifica su presión en plazas clave y el PSOE busca frenar fugas hacia el voto moderado."
-  },
-  {
-   "id": "42a972871329",
-   "titulo": "Líderes europeos fijan una postura unida para negociar el fin de la guerra en Ucrania",
-   "resumen": "Casi 40 mandatarios aliados reunidos de urgencia en Berlín respaldaron al presidente Volodímir Zelenski y acordaron una posición común frente a Moscú. La cumbre busca evitar que Washington, Moscú y Pekín sellen acuerdos territoriales al margen de Europa tras la reciente reunión trilateral de potencias en China.",
-   "porQue": "Define si los países europeos mantendrán capacidad de veto y tutela en la futura arquitectura de seguridad continental.",
-   "pilar": "geopolitica",
-   "etiquetas": [
-    "ucrania",
-    "rusia",
-    "europa",
-    "diplomacia"
-   ],
-   "importancia": 8,
-   "fuente": "BBC World",
-   "fuentes": [
-    "BBC World"
-   ],
-   "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
-   "fecha": "2026-11-20T00:50:24.000Z",
-   "ultimaHora": false,
-   "reaccion": "Los líderes europeos acordaron condicionar cualquier mesa negociadora a que Kiev participe directamente, frente a los temores de pactos bilaterales entre Washington y Pekín."
-  },
-  {
-   "id": "205406d55564",
-   "titulo": "Los ataques hutíes contra el centro financiero de Riad reavivan la tensión energética",
-   "resumen": "Misiles balísticos lanzados desde Yemen impactaron en zonas próximas al distrito financiero de la capital saudí en el marco de la escalada militar con Irán. El incidente generó alarma entre los operadores petroleros por el riesgo de interrupciones prolongadas en las refinerías y rutas comerciales de la península arábiga.",
-   "porQue": "Un recrudecimiento en suelo saudí amenaza con disparar la prima de riesgo del crudo e incidir en las tasas de inflación internacional.",
-   "pilar": "geopolitica",
-   "etiquetas": [
-    "petróleo",
-    "arabia saudí",
-    "oriente medio",
-    "conflicto"
-   ],
-   "importancia": 8,
-   "fuente": "Al Jazeera",
-   "fuentes": [
-    "Al Jazeera"
-   ],
-   "url": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-houthis-escalate-attacks-on-saudi-capital?traffic_source=rss",
-   "fecha": "2026-11-19T23:58:40.000Z",
-   "ultimaHora": false,
-   "reaccion": ""
-  },
-  {
-   "id": "fddde9ec8f88",
-   "titulo": "Tensión en la cumbre del clima por el fondo exigido por las naciones africanas",
-   "resumen": "En la conferencia climática de la ONU en Turquía, delegaciones de países africanos exigieron elevar drásticamente los compromisos financieros de las potencias industrializadas para mitigar los impactos extremos. La Unión Europea y otros socios respondieron que la prioridad debe ser desbloquear y canalizar los fondos comprometidos en acuerdos anteriores.",
-   "porQue": "La falta de acuerdos económicos amenaza con bloquear las metas globales de descarbonización y dejar a los países vulnerables sin recursos frente a sequías e inundaciones.",
-   "pilar": "global",
-   "etiquetas": [
-    "clima",
-    "áfrica",
-    "onu",
-    "finanzas"
-   ],
-   "importancia": 7,
-   "fuente": "BBC Ciencia y Medio Ambiente",
-   "fuentes": [
-    "BBC Ciencia y Medio Ambiente",
-    "BBC World"
-   ],
-   "url": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&at_campaign=rss",
-   "fecha": "2026-11-20T00:54:50.000Z",
-   "ultimaHora": false,
-   "reaccion": ""
-  },
-  {
-   "id": "9e020bee1762",
-   "titulo": "Meta revisa sus metas climáticas para 2030 por el consumo de sus centros de datos",
-   "resumen": "La multinacional Meta admitió que el incremento exponencial en el consumo energético de sus instalaciones de inteligencia artificial pone en riesgo sus objetivos de reducción de emisiones para 2030. La compañía se vio forzada a iniciar una revisión de sus compromisos de sostenibilidad ante el desajuste entre demanda computacional y disponibilidad de energías limpias.",
-   "porQue": "Ilustra la creciente contradicción estructural entre la expansión de grandes modelos de IA y las metas climáticas asumidas por las tecnológicas.",
-   "pilar": "global",
-   "etiquetas": [
-    "meta",
-    "ia",
-    "clima",
-    "energía"
-   ],
-   "importancia": 7,
-   "fuente": "Al Jazeera",
-   "fuentes": [
-    "Al Jazeera"
-   ],
-   "url": "https://www.aljazeera.com/news/2026/11/20/meta-rethinks-2030-climate-goals-as-ai-data-centres-drive-emissions-up?traffic_source=rss",
-   "fecha": "2026-11-20T01:29:28.000Z",
-   "ultimaHora": false,
-   "reaccion": ""
-  },
-  {
-   "id": "28fefe16dbf3",
-   "titulo": "California investiga a Nvidia por posible transferencia de chips de IA a China",
-   "resumen": "La Fiscalía General del Estado de California emitió un requerimiento formal a Nvidia para verificar si tecnología confidencial de procesadores avanzados fue exportada a entidades chinas sujetas a vetos comerciales. Las indagaciones coinciden con exigencias en el Congreso federal estadounidense de endurecer los controles de exportación tecnológica.",
-   "porQue": "El escrutinio legal sobre el fabricante dominante de hardware de IA podría alterar las cadenas de suministro y recrudecer la pugna tecnológica entre Washington y Pekín.",
-   "pilar": "tecnologia",
-   "etiquetas": [
-    "nvidia",
-    "china",
-    "semiconductores",
-    "eeuu"
-   ],
-   "importancia": 7,
-   "fuente": "BBC World",
-   "fuentes": [
-    "BBC World",
-    "BBC Business"
-   ],
-   "url": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss",
-   "fecha": "2026-11-19T23:04:30.000Z",
-   "ultimaHora": false,
-   "reaccion": ""
-  },
-  {
-   "id": "ff7ada393a68",
-   "titulo": "Lula formaliza el decreto para reducir la semana laboral en Brasil a cinco días",
-   "resumen": "El presidente Luiz Inácio Lula da Silva rubricó una norma que regula la transición de la jornada laboral habitual de seis días de trabajo a un esquema de cinco días de empleo y dos de descanso semanal. El texto busca modernizar las condiciones de trabajo y armonizar la productividad con el bienestar social en la mayor economía de América Latina.",
-   "porQue": "Abre un precedente de alcance regional sobre la legislación del tiempo de trabajo y la reducción de horas lectivas sin menoscabo salarial.",
-   "pilar": "economia",
-   "etiquetas": [
-    "brasil",
-    "trabajo",
-    "economía",
-    "empleo"
-   ],
-   "importancia": 6,
-   "fuente": "France 24 ES",
-   "fuentes": [
-    "France 24 ES"
-   ],
-   "url": "https://www.france24.com/es/video/20261120-informe-desde-r%C3%ADo-de-janeiro-lula-firma-decreto-de-reducci%C3%B3n-de-jornada-laboral",
-   "fecha": "2026-11-20T02:11:04.000Z",
-   "ultimaHora": false,
-   "reaccion": ""
-  },
-  {
-   "id": "778d73f419fb",
-   "titulo": "Adif recibe luz verde judicial para reparar la vía férrea del AVE Madrid-Sevilla",
-   "resumen": "La jueza encargada del expediente del siniestro en Urda (Toledo) autorizó a Adif a comenzar los trabajos de reconstrucción de las vías en la línea de alta velocidad Madrid-Sevilla. El Ministerio de Transportes estima que el restablecimiento de la circulación tardará unos diez días tras el inicio efectivo de las obras sobre el terreno.",
-   "porQue": "Facilita la recuperación de una de las principales arterias ferroviarias del país, afectada por semanas de parálisis e interrupciones logísticas.",
-   "pilar": "economia",
-   "etiquetas": [
-    "trenes",
-    "adif",
-    "infraestructuras",
-    "españa"
-   ],
-   "importancia": 6,
-   "fuente": "Cinco Días",
-   "fuentes": [
-    "Cinco Días",
-    "El País Economía"
-   ],
-   "url": "https://elpais.com/economia/2026-11-19/la-jueza-del-siniestro-ferroviario-de-urda-autoriza-a-adif-a-reconstruir-las-vias-en-la-linea-madrid-sevilla.html",
-   "fecha": "2026-11-19T12:15:43.000Z",
-   "ultimaHora": false,
-   "reaccion": ""
-  },
-  {
-   "id": "41a84fbefbc8",
-   "titulo": "La justicia británica fuerza a Londres a desclasificar su orden de acceso a Apple",
-   "resumen": "Un tribunal del Reino Unido dictaminó que el Gobierno británico debe divulgar una orden secreta mediante la cual exigía a Apple instalar puertas traseras en sus sistemas de cifrado. La corte rechazó los argumentos ministeriales que alegaban que transparentar la directiva comprometía la seguridad nacional.",
-   "porQue": "Refuerza la protección de la privacidad digital y los límites judiciales al espionaje estatal de comunicaciones corporativas.",
-   "pilar": "tecnologia",
-   "etiquetas": [
-    "privacidad",
-    "apple",
-    "ciberseguridad",
-    "reino unido"
-   ],
-   "importancia": 6,
-   "fuente": "TechCrunch",
-   "fuentes": [
-    "TechCrunch",
-    "Hacker News"
-   ],
-   "url": "https://techcrunch.com/2026/11/19/u-k-government-forced-to-disclose-secret-apple-backdoor-order/",
-   "fecha": "2026-11-19T16:21:03.000Z",
-   "ultimaHora": false,
-   "reaccion": ""
-  },
-  {
-   "id": "a31d3c508145",
-   "titulo": "Cuatro muertos en un naufragio en Senegal en plena ola de salidas hacia Canarias",
-   "resumen": "Equipos de rescate recuperaron los cuerpos de cuatro ocupantes de un cayuco volcado frente a la costa de Yenne, en Senegal, mientras continúa la búsqueda de desaparecidos. La tragedia ocurre en un periodo de fuerte repunte de las salidas por la ruta atlántica, con un incremento de llegadas a las islas Canarias cercano al 65% interanual.",
-   "porQue": "Evidencia la reactivación extrema y los peligros de una de las rutas migratorias más letales hacia territorio español y de la Unión Europea.",
-   "pilar": "global",
-   "etiquetas": [
-    "migración",
-    "canarias",
-    "senegal",
-    "rescate"
-   ],
-   "importancia": 6,
-   "fuente": "Al Jazeera",
-   "fuentes": [
-    "Al Jazeera"
-   ],
-   "url": "https://www.aljazeera.com/news/2026/11/20/four-bodies-recovered-after-senegal-boat-capsizes-amid-migration-surge?traffic_source=rss",
-   "fecha": "2026-11-20T00:10:04.000Z",
-   "ultimaHora": false,
-   "reaccion": ""
-  },
-  {
-   "id": "79b533d52532",
-   "titulo": "El empleo turístico en España supera por primera vez tres millones de cotizantes",
-   "resumen": "La Seguridad Social registró en octubre un aumento interanual del 6% en el empleo del sector turístico, acumulando seis meses consecutivos por encima de los tres millones de afiliados. El crecimiento estuvo liderado por la hostelería y el transporte derivado de la persistencia de la demanda turística internacional.",
-   "porQue": "Muestra la solidez del motor de servicios en España, aunque intensifica el debate sobre la estacionalidad y la presión sobre el alquiler residencial.",
-   "pilar": "economia",
-   "etiquetas": [
-    "turismo",
-    "empleo",
-    "españa",
-    "seguridad social"
-   ],
-   "importancia": 6,
-   "fuente": "Cinco Días",
-   "fuentes": [
-    "Cinco Días",
-    "El País Economía"
-   ],
-   "url": "https://elpais.com/economia/2026-11-19/el-empleo-turistico-encadena-por-primera-vez-seis-meses-con-mas-de-3-millones-de-afiliados.html",
-   "fecha": "2026-11-19T10:46:02.000Z",
-   "ultimaHora": false,
-   "reaccion": ""
-  },
-  {
-   "id": "26f01c329c20",
-   "titulo": "El consumo cayó un 4% en España durante la semana de la huelga del 11-N",
-   "resumen": "Un informe de análisis del gasto basado en tarjetas de BBVA cuantificó una contracción del 4% en el consumo español durante los siete días de paro general. Los sectores más afectados por el descenso de facturación fueron la hostelería, el transporte y el ocio, con especial impacto en las áreas metropolitanas de Madrid y Barcelona.",
-   "porQue": "Constata el impacto directo de las protestas sindicales en la actividad comercial de las grandes ciudades.",
-   "pilar": "economia",
-   "etiquetas": [
-    "consumo",
-    "huelga",
-    "españa",
-    "banca"
-   ],
-   "importancia": 6,
-   "fuente": "Cinco Días",
-   "fuentes": [
-    "Cinco Días",
-    "El País Economía"
-   ],
-   "url": "https://elpais.com/economia/2026-11-19/el-consumo-cayo-un-4-la-semana-de-la-huelga-del-11-n-segun-un-informe-del-bbva.html",
-   "fecha": "2026-11-19T18:01:25.000Z",
-   "ultimaHora": false,
-   "reaccion": ""
-  },
-  {
-   "id": "47855d4f2faf",
-   "titulo": "Una redada policial en Puerto Príncipe causa la muerte de al menos 34 pandilleros",
-   "resumen": "Fuerzas policiales de Haití ejecutaron un amplio operativo en barrios de la capital controlados por bandas criminales que concluyó con al menos 34 presuntos miembros armados abatidos e incautación de armamento pesado. La intervención intenta recuperar corredores logísticos ante el colapso institucional del país caribeño.",
-   "porQue": "Refleja el grado de choque bélico urbano en un país sumido en una emergencia humanitaria y sin control estatal efectivo.",
-   "pilar": "global",
-   "etiquetas": [
-    "haití",
-    "seguridad",
-    "crisis humanitaria"
-   ],
-   "importancia": 6,
-   "fuente": "Al Jazeera",
-   "fuentes": [
-    "Al Jazeera"
-   ],
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/haiti-police-say-34-gang-members-killed-in-capital-raid?traffic_source=rss",
-   "fecha": "2026-11-20T00:31:02.000Z",
-   "ultimaHora": false,
-   "reaccion": ""
-  },
-  {
-   "id": "214aedaada17",
-   "titulo": "Bukele prepara su postulación para un tercer mandato presidencial consecutivo",
-   "resumen": "El presidente de El Salvador, Nayib Bukele, ultima los trámites jurídicos y partidistas para formalizar su candidatura a un tercer periodo presidencial consecutivo. La medida se apoya en interpretaciones constitucionales favorables del tribunal supremo y en sus altos índices de aprobación popular gracias a su régimen de excepción contra las maras.",
-   "porQue": "Profundiza la concentración de poder institucional y despierta alertas en organismos internacionales sobre el estado de derecho en Centroamérica.",
-   "pilar": "geopolitica",
-   "etiquetas": [
-    "el salvador",
-    "bukele",
-    "elecciones",
-    "política"
-   ],
-   "importancia": 6,
-   "fuente": "Al Jazeera",
-   "fuentes": [
-    "Al Jazeera"
-   ],
-   "url": "https://www.aljazeera.com/news/2026/11/20/el-salvadors-bukele-expected-to-formalise-bid-for-third-presidential-term?traffic_source=rss",
-   "fecha": "2026-11-20T00:22:02.000Z",
-   "ultimaHora": false,
-   "reaccion": ""
-  },
-  {
-   "id": "819d3babef6f",
-   "titulo": "GTA 6 bate récords mundiales al rebasar los 2.000 millones de dólares en ventas",
-   "resumen": "El lanzamiento del videojuego de Rockstar Games generó más de 2.000 millones de dólares en ingresos en sus primeros compases en el mercado, según estimaciones de la industria del entretenimiento. La cifra lo consolida como el estreno comercial más lucrativo en la historia de los contenidos interactivos tras más de una década de desarrollo.",
-   "porQue": "Demuestra la superioridad de facturación de la industria de los videojuegos frente al cine y la música en el ocio global.",
-   "pilar": "economia",
-   "etiquetas": [
-    "videojuegos",
-    "tecnología",
-    "negocio",
-    "entretenimiento"
-   ],
-   "importancia": 6,
-   "fuente": "BBC Business",
-   "fuentes": [
-    "BBC Business"
-   ],
-   "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
-   "fecha": "2026-11-20T02:54:40.000Z",
-   "ultimaHora": false,
-   "reaccion": ""
-  },
-  {
-   "id": "ca1851ec03a7",
-   "titulo": "Un proyecto de ley en EE.UU. amenaza con elevar el auge de exportaciones de gas",
-   "resumen": "Una reforma legislativa bipartidista en el Congreso estadounidense busca agilizar los permisos para obras de infraestructura energética, lo que aceleraría las terminales de gas natural licuado (GNL). Grupos ecologistas advierten de que consolidar esta capacidad exportadora encadenará el consumo de combustibles fósiles por décadas.",
-   "porQue": "Afecta a la transición energética europea y contradice los objetivos de reducción de metano y emisiones a la atmósfera.",
-   "pilar": "global",
-   "etiquetas": [
-    "gas",
-    "energía",
-    "eeuu",
-    "clima"
-   ],
-   "importancia": 6,
-   "fuente": "Inside Climate News",
-   "fuentes": [
-    "Inside Climate News"
-   ],
-   "url": "https://insideclimatenews.org/news/19112026/bipartisan-permitting-bill-natural-gas-exports/",
-   "fecha": "2026-11-20T00:09:32.000Z",
-   "ultimaHora": false,
-   "reaccion": ""
-  },
-  {
-   "id": "c990fb121000",
-   "titulo": "La salida a bolsa de Anthropic somete a prueba el modelo financiero circular de la IA",
-   "resumen": "La cotización de Anthropic expone el complejo engranaje de compromisos de cálculo multimillonarios con socios estratégicos como Amazon y Google. Expertos del ecosistema inversor analizan si el flujo de capital que financia computación en la nube resistirá si el ritmo de adopción empresarial de los modelos resulta más lento de lo previsto.",
-   "porQue": "Un ajuste en el ritmo de financiación de los grandes laboratorios afectaría la valoración y liquidez de todo el ecosistema de startups tecnológicas.",
-   "pilar": "emprendimiento",
-   "etiquetas": [
-    "startups",
-    "ia",
-    "capital riesgo",
-    "nube"
-   ],
-   "importancia": 6,
-   "fuente": "TechCrunch",
-   "fuentes": [
-    "TechCrunch",
-    "Sifted"
-   ],
-   "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
-   "fecha": "2026-11-19T14:54:39.000Z",
-   "ultimaHora": false,
-   "reaccion": ""
-  },
-  {
-   "id": "8f4728ffc5b9",
-   "titulo": "Apple desarrolla un agente de IA propio capaz de gestionar el sistema operativo Mac",
-   "resumen": "Filtraciones del sector tecnológico apuntan a que Apple está construyendo un agente autónomo de software con capacidad para controlar tareas complejas dentro del sistema macOS. El desarrollo pretende competir directamente con soluciones de control de escritorio presentadas por Anthropic y Meta.",
-   "porQue": "Marca el paso de la IA de texto conversacional hacia agentes de software capaces de ejecutar acciones y flujos de trabajo autónomos en ordenadores personales.",
-   "pilar": "tecnologia",
-   "etiquetas": [
-    "apple",
-    "ia",
-    "software",
-    "mac"
-   ],
-   "importancia": 5,
-   "fuente": "TechCrunch",
-   "fuentes": [
-    "TechCrunch"
-   ],
-   "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
-   "fecha": "2026-11-20T00:56:01.000Z",
-   "ultimaHora": false,
-   "reaccion": ""
-  },
-  {
-   "id": "4524fd3f0ca3",
-   "titulo": "Las acciones de AMD caen más del 7% tras acusaciones sobre exportaciones a China",
-   "resumen": "Los títulos del diseñador de chips AMD sufrieron una brusca corrección en Wall Street tras publicarse un informe de ventas en corto que afirmaba que su tecnología llegó a firmas chinas vetadas. La dirección de la multinacional negó irregularidades y aseguró cumplir estrictamente las restricciones de exportación impuestas por Estados Unidos.",
-   "porQue": "Subraya la vulnerabilidad bursátil de los fabricantes de hardware ante cualquier sospecha de violación de las sanciones comerciales contra Pekín.",
-   "pilar": "economia",
-   "etiquetas": [
-    "amd",
-    "bolsa",
-    "semiconductores",
-    "china"
-   ],
-   "importancia": 5,
-   "fuente": "CNBC",
-   "fuentes": [
-    "CNBC"
-   ],
-   "url": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html",
-   "fecha": "2026-11-20T00:08:34.000Z",
-   "ultimaHora": false,
-   "reaccion": ""
-  },
-  {
-   "id": "85e518edc048",
-   "titulo": "La inflación subyacente en Japón escala a máximos del año por la energía",
-   "resumen": "El índice de precios de consumo subyacente en Japón avanzó hasta su cota más elevada del ejercicio anual tras la supresión de las ayudas públicas a la factura eléctrica y del gas. El dato condiciona las deliberaciones del Banco de Japón sobre el ritmo de subidas graduales en los tipos de interés.",
-   "porQue": "Aumenta la probabilidad de un endurecimiento monetario en la cuarta economía mundial y presiona el valor de cambio del yen.",
-   "pilar": "economia",
-   "etiquetas": [
-    "japón",
-    "inflación",
-    "banca central",
-    "divisas"
-   ],
-   "importancia": 5,
-   "fuente": "CNBC",
-   "fuentes": [
-    "CNBC"
-   ],
-   "url": "https://www.cnbc.com/2026/11/20/japan-inflation-cpi-october.html",
-   "fecha": "2026-11-20T01:49:03.000Z",
-   "ultimaHora": false,
-   "reaccion": ""
-  },
-  {
-   "id": "0f5c2ebdca5a",
-   "titulo": "SpaceX diseña minitorres para tejados orientadas a eliminar zonas sin cobertura",
-   "resumen": "Elon Musk anunció que SpaceX completó el diseño de una estación repetidora celular de tamaño reducido pensada para instalarse en azoteas y conectar terminales telefónicos con la constelación Starlink. El sistema aspira a erradicar zonas sin señal móvil en áreas rurales y de difícil orografía.",
-   "porQue": "Podría abaratar el despliegue de telecomunicaciones de emergencia y presionar a los operadores tradicionales de telefonía fija y móvil.",
-   "pilar": "emprendimiento",
-   "etiquetas": [
-    "spacex",
-    "telecomunicaciones",
-    "starlink",
-    "espacio"
-   ],
-   "importancia": 5,
-   "fuente": "TechCrunch",
-   "fuentes": [
-    "TechCrunch"
-   ],
-   "url": "https://techcrunch.com/2026/11/19/elon-musk-says-spacex-has-a-plan-to-eliminate-cell-phone-dead-zones/",
-   "fecha": "2026-11-19T23:37:56.000Z",
-   "ultimaHora": false,
-   "reaccion": ""
-  },
-  {
-   "id": "ed0546a014b1",
-   "titulo": "Un informe alerta de que ceder submarinos nucleares a Australia dañará a EE.UU.",
-   "resumen": "La Oficina Presupuestaria del Congreso de EE.UU. (CBO) advirtió que la entrega de submarinos nucleares comprometidos bajo la alianza Aukus mermará la flota operativa estadounidense durante varios años. El análisis también plantea dudas sobre si Canberra podría quedar obligada a entrar en un eventual conflicto con China.",
-   "porQue": "Cuestiona la viabilidad militar y presupuestaria del pacto estratégico más relevante del eje anglosajón en el Indopacífico.",
-   "pilar": "geopolitica",
-   "etiquetas": [
-    "aukus",
-    "defensa",
-    "eeuu",
-    "australia"
-   ],
-   "importancia": 5,
-   "fuente": "The Guardian World",
-   "fuentes": [
-    "The Guardian World"
-   ],
-   "url": "https://www.theguardian.com/world/2026/nov/20/aukus-defence-us-warned-supplying-nuclear-powered-submarines-to-australia-would-diminish-its-own-fleet-for-many-years",
-   "fecha": "2026-11-20T00:16:29.000Z",
-   "ultimaHora": false,
-   "reaccion": ""
-  },
-  {
-   "id": "2236be461ce6",
-   "titulo": "Pascual y Super Bock se alían para expandir el negocio de agua con gas en España",
-   "resumen": "El grupo alimentario español Pascual formalizó una alianza empresarial con la compañía portuguesa Super Bock para crear una sociedad conjunta. El objetivo de la nueva empresa es acelerar la distribución y venta de marcas de agua con gas en el canal hostelero y grandes superficies.",
-   "porQue": "Refuerza la concentración y sinergias ibéricas en el sector del gran consumo y bebidas envasadas.",
-   "pilar": "emprendimiento",
-   "etiquetas": [
-    "empresas",
-    "pascual",
-    "españa",
-    "alimentación"
-   ],
-   "importancia": 5,
-   "fuente": "Cinco Días",
-   "fuentes": [
-    "Cinco Días",
-    "El Español Invertia"
-   ],
-   "url": "https://cincodias.elpais.com/companias/2026-11-19/pascual-se-asocia-con-la-portuguesa-super-bock-para-multiplicar-el-negocio-de-agua-con-gas-en-espana.html",
-   "fecha": "2026-11-19T17:23:21.000Z",
-   "ultimaHora": false,
-   "reaccion": ""
-  },
-  {
-   "id": "91681bf0848f",
-   "titulo": "Reino Unido blinda de urgencia miles de refrigeradores industriales frente a ciberataques",
-   "resumen": "Agencias británicas de seguridad culminaron una operación secreta para parchear fallos de seguridad en decenas de miles de sistemas de frío en supermercados, centros logísticos y estadios. La vulnerabilidad informática permitía apagar remotamente la cadena de frío y arruinar inventarios de alimentos perecederos y suministros médicos.",
-   "porQue": "Destaca la fragilidad de las cadenas de suministro básicas ante ataques dirigidos al Internet de las Cosas (IoT).",
-   "pilar": "tecnologia",
-   "etiquetas": [
-    "ciberseguridad",
-    "reino unido",
-    "iot",
-    "infraestructuras"
-   ],
-   "importancia": 5,
-   "fuente": "BBC Business",
-   "fuentes": [
-    "BBC Business"
-   ],
-   "url": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss",
-   "fecha": "2026-11-20T00:02:07.000Z",
-   "ultimaHora": false,
-   "reaccion": ""
-  },
-  {
-   "id": "247f47a4c401",
-   "titulo": "El grave desabastecimiento de carburantes paraliza el transporte y comercio en Malaui",
-   "resumen": "Una aguda escasez de divisas y demoras en las importaciones de diésel provocaron el colapso del suministro de combustible en Malaui, paralizando flotas de camiones y transporte público. Los pequeños negocios y hospitales reportan graves dificultades operativas ante la imposibilidad de alimentar generadores auxiliares.",
-   "porQue": "Ilustra las crisis de liquidez y desabastecimiento energético que afrontan economías vulnerables en el sur global.",
-   "pilar": "global",
-   "etiquetas": [
-    "malaui",
-    "petróleo",
-    "crisis",
-    "áfrica"
-   ],
-   "importancia": 5,
-   "fuente": "Al Jazeera",
-   "fuentes": [
-    "Al Jazeera"
-   ],
-   "url": "https://www.aljazeera.com/news/2026/11/20/completely-messed-up-everything-malawis-fuel-crisis-causes-chaos?traffic_source=rss",
-   "fecha": "2026-11-20T01:06:15.000Z",
-   "ultimaHora": false,
-   "reaccion": ""
-  },
-  {
-   "id": "a9056f83354f",
-   "titulo": "Físicos en Australia consiguen transmitir mensajes empleando campos gravitatorios",
-   "resumen": "Un equipo de investigadores de la Universidad Nacional de Australia logró codificar y enviar una señal binaria a través de muros y barreras densas utilizando perturbaciones gravitacionales moduladas. Los científicos afirman que este método de transmisión es en la práctica imposible de interferir o bloquear mediante blindajes convencionales.",
-   "porQue": "Abre una vía experimental prometedora para telecomunicaciones de rescate subterráneo o enlaces de defensa inmunes a inhibidores.",
-   "pilar": "tecnologia",
-   "etiquetas": [
-    "física",
-    "ciencia",
-    "investigación",
-    "australia"
-   ],
-   "importancia": 5,
-   "fuente": "The Guardian World",
-   "fuentes": [
-    "The Guardian World"
-   ],
-   "url": "https://www.theguardian.com/science/2026/nov/20/scientists-communicate-using-gravity-elevator-brick-wall-bathroom-experiment",
-   "fecha": "2026-11-19T23:30:26.000Z",
-   "ultimaHora": false,
-   "reaccion": ""
-  },
-  {
-   "id": "b0341a0ae375",
-   "titulo": "Meta planea vender su dispositivo físico de asistencia con IA por 300 dólares",
-   "resumen": "Meta prepara el lanzamiento comercial de Muse Charm, un dispositivo de mesa dotado de pantalla diseñado para interactuar de forma nativa con sus modelos de IA conversacional. El precio estimado rondará los 300 dólares en su salida preliminar en el mercado estadounidense.",
-   "porQue": "Representa el intento de las grandes plataformas por trasladar la IA desde las aplicaciones móviles hacia hardware dedicado para el hogar.",
-   "pilar": "tecnologia",
-   "etiquetas": [
-    "meta",
-    "hardware",
-    "ia",
-    "gadgets"
-   ],
-   "importancia": 4,
-   "fuente": "The Verge",
-   "fuentes": [
-    "The Verge",
-    "TechCrunch"
-   ],
-   "url": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
-   "fecha": "2026-11-19T21:58:06.000Z",
-   "ultimaHora": false,
-   "reaccion": ""
-  },
-  {
-   "id": "8e3d04f61529",
-   "titulo": "Airbnb implementa nuevas normas para limitar las tareas exigidas por los anfitriones",
-   "resumen": "La plataforma de alquiler temporal puso en vigor una normativa global que prohíbe a los propietarios pedir labores de limpieza excesivas a los huéspedes, como lavado de sábanas o aspirado general. Los anfitriones deberán absorber esos servicios en sus tarifas de limpieza publicadas.",
-   "porQue": "Modifica las condiciones comerciales del turismo vacacional en un contexto de creciente regulación urbana sobre estas plataformas.",
-   "pilar": "economia",
-   "etiquetas": [
-    "airbnb",
-    "vivienda",
-    "turismo",
-    "consumo"
-   ],
-   "importancia": 4,
-   "fuente": "BBC Business",
-   "fuentes": [
-    "BBC Business"
-   ],
-   "url": "https://www.bbc.co.uk/news/articles/cmx278n2genyo?at_medium=RSS&at_campaign=rss",
-   "fecha": "2026-11-20T00:12:28.000Z",
-   "ultimaHora": false,
-   "reaccion": ""
-  },
-  {
-   "id": "c191767bee87",
-   "titulo": "Alcaraz confirma que jugará ante Cobolli pese a nuevas molestias en los isquiotibiales",
-   "resumen": "Carlos Alcaraz ratificó su presencia en el siguiente cruce de competición frente al italiano Flavio Cobolli tras someterse a pruebas médicas por dolores musculares en la pierna. El tenista español asumirá los riesgos físicos tras resentirse en su último compromiso frente a Daniil Medvedev.",
-   "porQue": "La sobrecarga del tenista murciano añade incertidumbre sobre su tramo final de temporada y su resistencia física.",
-   "pilar": "deporte",
-   "etiquetas": [
-    "tenis",
-    "alcaraz",
-    "deportes"
-   ],
-   "importancia": 4,
-   "fuente": "El País",
-   "fuentes": [
-    "El País",
-    "El País Deportes"
-   ],
-   "url": "https://elpais.com/deportes/tenis/2026-11-19/alcaraz-continua-en-turin-pero-sobre-el-alambre-los-isquios-vuelven-a-azotarle-el-asume-los-riesgos.html",
-   "fecha": "2026-11-19T21:14:36.000Z",
-   "ultimaHora": false,
-   "reaccion": ""
-  },
-  {
-   "id": "d31d313235b1",
-   "titulo": "El Barcelona golea al Servette suizo impulsado por un triplete de Claudia Pina",
-   "resumen": "El FC Barcelona femenino se impuso con autoridad al Servette en la fase de grupos de la Liga de Campeones con una destacada actuación de Claudia Pina, autora de tres tantos. La victoria encarrila la clasificación del cuadro catalán tras dudas previas en su juego.",
-   "porQue": "Consolida la posición de liderazgo del equipo azulgrana en la máxima competición europea de clubes.",
-   "pilar": "deporte",
-   "etiquetas": [
-    "fútbol",
-    "barça",
-    "champions",
-    "deporte femenino"
-   ],
-   "importancia": 4,
-   "fuente": "El País",
-   "fuentes": [
-    "El País",
-    "El País Deportes"
-   ],
-   "url": "https://elpais.com/deportes/futbol/2026-11-19/el-barcelona-golea-al-servette-suizo-con-un-triplete-de-claudia-pina.html",
-   "fecha": "2026-11-19T22:25:19.000Z",
-   "ultimaHora": false,
-   "reaccion": ""
-  },
-  {
-   "id": "82cf52446cfe",
-   "titulo": "El Valencia Basket vence a la Virtus de Bolonia y afianza su liderato europeo",
-   "resumen": "El Valencia Basket superó a la Virtus Bolonia por 92 a 87 en un duelo definido en los instantes finales gracias a la actuación del base TJ Shorts. Con este triunfo, el club taronja preserva el liderato provisional de la Euroliga de baloncesto.",
-   "porQue": "Confirma el momento competitivo del conjunto valenciano en la élite continental del baloncesto de clubes.",
-   "pilar": "deporte",
-   "etiquetas": [
-    "baloncesto",
-    "euroliga",
-    "valencia basket"
-   ],
-   "importancia": 4,
-   "fuente": "El País",
-   "fuentes": [
-    "El País",
-    "El País Deportes"
-   ],
-   "url": "https://elpais.com/deportes/baloncesto/2026-11-19/un-gran-tj-shorts-sostiene-al-valencia-como-lider-de-la-euroliga.html",
-   "fecha": "2026-11-19T22:34:55.000Z",
-   "ultimaHora": false,
-   "reaccion": ""
-  },
-  {
-   "id": "b87f50594ed2",
-   "titulo": "Rusia bombardea Kiev y varias regiones ucranianas tras los ataques en el estrecho de Kerch",
-   "resumen": "Una oleada masiva de ataques aéreos rusos contra los puentes de Kiev y la infraestructura energética de Ucrania ha dejado una decena de muertos, 28 heridos y apagones generalizados en diez regiones del país. Los bombardeos coinciden con la caída de proyectiles en la vecina Polonia.",
-   "porQue": "Profundiza la crisis humanitaria y energética en Ucrania con cortes masivos de suministro y víctimas civiles en pleno invierno.",
-   "pilar": "global",
-   "etiquetas": [
-    "ucrania",
-    "rusia",
-    "guerra",
-    "energia"
-   ],
-   "importancia": 8,
-   "fuente": "El País",
-   "fuentes": [
-    "El País",
-    "El País Internacional"
-   ],
-   "url": "https://elpais.com/internacional/2026-11-20/rusia-ataca-los-puentes-de-kiev-y-la-infraestructura-energetica-de-ucrania-tras-la-ofensiva-en-el-estrecho-de-kerch.html",
-   "fecha": "2026-11-20T12:25:45.000Z",
-   "ultimaHora": false,
-   "reaccion": ""
-  },
-  {
-   "id": "23f1c0f3e456",
-   "titulo": "La cumbre del clima llega a su recta final entre el bloqueo y las duras críticas",
-   "resumen": "La COP31 afronta sus últimas horas con la amenaza de bloqueo por parte de Panamá y fuertes tensiones entre el bloque europeo y los países en desarrollo sobre las reglas para frenar los combustibles fósiles.",
-   "porQue": "Define el compromiso global vinculante para frenar el calentamiento global y la transición energética de los próximos años.",
-   "pilar": "global",
-   "etiquetas": [
-    "clima",
-    "cop31",
-    "energia",
-    "onu"
-   ],
-   "importancia": 8,
-   "fuente": "El País Clima",
-   "fuentes": [
-    "El País Clima",
-    "El País"
-   ],
-   "url": "https://elpais.com/clima-y-medio-ambiente/2026-11-20/la-cumbre-del-clima-llega-a-su-recta-final-entre-el-bloqueo-y-las-criticas-a-sus-propias-reglas-son-una-receta-para-el-fracaso.html",
-   "fecha": "2026-11-20T11:16:41.000Z",
-   "ultimaHora": false,
-   "reaccion": ""
-  },
-  {
-   "id": "7dfcaff2d6d3",
-   "titulo": "El Ibex pone en jaque los 19.000 puntos en plena huida de la Bolsa de la IA",
-   "resumen": "El selectivo español cae en torno a un 1% y acumula un retroceso superior al 5% en la semana arrastrado por las ventas masivas en los mercados globales y el impacto del estreno de Anthropic.",
-   "porQue": "Refleja la corrección y el nerviosismo de los inversores ante la volatilidad del sector tecnológico y su contagio a los mercados europeos.",
-   "pilar": "economia",
-   "etiquetas": [
-    "ibex",
-    "bolsa",
-    "ia",
-    "economia"
-   ],
-   "importancia": 7,
-   "fuente": "Cinco Días",
-   "fuentes": [
-    "Cinco Días"
-   ],
-   "url": "https://cincodias.elpais.com/mercados-financieros/2026-11-20/la-bolsa-y-el-ibex-35.html",
-   "fecha": "2026-11-20T11:08:06.000Z",
-   "ultimaHora": false,
-   "reaccion": ""
-  },
-  {
-   "id": "3b3c40417f40",
-   "titulo": "Detenidos cuatro presuntos terroristas que usaban IA para radicalizar jóvenes",
-   "resumen": "La policía ha arrestado en San Sebastián, Vilanova i la Geltrú, Fuengirola y Melilla a cuatro personas que consumían propaganda de Daesh y Hamas y empleaban inteligencia artificial para acelerar captaciones.",
-   "porQue": "Evidencia la peligrosa convergencia entre las nuevas tecnologías de IA y las redes de radicalización yihadista en España.",
-   "pilar": "tecnologia",
-   "etiquetas": [
-    "ia",
-    "seguridad",
-    "terrorismo",
-    "espana"
-   ],
-   "importancia": 7,
-   "fuente": "La Vanguardia",
-   "fuentes": [
-    "La Vanguardia"
-   ],
-   "url": "https://www.lavanguardia.com/politica/20261120/11688983/detenidos-cuatro-presuntos-terroristas-consumian-propaganda-daesh-hamas.html",
-   "fecha": "2026-11-20T10:11:00.000Z",
-   "ultimaHora": false,
-   "reaccion": ""
-  },
-  {
-   "id": "52d35d9e02ae",
-   "titulo": "El Gobierno aprueba el decreto de centros de datos y la planificación eléctrica",
-   "resumen": "El Consejo de Ministros ha dado luz verde a la norma impulsada por Transición Ecológica a una semana de las elecciones para regular las inversiones y exigir un consumo energético renovable estricto, evitando un sobrecoste estimado en 5.000 millones.",
-   "porQue": "Ordena el boom de las infraestructuras tecnológicas en España y marca un precedente regulatorio único a nivel global.",
-   "pilar": "ultima",
-   "etiquetas": [
-    "economia",
-    "energia",
-    "espana",
-    "tecnologia"
-   ],
-   "importancia": 7,
-   "fuente": "El País",
-   "fuentes": [
-    "El País",
-    "Cinco Días"
-   ],
-   "url": "https://elpais.com/economia/2026-11-20/el-gobierno-aprueba-este-viernes-el-decreto-de-centros-de-datos-y-la-planificacion-electrica.html",
-   "fecha": "2026-11-20T10:32:18.000Z",
-   "ultimaHora": false,
-   "reaccion": ""
-  },
-  {
-   "id": "8b3becb03cc3",
-   "titulo": "Dos misiles rusos caen en Polonia y el Gobierno denuncia una \"provocación\"",
-   "resumen": "El ministro de Defensa polaco ha confirmado la caída de dos misiles en su territorio y ha anunciado que pedirá a la OTAN un refuerzo urgente de la vigilancia en su flanco oriental.",
-   "porQue": "El impacto de proyectiles en un país aliado de la OTAN eleva drásticamente el riesgo de una expansión del conflicto a territorio europeo.",
-   "pilar": "geopolitica",
-   "etiquetas": [
-    "polonia",
-    "rusia",
-    "otan",
-    "misiles"
-   ],
-   "importancia": 9,
-   "fuente": "DW Español",
-   "fuentes": [
-    "DW Español"
-   ],
-   "url": "https://www.dw.com/es/dos-misiles-rusos-caen-en-polonia-que-denuncia-provocación/a-80001438?maca=spa-rss-sp-all-1122-rdf",
-   "fecha": "2026-11-20T11:56:00.000Z",
-   "ultimaHora": false,
-   "reaccion": ""
-  },
-  {
-   "id": "0cfb735f2465",
-   "titulo": "La Unión Europea y el Reino Unido cierran un acuerdo de descongelación",
-   "resumen": "Ambos bloques han sellado un pacto inicial para relanzar sus relaciones bilaterales tras el Brexit, aunque los equipos negociadores continuarán perfilando detalles clave en áreas específicas.",
-   "porQue": "Supone un acercamiento político y comercial fundamental para la estabilidad económica y la movilidad en Europa tras años de desencuentros.",
-   "pilar": "ultima",
-   "etiquetas": [
-    "ue",
-    "reino unido",
-    "brexit",
-    "diplomacia"
-   ],
-   "importancia": 8,
-   "fuente": "Al Jazeera",
-   "fuentes": [
-    "Al Jazeera"
-   ],
-   "url": "https://www.aljazeera.com/news/2026/11/20/eu-and-uk-seal-reset-deal?traffic_source=rss",
-   "fecha": "2026-11-20T11:20:19.000Z",
-   "ultimaHora": false,
-   "reaccion": ""
-  },
-  {
-   "id": "bbdc53f7ec54",
-   "titulo": "Malasia pacta con Turquía la reubicación de 10.000 rohinyás exiliados",
-   "resumen": "El anuncio de Kuala Lumpur se produce apenas un día después de que el Tribunal Internacional de Justicia concluyera que Myanmar cometió genocidio contra esta minoría musulmana.",
-   "porQue": "Ofrece una vía de auxilio humanitario urgente a una de las poblaciones más perseguidas del mundo tras el fallo histórico de la ONU.",
-   "pilar": "ultima",
-   "etiquetas": [
-    "refugiados",
-    "myanmar",
-    "turquia",
-    "derechos humanos"
-   ],
-   "importancia": 8,
-   "fuente": "El País",
-   "fuentes": [
-    "El País",
-    "El País Internacional"
-   ],
-   "url": "https://elpais.com/internacional/2026-11-20/turquia-acogera-a-10000-rohinyas-reubicados-desde-malasia.html",
-   "fecha": "2026-11-20T11:38:18.000Z",
-   "ultimaHora": false,
-   "reaccion": ""
-  },
-  {
-   "id": "796b9c2d43e0",
-   "titulo": "Dos misiles y un dron rusos caen en Polonia en plenas maniobras militares de la OTAN",
-   "resumen": "Dos misiles de crucero y un dron rusos han impactado este viernes en territorio polaco durante un ejercicio militar conjunto de diez países europeos. El ministro de Defensa de Polonia ha calificado el suceso de provocación intencionada y ha exigido a la Alianza Atlántica un refuerzo inmediato del flanco oriental.",
-   "porQue": "Representa una escalada directa y muy peligrosa en el conflicto entre Rusia y la OTAN al traspasar suelo de un Estado miembro.",
-   "pilar": "geopolitica",
-   "etiquetas": [
-    "polonia",
-    "rusia",
-    "otan",
-    "ucrania"
-   ],
-   "importancia": 9,
-   "fuente": "El País",
-   "fuentes": [
-    "El País",
-    "El País Internacional"
-   ],
-   "url": "https://elpais.com/internacional/2026-11-20/dos-misiles-y-un-dron-rusos-caen-en-el-este-de-polonia-en-plenas-maniobras-militares-de-una-decena-de-paises-europeos.html",
-   "fecha": "2026-11-20T12:35:38.000Z",
-   "ultimaHora": false,
-   "reaccion": ""
-  },
-  {
-   "id": "ddedded09aef",
-   "titulo": "Adif evalúa los daños en la línea Madrid-Sevilla y calcula dos semanas de reparación",
-   "resumen": "Técnicos de Adif han accedido a la zona del siniestro en Urda para valorar los daños en la línea de alta velocidad Madrid-Sevilla, estimando un plazo de unas dos semanas para restablecer el servicio. Mientras tanto, operadores como Renfe, Iryo y Ouigo comercializan billetes alternativos para el corredor Sur a partir del 13 de diciembre.",
-   "porQue": "Afecta de forma crítica a las comunicaciones ferroviarias de alta velocidad en España, paralizando un corredor clave para miles de pasajeros.",
-   "pilar": "ultima",
-   "etiquetas": [
-    "renfe",
-    "adif",
-    "transporte",
-    "alta velocidad"
-   ],
-   "importancia": 7,
-   "fuente": "El País",
-   "fuentes": [
-    "El País",
-    "Cinco Días",
-    "El País Economía"
-   ],
-   "url": "https://elpais.com/economia/2026-11-20/transportes-confia-en-que-la-linea-madrid-sevilla-en-urda-se-repare-en-unas-dos-semanas.html",
-   "fecha": "2026-11-20T12:31:22.000Z",
-   "ultimaHora": false,
-   "reaccion": ""
-  },
-  {
-   "id": "2608ccd8ef78",
-   "titulo": "El Gobierno aprueba el decreto de centros de datos para contener la factura eléctrica",
-   "resumen": "El Consejo de Ministros ha aprobado este viernes el real decreto que regula los centros de datos en España, una medida impulsada para evitar un sobrecoste de hasta 5.000 millones de euros en la factura de la luz. La norma flexibiliza los plazos de consumo de energía renovable por hora para dar cabida a la avalancha de proyectos.",
-   "porQue": "Armoniza el boom tecnológico de la inteligencia artificial y la computación en nube con la sostenibilidad de la red eléctrica española.",
-   "pilar": "economia",
-   "etiquetas": [
-    "espana",
-    "energia",
-    "centros de datos",
-    "gobierno"
-   ],
-   "importancia": 7,
-   "fuente": "Europa Press",
-   "fuentes": [
-    "Europa Press",
-    "Europa Press Economía"
-   ],
-   "url": "https://www.europapress.es/economia/noticia-gobierno-aprueba-decreto-centros-datos-evitar-alza-5000-millones-factura-20261120125128.html",
-   "fecha": "2026-11-20T11:51:28.000Z",
-   "ultimaHora": false,
-   "reaccion": ""
-  },
-  {
    "id": "83f20e69dee5",
-   "titulo": "El desplome de la IA hunde al Nasdaq en su peor semana en año y medio",
-   "resumen": "La caída del sector tecnológico arrastra al índice bursátil estadounidense, con Anthropic sufriendo un retroceso del 8,5% tras su reciente y sonado estreno bursátil. Los inversores cuestionan las ingentes sumas de dinero invertidas en infraestructuras de inteligencia artificial.",
-   "porQue": "Evidencia el pinchazo de las expectativas bursátiles en torno a la burbuja de la IA, afectando a los mercados globales.",
+   "titulo": "El desplome bursátil de la IA arrastra a Wall Street a su peor semana en año y medio",
+   "resumen": "La caída generalizada del sector tecnológico hunde al Nasdaq en su peor semana en año y medio. Anthropic se desploma un 8,5% y Nvidia pierde un 22,9% en cinco sesiones, su peor registro desde 2008, lastrada además por una posible investigación de la SEC.",
+   "porQue": "Confirma el pinchazo temporal de las valoraciones extremas en inteligencia artificial tras un ciclo alcista desaforado.",
    "pilar": "economia",
    "etiquetas": [
     "ia",
     "bolsa",
-    "nasdaq",
+    "nvidia",
     "anthropic"
    ],
-   "importancia": 8,
+   "importancia": 9,
    "fuente": "El País",
    "fuentes": [
     "El País",
@@ -1017,65 +28,490 @@
    ],
    "url": "https://elpais.com/economia/2026-11-20/la-segunda-jornada-en-bolsa-de-anthropic.html",
    "fecha": "2026-11-20T21:06:58.000Z",
-   "ultimaHora": true,
-   "reaccion": ""
+   "ultimaHora": false,
+   "reaccion": "Las acciones tecnológicas siguen sufriendo fuertes presiones bajistas, arrastrando a los principales índices globales a territorio de corrección y generando pánico entre los inversores minoristas."
   },
   {
-   "id": "42f30b711df4",
-   "titulo": "Sánchez se reivindica en Galicia arropado por la pareja de Ramón Sampedro",
-   "resumen": "En plena campaña electoral, el presidente del Gobierno abarrota un pabellón en Santiago junto a Ramona Maneiro, convertida en símbolo de la muerte digna. Desde allí, carga duramente contra la postura de Alberto Núñez Feijóo respecto a la eutanasia.",
-   "porQue": "Marca el tono bronco y polarizado de la recta final de la campaña electoral española, utilizando derechos civiles como arma política.",
-   "pilar": "ultima",
+   "id": "05c7cc17b93b",
+   "titulo": "Histórico fallo internacional declara a Myanmar culpable de genocidio rohinyá",
+   "resumen": "La Corte Internacional de Justicia emitió un veredicto histórico que determina formalmente que el ejército de Myanmar perpetró genocidio contra la minoría rohinyá en 2017, un fallo que abre la puerta a reclamaciones de justicia global.",
+   "porQue": "Sienta un precedente jurídico crucial para castigar crímenes de lesa humanidad perpetrados por estados contra minorías.",
+   "pilar": "global",
    "etiquetas": [
-    "elecciones",
-    "psoe",
-    "galicia",
-    "eutanasia"
+    "derechos humanos",
+    "myanmar",
+    "onu",
+    "justicia"
+   ],
+   "importancia": 9,
+   "fuente": "France 24 ES",
+   "fuentes": [
+    "France 24 ES"
+   ],
+   "url": "https://www.france24.com/es/programas/en-contexto/20261120-hist%C3%B3rico-fallo-para-los-rohingyas-tendr%C3%A1-efecto-en-otros-casos-de-genocidio",
+   "fecha": "2026-11-20T23:07:38.000Z",
+   "ultimaHora": false,
+   "reaccion": "Organizaciones internacionales y defensores de los derechos humanos celebran el fallo, mientras se presiona a la comunidad internacional para que endurezca las sanciones contra la junta militar birmana."
+  },
+  {
+   "id": "819d3babef6f",
+   "titulo": "GTA 6 bate todos los récords históricos de la industria con 3.800 millones en un día",
+   "resumen": "El esperado lanzamiento del nuevo título de Rockstar Games supera cualquier registro anterior de la industria del videojuego y del cine al facturar 3.800 millones de dólares en sus primeras 24 horas en el mercado.",
+   "porQue": "Demuestra la magnitud económica y cultural descomunal del sector del ocio interactivo por encima de Hollywood.",
+   "pilar": "tecnologia",
+   "etiquetas": [
+    "videojuegos",
+    "gta",
+    "negocio",
+    "entretenimiento"
    ],
    "importancia": 7,
-   "fuente": "El País",
+   "fuente": "BBC Business",
    "fuentes": [
-    "El País",
-    "El País España"
+    "BBC Business"
    ],
-   "url": "https://elpais.com/espana/elecciones-generales/2026-11-20/sanchez-se-toma-la-revancha-en-galicia-y-esgrime-contra-feijoo-el-derecho-a-la-eutanasia-votemos-en-homenaje-a-ramon-sampedro.html",
-   "fecha": "2026-11-20T20:09:42.000Z",
-   "ultimaHora": true,
+   "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
+   "fecha": "2026-11-20T22:53:24.000Z",
+   "ultimaHora": false,
    "reaccion": ""
   },
   {
-   "id": "0bb6721bd680",
-   "titulo": "Trump amenaza con imponer fuertes aranceles a las tecnológicas que construyan centros de datos fuera de EE UU",
-   "resumen": "El presidente estadounidense ha avanzado su intención de sancionar a las firmas nacionales que levanten infraestructuras de IA en el extranjero. La medida busca blindar la capacidad tecnológica nacional a pesar del rechazo medioambiental y energético local.",
-   "porQue": "Introduce fricciones proteccionistas y geopolíticas directas en el desarrollo global de la inteligencia artificial.",
+   "id": "36fb31620a7c",
+   "titulo": "Trump amenaza con prohibir que las tecnológicas de EE UU construyan centros de datos fuera",
+   "resumen": "El presidente de Estados Unidos ha avanzado su intención de vetar la construcción de infraestructuras de inteligencia artificial en el extranjero por parte de firmas nacionales, aunque su equipo reconoció falta de detalles previos.",
+   "porQue": "Politiza y frena la globalización de la cadena de suministro de la computación avanzada y la energía.",
    "pilar": "geopolitica",
    "etiquetas": [
     "eeuu",
-    "ia",
     "trump",
-    "tecnologia"
+    "ia",
+    "infraestructuras"
+   ],
+   "importancia": 8,
+   "fuente": "BBC World",
+   "fuentes": [
+    "BBC World",
+    "Al Jazeera",
+    "BBC Business"
+   ],
+   "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
+   "fecha": "2026-11-20T21:10:53.000Z",
+   "ultimaHora": true,
+   "reaccion": ""
+  },
+  {
+   "id": "d550221a9ac9",
+   "titulo": "Dinamarca acusa a Rusia de planear el asesinato de un rapero ucraniano",
+   "resumen": "La primera ministra danesa, Mette Frederiksen, ha denunciado un complot de Moscú para atentar contra un artista ucraniano-estadounidense en su territorio utilizando bandas locales, proponiendo suspender visados a rusos.",
+   "porQue": "Evidencia la expansión de las operaciones clandestinas de sabotaje y asesinato político del Kremlin en suelo europeo.",
+   "pilar": "geopolitica",
+   "etiquetas": [
+    "rusia",
+    "dinamarca",
+    "ucrania",
+    "seguridad"
    ],
    "importancia": 8,
    "fuente": "El País",
    "fuentes": [
+    "El País",
+    "El País Internacional"
+   ],
+   "url": "https://elpais.com/internacional/2026-11-20/dinamarca-acusa-a-rusia-de-intentar-asesinar-en-su-territorio-a-un-rapero-ucranio-estadounidense.html",
+   "fecha": "2026-11-20T19:37:05.000Z",
+   "ultimaHora": false,
+   "reaccion": ""
+  },
+  {
+   "id": "872ad1fe4356",
+   "titulo": "Alemania y Francia pactan candidatos para el BCE y allanan el camino a De Cos",
+   "resumen": "Berlín y París han formalizado los nombres de sus candidatos para el Comité Ejecutivo del Banco Central Europeo, un movimiento coordinado que despeja el camino para las aspiraciones del español Hernández de Cos.",
+   "porQue": "Define la correlación de poder económico en la cúpula monetaria de la eurozona para los próximos años.",
+   "pilar": "economia",
+   "etiquetas": [
+    "bce",
+    "economia",
+    "europa",
+    "espana"
+   ],
+   "importancia": 8,
+   "fuente": "Europa Press",
+   "fuentes": [
+    "Europa Press",
+    "Europa Press Economía"
+   ],
+   "url": "https://www.europapress.es/economia/finanzas-00340/noticia-alemania-francia-formalizan-candidatos-cupula-bce-allanan-camino-cos-20261120185216.html",
+   "fecha": "2026-11-20T17:52:16.000Z",
+   "ultimaHora": false,
+   "reaccion": "El holandés Knot mantiene de momento su candidatura pese a perder apoyos, mientras los mercados analizan el equilibrio de poder en el organismo monetario."
+  },
+  {
+   "id": "767c2779862d",
+   "titulo": "El Reino Unido y la UE cierran un acuerdo post-Brexit sobre comercio y movilidad",
+   "resumen": "Londres y Bruselas han sellado un pacto bilateral que relaja los controles sobre exportaciones de alimentos británicos, comercio de emisiones e incluye un programa de movilidad juvenil para estrechar lazos.",
+   "porQue": "Marca el acercamiento más pragmático y profundo entre ambas partes desde la salida británica de la Unión Europea.",
+   "pilar": "global",
+   "etiquetas": [
+    "brexit",
+    "reino unido",
+    "union europea",
+    "comercio"
+   ],
+   "importancia": 8,
+   "fuente": "BBC World",
+   "fuentes": [
+    "BBC World",
+    "BBC Business"
+   ],
+   "url": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
+   "fecha": "2026-11-20T17:49:48.000Z",
+   "ultimaHora": false,
+   "reaccion": "Los equipos negociadores de ambas partes continúan perfilando los detalles técnicos del acuerdo para su ratificación definitiva tras la cumbre bilateral."
+  },
+  {
+   "id": "3859c30d8161",
+   "titulo": "En el aire las ayudas al transporte en España ante el fin de la prórroga estatal",
+   "resumen": "Se agota el plazo para que el Ejecutivo decida si prorroga las subvenciones a la movilidad sostenible, lo que podría duplicar el precio de los abonos de transporte y los descuentos en trenes y autobuses el 1 de enero.",
+   "porQue": "Afecta directamente al bolsillo de millones de usuarios cotidianos y a las políticas de descarbonización urbana.",
+   "pilar": "economia",
+   "etiquetas": [
+    "transporte",
+    "espana",
+    "economia",
+    "gobierno"
+   ],
+   "importancia": 8,
+   "fuente": "El País Clima",
+   "fuentes": [
+    "El País Clima",
     "El País"
    ],
-   "url": "https://elpais.com/us/2026-11-20/trump-amenaza-con-sancionar-a-las-empresas-estadounidenses-que-construyan-centros-de-datos-en-otros-paises.html",
-   "fecha": "2026-11-20T21:19:03.000Z",
+   "url": "https://elpais.com/clima-y-medio-ambiente/2026-11-20/los-abonos-de-transporte-pueden-duplicar-su-precio-el-1-de-enero-en-el-aire-las-ayudas-estatales.html",
+   "fecha": "2026-11-20T17:30:41.000Z",
+   "ultimaHora": false,
+   "reaccion": ""
+  },
+  {
+   "id": "ddedded09aef",
+   "titulo": "Transportes calcula dos semanas para reparar la línea de alta velocidad Madrid-Sevilla",
+   "resumen": "Técnicos de Adif trabajan en el tramo afectado en Urda para evaluar los daños del siniestro, mientras Renfe, Iryo y Ouigo desvían pasajeros y reubican billetes a partir de mediados de diciembre.",
+   "porQue": "Interrumpe una de las arterias de transporte ferroviario de alta velocidad más transitadas del país.",
+   "pilar": "ultima",
+   "etiquetas": [
+    "tren",
+    "renfe",
+    "infraestructuras",
+    "andalucia"
+   ],
+   "importancia": 7,
+   "fuente": "Cinco Días",
+   "fuentes": [
+    "Cinco Días",
+    "El País Economía"
+   ],
+   "url": "https://elpais.com/economia/2026-11-20/transportes-confia-en-que-la-linea-madrid-sevilla-en-urda-se-repare-en-unas-dos-semanas.html",
+   "fecha": "2026-11-20T12:31:22.000Z",
+   "ultimaHora": false,
+   "reaccion": "Los operarios mantienen los plazos previstos de reparación sobre el terreno mientras las compañías ferroviarias reorganizan frecuencias y alternativas por carretera."
+  },
+  {
+   "id": "61c2e2cff916",
+   "titulo": "Renfe advierte del robo de datos personales y contraseñas en su ciberataque",
+   "resumen": "La compañía ferroviaria ha comenzado a notificar a clientes afectados que el incidente de seguridad sufrido en septiembre comprometió información sensible como DNI y claves de acceso.",
+   "porQue": "Pone de relieve la vulnerabilidad de las infraestructuras públicas críticas frente a brechas de ciberseguridad masivas.",
+   "pilar": "tecnologia",
+   "etiquetas": [
+    "ciberseguridad",
+    "renfe",
+    "datos",
+    "espana"
+   ],
+   "importancia": 7,
+   "fuente": "Europa Press Economía",
+   "fuentes": [
+    "Europa Press Economía",
+    "El Español Invertia"
+   ],
+   "url": "https://www.europapress.es/economia/transportes-00343/noticia-renfe-advierte-posible-robo-datos-personales-contrasenas-dnis-ciberataque-septiembre-20261120130329.html",
+   "fecha": "2026-11-20T12:27:14.000Z",
+   "ultimaHora": false,
+   "reaccion": ""
+  },
+  {
+   "id": "883ac98e8294",
+   "titulo": "Hospitalizado de urgencia el expresidente brasileño Jair Bolsonaro en Brasilia",
+   "resumen": "El exmandatario ultraderechista, que cumple condena en arresto domiciliario, fue trasladado a un hospital tras sufrir fuertes dolores abdominales derivados de una obstrucción intestinal casi total.",
+   "porQue": "Introduce inestabilidad en el escenario judicial y político de la derecha brasileña.",
+   "pilar": "global",
+   "etiquetas": [
+    "brasil",
+    "bolsonaro",
+    "politica",
+    "salud"
+   ],
+   "importancia": 7,
+   "fuente": "France 24 ES",
+   "fuentes": [
+    "France 24 ES"
+   ],
+   "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261121-jair-bolsonaro-vuelve-a-estar-hospitalizado-esta-vez-por-una-obstrucci%C3%B3n-intestinal",
+   "fecha": "2026-11-21T02:31:34.000Z",
    "ultimaHora": true,
+   "reaccion": ""
+  },
+  {
+   "id": "acf404f6e9c1",
+   "titulo": "Polonia denuncia una nueva provocación rusa tras la caída de un misil en su territorio",
+   "resumen": "El primer ministro Donald Tusk ha confirmado el impacto de un proyectil ruso sin causar víctimas durante unos ejercicios militares de la OTAN, calificando el suceso de claro acto deliberado de hostigamiento.",
+   "porQue": "Mantiene al límite la disuasión militar en el flanco oriental de la Alianza Atlántica.",
+   "pilar": "geopolitica",
+   "etiquetas": [
+    "polonia",
+    "rusia",
+    "otan",
+    "guerra"
+   ],
+   "importancia": 8,
+   "fuente": "BBC World",
+   "fuentes": [
+    "BBC World"
+   ],
+   "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
+   "fecha": "2026-11-21T02:09:46.000Z",
+   "ultimaHora": true,
+   "reaccion": "Varsovia exige a sus socios aliados un refuerzo inmediato de los sistemas de vigilancia aérea en la frontera ante la repetición de incidentes con misiles."
+  },
+  {
+   "id": "7f4ca53c03de",
+   "titulo": "Miles de jóvenes se manifiestan en toda Europa por la crisis de vivienda y el coste de vida",
+   "resumen": "Organizaciones estudiantiles movilizaron a miles de personas en capitales como Londres, Roma, París y Madrid para exigir medidas urgentes frente a la precariedad habitacional y el aumento del gasto militar.",
+   "porQue": "Refleja el malestar socioeconómico estructural de una generación acorralada por la especulación y la inflación.",
+   "pilar": "global",
+   "etiquetas": [
+    "protestas",
+    "vivienda",
+    "juventud",
+    "europa"
+   ],
+   "importancia": 7,
+   "fuente": "France 24 ES",
+   "fuentes": [
+    "France 24 ES"
+   ],
+   "url": "https://www.france24.com/es/video/20261121-europa-miles-de-j%C3%B3venes-se-movilizan-por-vivienda-educaci%C3%B3n-costo-de-vida-y-el-gasto-militar",
+   "fecha": "2026-11-21T02:07:11.000Z",
+   "ultimaHora": false,
+   "reaccion": "Las movilizaciones se extienden con consignas musicales y parones estudiantiles en varios países europeos, presionando a los gobiernos nacionales."
+  },
+  {
+   "id": "89090d2f3063",
+   "titulo": "La cumbre climática COP31 entra en prórroga ante el bloqueo en los combustibles fósiles",
+   "resumen": "Las negociaciones en Turquía encallan en su recta final por la resistencia de varios bloques a incluir compromisos explícitos sobre el fin del carbón, el petróleo y el gas en el borrador definitivo.",
+   "porQue": "Muestra las profundas divisiones globales sobre la velocidad real de la transición energética.",
+   "pilar": "global",
+   "etiquetas": [
+    "cop31",
+    "clima",
+    "energia",
+    "onu"
+   ],
+   "importancia": 8,
+   "fuente": "Al Jazeera",
+   "fuentes": [
+    "Al Jazeera"
+   ],
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/cop31-deal-stalls-as-nations-struggle-to-agree-on-climate-plan?traffic_source=rss",
+   "fecha": "2026-11-21T01:44:09.000Z",
+   "ultimaHora": true,
+   "reaccion": "La presidencia de la cumbre presiona a los delegados en sesiones maratonianas ante el riesgo de fracaso total en los objetivos de reducción de emisiones."
+  },
+  {
+   "id": "973aadc16719",
+   "titulo": "Declaran culpable al autor del incendio forestal de Los Ángeles que causó decenas de muertes",
+   "resumen": "Un jurado ha condenado a Jonathan Rinderknecht por provocar el devastador incendio de Palisades en California en 2025, un siniestro que se saldó con víctimas mortales y daños catastróficos.",
+   "porQue": "Cierra judicialmente uno de los desastres medioambientales urbanos más graves de los últimos años en Estados Unidos.",
+   "pilar": "geopolitica",
+   "etiquetas": [
+    "incendios",
+    "california",
+    "eeuu",
+    "justicia"
+   ],
+   "importancia": 6,
+   "fuente": "The Guardian World",
+   "fuentes": [
+    "The Guardian World"
+   ],
+   "url": "https://www.theguardian.com/us-news/2026/nov/20/los-angeles-palisades-wildfire-trial-verdict",
+   "fecha": "2026-11-21T01:43:15.000Z",
+   "ultimaHora": false,
+   "reaccion": ""
+  },
+  {
+   "id": "fd65dccda25a",
+   "titulo": "El Congreso Nacional Africano sufre un duro revés en las principales ciudades sudafricanas",
+   "resumen": "El partido histórico de Nelson Mandela se resiste a replicar a nivel municipal la fórmula de coalición nacional con la oposición proempresarial, perdiendo el control de bastiones clave.",
+   "porQue": "Ilumina la fragmentación del poder político en Sudáfrica y el desgaste de las viejas hegemonías partidistas.",
+   "pilar": "global",
+   "etiquetas": [
+    "sudafrica",
+    "politica",
+    "elecciones",
+    "gobierno"
+   ],
+   "importancia": 6,
+   "fuente": "BBC World",
+   "fuentes": [
+    "BBC World"
+   ],
+   "url": "https://www.bbc.co.uk/news/articles/cqpv94d10rwpo?at_medium=RSS&at_campaign=rss",
+   "fecha": "2026-11-21T00:34:51.000Z",
+   "ultimaHora": false,
+   "reaccion": ""
+  },
+  {
+   "id": "b7fdc1f987cb",
+   "titulo": "Nueva York anuncia el plan definitivo para cerrar la cárcel de Rikers Island en 2032",
+   "resumen": "El Ayuntamiento ha ratificado el calendario para clausurar definitivamente el infame complejo penitenciario ante los recurrentes retrasos en la reubicación de los reclusos y las denuncias de abusos.",
+   "porQue": "Pone fin a décadas de crisis humanitaria e institucional en uno de los centros de detención más violentos de EE UU.",
+   "pilar": "global",
+   "etiquetas": [
+    "nueva york",
+    "prisiones",
+    "derechos humanos",
+    "eeuu"
+   ],
+   "importancia": 6,
+   "fuente": "BBC World",
+   "fuentes": [
+    "BBC World"
+   ],
+   "url": "https://www.bbc.co.uk/news/articles/cmjeqv89egylo?at_medium=RSS&at_campaign=rss",
+   "fecha": "2026-11-21T00:01:39.000Z",
+   "ultimaHora": false,
+   "reaccion": ""
+  },
+  {
+   "id": "8958d346f49c",
+   "titulo": "Escalada en Oriente Medio: interceptan misiles hutíes y derriban un dron estadounidense",
+   "resumen": "Una coalición liderada por Arabia Saudí derribó varios proyectiles balísticos en el golfo Pérsico, mientras los Guardianes de la Revolución iraníes reivindicaron la destrucción de un dron militar en el estrecho de Ormuz.",
+   "porQue": "Incrementa drásticamente el riesgo de un conflicto regional abierto que paralice las rutas energéticas globales.",
+   "pilar": "geopolitica",
+   "etiquetas": [
+    "oriente medio",
+    "iran",
+    "yemen",
+    "eeuu"
+   ],
+   "importancia": 8,
+   "fuente": "Al Jazeera",
+   "fuentes": [
+    "Al Jazeera"
+   ],
+   "url": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-saudi-led-coalition-repels-houthi-missiles?traffic_source=rss",
+   "fecha": "2026-11-21T00:00:06.000Z",
+   "ultimaHora": true,
+   "reaccion": ""
+  },
+  {
+   "id": "96a7f9767d2d",
+   "titulo": "Un juez aprueba el acuerdo de 7.250 millones de Bayer para cerrar las demandas del Roundup",
+   "resumen": "Un tribunal de Misouri ha ratificado la millonaria indemnización propuesta por la multinacional alemana para liquidar más de 65.000 reclamaciones que vinculan su herbicida con el cáncer.",
+   "porQue": "Pone coto a una de las pesadillas legales y financieras más prolongadas de la industria química germana.",
+   "pilar": "economia",
+   "etiquetas": [
+    "bayer",
+    "salud",
+    "economia",
+    "multas"
+   ],
+   "importancia": 7,
+   "fuente": "The Guardian World",
+   "fuentes": [
+    "The Guardian World"
+   ],
+   "url": "https://www.theguardian.com/business/2026/nov/20/bayer-roundup-cancer-litigation",
+   "fecha": "2026-11-20T23:42:43.000Z",
+   "ultimaHora": false,
+   "reaccion": ""
+  },
+  {
+   "id": "7588dd73494b",
+   "titulo": "Alabama Power anuncia una bajada de tarifas de 160 millones tras las protestas por costes",
+   "resumen": "La eléctrica estadounidense aplicará un recorte generalizado en las facturas de sus 1,5 millones de clientes para el próximo año tras la fuerte presión ciudadana por la carestía energética.",
+   "porQue": "Demuestra el impacto de la presión social organizada frente a los abusos de las grandes corporaciones eléctricas.",
+   "pilar": "global",
+   "etiquetas": [
+    "energia",
+    "eeuu",
+    "tarifas",
+    "protestas"
+   ],
+   "importancia": 6,
+   "fuente": "Inside Climate News",
+   "fuentes": [
+    "Inside Climate News"
+   ],
+   "url": "https://insideclimatenews.org/news/20112026/alabama-power-rate-decrease/",
+   "fecha": "2026-11-20T23:32:21.000Z",
+   "ultimaHora": false,
+   "reaccion": ""
+  },
+  {
+   "id": "16c2a3dbb52b",
+   "titulo": "El Pentágono desclasifica un nuevo lote de vídeos sobre avistamientos de ovnis",
+   "resumen": "El Departamento de Defensa estadounidense ha publicado registros adicionales que incluyen tres secuencias grabadas por cazas militares entre 2020 y este mismo año en Oriente Medio.",
+   "porQue": "Alimenta la fascinación institucional y pública por los fenómenos anómalos no identificados en el espacio aéreo militar.",
+   "pilar": "global",
+   "etiquetas": [
+    "ovnis",
+    "pentagono",
+    "eeuu",
+    "defensa"
+   ],
+   "importancia": 5,
+   "fuente": "BBC World",
+   "fuentes": [
+    "BBC World"
+   ],
+   "url": "https://www.bbc.co.uk/news/videos/cqdr1x8mypnko?at_medium=RSS&at_campaign=rss",
+   "fecha": "2026-11-20T23:15:20.000Z",
+   "ultimaHora": false,
+   "reaccion": ""
+  },
+  {
+   "id": "97715f31a473",
+   "titulo": "Matemáticos de Anthropic anuncian el uso de IA para resolver la hipótesis de Riemann",
+   "resumen": "Investigadores de la compañía tecnológica aseguran haber empleado redes neuronales avanzadas para ofrecer una prueba matemática al famoso problema milenario, pendiente de verificación rigurosa.",
+   "porQue": "Si se confirma, supondría el hito científico más importante de la inteligencia artificial aplicada a las matemáticas puras.",
+   "pilar": "tecnologia",
+   "etiquetas": [
+    "ia",
+    "matematicas",
+    "ciencia",
+    "anthropic"
+   ],
+   "importancia": 8,
+   "fuente": "BBC World",
+   "fuentes": [
+    "BBC World"
+   ],
+   "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
+   "fecha": "2026-11-20T23:08:57.000Z",
+   "ultimaHora": false,
    "reaccion": ""
   },
   {
    "id": "9efc52d1f8b3",
    "titulo": "YouTube negocia pagar 3.000 millones para cerrar demandas por adicción infantil",
-   "resumen": "La plataforma de vídeo prepara un acuerdo millonario con miles de distritos escolares en Estados Unidos. Las demandas acusan al diseño adictivo de la aplicación de causar daños psicológicos graves a los menores.",
-   "porQue": "Establece un precedente histórico sobre la responsabilidad civil y económica de las grandes tecnológicas en la salud mental de los jóvenes.",
+   "resumen": "La plataforma de vídeo prepara un acuerdo millonario con miles de distritos escolares en Estados Unidos para indemnizar el impacto negativo de su diseño adictivo en la salud mental de los menores.",
+   "porQue": "Abre la veda legal para exigir responsabilidades financieras a los gigantes tecnológicos por el diseño depredador de sus algoritmos.",
    "pilar": "tecnologia",
    "etiquetas": [
     "youtube",
-    "saludmental",
-    "tecnologia",
-    "demandas"
+    "salud mental",
+    "ia",
+    "tecnologia"
    ],
    "importancia": 8,
    "fuente": "The Verge",
@@ -1083,31 +519,9 @@
     "The Verge"
    ],
    "url": "https://www.theverge.com/streaming/1039096/youtube-social-media-addiction-school-districts-settlement",
-   "fecha": "2026-11-20T20:43:52.000Z",
+   "fecha": "2026-11-20T22:51:40.000Z",
    "ultimaHora": true,
-   "reaccion": ""
-  },
-  {
-   "id": "f7c87ba793e1",
-   "titulo": "'Grand Theft Auto VI' bate todos los récords con 3.790 millones en su primer día",
-   "resumen": "La esperada sexta entrega de la saga de Rockstar Games recauda cifras históricas en su lanzamiento, superando los registros comerciales iniciales de las mayores superproducciones cinematográficas de Hollywood.",
-   "porQue": "Muestra la magnitud económica y cultural de la industria del videojuego, superando con creces al cine tradicional.",
-   "pilar": "tecnologia",
-   "etiquetas": [
-    "videojuegos",
-    "gta6",
-    "entretenimiento",
-    "economia"
-   ],
-   "importancia": 6,
-   "fuente": "La Vanguardia",
-   "fuentes": [
-    "La Vanguardia"
-   ],
-   "url": "https://www.lavanguardia.com/cultura/20261120/11689505/grand-theft-auto-vi-mayor-lanzamiento-historia-entretenimiento.html",
-   "fecha": "2026-11-20T20:11:36.000Z",
-   "ultimaHora": true,
-   "reaccion": ""
+   "reaccion": "Las negociaciones avanzan hacia la ratificación del acuerdo en tribunales estatales, estableciendo un precedente histórico para el resto de redes sociales."
   }
  ]
 }

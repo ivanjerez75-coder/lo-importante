@@ -1,6 +1,6 @@
 {
  "generado": "2026-11-21T03:19:59.681Z",
- "actualizado": "2026-11-21T10:56:31.003Z",
+ "actualizado": "2026-11-21T11:51:05.301Z",
  "modo": "ia",
  "top3": [
   "83f20e69dee5",
@@ -525,10 +525,10 @@
   },
   {
    "id": "32b9aece313c",
-   "titulo": "Zelenski tacha a Putin de \"asesino\" tras las declaraciones de Trump",
-   "resumen": "El presidente ucraniano ha respondido con dureza a las palabras del republicano, que se refirió a Putin como un \"amigo\". Zelenski insiste en que solo Estados Unidos posee la influencia necesaria para presionar a Moscú y reconducir el conflicto.",
-   "porQue": "Evidencia la profunda brecha diplomática y las tensiones entre Kiev y la nueva administración estadounidense respecto al futuro de la guerra.",
-   "pilar": "ultima",
+   "titulo": "Zelenski tacha a Putin de \"asesino\" tras las palabras de Trump",
+   "resumen": "El presidente ucraniano ha respondido duramente después de que Donald Trump se refiriera al líder ruso como un \"amigo\". Zelenski ha advertido que solo Estados Unidos posee la capacidad real de presionar a Moscú y criticó que este tipo de declaraciones entorpecen la resolución del conflicto.",
+   "porQue": "Marca las tensiones diplomáticas y el choque de posturas internacionales ante el futuro de la guerra en Ucrania.",
+   "pilar": "geopolitica",
    "etiquetas": [
     "ucrania",
     "rusia",
@@ -539,7 +539,6 @@
    "fuente": "El País",
    "fuentes": [
     "El País",
-    "20minutos",
     "El País Internacional"
    ],
    "url": "https://elpais.com/internacional/2026-11-21/zelenski-despues-de-que-trump-se-refiriera-a-putin-como-un-amigo-para-nosotros-es-un-asesino.html",
@@ -549,15 +548,15 @@
   },
   {
    "id": "42ee2d3f28d7",
-   "titulo": "El Gobierno prorrogará el impuesto a la banca en 2027 para financiar vivienda",
-   "resumen": "El presidente del Ejecutivo ha anunciado que el próximo martes el Consejo de Ministros aprobará la extensión del gravamen durante 2027, con una recaudación estimada de 1.400 millones de euros que se destinarán íntegramente a políticas públicas de vivienda.",
-   "porQue": "Afecta directamente al sector financiero español y marca la estrategia fiscal del Gobierno frente a la crisis de acceso a la vivienda.",
-   "pilar": "ultima",
+   "titulo": "El Gobierno prorrogará el impuesto a la banca en 2027 para vivienda",
+   "resumen": "El presidente del Gobierno ha anunciado que el Consejo de Ministros aprobará la prórroga del impuesto extraordinario a la banca durante el año 2027. La medida prevé recaudar unos 1.400 millones de euros que se destinarán íntegramente a financiar políticas públicas de vivienda.",
+   "porQue": "Afecta directamente al sector financiero y moviliza recursos fiscales importantes para aliviar la crisis de acceso a la vivienda en España.",
+   "pilar": "economia",
    "etiquetas": [
-    "economia",
     "banca",
     "vivienda",
-    "gobierno"
+    "impuestos",
+    "economia"
    ],
    "importancia": 7,
    "fuente": "El País",
@@ -633,6 +632,75 @@
    ],
    "url": "https://www.20minutos.es/internacional/dos-buques-son-alcanzados-por-proyectiles-estrecho-ormuz-segun-marina-britanica_7063992_0.html",
    "fecha": "2026-11-21T09:58:30.000Z",
+   "ultimaHora": true,
+   "reaccion": ""
+  },
+  {
+   "id": "ecde4eeb5574",
+   "titulo": "Costa propone un recorte del 10% en el presupuesto europeo",
+   "resumen": "El presidente del Consejo Europeo, António Costa, ha presentado una nueva propuesta para las cuentas comunitarias de 2028-2034 que reduce el gasto en un 10,2%, situándolo en 1,58 billones de euros. Esta rebaja de unos 180.000 millones busca contentar a los países frugales de la UE.",
+   "porQue": "Redefine la capacidad de inversión y las prioridades financieras de la Unión Europea para la próxima década.",
+   "pilar": "economia",
+   "etiquetas": [
+    "ue",
+    "economia",
+    "presupuesto",
+    "bruselas"
+   ],
+   "importancia": 7,
+   "fuente": "elDiario.es",
+   "fuentes": [
+    "elDiario.es"
+   ],
+   "url": "https://www.eldiario.es/economia/costa-rinde-austeros-presenta-proyecto-presupuesto-europeo-recorte-10-2_1_13682378.html",
+   "fecha": "2026-11-21T10:13:09.000Z",
+   "ultimaHora": true,
+   "reaccion": ""
+  },
+  {
+   "id": "040c95d5f039",
+   "titulo": "Bloqueo total en la cumbre del clima COP31 por los combustibles fósiles",
+   "resumen": "Las negociaciones de la cumbre climática COP31 se encuentran en un punto muerto debido al desacuerdo entre cerca de 200 países sobre cómo redactar el nuevo acuerdo global. Las organizaciones ecologistas alertan de que la cita corre el riesgo de convertirse en una de las más decepcionantes de la historia.",
+   "porQue": "Amenaza los compromisos internacionales clave para frenar el avance del cambio climático a escala global.",
+   "pilar": "global",
+   "etiquetas": [
+    "clima",
+    "cop31",
+    "energia",
+    "medio ambiente"
+   ],
+   "importancia": 9,
+   "fuente": "BBC Ciencia y Medio Ambiente",
+   "fuentes": [
+    "BBC Ciencia y Medio Ambiente",
+    "BBC World"
+   ],
+   "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+   "fecha": "2026-11-21T09:52:11.000Z",
+   "ultimaHora": true,
+   "reaccion": ""
+  },
+  {
+   "id": "acfb35e15f56",
+   "titulo": "Chema Alonso deja Cloudflare y ficha por Meta como vicepresidente",
+   "resumen": "El conocido directivo y ex hacker español se incorpora a la compañía de Mark Zuckerberg como vicepresidente global de Gestión de Producto. Este movimiento se produce tras algo más de año y medio trabajando en Cloudflare.",
+   "porQue": "Representa uno de los fichajes ejecutivos tecnológicos de mayor perfil internacional para un talento español.",
+   "pilar": "tecnologia",
+   "etiquetas": [
+    "meta",
+    "fichaje",
+    "tecnologia",
+    "ia"
+   ],
+   "importancia": 6,
+   "fuente": "El País",
+   "fuentes": [
+    "El País",
+    "Cinco Días",
+    "El País Economía"
+   ],
+   "url": "https://cincodias.elpais.com/companias/2026-11-21/chema-alonso-el-ex-hacker-de-telefonica-ficha-por-meta-facebook-y-abandona-cloudflare.html",
+   "fecha": "2026-11-21T11:28:22.000Z",
    "ultimaHora": true,
    "reaccion": ""
   }

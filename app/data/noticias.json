@@ -1,6 +1,6 @@
 {
  "generado": "2026-11-22T09:58:34.518Z",
- "actualizado": "2026-11-22T11:17:32.606Z",
+ "actualizado": "2026-11-22T12:02:33.982Z",
  "modo": "ia",
  "top3": [
   "db8b49c43817",
@@ -662,10 +662,10 @@
   },
   {
    "id": "0241cb8ca237",
-   "titulo": "Un nuevo ataque ruso provoca el derrumbe parcial de un edificio residencial en la región de Kiev",
-   "resumen": "Un bombardeo ruso ha destruido parcialmente un edificio en Ucrania, dejando a unas 14 personas posiblemente atrapadas bajo los escombros, según ha denunciado el presidente Volodímir Zelenski. El mandatario ha alertado de ataques simultáneos en una veintena de regiones y ha urgido a acelerar las defensas antiaéreas.",
-   "porQue": "Evidencia la persistencia de la ofensiva aérea rusa sobre núcleos civiles y la extrema presión sobre las infraestructuras defensivas ucranianas.",
-   "pilar": "geopolitica",
+   "titulo": "Un ataque ruso provoca el derrumbe parcial de un edificio en la región de Kiev",
+   "resumen": "Un bombardeo ruso ha causado el derrumbe parcial de un edificio residencial en la región de Kiev, dejando al menos 14 personas desaparecidas bajo los escombros, según ha denunciado el presidente ucraniano, Volodímir Zelenski.",
+   "porQue": "Intensifica la presión sobre las infraestructuras civiles ucranianas mientras aumentan las peticiones urgentes de defensas aéreas.",
+   "pilar": "global",
    "etiquetas": [
     "ucrania",
     "rusia",
@@ -679,6 +679,94 @@
    ],
    "url": "https://www.dw.com/es/ataque-ruso-provoca-derrumbe-parcial-de-edificio-en-la-región-de-kiev/a-80013001?maca=spa-rss-sp-all-1122-rdf",
    "fecha": "2026-11-22T10:14:00.000Z",
+   "ultimaHora": true,
+   "reaccion": ""
+  },
+  {
+   "id": "1cd0a1d747b2",
+   "titulo": "España y la UE rechazan el borrador de la COP31 por los combustibles fósiles",
+   "resumen": "La vicepresidenta tercera y ministra para la Transición Ecológica, Sara Aagesen, ha anunciado que España y la Unión Europea rechazan el borrador de acuerdo de la COP31 por no incluir el abandono de los combustibles fósiles.",
+   "porQue": "Pone en riesgo el consenso global en la cumbre climática más larga de la historia ante la presión sobre el fin de los combustibles fósiles.",
+   "pilar": "global",
+   "etiquetas": [
+    "clima",
+    "cop31",
+    "ue",
+    "energia"
+   ],
+   "importancia": 9,
+   "fuente": "Europa Press",
+   "fuentes": [
+    "Europa Press"
+   ],
+   "url": "https://www.europapress.es/sociedad/noticia-espana-rechaza-junto-ue-borrador-cop31-no-incluir-abandono-combustibles-fosiles-20261122125354.html",
+   "fecha": "2026-11-22T11:53:54.000Z",
+   "ultimaHora": true,
+   "reaccion": ""
+  },
+  {
+   "id": "86c4e817690b",
+   "titulo": "Incendio en un buque con rumbo a Rusia tras un ataque con dron en el Báltico",
+   "resumen": "Un buque mercante con destino a Rusia continúa en llamas en aguas internacionales del golfo de Finlandia tras sufrir un ataque con drones, en un incidente que las fuerzas de defensa finesas vinculan con Ucrania.",
+   "porQue": "Eleva la tensión militar en el mar Báltico y acerca el conflicto de Ucrania a las rutas marítimas del norte de Europa.",
+   "pilar": "geopolitica",
+   "etiquetas": [
+    "rusia",
+    "ucrania",
+    "guerra",
+    "finlandia"
+   ],
+   "importancia": 8,
+   "fuente": "BBC World",
+   "fuentes": [
+    "BBC World"
+   ],
+   "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+   "fecha": "2026-11-22T11:25:14.000Z",
+   "ultimaHora": true,
+   "reaccion": ""
+  },
+  {
+   "id": "b20c328febc2",
+   "titulo": "El fuerte viento causa diez heridos en Barcelona y daños en Cataluña",
+   "resumen": "El episodio de fuertes rachas de viento en Cataluña ha provocado la caída de varios árboles en Barcelona, con un balance de nueve heridos leves durante la Cursa de les Dones, además de otro herido en Sabadell por una farola.",
+   "porQue": "Afecta a la seguridad ciudadana y a la movilidad en plena celebración de eventos deportivos y fin de semana en Barcelona.",
+   "pilar": "ultima",
+   "etiquetas": [
+    "barcelona",
+    "catalunya",
+    "viento",
+    "meteorologia"
+   ],
+   "importancia": 6,
+   "fuente": "20minutos",
+   "fuentes": [
+    "20minutos"
+   ],
+   "url": "https://www.20minutos.es/cataluna/barcelona/viento-provoca-caida-arboles-barcelona-herido-grave-icaria-leves-carrera-meridiana_7064214_0.html",
+   "fecha": "2026-11-22T11:32:35.000Z",
+   "ultimaHora": true,
+   "reaccion": ""
+  },
+  {
+   "id": "8c13f165d258",
+   "titulo": "Llegada de cuatro cayucos con 246 migrantes a El Hierro durante el fin de semana",
+   "resumen": "El archipiélago canario vuelve a registrar una intensa presión migratoria tras la llegada de cuatro embarcaciones con 246 personas a bordo a la isla de El Hierro, reanudando las llegadas tras una breve pausa.",
+   "porQue": "Evidencia la continuidad y persistencia de la ruta migratoria atlántica hacia las costas españolas.",
+   "pilar": "global",
+   "etiquetas": [
+    "migracion",
+    "canarias",
+    "el hierro",
+    "crisis"
+   ],
+   "importancia": 7,
+   "fuente": "20minutos",
+   "fuentes": [
+    "20minutos"
+   ],
+   "url": "https://www.20minutos.es/canarias/continua-llegada-cayucos-hierro-este-fin-semana-ya-son-tres-interceptados-con-mas-140-personas_7064197_0.html",
+   "fecha": "2026-11-22T10:09:53.000Z",
    "ultimaHora": true,
    "reaccion": ""
   }

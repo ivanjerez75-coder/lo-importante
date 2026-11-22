@@ -1,6 +1,6 @@
 {
  "generado": "2026-11-22T09:58:34.518Z",
- "actualizado": "2026-11-22T17:53:02.615Z",
+ "actualizado": "2026-11-22T23:42:40.334Z",
  "modo": "ia",
  "top3": [
   "db8b49c43817",
@@ -701,7 +701,7 @@
    ],
    "url": "https://www.europapress.es/sociedad/noticia-espana-rechaza-junto-ue-borrador-cop31-no-incluir-abandono-combustibles-fosiles-20261122125354.html",
    "fecha": "2026-11-22T11:53:54.000Z",
-   "ultimaHora": true,
+   "ultimaHora": false,
    "reaccion": ""
   },
   {
@@ -790,7 +790,7 @@
    ],
    "url": "https://www.theguardian.com/environment/2026/nov/22/cop31-climate-talks-set-to-end-in-deep-division-as-key-deal-rejected",
    "fecha": "2026-11-22T16:14:46.000Z",
-   "ultimaHora": true,
+   "ultimaHora": false,
    "reaccion": ""
   },
   {
@@ -813,7 +813,7 @@
    ],
    "url": "https://elpais.com/internacional/2026-11-22/un-carguero-ruso-sancionado-sigue-ardiendo-un-dia-despues-del-ataque-de-un-dron-en-el-golfo-de-finlandia.html",
    "fecha": "2026-11-22T16:50:21.000Z",
-   "ultimaHora": true,
+   "ultimaHora": false,
    "reaccion": ""
   },
   {
@@ -835,6 +835,94 @@
    ],
    "url": "https://www.mundodeportivo.com/opinion/20261122/1004254164/marquez-10-vendaval-barca.html",
    "fecha": "2026-11-22T16:28:36.000Z",
+   "ultimaHora": false,
+   "reaccion": ""
+  },
+  {
+   "id": "264b95d50864",
+   "titulo": "Carlos Alcaraz conquista el Masters ATP en Turín",
+   "resumen": "El tenista español Carlos Alcaraz, de 23 años, se proclamó campeón del Masters ATP tras derrotar en la final al número uno mundial, el alemán Alexander Zverev. Con esta victoria, el murciano entra en el selecto club histórico de ganadores del torneo junto a leyendas como Djokovic, Federer y Agassi.",
+   "porQue": "Consagra a Alcaraz en la élite absoluta del tenis mundial al añadir a su palmarés el único gran trofeo que le faltaba a nivel individual en pista cubierta.",
+   "pilar": "deporte",
+   "etiquetas": [
+    "tenis",
+    "alcaraz",
+    "atp",
+    "deporte"
+   ],
+   "importancia": 8,
+   "fuente": "France 24 ES",
+   "fuentes": [
+    "France 24 ES"
+   ],
+   "url": "https://www.france24.com/es/deportes/20261122-alcaraz-conquista-el-masters-atp-y-a-sus-23-a%C3%B1os-entra-al-club-de-djokovic-federer-y-agassi",
+   "fecha": "2026-11-22T21:21:13.000Z",
+   "ultimaHora": true,
+   "reaccion": ""
+  },
+  {
+   "id": "136b6e5df36b",
+   "titulo": "Fracasa la cumbre climática COP31 por desacuerdos sobre combustibles fósiles",
+   "resumen": "La COP31 concluyó sin un acuerdo final en Antalya, Turquía, tras la negativa de varias delegaciones a incluir una mención explícita a la eliminación de los combustibles fósiles. El bloqueo dejó de nuevo en evidencia la profunda división entre los petroestados y la urgencia climática.",
+   "porQue": "Representa un nuevo revés internacional en la lucha coordinada contra el cambio climático y la transición energética global.",
+   "pilar": "global",
+   "etiquetas": [
+    "clima",
+    "cop31",
+    "energia",
+    "onu"
+   ],
+   "importancia": 9,
+   "fuente": "France 24 ES",
+   "fuentes": [
+    "France 24 ES"
+   ],
+   "url": "https://www.france24.com/es/video/20261122-fracasa-la-cop31-por-desacuerdos-sobre-combustibles-f%C3%B3siles",
+   "fecha": "2026-11-22T22:25:09.000Z",
+   "ultimaHora": true,
+   "reaccion": ""
+  },
+  {
+   "id": "a0fefa54f435",
+   "titulo": "La sonda europea y japonesa BepiColombo entra en la órbita de Mercurio",
+   "resumen": "La Agencia Espacial Europea confirmó que la misión conjunta BepiColombo logró alcanzar la órbita de Mercurio tras un complejo viaje de ocho años por el sistema solar. La sonda estudiará en detalle la superficie, el campo magnético y la atmósfera del planeta más cercano al Sol.",
+   "porQue": "Supone un hito histórico para la exploración espacial científica y permitirá desentrañar los mayores misterios sobre la formación de los planetas rocosos.",
+   "pilar": "global",
+   "etiquetas": [
+    "ciencia",
+    "espacio",
+    "mercurio",
+    "astronomia"
+   ],
+   "importancia": 8,
+   "fuente": "France 24 ES",
+   "fuentes": [
+    "France 24 ES"
+   ],
+   "url": "https://www.france24.com/es/ciencia-y-tecnolog%C3%ADas/20261122-tras-ocho-a%C3%B1os-de-viaje-la-sonda-bepicolombo-llega-a-la-%C3%B3rbita-de-mercurio",
+   "fecha": "2026-11-22T20:57:09.000Z",
+   "ultimaHora": true,
+   "reaccion": ""
+  },
+  {
+   "id": "86cce29f7256",
+   "titulo": "Sánchez descarta un referéndum en Cataluña a cambio de apoyos para gobernar",
+   "resumen": "El presidente del Gobierno y candidato del PSOE, Pedro Sánchez, aseguró en una entrevista que no aceptará la celebración de un referéndum de autodeterminación en Cataluña, incluso si necesita los votos de formaciones como Junts o ERC para reeditar su mandato.",
+   "porQue": "Define los límites estrictos de la estrategia de alianzas del Ejecutivo central ante el escenario político nacional y catalán.",
+   "pilar": "ultima",
+   "etiquetas": [
+    "espanya",
+    "catalunya",
+    "politica",
+    "elecciones"
+   ],
+   "importancia": 8,
+   "fuente": "Europa Press",
+   "fuentes": [
+    "Europa Press"
+   ],
+   "url": "https://www.europapress.es/nacional/noticia-sanchez-dice-no-aceptara-referendum-cataluna-necesite-votos-junts-erc-gobernar-20261122231957.html",
+   "fecha": "2026-11-22T22:19:57.000Z",
    "ultimaHora": true,
    "reaccion": ""
   }

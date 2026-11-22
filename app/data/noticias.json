@@ -1,6 +1,6 @@
 {
  "generado": "2026-11-21T03:19:59.681Z",
- "actualizado": "2026-11-21T20:34:37.281Z",
+ "actualizado": "2026-11-22T02:18:31.091Z",
  "modo": "ia",
  "top3": [
   "83f20e69dee5",
@@ -678,7 +678,7 @@
    ],
    "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
    "fecha": "2026-11-21T19:33:49.000Z",
-   "ultimaHora": true,
+   "ultimaHora": false,
    "reaccion": ""
   },
   {
@@ -746,7 +746,7 @@
    ],
    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/aje-onl-nf_deadly-attack-in-kyiv-as-russia-launches-barrage-211126?traffic_source=rss",
    "fecha": "2026-11-21T18:42:38.000Z",
-   "ultimaHora": true,
+   "ultimaHora": false,
    "reaccion": ""
   },
   {
@@ -768,7 +768,7 @@
    ],
    "url": "https://www.france24.com/es/europa/20261121-un-ataque-con-drones-atribuido-a-ucrania-incendia-un-carguero-ruso-en-el-golfo-de-finlandia",
    "fecha": "2026-11-21T19:35:48.000Z",
-   "ultimaHora": true,
+   "ultimaHora": false,
    "reaccion": ""
   },
   {
@@ -790,7 +790,7 @@
    ],
    "url": "https://elpais.com/mexico/2026-11-21/detenido-el-chapo-isidro-en-un-operativo-que-desata-el-terror-en-sinaloa.html",
    "fecha": "2026-11-21T19:23:33.000Z",
-   "ultimaHora": true,
+   "ultimaHora": false,
    "reaccion": ""
   },
   {
@@ -812,6 +812,117 @@
    ],
    "url": "https://www.20minutos.es/internacional/hackean-base-datos-informacion-criminal-fbi-segunda-vez-pocos-meses_7064132_0.html",
    "fecha": "2026-11-21T19:11:33.000Z",
+   "ultimaHora": false,
+   "reaccion": ""
+  },
+  {
+   "id": "86b768ea0f65",
+   "titulo": "Investigan un ciberataque contra la base de datos criminal del FBI en Estados Unidos",
+   "resumen": "El FBI investiga una brecha de seguridad en el Centro Nacional de Información Criminal (NCIC), utilizado por agencias locales y federales para coordinar datos judiciales. Donald Trump confirmó el incidente públicamente y sugirió que podría revelar información sobre presuntas irregularidades contra su figura.",
+   "porQue": "Compromete información sensible de inteligencia policial y reabre la batalla política sobre la seguridad interna en Washington.",
+   "pilar": "tecnologia",
+   "etiquetas": [
+    "fbi",
+    "ciberseguridad",
+    "eeuu",
+    "trump"
+   ],
+   "importancia": 8,
+   "fuente": "DW Español",
+   "fuentes": [
+    "DW Español"
+   ],
+   "url": "https://www.dw.com/es/donald-trump-confirma-un-ciberataque-al-fbi-y-cree-que-podría-destapar-engaños-contra-él/a-80012085?maca=spa-rss-sp-all-1122-rdf",
+   "fecha": "2026-11-22T00:53:00.000Z",
+   "ultimaHora": true,
+   "reaccion": ""
+  },
+  {
+   "id": "1453db92e2f8",
+   "titulo": "Irán ataca posiciones militares de Estados Unidos en Baréin en plena escalada regional",
+   "resumen": "Fuerzas iraníes lanzaron ataques contra activos militares estadounidenses en territorio bareiní, acción que fue condenada formalmente por el Gobierno de Baréin. El ataque coincide con una intensificación de las ofensivas con drones y misiles de los rebeldes hutíes en el golfo Pérsico.",
+   "porQue": "Eleva de forma crítica el riesgo de confrontación militar directa y amenaza la estabilidad energética y el tránsito marítimo en el Golfo.",
+   "pilar": "geopolitica",
+   "etiquetas": [
+    "irán",
+    "eeuu",
+    "oriente medio",
+    "conflicto"
+   ],
+   "importancia": 8,
+   "fuente": "Al Jazeera",
+   "fuentes": [
+    "Al Jazeera"
+   ],
+   "url": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-iran-targets-us-military-in-bahrain-houthi-strikes-continue?traffic_source=rss",
+   "fecha": "2026-11-21T23:59:03.000Z",
+   "ultimaHora": true,
+   "reaccion": ""
+  },
+  {
+   "id": "01c04a41e20b",
+   "titulo": "Las negociaciones de la COP31 quedan bloqueadas por el abandono de los combustibles fósiles",
+   "resumen": "La cumbre climática celebrada en Antalya (Turquía) entró en una fase de estancamiento técnico y político durante la madrugada. Un bloque de países productores rechaza fijar compromisos vinculantes y calendarios para el cese definitivo del carbón, petróleo y gas.",
+   "porQue": "Pone en riesgo los objetivos del Acuerdo de París y debilita la capacidad de coordinar medidas obligatorias de mitigación climática a escala planetaria.",
+   "pilar": "global",
+   "etiquetas": [
+    "clima",
+    "cop31",
+    "petróleo",
+    "transición energética"
+   ],
+   "importancia": 7,
+   "fuente": "France 24 ES",
+   "fuentes": [
+    "France 24 ES"
+   ],
+   "url": "https://www.france24.com/es/video/20261121-informe-desde-estambul-negociaciones-en-la-cop31-estancadas-por-los-combustibles-f%C3%B3siles",
+   "fecha": "2026-11-21T23:30:39.000Z",
+   "ultimaHora": true,
+   "reaccion": ""
+  },
+  {
+   "id": "e73f542e923a",
+   "titulo": "Detenido en México tras un tiroteo el \"Chapo Isidro\", uno de los más buscados por el FBI",
+   "resumen": "Fausto Isidro Meza Flores, líder del cártel de los Meza Flores acusado de tráfico internacional de drogas y tortura, fue arrestado por fuerzas mexicanas tras un enfrentamiento armado. Figuraba entre los diez fugitivos prioritarios del FBI, que ofrecía cinco millones de dólares por su captura.",
+   "porQue": "Supone un golpe clave al narcotráfico transfronterizo, aunque anticipa disputas violentas por el control de sus rutas en el norte de México.",
+   "pilar": "geopolitica",
+   "etiquetas": [
+    "méxico",
+    "narcotráfico",
+    "fbi",
+    "seguridad"
+   ],
+   "importancia": 6,
+   "fuente": "BBC Mundo",
+   "fuentes": [
+    "BBC Mundo",
+    "France 24 ES"
+   ],
+   "url": "https://www.bbc.com/mundo/articles/c9p83kyykr73o?at_medium=RSS&at_campaign=rss",
+   "fecha": "2026-11-22T00:09:43.000Z",
+   "ultimaHora": true,
+   "reaccion": ""
+  },
+  {
+   "id": "2d1a10cb4206",
+   "titulo": "Cargas policiales y disturbios en Francia en el sexto sábado de protestas sociales",
+   "resumen": "Miles de personas se manifestaron en París y otras ciudades francesas en reclamo de subidas salariales, refuerzo de los servicios públicos y ayudas a estudiantes. La jornada derivó en choques violentos nocturnos con la policía y dispersión mediante gas lacrimógeno.",
+   "porQue": "Mantiene bajo máxima presión al Gobierno francés ante un descontento social cronificado que amenaza con paralizar reformas económicas clave.",
+   "pilar": "geopolitica",
+   "etiquetas": [
+    "francia",
+    "protestas",
+    "parís",
+    "sindicatos"
+   ],
+   "importancia": 6,
+   "fuente": "France 24 ES",
+   "fuentes": [
+    "France 24 ES"
+   ],
+   "url": "https://www.france24.com/es/video/20261122-sexto-s%C3%A1bado-de-movilizaciones-en-francia-j%C3%B3venes-tambi%C3%A9n-protestan-en-otros-pa%C3%ADses-de-europa",
+   "fecha": "2026-11-22T00:06:46.000Z",
    "ultimaHora": true,
    "reaccion": ""
   }

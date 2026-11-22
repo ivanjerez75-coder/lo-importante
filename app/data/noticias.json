@@ -1,207 +1,232 @@
 {
- "generado": "2026-11-21T03:19:59.681Z",
- "actualizado": "2026-11-22T02:18:31.091Z",
+ "generado": "2026-11-22T09:58:34.518Z",
+ "actualizado": "2026-11-22T09:58:34.518Z",
  "modo": "ia",
  "top3": [
-  "83f20e69dee5",
-  "05c7cc17b93b",
-  "819d3babef6f"
+  "db8b49c43817",
+  "a9ea22e4049b",
+  "d3f7789cc949"
  ],
  "noticias": [
   {
-   "id": "83f20e69dee5",
-   "titulo": "El desplome bursátil de la IA arrastra a Wall Street a su peor semana en año y medio",
-   "resumen": "La caída generalizada del sector tecnológico hunde al Nasdaq en su peor semana en año y medio. Anthropic se desploma un 8,5% y Nvidia pierde un 22,9% en cinco sesiones, su peor registro desde 2008, lastrada además por una posible investigación de la SEC.",
-   "porQue": "Confirma el pinchazo temporal de las valoraciones extremas en inteligencia artificial tras un ciclo alcista desaforado.",
-   "pilar": "economia",
-   "etiquetas": [
-    "ia",
-    "bolsa",
-    "nvidia",
-    "anthropic"
-   ],
-   "importancia": 9,
-   "fuente": "El País",
-   "fuentes": [
-    "El País",
-    "Cinco Días"
-   ],
-   "url": "https://elpais.com/economia/2026-11-20/la-segunda-jornada-en-bolsa-de-anthropic.html",
-   "fecha": "2026-11-20T21:06:58.000Z",
-   "ultimaHora": false,
-   "reaccion": "Las acciones tecnológicas siguen sufriendo fuertes presiones bajistas, arrastrando a los principales índices globales a territorio de corrección y generando pánico entre los inversores minoristas."
-  },
-  {
-   "id": "05c7cc17b93b",
-   "titulo": "Histórico fallo internacional declara a Myanmar culpable de genocidio rohinyá",
-   "resumen": "La Corte Internacional de Justicia emitió un veredicto histórico que determina formalmente que el ejército de Myanmar perpetró genocidio contra la minoría rohinyá en 2017, un fallo que abre la puerta a reclamaciones de justicia global.",
-   "porQue": "Sienta un precedente jurídico crucial para castigar crímenes de lesa humanidad perpetrados por estados contra minorías.",
+   "id": "db8b49c43817",
+   "titulo": "La COP31 entra en su recta final con un borrador bajo lupa y riesgo de bloqueo histórico",
+   "resumen": "La cumbre del clima COP31 en Antalya publica una tercera versión de su borrador en medio de profundas divisiones entre los países. Los negociadores han sido convocados a una sesión maratoniana que podría convertirla en la conferencia climática más larga de la historia.",
+   "porQue": "Define los compromisos globales de reducción de emisiones y transición energética para los próximos años en un momento crítico para la estabilidad climática.",
    "pilar": "global",
    "etiquetas": [
-    "derechos humanos",
-    "myanmar",
-    "onu",
-    "justicia"
+    "clima",
+    "cop31",
+    "energia",
+    "onu"
    ],
    "importancia": 9,
-   "fuente": "France 24 ES",
+   "fuente": "The Guardian Clima",
    "fuentes": [
-    "France 24 ES"
+    "The Guardian Clima"
    ],
-   "url": "https://www.france24.com/es/programas/en-contexto/20261120-hist%C3%B3rico-fallo-para-los-rohingyas-tendr%C3%A1-efecto-en-otros-casos-de-genocidio",
-   "fecha": "2026-11-20T23:07:38.000Z",
-   "ultimaHora": false,
-   "reaccion": "Organizaciones internacionales y defensores de los derechos humanos celebran el fallo, mientras se presiona a la comunidad internacional para que endurezca las sanciones contra la junta militar birmana."
+   "url": "https://www.theguardian.com/environment/live/2026/nov/22/cop31-climate-crisis-talks-turkey-latest-news-updates",
+   "fecha": "2026-11-22T09:37:56.000Z",
+   "ultimaHora": true,
+   "reaccion": "Las negociaciones climáticas entran en prórroga tras expirar el plazo oficial sin acuerdo sobre combustibles fósiles, con la presidencia intentando salvar 'in extremis' un pacto ante el fuerte bloqueo de varios bloques."
   },
   {
-   "id": "819d3babef6f",
-   "titulo": "GTA 6 bate todos los récords históricos de la industria con 3.800 millones en un día",
-   "resumen": "El esperado lanzamiento del nuevo título de Rockstar Games supera cualquier registro anterior de la industria del videojuego y del cine al facturar 3.800 millones de dólares en sus primeras 24 horas en el mercado.",
-   "porQue": "Demuestra la magnitud económica y cultural descomunal del sector del ocio interactivo por encima de Hollywood.",
-   "pilar": "tecnologia",
-   "etiquetas": [
-    "videojuegos",
-    "gta",
-    "negocio",
-    "entretenimiento"
-   ],
-   "importancia": 7,
-   "fuente": "BBC Business",
-   "fuentes": [
-    "BBC Business"
-   ],
-   "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
-   "fecha": "2026-11-20T22:53:24.000Z",
-   "ultimaHora": false,
-   "reaccion": ""
-  },
-  {
-   "id": "36fb31620a7c",
-   "titulo": "Trump amenaza con prohibir que las tecnológicas de EE UU construyan centros de datos fuera",
-   "resumen": "El presidente de Estados Unidos ha avanzado su intención de vetar la construcción de infraestructuras de inteligencia artificial en el extranjero por parte de firmas nacionales, aunque su equipo reconoció falta de detalles previos.",
-   "porQue": "Politiza y frena la globalización de la cadena de suministro de la computación avanzada y la energía.",
-   "pilar": "geopolitica",
-   "etiquetas": [
-    "eeuu",
-    "trump",
-    "ia",
-    "infraestructuras"
-   ],
-   "importancia": 8,
-   "fuente": "BBC World",
-   "fuentes": [
-    "BBC World",
-    "Al Jazeera",
-    "BBC Business"
-   ],
-   "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
-   "fecha": "2026-11-20T21:10:53.000Z",
-   "ultimaHora": false,
-   "reaccion": ""
-  },
-  {
-   "id": "d550221a9ac9",
-   "titulo": "Dinamarca acusa a Rusia de planear el asesinato de un rapero ucraniano",
-   "resumen": "La primera ministra danesa, Mette Frederiksen, ha denunciado un complot de Moscú para atentar contra un artista ucraniano-estadounidense en su territorio utilizando bandas locales, proponiendo suspender visados a rusos.",
-   "porQue": "Evidencia la expansión de las operaciones clandestinas de sabotaje y asesinato político del Kremlin en suelo europeo.",
-   "pilar": "geopolitica",
-   "etiquetas": [
-    "rusia",
-    "dinamarca",
-    "ucrania",
-    "seguridad"
-   ],
-   "importancia": 8,
-   "fuente": "El País",
-   "fuentes": [
-    "El País",
-    "El País Internacional"
-   ],
-   "url": "https://elpais.com/internacional/2026-11-20/dinamarca-acusa-a-rusia-de-intentar-asesinar-en-su-territorio-a-un-rapero-ucranio-estadounidense.html",
-   "fecha": "2026-11-20T19:37:05.000Z",
-   "ultimaHora": false,
-   "reaccion": ""
-  },
-  {
-   "id": "872ad1fe4356",
-   "titulo": "Alemania y Francia pactan candidatos para el BCE y allanan el camino a De Cos",
-   "resumen": "Berlín y París han formalizado los nombres de sus candidatos para el Comité Ejecutivo del Banco Central Europeo, un movimiento coordinado que despeja el camino para las aspiraciones del español Hernández de Cos.",
-   "porQue": "Define la correlación de poder económico en la cúpula monetaria de la eurozona para los próximos años.",
+   "id": "a9ea22e4049b",
+   "titulo": "España lanza la candidatura de Hernández de Cos para presidir el BCE",
+   "resumen": "El perfil del español José Luis Hernández de Cos y la coyuntura política en Francia y Alemania le sitúan a las puertas de liderar el Banco Central Europeo. Su nombramiento cuenta con un fuerte respaldo táctico en las capitales comunitarias.",
+   "porQue": "Supone colocar a un español al frente de la máxima autoridad monetaria de la eurozona, con gran influencia en los tipos de interés y la economía continental.",
    "pilar": "economia",
    "etiquetas": [
     "bce",
     "economia",
-    "europa",
-    "espana"
+    "espana",
+    "europa"
    ],
-   "importancia": 8,
+   "importancia": 9,
+   "fuente": "El País",
+   "fuentes": [
+    "El País",
+    "Cinco Días",
+    "El País Economía"
+   ],
+   "url": "https://elpais.com/economia/2026-11-22/tenemos-el-mejor-candidato-asi-lanzo-espana-la-carrera-por-la-presidencia-del-bce.html",
+   "fecha": "2026-11-22T04:45:01.000Z",
+   "ultimaHora": false,
+   "reaccion": "Alemania y Francia allanan definitivamente el camino tras formalizar sus movimientos en el Comité Ejecutivo, impulsando con fuerza las opciones del candidato español."
+  },
+  {
+   "id": "d3f7789cc949",
+   "titulo": "La OPV de 2 billones de Anthropic oculta dudas sobre su rentabilidad",
+   "resumen": "El esperado debut bursátil de Anthropic por valor de dos billones de dólares enmascara un frenazo en su ritmo de crecimiento y crecientes dudas sobre la rentabilidad real de sus modelos de inteligencia artificial.",
+   "porQue": "Marca un punto de inflexión en la fiebre inversora por la IA generativa y la valoración de los gigantes tecnológicos en los mercados globales.",
+   "pilar": "tecnologia",
+   "etiquetas": [
+    "ia",
+    "anthropic",
+    "bolsa",
+    "tecnologia"
+   ],
+   "importancia": 9,
+   "fuente": "El País",
+   "fuentes": [
+    "El País",
+    "Cinco Días",
+    "El País Economía"
+   ],
+   "url": "https://cincodias.elpais.com/opinion/2026-11-22/la-opv-de-2-billones-de-anthropic-puede-ser-el-ultimo-gran-festejo.html",
+   "fecha": "2026-11-22T04:40:00.000Z",
+   "ultimaHora": false,
+   "reaccion": "La corrección en el sector tecnológico arrastra a Wall Street a su peor semana en año y medio, con Anthropic sufriendo fuertes descensos en su cotización bursátil."
+  },
+  {
+   "id": "d11924fd98e2",
+   "titulo": "Once muertos en México durante la operación para capturar al narcotraficante 'El Chapo Isidro'",
+   "resumen": "Las autoridades militares de México han confirmado la muerte de once personas en enfrentamientos armados durante el operativo desplegado para detener a Fausto Isidro Meza Flores, alias 'El Chapo Isidro', uno de los capos más buscados por el FBI.",
+   "porQue": "Golpe significativo contra las estructuras del narcotráfico internacional en México y su persistente violencia asociada.",
+   "pilar": "geopolitica",
+   "etiquetas": [
+    "mexico",
+    "narcotrafico",
+    "fbi",
+    "seguridad"
+   ],
+   "importancia": 7,
    "fuente": "Europa Press",
    "fuentes": [
     "Europa Press",
-    "Europa Press Economía"
+    "20minutos"
    ],
-   "url": "https://www.europapress.es/economia/finanzas-00340/noticia-alemania-francia-formalizan-candidatos-cupula-bce-allanan-camino-cos-20261120185216.html",
-   "fecha": "2026-11-20T17:52:16.000Z",
-   "ultimaHora": false,
-   "reaccion": "El holandés Knot mantiene de momento su candidatura pese a perder apoyos, mientras los mercados analizan el equilibrio de poder en el organismo monetario."
+   "url": "https://www.europapress.es/internacional/noticia-mexico-confirma-once-muertos-ocho-detenidos-operacion-captura-chapo-isidro-20261122022441.html",
+   "fecha": "2026-11-22T09:45:37.000Z",
+   "ultimaHora": true,
+   "reaccion": ""
   },
   {
-   "id": "767c2779862d",
-   "titulo": "El Reino Unido y la UE cierran un acuerdo post-Brexit sobre comercio y movilidad",
-   "resumen": "Londres y Bruselas han sellado un pacto bilateral que relaja los controles sobre exportaciones de alimentos británicos, comercio de emisiones e incluye un programa de movilidad juvenil para estrechar lazos.",
-   "porQue": "Marca el acercamiento más pragmático y profundo entre ambas partes desde la salida británica de la Unión Europea.",
-   "pilar": "global",
+   "id": "3d97e0803e68",
+   "titulo": "Dimite el ministro de Educación de Corea del Sur por un escándalo de trampas con IA",
+   "resumen": "Choi Kyo-jin ha presentado su dimisión tras admitir que las medidas de última hora para evitar el fraude con asistencia de inteligencia artificial en el examen de acceso a la universidad provocaron un caos generalizado.",
+   "porQue": "Evidencia los retos sin precedentes que la IA generativa plantea en la integridad de los sistemas educativos y la respuesta política exigida.",
+   "pilar": "tecnologia",
    "etiquetas": [
-    "brexit",
-    "reino unido",
-    "union europea",
-    "comercio"
+    "ia",
+    "corea del sur",
+    "educacion",
+    "dimision"
    ],
-   "importancia": 8,
+   "importancia": 7,
    "fuente": "BBC World",
    "fuentes": [
     "BBC World",
-    "BBC Business"
+    "The Guardian World"
    ],
-   "url": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
-   "fecha": "2026-11-20T17:49:48.000Z",
-   "ultimaHora": false,
-   "reaccion": "Los equipos negociadores de ambas partes continúan perfilando los detalles técnicos del acuerdo para su ratificación definitiva tras la cumbre bilateral."
+   "url": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss",
+   "fecha": "2026-11-22T09:20:45.000Z",
+   "ultimaHora": true,
+   "reaccion": ""
   },
   {
-   "id": "3859c30d8161",
-   "titulo": "En el aire las ayudas al transporte en España ante el fin de la prórroga estatal",
-   "resumen": "Se agota el plazo para que el Ejecutivo decida si prorroga las subvenciones a la movilidad sostenible, lo que podría duplicar el precio de los abonos de transporte y los descuentos en trenes y autobuses el 1 de enero.",
-   "porQue": "Afecta directamente al bolsillo de millones de usuarios cotidianos y a las políticas de descarbonización urbana.",
-   "pilar": "economia",
+   "id": "ada373cec243",
+   "titulo": "Verstappen gana el caótico Gran Premio de Las Vegas de F1",
+   "resumen": "El piloto neerlandés Max Verstappen se impuso en una accidentada carrera en Las Vegas con 34 cambios de liderato. El podio lo completaron Lando Norris y Oscar Piastri, mientras Carlos Sainz fue octavo y Fernando Alonso abandonó por rotura de motor.",
+   "porQue": "Deja una de las carreras más imprevisibles y con mayor número de adelantamientos de la historia reciente de la Fórmula 1.",
+   "pilar": "deporte",
    "etiquetas": [
-    "transporte",
-    "espana",
+    "f1",
+    "verstappen",
+    "las vegas",
+    "deportes"
+   ],
+   "importancia": 5,
+   "fuente": "El País",
+   "fuentes": [
+    "El País",
+    "El País Deportes"
+   ],
+   "url": "https://elpais.com/deportes/formula-1/2026-11-22/verstappen-gana-en-las-vegas-la-carrera-mas-caotica-de-la-historia.html",
+   "fecha": "2026-11-22T08:52:30.000Z",
+   "ultimaHora": true,
+   "reaccion": ""
+  },
+  {
+   "id": "11227ffade2c",
+   "titulo": "Economistas denuncian en París el peligro de la oligarquía y los ultrarricos para la democracia",
+   "resumen": "Un foro internacional promovido en París por el economista Gabriel Zucman ha advertido sobre la creciente concentración de poder económico y mediático en manos de los superricos, incluidos los propietarios de empresas de inteligencia artificial.",
+   "porQue": "Pone sobre la mesa el debate global acerca de la erosión democrática impulsada por la desigualdad extrema y el monopolio tecnológico.",
+   "pilar": "global",
+   "etiquetas": [
+    "desigualdad",
+    "democracia",
     "economia",
-    "gobierno"
+    "paris"
    ],
    "importancia": 8,
-   "fuente": "El País Clima",
+   "fuente": "El País",
    "fuentes": [
-    "El País Clima",
-    "El País"
+    "El País",
+    "El País Economía"
    ],
-   "url": "https://elpais.com/clima-y-medio-ambiente/2026-11-20/los-abonos-de-transporte-pueden-duplicar-su-precio-el-1-de-enero-en-el-aire-las-ayudas-estatales.html",
-   "fecha": "2026-11-20T17:30:41.000Z",
+   "url": "https://elpais.com/economia/2026-11-22/economistas-e-intelectuales-denuncian-en-una-cumbre-en-paris-la-amenaza-de-la-oligarquia-internacional-para-las-democracias.html",
+   "fecha": "2026-11-22T04:45:01.000Z",
    "ultimaHora": false,
    "reaccion": ""
   },
   {
-   "id": "ddedded09aef",
-   "titulo": "Transportes calcula dos semanas para reparar la línea de alta velocidad Madrid-Sevilla",
-   "resumen": "Técnicos de Adif trabajan en el tramo afectado en Urda para evaluar los daños del siniestro, mientras Renfe, Iryo y Ouigo desvían pasajeros y reubican billetes a partir de mediados de diciembre.",
-   "porQue": "Interrumpe una de las arterias de transporte ferroviario de alta velocidad más transitadas del país.",
+   "id": "b1368b465a5e",
+   "titulo": "La campaña electoral en España entra en su recta final con el foco en la vivienda y los impuestos",
+   "resumen": "Los principales candidatos intensifican los mítiches de cara a las elecciones del 29 de noviembre. Pedro Sánchez promete mantener la presión fiscal a la banca para financiar políticas sociales, mientras Alberto Núñez Feijóo endurece su discurso con medidas antiocupación.",
+   "porQue": "El resultado electoral determinará el rumbo económico y social de España y Cataluña ante retos críticos como la crisis habitacional.",
    "pilar": "ultima",
    "etiquetas": [
-    "tren",
-    "renfe",
-    "infraestructuras",
-    "andalucia"
+    "elecciones",
+    "espana",
+    "psoe",
+    "pp"
+   ],
+   "importancia": 8,
+   "fuente": "El País",
+   "fuentes": [
+    "El País",
+    "El País España"
+   ],
+   "url": "https://elpais.com/espana/2026-11-22/la-campana-eleva-el-drama-en-la-recta-final-a-por-ellos-no-pasaran.html",
+   "fecha": "2026-11-22T04:30:01.000Z",
+   "ultimaHora": true,
+   "reaccion": "El debate sobre vivienda, fiscalidad y bloques de alianzas marca el tono bronco de los últimos días de campaña, con los partidos volcados en movilizar a los indecisos."
+  },
+  {
+   "id": "7639d8af2e43",
+   "titulo": "La UE plantea una nueva tasa digital para recaudar 60.000 millones y evitar recortes",
+   "resumen": "El presidente del Consejo Europeo, António Costa, ha propuesto la creación de nuevos impuestos comunitarios, incluida una tasa digital, para captar 60.000 millones de euros anuales y amortiguar el tijeretazo presupuestario en Bruselas.",
+   "porQue": "Afecta directamente a la financiación de las políticas comunes de la Unión Europea y a la regulación fiscal de las grandes tecnológicas globales.",
+   "pilar": "economia",
+   "etiquetas": [
+    "ue",
+    "impuestos",
+    "economia",
+    "bruselas"
+   ],
+   "importancia": 8,
+   "fuente": "Cinco Días",
+   "fuentes": [
+    "Cinco Días",
+    "El País Economía"
+   ],
+   "url": "https://elpais.com/economia/2026-11-21/la-ue-plantea-una-tasa-digital-para-financiar-los-proximos-presupuestos-europeos-y-reducir-los-recortes.html",
+   "fecha": "2026-11-21T12:40:45.000Z",
+   "ultimaHora": false,
+   "reaccion": "António Costa mantiene su propuesta de presupuestos europeos plurianuales pese a las tensiones sobre los recortes del gasto comunitario."
+  },
+  {
+   "id": "6d1e971ffecc",
+   "titulo": "La crisis de la vivienda golpea con más crudeza a los inmigrantes extracomunitarios",
+   "resumen": "Organizaciones sociales y expertos alertan de que los ciudadanos extranjeros extracomunitarios sufren niveles muy superiores de exclusión residencial y discriminación en el mercado de alquiler, a pesar de los discursos políticos que los sitúan en el foco.",
+   "porQue": "Profundiza en la vertiente social y humana de una de las crisis estructurales más graves que padecen las grandes ciudades españolas.",
+   "pilar": "economia",
+   "etiquetas": [
+    "vivienda",
+    "inmigracion",
+    "alquiler",
+    "sociedad"
    ],
    "importancia": 7,
    "fuente": "Cinco Días",
@@ -209,721 +234,384 @@
     "Cinco Días",
     "El País Economía"
    ],
-   "url": "https://elpais.com/economia/2026-11-20/transportes-confia-en-que-la-linea-madrid-sevilla-en-urda-se-repare-en-unas-dos-semanas.html",
-   "fecha": "2026-11-20T12:31:22.000Z",
+   "url": "https://elpais.com/economia/vivienda/2026-11-21/la-crisis-de-la-vivienda-golpea-mas-fuerte-a-los-inmigrantes-sonamos-con-lo-minimo.html",
+   "fecha": "2026-11-21T04:45:01.000Z",
    "ultimaHora": false,
-   "reaccion": "Los operarios mantienen los plazos previstos de reparación sobre el terreno mientras las compañías ferroviarias reorganizan frecuencias y alternativas por carretera."
+   "reaccion": ""
   },
   {
-   "id": "61c2e2cff916",
-   "titulo": "Renfe advierte del robo de datos personales y contraseñas en su ciberataque",
-   "resumen": "La compañía ferroviaria ha comenzado a notificar a clientes afectados que el incidente de seguridad sufrido en septiembre comprometió información sensible como DNI y claves de acceso.",
-   "porQue": "Pone de relieve la vulnerabilidad de las infraestructuras públicas críticas frente a brechas de ciberseguridad masivas.",
-   "pilar": "tecnologia",
+   "id": "36fb31620a7c",
+   "titulo": "Trump amenaza con prohibir a las tecnológicas estadounidenses construir centros de datos en el extranjero",
+   "resumen": "El presidente de Estados Unidos ha anunciado su intención de vetar la construcción de infraestructuras críticas de inteligencia artificial fuera de las fronteras norteamericanas, una medida que ha pillado por sorpresa a su propio equipo.",
+   "porQue": "Reconfigura la geopolítica de las infraestructuras tecnológicas globales y la soberanía sobre los recursos de computación de IA.",
+   "pilar": "geopolitica",
    "etiquetas": [
-    "ciberseguridad",
-    "renfe",
-    "datos",
+    "eeuu",
+    "trump",
+    "ia",
+    "centros de datos"
+   ],
+   "importancia": 8,
+   "fuente": "BBC World",
+   "fuentes": [
+    "BBC World",
+    "BBC Business"
+   ],
+   "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
+   "fecha": "2026-11-20T20:54:12.000Z",
+   "ultimaHora": false,
+   "reaccion": "La propuesta sigue generando incertidumbre en el sector sobre el control estatal de las inversiones tecnológicas internacionales."
+  },
+  {
+   "id": "8e1247f2a138",
+   "titulo": "Continúan las labores de extinción de un buque ruso atacado por drones en el golfo de Finlandia",
+   "resumen": "Los equipos de emergencia luchan por sofocar el incendio en un barco ruso tras un ataque con drones en el golfo de Finlandia, mientras Helsinki investiga en paralelo una nueva incursión aérea rusa en su espacio.",
+   "porQue": "Eleva la tensión militar en el mar Báltico y pone a prueba la seguridad de las rutas marítimas en el norte de Europa.",
+   "pilar": "ultima",
+   "etiquetas": [
+    "rusia",
+    "finlandia",
+    "seguridad",
+    "baltico"
+   ],
+   "importancia": 7,
+   "fuente": "20minutos",
+   "fuentes": [
+    "20minutos"
+   ],
+   "url": "https://www.20minutos.es/internacional/continua-extincion-incendio-un-buque-ruso-atacado-por-drones-golfo-finlandia_7064188_0.html",
+   "fecha": "2026-11-22T09:43:56.000Z",
+   "ultimaHora": true,
+   "reaccion": ""
+  },
+  {
+   "id": "32283ecb620f",
+   "titulo": "Un bombardeo ruso derrumba parte de un edificio en Ucrania y deja al menos 14 desaparecidos",
+   "resumen": "Un ataque con misiles rusos ha destruido parcialmente un inmueble residencial en Ucrania. El presidente Volodímir Zelenski denunció ataques simultáneos en 20 regiones durante la última semana y urgió a acelerar el suministro de defensas antiaéreas.",
+   "porQue": "Muestra la persistencia de la campaña de bombardeos sistemáticos contra infraestructuras civiles en Ucrania ante la llegada del invierno.",
+   "pilar": "ultima",
+   "etiquetas": [
+    "ucrania",
+    "rusia",
+    "guerra",
+    "zelenski"
+   ],
+   "importancia": 8,
+   "fuente": "20minutos",
+   "fuentes": [
+    "20minutos"
+   ],
+   "url": "https://www.20minutos.es/internacional/un-ataque-ruso-derrumba-parte-un-edificio-ucrania-zelenski-alerta-14-personas-desaparecidas-bajo-los-escombros_7064185_0.html",
+   "fecha": "2026-11-22T09:43:14.000Z",
+   "ultimaHora": true,
+   "reaccion": ""
+  },
+  {
+   "id": "0a8b0d0092ee",
+   "titulo": "Raphael, hospitalizado de urgencia tras sufrir taquicardias en A Coruña",
+   "resumen": "El cantante español Raphael, de 83 años, ha tenido que ser ingresado de urgencia tras sufrir un episodio de taquicardias y una repentina subida de tensión antes de ofrecer un concierto en Galicia.",
+   "porQue": "Genera una gran conmoción en el panorama cultural y musical español por el estado de salud de una leyenda viva de la canción.",
+   "pilar": "ultima",
+   "etiquetas": [
+    "raphael",
+    "cultura",
+    "musica",
+    "salud"
+   ],
+   "importancia": 6,
+   "fuente": "La Vanguardia",
+   "fuentes": [
+    "La Vanguardia"
+   ],
+   "url": "https://www.lavanguardia.com/gente/20261122/11690355/raphael-hospitalizado-urgencia-cancelar-concierto-coruna.html",
+   "fecha": "2026-11-22T09:30:39.000Z",
+   "ultimaHora": true,
+   "reaccion": ""
+  },
+  {
+   "id": "429244a9f453",
+   "titulo": "Nueve heridas al caer un árbol sobre corredoras en Barcelona por fuertes rachas de viento",
+   "resumen": "Al menos nueve participantes de la Cursa de la Dona en Barcelona han resultado heridas de diversa consideración al desplomarse un árbol en la avenida Meridiana debido a un episodio de fuertes vientos con rachas de hasta 135 km/h en Cataluña.",
+   "porQue": "Los temporales de viento severo en Cataluña ponen de relieve los riesgos urbanos y la seguridad en eventos multitudinarios al aire libre.",
+   "pilar": "ultima",
+   "etiquetas": [
+    "barcelona",
+    "clima",
+    "viento",
+    "sucesos"
+   ],
+   "importancia": 6,
+   "fuente": "La Vanguardia",
+   "fuentes": [
+    "La Vanguardia"
+   ],
+   "url": "https://www.lavanguardia.com/local/barcelona/20261122/11690353/arbol-cae-sobre-seis-corredoras-cursa-les-dones-barcelona-causa-viento.html",
+   "fecha": "2026-11-22T09:27:42.000Z",
+   "ultimaHora": true,
+   "reaccion": ""
+  },
+  {
+   "id": "0a4e4f2efd60",
+   "titulo": "Víctor Wembanyama firma una exhibición histórica en la NBA con 50 puntos",
+   "resumen": "El pívot francés de los San Antonio Spurs cuajó el mejor partido individual de un jugador en más de medio siglo al anotar 50 puntos y romper múltiples registros históricos en la victoria frente a los New Orleans Pelicans (114-91).",
+   "porQue": "Consolida a Wembanyama como uno de generacionales talentos dominantes del baloncesto mundial actual.",
+   "pilar": "deporte",
+   "etiquetas": [
+    "nba",
+    "wembanyama",
+    "baloncesto",
+    "spurs"
+   ],
+   "importancia": 5,
+   "fuente": "La Vanguardia",
+   "fuentes": [
+    "La Vanguardia"
+   ],
+   "url": "https://www.lavanguardia.com/deportes/baloncesto/nba/20261122/11690349/wembanyama-san-antonio-spurs.html",
+   "fecha": "2026-11-22T09:20:19.000Z",
+   "ultimaHora": true,
+   "reaccion": ""
+  },
+  {
+   "id": "258fa2b3aaba",
+   "titulo": "Los programas electorales de las generales confrontan modelos de gasto e intervención en vivienda",
+   "resumen": "PSOE y Frente Amplio proponen destinar anualmente el 1% del PIB (unos 17.000 millones de euros) a políticas de vivienda pública, mientras que PP y Vox abogan por incentivos fiscales a la oferta privada y medidas de desregulación.",
+   "porQue": "El sector inmobiliario y el acceso a la vivienda se han consolidado como el eje central de discrepancia económica de los partidos en estas elecciones.",
+   "pilar": "economia",
+   "etiquetas": [
+    "vivienda",
+    "elecciones",
+    "economia",
     "espana"
    ],
    "importancia": 7,
    "fuente": "Europa Press Economía",
    "fuentes": [
-    "Europa Press Economía",
-    "El Español Invertia"
-   ],
-   "url": "https://www.europapress.es/economia/transportes-00343/noticia-renfe-advierte-posible-robo-datos-personales-contrasenas-dnis-ciberataque-septiembre-20261120130329.html",
-   "fecha": "2026-11-20T12:27:14.000Z",
-   "ultimaHora": false,
-   "reaccion": ""
-  },
-  {
-   "id": "883ac98e8294",
-   "titulo": "Hospitalizado de urgencia el expresidente brasileño Jair Bolsonaro en Brasilia",
-   "resumen": "El exmandatario ultraderechista, que cumple condena en arresto domiciliario, fue trasladado a un hospital tras sufrir fuertes dolores abdominales derivados de una obstrucción intestinal casi total.",
-   "porQue": "Introduce inestabilidad en el escenario judicial y político de la derecha brasileña.",
-   "pilar": "global",
-   "etiquetas": [
-    "brasil",
-    "bolsonaro",
-    "politica",
-    "salud"
-   ],
-   "importancia": 7,
-   "fuente": "France 24 ES",
-   "fuentes": [
-    "France 24 ES"
-   ],
-   "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261121-jair-bolsonaro-vuelve-a-estar-hospitalizado-esta-vez-por-una-obstrucci%C3%B3n-intestinal",
-   "fecha": "2026-11-21T02:31:34.000Z",
-   "ultimaHora": false,
-   "reaccion": ""
-  },
-  {
-   "id": "acf404f6e9c1",
-   "titulo": "Polonia denuncia una nueva provocación rusa tras la caída de un misil en su territorio",
-   "resumen": "El primer ministro Donald Tusk ha confirmado el impacto de un proyectil ruso sin causar víctimas durante unos ejercicios militares de la OTAN, calificando el suceso de claro acto deliberado de hostigamiento.",
-   "porQue": "Mantiene al límite la disuasión militar en el flanco oriental de la Alianza Atlántica.",
-   "pilar": "geopolitica",
-   "etiquetas": [
-    "polonia",
-    "rusia",
-    "otan",
-    "guerra"
-   ],
-   "importancia": 8,
-   "fuente": "BBC World",
-   "fuentes": [
-    "BBC World"
-   ],
-   "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
-   "fecha": "2026-11-21T02:09:46.000Z",
-   "ultimaHora": false,
-   "reaccion": "Varsovia exige a sus socios aliados un refuerzo inmediato de los sistemas de vigilancia aérea en la frontera ante la repetición de incidentes con misiles."
-  },
-  {
-   "id": "7f4ca53c03de",
-   "titulo": "Miles de jóvenes se manifiestan en toda Europa por la crisis de vivienda y el coste de vida",
-   "resumen": "Organizaciones estudiantiles movilizaron a miles de personas en capitales como Londres, Roma, París y Madrid para exigir medidas urgentes frente a la precariedad habitacional y el aumento del gasto militar.",
-   "porQue": "Refleja el malestar socioeconómico estructural de una generación acorralada por la especulación y la inflación.",
-   "pilar": "global",
-   "etiquetas": [
-    "protestas",
-    "vivienda",
-    "juventud",
-    "europa"
-   ],
-   "importancia": 7,
-   "fuente": "France 24 ES",
-   "fuentes": [
-    "France 24 ES"
-   ],
-   "url": "https://www.france24.com/es/video/20261121-europa-miles-de-j%C3%B3venes-se-movilizan-por-vivienda-educaci%C3%B3n-costo-de-vida-y-el-gasto-militar",
-   "fecha": "2026-11-21T02:07:11.000Z",
-   "ultimaHora": false,
-   "reaccion": "Las movilizaciones se extienden con consignas musicales y parones estudiantiles en varios países europeos, presionando a los gobiernos nacionales."
-  },
-  {
-   "id": "89090d2f3063",
-   "titulo": "La cumbre climática COP31 entra en prórroga ante el bloqueo en los combustibles fósiles",
-   "resumen": "Las negociaciones en Turquía encallan en su recta final por la resistencia de varios bloques a incluir compromisos explícitos sobre el fin del carbón, el petróleo y el gas en el borrador definitivo.",
-   "porQue": "Muestra las profundas divisiones globales sobre la velocidad real de la transición energética.",
-   "pilar": "global",
-   "etiquetas": [
-    "cop31",
-    "clima",
-    "energia",
-    "onu"
-   ],
-   "importancia": 8,
-   "fuente": "Al Jazeera",
-   "fuentes": [
-    "Al Jazeera"
-   ],
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/cop31-deal-stalls-as-nations-struggle-to-agree-on-climate-plan?traffic_source=rss",
-   "fecha": "2026-11-21T01:44:09.000Z",
-   "ultimaHora": false,
-   "reaccion": "La presidencia de la cumbre presiona a los delegados en sesiones maratonianas ante el riesgo de fracaso total en los objetivos de reducción de emisiones."
-  },
-  {
-   "id": "973aadc16719",
-   "titulo": "Declaran culpable al autor del incendio forestal de Los Ángeles que causó decenas de muertes",
-   "resumen": "Un jurado ha condenado a Jonathan Rinderknecht por provocar el devastador incendio de Palisades en California en 2025, un siniestro que se saldó con víctimas mortales y daños catastróficos.",
-   "porQue": "Cierra judicialmente uno de los desastres medioambientales urbanos más graves de los últimos años en Estados Unidos.",
-   "pilar": "geopolitica",
-   "etiquetas": [
-    "incendios",
-    "california",
-    "eeuu",
-    "justicia"
-   ],
-   "importancia": 6,
-   "fuente": "The Guardian World",
-   "fuentes": [
-    "The Guardian World"
-   ],
-   "url": "https://www.theguardian.com/us-news/2026/nov/20/los-angeles-palisades-wildfire-trial-verdict",
-   "fecha": "2026-11-21T01:43:15.000Z",
-   "ultimaHora": false,
-   "reaccion": ""
-  },
-  {
-   "id": "fd65dccda25a",
-   "titulo": "El Congreso Nacional Africano sufre un duro revés en las principales ciudades sudafricanas",
-   "resumen": "El partido histórico de Nelson Mandela se resiste a replicar a nivel municipal la fórmula de coalición nacional con la oposición proempresarial, perdiendo el control de bastiones clave.",
-   "porQue": "Ilumina la fragmentación del poder político en Sudáfrica y el desgaste de las viejas hegemonías partidistas.",
-   "pilar": "global",
-   "etiquetas": [
-    "sudafrica",
-    "politica",
-    "elecciones",
-    "gobierno"
-   ],
-   "importancia": 6,
-   "fuente": "BBC World",
-   "fuentes": [
-    "BBC World"
-   ],
-   "url": "https://www.bbc.co.uk/news/articles/cqpv94d10rwpo?at_medium=RSS&at_campaign=rss",
-   "fecha": "2026-11-21T00:34:51.000Z",
-   "ultimaHora": false,
-   "reaccion": ""
-  },
-  {
-   "id": "b7fdc1f987cb",
-   "titulo": "Nueva York anuncia el plan definitivo para cerrar la cárcel de Rikers Island en 2032",
-   "resumen": "El Ayuntamiento ha ratificado el calendario para clausurar definitivamente el infame complejo penitenciario ante los recurrentes retrasos en la reubicación de los reclusos y las denuncias de abusos.",
-   "porQue": "Pone fin a décadas de crisis humanitaria e institucional en uno de los centros de detención más violentos de EE UU.",
-   "pilar": "global",
-   "etiquetas": [
-    "nueva york",
-    "prisiones",
-    "derechos humanos",
-    "eeuu"
-   ],
-   "importancia": 6,
-   "fuente": "BBC World",
-   "fuentes": [
-    "BBC World"
-   ],
-   "url": "https://www.bbc.co.uk/news/articles/cmjeqv89egylo?at_medium=RSS&at_campaign=rss",
-   "fecha": "2026-11-21T00:01:39.000Z",
-   "ultimaHora": false,
-   "reaccion": ""
-  },
-  {
-   "id": "8958d346f49c",
-   "titulo": "Escalada en Oriente Medio: interceptan misiles hutíes y derriban un dron estadounidense",
-   "resumen": "Una coalición liderada por Arabia Saudí derribó varios proyectiles balísticos en el golfo Pérsico, mientras los Guardianes de la Revolución iraníes reivindicaron la destrucción de un dron militar en el estrecho de Ormuz.",
-   "porQue": "Incrementa drásticamente el riesgo de un conflicto regional abierto que paralice las rutas energéticas globales.",
-   "pilar": "geopolitica",
-   "etiquetas": [
-    "oriente medio",
-    "iran",
-    "yemen",
-    "eeuu"
-   ],
-   "importancia": 8,
-   "fuente": "Al Jazeera",
-   "fuentes": [
-    "Al Jazeera"
-   ],
-   "url": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-saudi-led-coalition-repels-houthi-missiles?traffic_source=rss",
-   "fecha": "2026-11-21T00:00:06.000Z",
-   "ultimaHora": false,
-   "reaccion": ""
-  },
-  {
-   "id": "96a7f9767d2d",
-   "titulo": "Un juez aprueba el acuerdo de 7.250 millones de Bayer para cerrar las demandas del Roundup",
-   "resumen": "Un tribunal de Misouri ha ratificado la millonaria indemnización propuesta por la multinacional alemana para liquidar más de 65.000 reclamaciones que vinculan su herbicida con el cáncer.",
-   "porQue": "Pone coto a una de las pesadillas legales y financieras más prolongadas de la industria química germana.",
-   "pilar": "economia",
-   "etiquetas": [
-    "bayer",
-    "salud",
-    "economia",
-    "multas"
-   ],
-   "importancia": 7,
-   "fuente": "The Guardian World",
-   "fuentes": [
-    "The Guardian World"
-   ],
-   "url": "https://www.theguardian.com/business/2026/nov/20/bayer-roundup-cancer-litigation",
-   "fecha": "2026-11-20T23:42:43.000Z",
-   "ultimaHora": false,
-   "reaccion": ""
-  },
-  {
-   "id": "7588dd73494b",
-   "titulo": "Alabama Power anuncia una bajada de tarifas de 160 millones tras las protestas por costes",
-   "resumen": "La eléctrica estadounidense aplicará un recorte generalizado en las facturas de sus 1,5 millones de clientes para el próximo año tras la fuerte presión ciudadana por la carestía energética.",
-   "porQue": "Demuestra el impacto de la presión social organizada frente a los abusos de las grandes corporaciones eléctricas.",
-   "pilar": "global",
-   "etiquetas": [
-    "energia",
-    "eeuu",
-    "tarifas",
-    "protestas"
-   ],
-   "importancia": 6,
-   "fuente": "Inside Climate News",
-   "fuentes": [
-    "Inside Climate News"
-   ],
-   "url": "https://insideclimatenews.org/news/20112026/alabama-power-rate-decrease/",
-   "fecha": "2026-11-20T23:32:21.000Z",
-   "ultimaHora": false,
-   "reaccion": ""
-  },
-  {
-   "id": "16c2a3dbb52b",
-   "titulo": "El Pentágono desclasifica un nuevo lote de vídeos sobre avistamientos de ovnis",
-   "resumen": "El Departamento de Defensa estadounidense ha publicado registros adicionales que incluyen tres secuencias grabadas por cazas militares entre 2020 y este mismo año en Oriente Medio.",
-   "porQue": "Alimenta la fascinación institucional y pública por los fenómenos anómalos no identificados en el espacio aéreo militar.",
-   "pilar": "global",
-   "etiquetas": [
-    "ovnis",
-    "pentagono",
-    "eeuu",
-    "defensa"
-   ],
-   "importancia": 5,
-   "fuente": "BBC World",
-   "fuentes": [
-    "BBC World"
-   ],
-   "url": "https://www.bbc.co.uk/news/videos/cqdr1x8mypnko?at_medium=RSS&at_campaign=rss",
-   "fecha": "2026-11-20T23:15:20.000Z",
-   "ultimaHora": false,
-   "reaccion": ""
-  },
-  {
-   "id": "97715f31a473",
-   "titulo": "Matemáticos de Anthropic anuncian el uso de IA para resolver la hipótesis de Riemann",
-   "resumen": "Investigadores de la compañía tecnológica aseguran haber empleado redes neuronales avanzadas para ofrecer una prueba matemática al famoso problema milenario, pendiente de verificación rigurosa.",
-   "porQue": "Si se confirma, supondría el hito científico más importante de la inteligencia artificial aplicada a las matemáticas puras.",
-   "pilar": "tecnologia",
-   "etiquetas": [
-    "ia",
-    "matematicas",
-    "ciencia",
-    "anthropic"
-   ],
-   "importancia": 8,
-   "fuente": "BBC World",
-   "fuentes": [
-    "BBC World"
-   ],
-   "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
-   "fecha": "2026-11-20T23:08:57.000Z",
-   "ultimaHora": false,
-   "reaccion": ""
-  },
-  {
-   "id": "9efc52d1f8b3",
-   "titulo": "YouTube negocia pagar 3.000 millones para cerrar demandas por adicción infantil",
-   "resumen": "La plataforma de vídeo prepara un acuerdo millonario con miles de distritos escolares en Estados Unidos para indemnizar el impacto negativo de su diseño adictivo en la salud mental de los menores.",
-   "porQue": "Abre la veda legal para exigir responsabilidades financieras a los gigantes tecnológicos por el diseño depredador de sus algoritmos.",
-   "pilar": "tecnologia",
-   "etiquetas": [
-    "youtube",
-    "salud mental",
-    "ia",
-    "tecnologia"
-   ],
-   "importancia": 8,
-   "fuente": "The Verge",
-   "fuentes": [
-    "The Verge"
-   ],
-   "url": "https://www.theverge.com/streaming/1039096/youtube-social-media-addiction-school-districts-settlement",
-   "fecha": "2026-11-20T22:51:40.000Z",
-   "ultimaHora": false,
-   "reaccion": "Las negociaciones avanzan hacia la ratificación del acuerdo en tribunales estatales, estableciendo un precedente histórico para el resto de redes sociales."
-  },
-  {
-   "id": "32b9aece313c",
-   "titulo": "Zelenski tacha a Putin de \"asesino\" tras las declaraciones de Trump",
-   "resumen": "El presidente de Ucrania ha respondido con dureza después de que Donald Trump se refiriera al líder ruso como un \"amigo\". Zelenski ha recalcado que solo Estados Unidos posee la influencia necesaria para presionar a Moscú y que este tipo de discursos entorpecen la resolución del conflicto.",
-   "porQue": "Evidencia las crecientes tensiones diplomáticas entre Kiev y la nueva postura de Washington respecto al Kremlin.",
-   "pilar": "geopolitica",
-   "etiquetas": [
-    "ucrania",
-    "rusia",
-    "eeuu",
-    "guerra"
-   ],
-   "importancia": 8,
-   "fuente": "El País",
-   "fuentes": [
-    "El País",
-    "El País Internacional"
-   ],
-   "url": "https://elpais.com/internacional/2026-11-21/zelenski-despues-de-que-trump-se-refiriera-a-putin-como-un-amigo-para-nosotros-es-un-asesino.html",
-   "fecha": "2026-11-21T10:44:14.000Z",
-   "ultimaHora": false,
-   "reaccion": ""
-  },
-  {
-   "id": "42ee2d3f28d7",
-   "titulo": "El Gobierno prorrogará el impuesto a la banca un año más para financiar políticas de vivienda",
-   "resumen": "El presidente del Gobierno, Pedro Sánchez, ha anunciado la extensión del gravamen extraordinario a la banca durante el año 2027. La medida prevé una recaudación estimada en 1.400 millones de euros que se destinarán íntegramente a políticas de acceso a la vivienda.",
-   "porQue": "Afecta de manera directa al sector financiero y moviliza recursos públicos clave para paliar la crisis de la vivienda en España.",
-   "pilar": "economia",
-   "etiquetas": [
-    "banca",
-    "vivienda",
-    "impuestos",
-    "economia"
-   ],
-   "importancia": 7,
-   "fuente": "El País",
-   "fuentes": [
-    "El País",
-    "La Vanguardia",
-    "Cinco Días"
-   ],
-   "url": "https://elpais.com/economia/2026-11-21/el-gobierno-prorrogara-el-impuesto-a-la-banca-un-ano-mas-para-financiar-politicas-de-vivienda.html",
-   "fecha": "2026-11-21T10:32:32.000Z",
-   "ultimaHora": false,
-   "reaccion": ""
-  },
-  {
-   "id": "55c3376cce85",
-   "titulo": "Dinamarca acusa a Rusia de planear el asesinato de un rapero y expulsa a su agregado",
-   "resumen": "El gobierno danés ha expulsado al agregado de defensa ruso tras destapar un presunto plan de los servicios secretos de Moscú para atentar contra un rapero con doble nacionalidad estadounidense y ucraniana. La embajada rusa ha negado rotundamente los hechos.",
-   "porQue": "Revela operaciones encubiertas de sabotaje y eliminación en suelo europeo que agravan drásticamente la seguridad en el continente.",
-   "pilar": "ultima",
-   "etiquetas": [
-    "rusia",
-    "dinamarca",
-    "espionaje",
-    "seguridad"
-   ],
-   "importancia": 8,
-   "fuente": "BBC World",
-   "fuentes": [
-    "BBC World"
-   ],
-   "url": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
-   "fecha": "2026-11-21T10:26:36.000Z",
-   "ultimaHora": false,
-   "reaccion": ""
-  },
-  {
-   "id": "9bb6bdde15ea",
-   "titulo": "António Costa plantea un recorte del 10% en el presupuesto europeo 2028-2034",
-   "resumen": "El presidente del Consejo Europeo ha presentado una propuesta para las cuentas comunitarias que reduce el gasto en unos 180.000 millones de euros, cediendo ante las presiones de los países más austeros de la Unión.",
-   "porQue": "Condicionará la financiación de las políticas agrarias, de cohesión y de inversión de la Unión Europea para la próxima década.",
-   "pilar": "ultima",
-   "etiquetas": [
-    "ue",
-    "economia",
-    "presupuesto",
-    "bruselas"
-   ],
-   "importancia": 8,
-   "fuente": "Europa Press Economía",
-   "fuentes": [
     "Europa Press Economía"
    ],
-   "url": "https://www.europapress.es/economia/finanzas-00340/noticia-costa-plantea-recorte-10-proximo-presupuesto-europeo-20261121112253.html",
-   "fecha": "2026-11-21T10:22:53.000Z",
+   "url": "https://www.europapress.es/economia/construccion-y-vivienda-00342/noticia-programas-electorales-proponen-partidos-materia-vivienda-20261122101849.html",
+   "fecha": "2026-11-22T09:18:49.000Z",
    "ultimaHora": false,
    "reaccion": ""
   },
   {
-   "id": "80ae0e55a440",
-   "titulo": "Dos buques alcanzados por proyectiles en el estrecho de Ormuz",
-   "resumen": "La Marina británica ha informado del impacto de proyectiles contra dos embarcaciones cerca de la costa de Omán, en una zona clave para el tránsito energético mundial. Las autoridades investigan el origen del ataque sin que se hayan registrado heridos.",
-   "porQue": "Amenaza de nuevo la estabilidad de las rutas comerciales de petróleo y aviva la tensión geopolítica en Oriente Medio.",
+   "id": "975106a0772b",
+   "titulo": "Desarticulada una red que usurpó cerca de 400 identidades para comprar dispositivos electrónicos",
+   "resumen": "La Policía Nacional ha detenido a seis personas en Salamanca e investigado a otras ocho en una operación contra una trama que utilizó identidades falsas para formalizar cientos de contratos fraudulentos de telefonía y tecnología de alta gama.",
+   "porQue": "Ilustra la sofisticación y el impacto económico de las estafas de suplantación de identidad digital en el territorio español.",
    "pilar": "ultima",
    "etiquetas": [
-    "oriente medio",
-    "petroleo",
-    "seguridad",
-    "geopolitica"
+    "ciberdelito",
+    "estafa",
+    "policia",
+    "tecnologia"
    ],
-   "importancia": 8,
+   "importancia": 6,
    "fuente": "20minutos",
    "fuentes": [
     "20minutos"
    ],
-   "url": "https://www.20minutos.es/internacional/dos-buques-son-alcanzados-por-proyectiles-estrecho-ormuz-segun-marina-britanica_7063992_0.html",
-   "fecha": "2026-11-21T09:58:30.000Z",
-   "ultimaHora": false,
+   "url": "https://www.20minutos.es/castilla-y-leon/salamanca/cae-una-red-que-usurpo-casi-400-identidades-para-adquirir-dispositivos-electronicos_7064181_0.html",
+   "fecha": "2026-11-22T09:17:54.000Z",
+   "ultimaHora": true,
    "reaccion": ""
   },
   {
-   "id": "ecde4eeb5574",
-   "titulo": "Costa propone un recorte del 10% en el presupuesto europeo",
-   "resumen": "El presidente del Consejo Europeo, António Costa, ha presentado una nueva propuesta para las cuentas comunitarias de 2028-2034 que reduce el gasto en un 10,2%, situándolo en 1,58 billones de euros. Esta rebaja de unos 180.000 millones busca contentar a los países frugales de la UE.",
-   "porQue": "Redefine la capacidad de inversión y las prioridades financieras de la Unión Europea para la próxima década.",
-   "pilar": "economia",
+   "id": "d440411718ee",
+   "titulo": "Analistas advierten que la salida de EE.UU. de Oriente Medio requerirá levantar el bloqueo naval a Irán",
+   "resumen": "Eksperten bewerteten, dass die schrittweise Beendigung der US-Militärpräsenz in der Region zwingend voraussetzt, dass Washington den Seeblockade-Druck auf Teheran lockert, um eine Deeskalation zu ermöglichen.",
+   "porQue": "Apunta a las complejas contrapartidas diplomáticas y militares necesarias para pacificar las rutas energéticas en el golfo Pérsico.",
+   "pilar": "geopolitica",
    "etiquetas": [
-    "ue",
-    "economia",
-    "presupuesto",
-    "bruselas"
+    "iran",
+    "eeuu",
+    "oriente medio",
+    "geopolitica"
    ],
    "importancia": 7,
-   "fuente": "elDiario.es",
-   "fuentes": [
-    "elDiario.es"
-   ],
-   "url": "https://www.eldiario.es/economia/costa-rinde-austeros-presenta-proyecto-presupuesto-europeo-recorte-10-2_1_13682378.html",
-   "fecha": "2026-11-21T10:13:09.000Z",
-   "ultimaHora": false,
-   "reaccion": ""
-  },
-  {
-   "id": "040c95d5f039",
-   "titulo": "La COP31 entra en punto muerto tras expirar el plazo sin acuerdo sobre fósiles",
-   "resumen": "Las negociaciones climáticas de la COP31 de la ONU han quedado bloqueadas al vencer el plazo oficial sin un texto de consenso entre casi 200 países. El choque central radica en la exigencia de la Unión Europea y otros 130 países de incluir el abandono de los combustibles fósiles, rechazada por las potencias productoras.",
-   "porQue": "Define el grado de ambición de la política climática internacional y el marco multilateral para la transición energética global.",
-   "pilar": "global",
-   "etiquetas": [
-    "cop31",
-    "clima",
-    "combustibles fósiles",
-    "onu"
-   ],
-   "importancia": 8,
-   "fuente": "BBC Ciencia y Medio Ambiente",
-   "fuentes": [
-    "BBC Ciencia y Medio Ambiente",
-    "BBC World"
-   ],
-   "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
-   "fecha": "2026-11-21T19:33:49.000Z",
-   "ultimaHora": false,
-   "reaccion": ""
-  },
-  {
-   "id": "acfb35e15f56",
-   "titulo": "Chema Alonso ficha por Meta como vicepresidente global de Gestión de Producto",
-   "resumen": "El conocido directivo y ex hacker español abandona Cloudflare tras año y medio para incorporarse a la compañía de Mark Zuckerberg. Asumirá un rol estratégico de alta responsabilidad en la gestión global de productos.",
-   "porQue": "Representa uno de los movimientos directivos del sector tecnológico español con mayor proyección internacional en el ecosistema de Silicon Valley.",
-   "pilar": "tecnologia",
-   "etiquetas": [
-    "meta",
-    "tecnologia",
-    "ia",
-    "fichajes"
-   ],
-   "importancia": 6,
-   "fuente": "El País",
-   "fuentes": [
-    "El País",
-    "Cinco Días",
-    "El País Economía"
-   ],
-   "url": "https://cincodias.elpais.com/companias/2026-11-21/chema-alonso-el-ex-hacker-de-telefonica-ficha-por-meta-facebook-y-abandona-cloudflare.html",
-   "fecha": "2026-11-21T11:28:22.000Z",
-   "ultimaHora": false,
-   "reaccion": ""
-  },
-  {
-   "id": "52f4029d95ae",
-   "titulo": "Drones ucranianos atacan un carguero ruso en el golfo de Finlandia",
-   "resumen": "Ucrania ha intensificado sus operaciones con drones de largo alcance, logrando golpear un carguero ruso en el golfo de Finlandia. Por su parte, Moscú afirma haber interceptado cientos de aeronaves no tripuladas en varias regiones del país.",
-   "porQue": "Muestra la expansión geográfica de los ataques de Kiev sobre infraestructuras y objetivos rusos fuera de las zonas tradicionales de combate.",
-   "pilar": "geopolitica",
-   "etiquetas": [
-    "ucrania",
-    "rusia",
-    "guerra",
-    "drones"
-   ],
-   "importancia": 8,
-   "fuente": "La Vanguardia",
-   "fuentes": [
-    "La Vanguardia"
-   ],
-   "url": "https://www.lavanguardia.com/internacional/20261121/11689834/drones-ucranianos-atacan-carguero-ruso-golfo-finlandia.html",
-   "fecha": "2026-11-21T11:21:23.000Z",
-   "ultimaHora": false,
-   "reaccion": ""
-  },
-  {
-   "id": "286cc01f5f7e",
-   "titulo": "Ataque masivo ruso con más de 500 misiles y drones deja al menos siete muertos en Kiev",
-   "resumen": "Rusia ha lanzado una de sus mayores ofensivas aéreas sobre Ucrania, disparando más de 400 drones y 110 misiles en una sola noche. El bombardeo ha causado al menos siete muertos en Kiev e impactado infraestructuras estratégicas en varios puntos del país.",
-   "porQue": "Eleva al máximo la presión sobre la defensa antiaérea ucraniana y compromete de nuevo la red energética civil a las puertas del invierno.",
-   "pilar": "geopolitica",
-   "etiquetas": [
-    "ucrania",
-    "rusia",
-    "guerra",
-    "kiev"
-   ],
-   "importancia": 8,
    "fuente": "Al Jazeera",
    "fuentes": [
     "Al Jazeera"
    ],
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/aje-onl-nf_deadly-attack-in-kyiv-as-russia-launches-barrage-211126?traffic_source=rss",
-   "fecha": "2026-11-21T18:42:38.000Z",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/trumps-exit-strategy-may-depend-on-quietly-lifting-iran?traffic_source=rss",
+   "fecha": "2026-11-22T09:06:27.000Z",
    "ultimaHora": false,
    "reaccion": ""
   },
   {
-   "id": "d2dc60bf52a9",
-   "titulo": "Un ataque con drones incendia un carguero ruso en aguas del golfo de Finlandia",
-   "resumen": "Un buque mercante ruso ha sufrido un incendio tras ser impactado en aguas internacionales del golfo de Finlandia por un presunto ataque de drones. Tanto autoridades rusas como la inteligencia finlandesa señalan la implicación militar de Ucrania en la operación.",
-   "porQue": "Extiende las operaciones de sabotaje naval de la guerra al mar Báltico, una zona de fricción crítica y fronteriza con la OTAN.",
-   "pilar": "geopolitica",
-   "etiquetas": [
-    "ucrania",
-    "rusia",
-    "báltico",
-    "drones"
-   ],
-   "importancia": 7,
-   "fuente": "France 24 ES",
-   "fuentes": [
-    "France 24 ES"
-   ],
-   "url": "https://www.france24.com/es/europa/20261121-un-ataque-con-drones-atribuido-a-ucrania-incendia-un-carguero-ruso-en-el-golfo-de-finlandia",
-   "fecha": "2026-11-21T19:35:48.000Z",
-   "ultimaHora": false,
-   "reaccion": ""
-  },
-  {
-   "id": "f9e247fc35da",
-   "titulo": "La captura de 'El Chapo Isidro' desata enfrentamientos armados en Sinaloa",
-   "resumen": "Las fuerzas armadas mexicanas han detenido a Fausto Isidro Meza Flores, uno de los jefes del Cártel de Sinaloa y prófugo prioritario en la lista del FBI. El operativo militar y la respuesta armada de los grupos de sicarios han dejado al menos cuatro soldados y siete sospechosos muertos.",
-   "porQue": "Descabeza una de las estructuras operativas clave del narcotráfico hacia Estados Unidos y amenaza con desatar represalias violentas en la región.",
+   "id": "3bf90794701c",
+   "titulo": "El Teatro Real de Madrid reconquista en Viena el galardón a la mejor ópera del mundo",
+   "resumen": "El coliseo madrileño ha sido distinguido por segunda vez en su historia con el International Opera Award a la mejor compañía lírica del mundo, un reconocimiento que en Europa solo ostentan instituciones de la talla de Berlín o Múnich.",
+   "porQue": "Consolida la excelencia internacional de la gestión cultural española en el circuito operístico global.",
    "pilar": "ultima",
    "etiquetas": [
-    "méxico",
-    "sinaloa",
-    "seguridad",
-    "narcotráfico"
+    "teatro real",
+    "cultura",
+    "opera",
+    "madrid"
    ],
-   "importancia": 6,
+   "importancia": 5,
    "fuente": "El País",
    "fuentes": [
     "El País"
    ],
-   "url": "https://elpais.com/mexico/2026-11-21/detenido-el-chapo-isidro-en-un-operativo-que-desata-el-terror-en-sinaloa.html",
-   "fecha": "2026-11-21T19:23:33.000Z",
+   "url": "https://elpais.com/cultura/2026-11-22/el-teatro-real-reconquista-en-viena-el-titulo-de-mejor-teatro-de-opera-del-mundo.html",
+   "fecha": "2026-11-22T09:02:32.000Z",
    "ultimaHora": false,
    "reaccion": ""
   },
   {
-   "id": "50e54375c600",
-   "titulo": "Investigan un segundo ciberataque contra la base de datos criminal del FBI",
-   "resumen": "Autoridades federales de Estados Unidos investigan una intrusión informática en el Centro Nacional de Información sobre el Crimen del FBI y en redes del Departamento de Agricultura. Es el segundo incidente de acceso no autorizado detectado en esta infraestructura policial crítica en los últimos meses.",
-   "porQue": "Compromete el registro central utilizado por agencias policiales para gestionar órdenes de captura, antecedentes y pesquisas en curso.",
-   "pilar": "tecnologia",
+   "id": "99e88a560a07",
+   "titulo": "China acusa a Washington de restringir injustamente a sus operadores telefónicos en EE.UU.",
+   "resumen": "Pekín ha criticado con dureza los planes de la administración estadounidense para limitar el acceso de empresas chinas a números de marcación telefónica en EE.UU., bajo el argumento de combatir redes de llamadas automatizadas fraudulentas.",
+   "porQue": "Abre un nuevo frente de fricción comercial y tecnológica en la prolongada guerra fría económica entre ambas potencias.",
+   "pilar": "geopolitica",
    "etiquetas": [
-    "ciberseguridad",
-    "fbi",
-    "estados unidos",
-    "hackeo"
+    "china",
+    "eeuu",
+    "telecomunicaciones",
+    "geopolitica"
+   ],
+   "importancia": 7,
+   "fuente": "DW Español",
+   "fuentes": [
+    "DW Español"
+   ],
+   "url": "https://www.dw.com/es/china-acusa-restricción-a-sus-compañías-telefónicas-en-ee-uu/a-80012765?maca=spa-rss-sp-all-1122-rdf",
+   "fecha": "2026-11-22T09:01:00.000Z",
+   "ultimaHora": false,
+   "reaccion": ""
+  },
+  {
+   "id": "dd1fd65b7b6d",
+   "titulo": "Muere a los 89 años Paolo Bulgari, artífice del imperio mundial del lujo italiano",
+   "resumen": "El célebre empresario y joyero italiano Paolo Bulgari ha fallecido a los 89 años. Bajo su liderazgo familiar durante los años setenta, la firma transformó la alta joyería artesanal en uno de los estandartes globales de la excelencia transalpina.",
+   "porQue": "Despide a una figura histórica del diseño industrial y el lujo internacional.",
+   "pilar": "ultima",
+   "etiquetas": [
+    "bulgari",
+    "lujo",
+    "italia",
+    "fallecimiento"
    ],
    "importancia": 6,
    "fuente": "20minutos",
    "fuentes": [
     "20minutos"
    ],
-   "url": "https://www.20minutos.es/internacional/hackean-base-datos-informacion-criminal-fbi-segunda-vez-pocos-meses_7064132_0.html",
-   "fecha": "2026-11-21T19:11:33.000Z",
+   "url": "https://www.20minutos.es/gente/muere-paolo-bulgari-joyero-italiano-que-llevo-empresa-su-familia-un-simbolo-lujo_7064179_0.html",
+   "fecha": "2026-11-22T08:55:35.000Z",
    "ultimaHora": false,
    "reaccion": ""
   },
   {
-   "id": "86b768ea0f65",
-   "titulo": "Investigan un ciberataque contra la base de datos criminal del FBI en Estados Unidos",
-   "resumen": "El FBI investiga una brecha de seguridad en el Centro Nacional de Información Criminal (NCIC), utilizado por agencias locales y federales para coordinar datos judiciales. Donald Trump confirmó el incidente públicamente y sugirió que podría revelar información sobre presuntas irregularidades contra su figura.",
-   "porQue": "Compromete información sensible de inteligencia policial y reabre la batalla política sobre la seguridad interna en Washington.",
+   "id": "e8fc0317af52",
+   "titulo": "La patronal de centros de datos en pie de guerra contra el nuevo real decreto del Gobierno",
+   "resumen": "A pocos días de los comicios generales y tras una tramitación urgente con más de 600 alegaciones, el Consejo de Ministros ha aprobado el Real Decreto 1032/2026, una norma calificada por el sector como una prohibición 'de facto' al despliegue de infraestructuras digitales.",
+   "porQue": "Amenaza las inversiones multimillonarias previstas en centros de datos en España, frenando su aspiración de convertirse en hub tecnológico del sur de Europa.",
    "pilar": "tecnologia",
    "etiquetas": [
-    "fbi",
-    "ciberseguridad",
-    "eeuu",
-    "trump"
+    "centros de datos",
+    "regulacion",
+    "gobierno",
+    "economia"
+   ],
+   "importancia": 8,
+   "fuente": "Xataka",
+   "fuentes": [
+    "Xataka"
+   ],
+   "url": "https://www.xataka.com/empresas-y-economia/begona-villacis-prohibicion-facto-patronal-centros-datos-pie-guerra-gobierno",
+   "fecha": "2026-11-22T08:30:00.000Z",
+   "ultimaHora": false,
+   "reaccion": ""
+  },
+  {
+   "id": "e6611035f8ad",
+   "titulo": "El jefe de Ferrari tacha de 'ingobernable' la tensa relación entre Leclerc y Hamilton",
+   "resumen": "Fred Vasseur ha estallado públicamente contra el comportamiento de sus dos pilotos tras un nuevo choque en pista durante el Gran Premio de Las Vegas, advirtiendo de que la rivalidad interna en la escudería italiana se ha vuelto insostenible.",
+   "porQue": "Evidencia los graves problemas de gestión deportiva en uno de los equipos más emblemáticos de la Fórmula 1.",
+   "pilar": "deporte",
+   "etiquetas": [
+    "ferrari",
+    "f1",
+    "hamilton",
+    "leclerc"
+   ],
+   "importancia": 5,
+   "fuente": "Mundo Deportivo",
+   "fuentes": [
+    "Mundo Deportivo"
+   ],
+   "url": "https://www.mundodeportivo.com/motor/f1/20261122/1004254002/fred-vasseur-jefe-ferrari-enfadado-relacion-hamilton-leclerc-ingobernable-inaceptable-tomare-medidas-fichamos-hamilton-no-esperaba-asi-leclerc-le-dijimos-pensara-equipo-no-hizo-caso.html",
+   "fecha": "2026-11-22T08:22:58.000Z",
+   "ultimaHora": false,
+   "reaccion": ""
+  },
+  {
+   "id": "2c6a6ddb3592",
+   "titulo": "Gukesh y Sindarov inauguran en Ginebra el Campeonato del Mundo de ajedrez más joven de la historia",
+   "resumen": "El prodigio indio Gukesh defiende su corona mundial frente al uzbeko Nodirbek Sindarov en un duelo a 14 partidas que arranca este sábado en Ginebra, estableciendo un récord de precocidad en la élite del ajedrez.",
+   "porQue": "Marca el relevo generacional definitivo en la cúspide del ajedrez internacional.",
+   "pilar": "ultima",
+   "etiquetas": [
+    "ajedrez",
+    "gukesh",
+    "genebra",
+    "deportes"
+   ],
+   "importancia": 5,
+   "fuente": "Al Jazeera",
+   "fuentes": [
+    "Al Jazeera"
+   ],
+   "url": "https://www.aljazeera.com/sports/2026/11/22/gukesh-vs-sindarov-the-youngest-world-chess-championship-in-history?traffic_source=rss",
+   "fecha": "2026-11-22T08:11:40.000Z",
+   "ultimaHora": true,
+   "reaccion": ""
+  },
+  {
+   "id": "6325faf8108a",
+   "titulo": "La industria automotriz alemana recorta inversiones locales ante sus profundas dificultades de supervivencia",
+   "resumen": "Los principales fabricantes de vehículos en Alemania están paralizando proyectos nacionales debido a la caída de competitividad y los elevados costes, reavivando el temor sobre el futuro industrial del motor en el corazón de Europa.",
+   "porQue": "Refleja la crisis estructural que afecta al sector manufacturero clave de la economía alemana y de toda la Unión Europea.",
+   "pilar": "geopolitica",
+   "etiquetas": [
+    "alemania",
+    "automovil",
+    "industria",
+    "economia"
    ],
    "importancia": 8,
    "fuente": "DW Español",
    "fuentes": [
     "DW Español"
    ],
-   "url": "https://www.dw.com/es/donald-trump-confirma-un-ciberataque-al-fbi-y-cree-que-podría-destapar-engaños-contra-él/a-80012085?maca=spa-rss-sp-all-1122-rdf",
-   "fecha": "2026-11-22T00:53:00.000Z",
-   "ultimaHora": true,
+   "url": "https://www.dw.com/es/la-industria-automotriz-alemana-busca-reinventarse-para-sobrevivir/a-80006050?maca=spa-rss-sp-all-1122-rdf",
+   "fecha": "2026-11-22T08:08:00.000Z",
+   "ultimaHora": false,
    "reaccion": ""
   },
   {
-   "id": "1453db92e2f8",
-   "titulo": "Irán ataca posiciones militares de Estados Unidos en Baréin en plena escalada regional",
-   "resumen": "Fuerzas iraníes lanzaron ataques contra activos militares estadounidenses en territorio bareiní, acción que fue condenada formalmente por el Gobierno de Baréin. El ataque coincide con una intensificación de las ofensivas con drones y misiles de los rebeldes hutíes en el golfo Pérsico.",
-   "porQue": "Eleva de forma crítica el riesgo de confrontación militar directa y amenaza la estabilidad energética y el tránsito marítimo en el Golfo.",
+   "id": "a0dc0301adf1",
+   "titulo": "Investigación histórica vincula los beneficios de directores del Banco de Inglaterra con la esclavitud en Cuba",
+   "resumen": "Nuevos estudios académicos revelan que la británica Cobre Mining Company generó inmensas riquezas mediante la explotación de mano de obra esclava en Cuba, canalizando capitales fundamentales para la industrialización de Mánchester.",
+   "porQue": "Expone las profundas raíces coloniales y esclavistas integradas en los cimientos del sistema financiero británico moderno.",
    "pilar": "geopolitica",
    "etiquetas": [
-    "irán",
-    "eeuu",
-    "oriente medio",
-    "conflicto"
-   ],
-   "importancia": 8,
-   "fuente": "Al Jazeera",
-   "fuentes": [
-    "Al Jazeera"
-   ],
-   "url": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-iran-targets-us-military-in-bahrain-houthi-strikes-continue?traffic_source=rss",
-   "fecha": "2026-11-21T23:59:03.000Z",
-   "ultimaHora": true,
-   "reaccion": ""
-  },
-  {
-   "id": "01c04a41e20b",
-   "titulo": "Las negociaciones de la COP31 quedan bloqueadas por el abandono de los combustibles fósiles",
-   "resumen": "La cumbre climática celebrada en Antalya (Turquía) entró en una fase de estancamiento técnico y político durante la madrugada. Un bloque de países productores rechaza fijar compromisos vinculantes y calendarios para el cese definitivo del carbón, petróleo y gas.",
-   "porQue": "Pone en riesgo los objetivos del Acuerdo de París y debilita la capacidad de coordinar medidas obligatorias de mitigación climática a escala planetaria.",
-   "pilar": "global",
-   "etiquetas": [
-    "clima",
-    "cop31",
-    "petróleo",
-    "transición energética"
+    "historia",
+    "reino unido",
+    "cuba",
+    "esclavitud"
    ],
    "importancia": 7,
-   "fuente": "France 24 ES",
+   "fuente": "The Guardian World",
    "fuentes": [
-    "France 24 ES"
+    "The Guardian World"
    ],
-   "url": "https://www.france24.com/es/video/20261121-informe-desde-estambul-negociaciones-en-la-cop31-estancadas-por-los-combustibles-f%C3%B3siles",
-   "fecha": "2026-11-21T23:30:39.000Z",
-   "ultimaHora": true,
-   "reaccion": ""
-  },
-  {
-   "id": "e73f542e923a",
-   "titulo": "Detenido en México tras un tiroteo el \"Chapo Isidro\", uno de los más buscados por el FBI",
-   "resumen": "Fausto Isidro Meza Flores, líder del cártel de los Meza Flores acusado de tráfico internacional de drogas y tortura, fue arrestado por fuerzas mexicanas tras un enfrentamiento armado. Figuraba entre los diez fugitivos prioritarios del FBI, que ofrecía cinco millones de dólares por su captura.",
-   "porQue": "Supone un golpe clave al narcotráfico transfronterizo, aunque anticipa disputas violentas por el control de sus rutas en el norte de México.",
-   "pilar": "geopolitica",
-   "etiquetas": [
-    "méxico",
-    "narcotráfico",
-    "fbi",
-    "seguridad"
-   ],
-   "importancia": 6,
-   "fuente": "BBC Mundo",
-   "fuentes": [
-    "BBC Mundo",
-    "France 24 ES"
-   ],
-   "url": "https://www.bbc.com/mundo/articles/c9p83kyykr73o?at_medium=RSS&at_campaign=rss",
-   "fecha": "2026-11-22T00:09:43.000Z",
-   "ultimaHora": true,
-   "reaccion": ""
-  },
-  {
-   "id": "2d1a10cb4206",
-   "titulo": "Cargas policiales y disturbios en Francia en el sexto sábado de protestas sociales",
-   "resumen": "Miles de personas se manifestaron en París y otras ciudades francesas en reclamo de subidas salariales, refuerzo de los servicios públicos y ayudas a estudiantes. La jornada derivó en choques violentos nocturnos con la policía y dispersión mediante gas lacrimógeno.",
-   "porQue": "Mantiene bajo máxima presión al Gobierno francés ante un descontento social cronificado que amenaza con paralizar reformas económicas clave.",
-   "pilar": "geopolitica",
-   "etiquetas": [
-    "francia",
-    "protestas",
-    "parís",
-    "sindicatos"
-   ],
-   "importancia": 6,
-   "fuente": "France 24 ES",
-   "fuentes": [
-    "France 24 ES"
-   ],
-   "url": "https://www.france24.com/es/video/20261122-sexto-s%C3%A1bado-de-movilizaciones-en-francia-j%C3%B3venes-tambi%C3%A9n-protestan-en-otros-pa%C3%ADses-de-europa",
-   "fecha": "2026-11-22T00:06:46.000Z",
-   "ultimaHora": true,
+   "url": "https://www.theguardian.com/news/2026/nov/22/bank-of-england-directors-illegally-profited-enslavement-cuba",
+   "fecha": "2026-11-22T08:00:22.000Z",
+   "ultimaHora": false,
    "reaccion": ""
   }
  ]

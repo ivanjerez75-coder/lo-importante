@@ -1,6 +1,6 @@
 {
  "generado": "2026-11-23T07:44:57.972Z",
- "actualizado": "2026-11-23T12:27:58.441Z",
+ "actualizado": "2026-11-23T13:44:53.486Z",
  "modo": "ia",
  "top3": [
   "ca50e2792063",
@@ -144,7 +144,7 @@
    ],
    "url": "https://www.20minutos.es/cataluna/una-averia-catenaria-interrumpe-circulacion-r4-rodalies-entre-cerdanyola-barcelona_7064388_0.html",
    "fecha": "2026-11-23T07:28:36.000Z",
-   "ultimaHora": true,
+   "ultimaHora": false,
    "reaccion": ""
   },
   {
@@ -685,26 +685,28 @@
   },
   {
    "id": "4df294590026",
-   "titulo": "El Supremo aplica la amnistía a Puigdemont y cierra la causa del ‘procés’",
-   "resumen": "El alto tribunal ha declarado extinguida la responsabilidad penal del expresidente catalán Carles Puigdemont y de los exconsejeros Toni Comín y Lluís Puig, poniendo fin judicial a la causa principal del 'procés'.",
-   "porQue": "Representa un punto y final histórico para la judicialización del proceso soberanista catalán tras años de recorrido en los tribunales.",
+   "titulo": "El Supremo concede amnistía a Puigdemont y archiva la causa del ‘procés’",
+   "resumen": "El Tribunal Supremo declara extinguida la responsabilidad penal de Carles Puigdemont y de los exconsejeros Puig y Comín, aplicando una amnistía que cierra la causa del proceso independentista catalán.",
+   "porQue": "Cierra una larga disputa política que ha polarizado a España y afecta la estabilidad institucional.",
    "pilar": "ultima",
    "etiquetas": [
-    "amnistía",
-    "puigdemont",
-    "supremo",
-    "cataluña"
+    "cataluña",
+    "justicia",
+    "política"
    ],
-   "importancia": 8,
+   "importancia": 7,
    "fuente": "El País",
    "fuentes": [
     "El País",
     "Europa Press",
+    "La Vanguardia",
+    "El País España",
     "elDiario.es",
+    "20minutos",
     "Cinco Días"
    ],
    "url": "https://elpais.com/espana/elecciones-generales/2026-11-23/el-supremo-aplica-la-amnistia-a-puigdemont-y-cierra-la-causa-del-proces.html",
-   "fecha": "2026-11-23T12:18:01.000Z",
+   "fecha": "2026-11-23T12:19:34.000Z",
    "ultimaHora": true,
    "reaccion": ""
   },
@@ -775,6 +777,50 @@
    ],
    "url": "https://elpais.com/espana/elecciones-generales/2026-11-23/el-psoe-aventaja-en-casi-10-puntos-al-pp-segun-el-ultimo-cis-antes-del-29-n.html",
    "fecha": "2026-11-23T11:41:44.000Z",
+   "ultimaHora": true,
+   "reaccion": ""
+  },
+  {
+   "id": "1723dc73f81d",
+   "titulo": "Zelenski confirma ataques ucranianos contra buques rusos en Libia",
+   "resumen": "El presidente ucraniano Volodímir Zelenski anunció que drones ucranianos derribaron dos buques rusos frente al puerto de Bengasi, Libia, incluida la corbeta Merkury. El ataque se produce en medio de la escalada del conflicto en el Mediterráneo.",
+   "porQue": "Marca una nueva extensión del conflicto ucraniano a aguas internacionales, aumentando tensiones con Rusia.",
+   "pilar": "ultima",
+   "etiquetas": [
+    "ucrania",
+    "rusia",
+    "libia",
+    "conflicto"
+   ],
+   "importancia": 8,
+   "fuente": "France 24 ES",
+   "fuentes": [
+    "France 24 ES"
+   ],
+   "url": "https://www.france24.com/es/europa/20261123-en-directo-zelenski-confirma-que-el-ej%C3%A9rcito-ucraniano-atac%C3%B3-buques-rusos-en-aguas-de-libia",
+   "fecha": "2026-11-23T13:13:16.000Z",
+   "ultimaHora": true,
+   "reaccion": ""
+  },
+  {
+   "id": "8b023dde04e6",
+   "titulo": "Bruselas investiga a Coca‑Cola Europacific Partners por presunta conducta anticompetitiva",
+   "resumen": "La Comisión Europea abre un expediente contra la principal embotelladora de Coca‑Cola en Europa, acusándola de obstaculizar el comercio transfronterizo y de prácticas que podrían limitar la competencia en el sector de bebidas.",
+   "porQue": "Podría implicar sanciones y cambios en el mercado de bebidas, afectando a consumidores y a la industria en España.",
+   "pilar": "ultima",
+   "etiquetas": [
+    "europa",
+    "competencia",
+    "bebidas"
+   ],
+   "importancia": 5,
+   "fuente": "El País",
+   "fuentes": [
+    "El País",
+    "Cinco Días"
+   ],
+   "url": "https://elpais.com/economia/2026-11-23/bruselas-investiga-a-la-embotelladora-de-coca-cola-por-una-posible-conducta-anticompetitiva.html",
+   "fecha": "2026-11-23T11:47:02.000Z",
    "ultimaHora": true,
    "reaccion": ""
   }

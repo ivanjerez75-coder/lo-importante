@@ -1,6 +1,6 @@
 {
  "generado": "2026-11-23T07:44:57.972Z",
- "actualizado": "2026-11-23T07:44:57.972Z",
+ "actualizado": "2026-11-23T12:27:58.441Z",
  "modo": "ia",
  "top3": [
   "ca50e2792063",
@@ -28,7 +28,7 @@
    ],
    "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
    "fecha": "2026-11-23T05:15:06.000Z",
-   "ultimaHora": true,
+   "ultimaHora": false,
    "reaccion": "La cumbre ha terminado colapsando de forma oficial tras el rechazo frontal de los bloques occidentales y los países en desarrollo al texto presentado."
   },
   {
@@ -51,7 +51,7 @@
    ],
    "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261123-otro-golpe-a-trump-los-dem%C3%B3cratas-logran-una-mayor%C3%ADa-hist%C3%B3rica-en-la-c%C3%A1mara-de-representantes",
    "fecha": "2026-11-23T05:43:00.000Z",
-   "ultimaHora": true,
+   "ultimaHora": false,
    "reaccion": ""
   },
   {
@@ -75,7 +75,7 @@
    ],
    "url": "https://elpais.com/economia/2026-11-23/las-aerolineas-anticipan-una-subida-de-precios-y-un-recorte-de-plazas-para-el-proximo-verano.html",
    "fecha": "2026-11-23T04:45:01.000Z",
-   "ultimaHora": true,
+   "ultimaHora": false,
    "reaccion": ""
   },
   {
@@ -681,6 +681,101 @@
    "url": "https://www.eldiario.es/sociedad/el-tiempo/frio-lluvia-prevision-tiempo-aemet-ultima-semana-noviembre-pm_1_13684897.html",
    "fecha": "2026-11-23T06:34:46.000Z",
    "ultimaHora": false,
+   "reaccion": ""
+  },
+  {
+   "id": "4df294590026",
+   "titulo": "El Supremo aplica la amnistía a Puigdemont y cierra la causa del ‘procés’",
+   "resumen": "El alto tribunal ha declarado extinguida la responsabilidad penal del expresidente catalán Carles Puigdemont y de los exconsejeros Toni Comín y Lluís Puig, poniendo fin judicial a la causa principal del 'procés'.",
+   "porQue": "Representa un punto y final histórico para la judicialización del proceso soberanista catalán tras años de recorrido en los tribunales.",
+   "pilar": "ultima",
+   "etiquetas": [
+    "amnistía",
+    "puigdemont",
+    "supremo",
+    "cataluña"
+   ],
+   "importancia": 8,
+   "fuente": "El País",
+   "fuentes": [
+    "El País",
+    "Europa Press",
+    "elDiario.es",
+    "Cinco Días"
+   ],
+   "url": "https://elpais.com/espana/elecciones-generales/2026-11-23/el-supremo-aplica-la-amnistia-a-puigdemont-y-cierra-la-causa-del-proces.html",
+   "fecha": "2026-11-23T12:18:01.000Z",
+   "ultimaHora": true,
+   "reaccion": ""
+  },
+  {
+   "id": "8c840bbb4794",
+   "titulo": "Sánchez propone un impuesto para patrimonios superiores a 100 millones",
+   "resumen": "El presidente del Gobierno ha anunciado una nueva propuesta fiscal dirigida a gravar a los llamados \"ultrarricos\" con fortunas de más de 100 millones de euros, una medida que no figuraba inicialmente en el programa electoral del PSOE.",
+   "porQue": "Modifica el debate fiscal y económico de la campaña electoral a pocos días de las elecciones generales.",
+   "pilar": "economia",
+   "etiquetas": [
+    "impuestos",
+    "economia",
+    "psoe",
+    "elecciones"
+   ],
+   "importancia": 7,
+   "fuente": "El País España",
+   "fuentes": [
+    "El País España",
+    "Cinco Días",
+    "El País Economía"
+   ],
+   "url": "https://elpais.com/economia/2026-11-23/sanchez-propone-un-impuesto-para-ultrarricos-con-fortunas-superiores-a-100-millones-de-euros.html",
+   "fecha": "2026-11-23T09:51:45.000Z",
+   "ultimaHora": true,
+   "reaccion": ""
+  },
+  {
+   "id": "75b51d7a98b4",
+   "titulo": "Ucrania asume el ataque con drones que hundió un barco ruso en Libia",
+   "resumen": "El presidente ucraniano, Volodímir Zelenski, ha confirmado que Kiev estuvo detrás del ataque con siete drones navales no tripulados que logró hundir un buque de guerra ruso frente a las costas de Libia.",
+   "porQue": "Muestra la capacidad de proyección militar y el alcance internacional de las operaciones encubiertas de Ucrania más allá de su territorio.",
+   "pilar": "geopolitica",
+   "etiquetas": [
+    "ucrania",
+    "rusia",
+    "guerra",
+    "libia"
+   ],
+   "importancia": 8,
+   "fuente": "El País",
+   "fuentes": [
+    "El País",
+    "El País Internacional"
+   ],
+   "url": "https://elpais.com/internacional/2026-11-23/ucrania-asume-la-autoria-del-ataque-con-drones-que-hundio-en-libia-un-barco-de-guerra-ruso.html",
+   "fecha": "2026-11-23T09:45:21.000Z",
+   "ultimaHora": true,
+   "reaccion": ""
+  },
+  {
+   "id": "1c3503017802",
+   "titulo": "El PSOE amplía su ventaja sobre el PP hasta los 10 puntos en el CIS",
+   "resumen": "El barómetro del CIS de noviembre otorga al PSOE una estimación de voto del 34,4% frente al 24,7% del PP, a solo una semana de la cita electoral del 29 de noviembre, mientras Vox cae hasta el 15,6%.",
+   "porQue": "Marca las tendencias demoscópicas definitivas antes de la apertura de las urnas en un contexto político muy polarizado.",
+   "pilar": "ultima",
+   "etiquetas": [
+    "cis",
+    "elecciones",
+    "psoe",
+    "pp"
+   ],
+   "importancia": 7,
+   "fuente": "El País",
+   "fuentes": [
+    "El País",
+    "El País España"
+   ],
+   "url": "https://elpais.com/espana/elecciones-generales/2026-11-23/el-psoe-aventaja-en-casi-10-puntos-al-pp-segun-el-ultimo-cis-antes-del-29-n.html",
+   "fecha": "2026-11-23T11:41:44.000Z",
+   "ultimaHora": true,
    "reaccion": ""
   }
  ]

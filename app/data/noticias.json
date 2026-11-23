@@ -1,6 +1,6 @@
 {
  "generado": "2026-11-23T07:44:57.972Z",
- "actualizado": "2026-11-23T13:44:53.486Z",
+ "actualizado": "2026-11-23T20:19:36.504Z",
  "modo": "ia",
  "top3": [
   "ca50e2792063",
@@ -707,7 +707,7 @@
    ],
    "url": "https://elpais.com/espana/elecciones-generales/2026-11-23/el-supremo-aplica-la-amnistia-a-puigdemont-y-cierra-la-causa-del-proces.html",
    "fecha": "2026-11-23T12:19:34.000Z",
-   "ultimaHora": true,
+   "ultimaHora": false,
    "reaccion": ""
   },
   {
@@ -731,7 +731,7 @@
    ],
    "url": "https://elpais.com/economia/2026-11-23/sanchez-propone-un-impuesto-para-ultrarricos-con-fortunas-superiores-a-100-millones-de-euros.html",
    "fecha": "2026-11-23T09:51:45.000Z",
-   "ultimaHora": true,
+   "ultimaHora": false,
    "reaccion": ""
   },
   {
@@ -754,7 +754,7 @@
    ],
    "url": "https://elpais.com/internacional/2026-11-23/ucrania-asume-la-autoria-del-ataque-con-drones-que-hundio-en-libia-un-barco-de-guerra-ruso.html",
    "fecha": "2026-11-23T09:45:21.000Z",
-   "ultimaHora": true,
+   "ultimaHora": false,
    "reaccion": ""
   },
   {
@@ -777,7 +777,7 @@
    ],
    "url": "https://elpais.com/espana/elecciones-generales/2026-11-23/el-psoe-aventaja-en-casi-10-puntos-al-pp-segun-el-ultimo-cis-antes-del-29-n.html",
    "fecha": "2026-11-23T11:41:44.000Z",
-   "ultimaHora": true,
+   "ultimaHora": false,
    "reaccion": ""
   },
   {
@@ -799,7 +799,7 @@
    ],
    "url": "https://www.france24.com/es/europa/20261123-en-directo-zelenski-confirma-que-el-ej%C3%A9rcito-ucraniano-atac%C3%B3-buques-rusos-en-aguas-de-libia",
    "fecha": "2026-11-23T13:13:16.000Z",
-   "ultimaHora": true,
+   "ultimaHora": false,
    "reaccion": ""
   },
   {
@@ -821,6 +821,93 @@
    ],
    "url": "https://elpais.com/economia/2026-11-23/bruselas-investiga-a-la-embotelladora-de-coca-cola-por-una-posible-conducta-anticompetitiva.html",
    "fecha": "2026-11-23T11:47:02.000Z",
+   "ultimaHora": false,
+   "reaccion": ""
+  },
+  {
+   "id": "34d720d7557e",
+   "titulo": "Rusia podría lanzar un arma nuclear al espacio el próximo mes",
+   "resumen": "Según informes de Ars Technica, autoridades rusas estudian la posibilidad de detonar una arma nuclear en órbita antes de finales de diciembre. La explosión podría inutilizar miles de satélites y afectar comunicaciones globales.",
+   "porQue": "Un detonación nuclear en el espacio alteraría gravemente la infraestructura satelital mundial, impactando telecomunicaciones, navegación y servicios críticos.",
+   "pilar": "geopolitica",
+   "etiquetas": [
+    "rusia",
+    "nuclear",
+    "satélites",
+    "seguridad"
+   ],
+   "importancia": 9,
+   "fuente": "Ars Technica",
+   "fuentes": [
+    "Ars Technica"
+   ],
+   "url": "https://arstechnica.com/space/2026/11/russia-may-launch-a-nuclear-armed-satellite-far-sooner-than-we-thought/",
+   "fecha": "2026-11-23T19:28:30.000Z",
+   "ultimaHora": true,
+   "reaccion": ""
+  },
+  {
+   "id": "6ac1a63d7efa",
+   "titulo": "Rescatan con vida a un niño y una anciana tras ataque ruso en Dymer",
+   "resumen": "Un edificio de cinco plantas en Dymer, Ucrania, fue golpeado por drones rusos, dejando al menos 11 muertos. Los equipos de rescate lograron salvar a un niño y a una anciana que estaban atrapados bajo los escombros.",
+   "porQue": "Muestra la continuidad del conflicto ruso‑ucraniano y sus graves consecuencias humanitarias.",
+   "pilar": "ultima",
+   "etiquetas": [
+    "ukrania",
+    "conflicto",
+    "humanitario"
+   ],
+   "importancia": 7,
+   "fuente": "20minutos",
+   "fuentes": [
+    "20minutos",
+    "El País Internacional"
+   ],
+   "url": "https://www.20minutos.es/internacional/rescatan-con-vida-un-nino-una-anciana-tras-permanecer-mas-10-horas-bajo-los-escombros-un-edificio-atacado-por-rusia_7064788_0.html",
+   "fecha": "2026-11-23T18:03:12.000Z",
+   "ultimaHora": true,
+   "reaccion": ""
+  },
+  {
+   "id": "0f08256c4cc6",
+   "titulo": "Debate electoral 29‑N a ocho en directo: bloques de vivienda, economía y clima",
+   "resumen": "Comienza el debate televisivo de los principales partidos españoles, estructurado en tres bloques temáticos: vivienda, economía y clima sociopolítico, en vísperas de las elecciones generales del 29 de noviembre.",
+   "porQue": "Define la agenda y posicionamientos de los partidos antes de una elección que determinará la política nacional y regional.",
+   "pilar": "ultima",
+   "etiquetas": [
+    "elecciones",
+    "españa",
+    "política"
+   ],
+   "importancia": 6,
+   "fuente": "El País",
+   "fuentes": [
+    "El País"
+   ],
+   "url": "https://elpais.com/espana/elecciones-generales/2026-11-23/debate-electoral-a-ocho-entre-los-portavoces-parlamentarios-al-29-n-en-directo.html",
+   "fecha": "2026-11-23T20:06:31.000Z",
+   "ultimaHora": true,
+   "reaccion": ""
+  },
+  {
+   "id": "9020c759ab25",
+   "titulo": "El ICE detiene a un universitario catalán en EE UU, según denuncia su familia",
+   "resumen": "El Servicio de Inmigración y Control de Aduanas de EE UU (ICE) detuvo a un estudiante catalán, según informó su familia. El consejero Jaume Duch del Gobierno catalán anunció que solicitará su liberación inmediata.",
+   "porQue": "El caso podría generar tensiones diplomáticas entre EE UU y Cataluña/España y reavivar debates sobre la política migratoria estadounidense.",
+   "pilar": "ultima",
+   "etiquetas": [
+    "inmigración",
+    "cataluña",
+    "eeuu",
+    "derechos"
+   ],
+   "importancia": 6,
+   "fuente": "El País",
+   "fuentes": [
+    "El País"
+   ],
+   "url": "https://elpais.com/espana/catalunya/2026-11-23/el-ice-detiene-a-un-universitario-catalan-en-ee-uu-segun-denuncia-su-familia.html",
+   "fecha": "2026-11-23T19:36:13.000Z",
    "ultimaHora": true,
    "reaccion": ""
   }

@@ -1,6 +1,6 @@
 {
  "generado": "2026-11-24T04:55:54.913Z",
- "actualizado": "2026-11-24T13:38:47.017Z",
+ "actualizado": "2026-11-24T14:22:30.797Z",
  "modo": "ia",
  "top3": [
   "8183f4f2970c",
@@ -659,24 +659,90 @@
   },
   {
    "id": "2d96bd1c64ea",
-   "titulo": "Detenidas dos personas en Barcelona por financiar a Hamás",
-   "resumen": "La Policía Nacional detuvo a dos individuos en Barcelona vinculados a una red que canalizaba fondos a la organización terrorista Hamás en Gaza. Los detenidos fueron puestos a disposición judicial y se iniciará la investigación correspondiente.",
-   "porQue": "Afecta la seguridad nacional y la lucha contra el financiamiento del terrorismo en España.",
+   "titulo": "Detenidas dos personas en Barcelona por financiar a Hamas",
+   "resumen": "La Policía Nacional arrestó a dos individuos vinculados a una red que transfería fondos a la organización terrorista Hamas en la Franja de Gaza, ingresándolos en prisión preventiva.",
+   "porQue": "Muestra la extensión de la financiación del terrorismo a territorio español y la respuesta de las fuerzas de seguridad.",
    "pilar": "ultima",
    "etiquetas": [
+    "barcelona",
     "terrorismo",
-    "espana",
-    "seguridad",
-    "gaza"
+    "hamas",
+    "seguridad"
    ],
-   "importancia": 6,
+   "importancia": 5,
    "fuente": "El País",
    "fuentes": [
     "El País",
+    "La Vanguardia",
     "El País España"
    ],
    "url": "https://elpais.com/espana/2026-11-24/detenidas-dos-personas-en-barcelona-vinculadas-a-la-red-de-financiacion-de-hamas.html",
-   "fecha": "2026-11-24T11:36:49.000Z",
+   "fecha": "2026-11-24T11:42:47.000Z",
+   "ultimaHora": true,
+   "reaccion": ""
+  },
+  {
+   "id": "828037c2e0af",
+   "titulo": "Ataque aéreo israelí elimina al jefe de seguridad interna de Hamas en Gaza",
+   "resumen": "Un bombardeo israelí en la zona occidental de la ciudad de Gaza mató a Naeem Abu Nahel, quien llevaba dos meses al frente del área de seguridad interna de Hamas, según informó el Ministerio del Interior de Gaza.",
+   "porQue": "Afecta la dinámica del conflicto palestino‑israelí y la estabilidad en la región.",
+   "pilar": "ultima",
+   "etiquetas": [
+    "gaza",
+    "israel",
+    "hamas",
+    "conflicto"
+   ],
+   "importancia": 7,
+   "fuente": "BBC World",
+   "fuentes": [
+    "BBC World",
+    "Al Jazeera"
+   ],
+   "url": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
+   "fecha": "2026-11-24T13:55:11.000Z",
+   "ultimaHora": true,
+   "reaccion": ""
+  },
+  {
+   "id": "493ea5ae456d",
+   "titulo": "Ciberataque con IA a Quirónsalud roba correos de pacientes de la sanidad pública",
+   "resumen": "La empresa Quirónsalud ha sufrido un ciberataque impulsado por IA que ha filtrado correos electrónicos de pacientes de la sanidad pública. Aunque asegura que no se han comprometido datos clínicos, advierte sobre riesgos de estafas y posibles colapsos en las defensas de la primera línea policial y el CNI.",
+   "porQue": "Pone en riesgo la privacidad de miles de pacientes y evidencia vulnerabilidades críticas en infraestructuras sanitarias.",
+   "pilar": "ultima",
+   "etiquetas": [
+    "ciberseguridad",
+    "salud",
+    "ia"
+   ],
+   "importancia": 7,
+   "fuente": "elDiario.es",
+   "fuentes": [
+    "elDiario.es"
+   ],
+   "url": "https://www.eldiario.es/tecnologia/ciberataque-ia-quironsalud-roba-correos-pacientes-sanidad-publica_1_13689349.html",
+   "fecha": "2026-11-24T13:43:55.000Z",
+   "ultimaHora": true,
+   "reaccion": ""
+  },
+  {
+   "id": "44d7e04632e9",
+   "titulo": "Gobierno aprueba paquete de medidas económicas y laborales en pleno martes",
+   "resumen": "El Ejecutivo ha aprobado un amplio conjunto de medidas que incluye permisos por fallecimiento y nacimiento, cambios fiscales para autónomos y actuaciones en transporte, agricultura, energía y sector bancario. El paquete busca aliviar la presión sobre los trabajadores y reforzar sectores clave.",
+   "porQue": "Impacta directamente en la economía doméstica y en la competitividad de sectores estratégicos en España.",
+   "pilar": "ultima",
+   "etiquetas": [
+    "economía",
+    "política",
+    "trabajo"
+   ],
+   "importancia": 6,
+   "fuente": "Europa Press",
+   "fuentes": [
+    "Europa Press"
+   ],
+   "url": "https://www.europapress.es/economia/noticia-medidas-aprueba-gobierno-hoy-permisos-fallecimiento-nacimiento-autonomos-transporte-banca-energia-20261124150158.html",
+   "fecha": "2026-11-24T14:01:58.000Z",
    "ultimaHora": true,
    "reaccion": ""
   }

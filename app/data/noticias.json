@@ -1,6 +1,6 @@
 {
  "generado": "2026-11-24T04:55:54.913Z",
- "actualizado": "2026-11-24T04:55:54.913Z",
+ "actualizado": "2026-11-24T13:38:47.017Z",
  "modo": "ia",
  "top3": [
   "8183f4f2970c",
@@ -28,7 +28,7 @@
    ],
    "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
    "fecha": "2026-11-24T04:36:31.000Z",
-   "ultimaHora": true,
+   "ultimaHora": false,
    "reaccion": "La bolsa celebra el regreso de Huang eliminando el principal lastre bursátil, aunque la medida ha provocado fricciones políticas en Washington y la inclusión de la firma asiática Megaspeed en listas negras por sospechas de contrabando de chips."
   },
   {
@@ -98,7 +98,7 @@
    ],
    "url": "https://www.europapress.es/economia/transportes-00343/noticia-gobierno-aprobara-manana-permiso-diez-dias-fallecimiento-familiar-20261123191837.html",
    "fecha": "2026-11-23T18:18:37.000Z",
-   "ultimaHora": true,
+   "ultimaHora": false,
    "reaccion": ""
   },
   {
@@ -167,7 +167,7 @@
    ],
    "url": "https://www.europapress.es/economia/noticia-plus-ultra-suspende-todas-operaciones-pleno-preconcurso-20261123164407.html",
    "fecha": "2026-11-23T15:44:07.000Z",
-   "ultimaHora": true,
+   "ultimaHora": false,
    "reaccion": "La dirección de la aerolínea acelera los contactos con la SEPI para buscar una fórmula de rescate de última hora antes de que se forme un nuevo Ejecutivo."
   },
   {
@@ -233,7 +233,7 @@
    ],
    "url": "https://elpais.com/america-colombia/2026-11-24/un-carro-bomba-explota-frente-a-la-gobernacion-del-meta-en-villavicencio.html",
    "fecha": "2026-11-24T04:17:27.000Z",
-   "ultimaHora": true,
+   "ultimaHora": false,
    "reaccion": ""
   },
   {
@@ -255,7 +255,7 @@
    ],
    "url": "https://www.theguardian.com/world/2026/nov/24/south-korea-tells-island-residents-to-take-shelter-after-russian-military-aircraft-approach",
    "fecha": "2026-11-24T04:14:43.000Z",
-   "ultimaHora": true,
+   "ultimaHora": false,
    "reaccion": ""
   },
   {
@@ -365,7 +365,7 @@
    ],
    "url": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
    "fecha": "2026-11-24T02:15:59.000Z",
-   "ultimaHora": true,
+   "ultimaHora": false,
    "reaccion": ""
   },
   {
@@ -478,7 +478,7 @@
    ],
    "url": "https://elpais.com/economia/2026-11-23/el-gobierno-aprobara-la-limitacion-de-los-intereses-del-credito-al-consumo-en-un-paquete-de-medidas-que-afectan-a-la-banca.html",
    "fecha": "2026-11-23T13:41:21.000Z",
-   "ultimaHora": true,
+   "ultimaHora": false,
    "reaccion": "El sector financiero muestra inquietud ante la prórroga de unos gravámenes que coinciden con la desaceleración del ciclo económico prevista para los próximos años."
   },
   {
@@ -589,6 +589,95 @@
    "url": "https://www.20minutos.es/internacional/division-palermo-logra-unico-triunfo-hispano-los-emmy-internacionales-2026-javier-camara-ricardo-darin-se-van-vacio_7064871_0.html",
    "fecha": "2026-11-24T04:41:34.000Z",
    "ultimaHora": false,
+   "reaccion": ""
+  },
+  {
+   "id": "1fe03d4dc799",
+   "titulo": "COP31 termina sin acuerdo: el petróleo bloquea la cumbre climática",
+   "resumen": "La cumbre climática de la ONU en Turquía finalizó sin lograr un pacto global, la primera vez desde 2009. Los delegados no alcanzaron consenso debido a la presión de los países exportadores de petróleo, que impidieron avanzar en medidas de reducción de emisiones.",
+   "porQue": "Sin un acuerdo, la lucha contra el cambio climático se retrasa y aumenta la dependencia de combustibles fósiles.",
+   "pilar": "global",
+   "etiquetas": [
+    "clima",
+    "petróleo",
+    "acuerdos internacionales"
+   ],
+   "importancia": 8,
+   "fuente": "France 24 ES",
+   "fuentes": [
+    "France 24 ES"
+   ],
+   "url": "https://www.france24.com/es/programas/el-debate/20261124-cop31-sin-acuerdo-el-petr%C3%B3leo-tumba-la-cumbre-del-clima",
+   "fecha": "2026-11-24T13:22:01.000Z",
+   "ultimaHora": true,
+   "reaccion": ""
+  },
+  {
+   "id": "460af99570b5",
+   "titulo": "Malasia deportará a miles de rohingyas pese a condena por genocidio en Myanmar",
+   "resumen": "El gobierno malasio anunció que expulsará a varios miles de refugiados rohingya en diciembre, a pesar de la reciente sentencia internacional que reconoce genocidio en Myanmar. Turquía se negó a acoger a los 10.000 solicitantes que Malasia había designado para reubicación.",
+   "porQue": "Impacta la crisis humanitaria de los rohingya y la respuesta internacional ante el genocidio.",
+   "pilar": "global",
+   "etiquetas": [
+    "refugiados",
+    "rohingya",
+    "malasia",
+    "genocidio"
+   ],
+   "importancia": 7,
+   "fuente": "El País",
+   "fuentes": [
+    "El País",
+    "El País Internacional"
+   ],
+   "url": "https://elpais.com/internacional/2026-11-24/malasia-devolvera-a-miles-de-rohinyas-en-diciembre-pese-a-la-condena-por-genocidio-a-myanmar.html",
+   "fecha": "2026-11-24T12:31:09.000Z",
+   "ultimaHora": true,
+   "reaccion": ""
+  },
+  {
+   "id": "00ad533ae01a",
+   "titulo": "Ucrania ataca dos buques rusos en la costa libia, complicando la presencia de Moscú en África",
+   "resumen": "Fuerzas ucranianas golpearon una corbeta y un carguero ruso en el puerto de Bengasi, Libia, con drones navales. El hecho abre la posibilidad de una cooperación entre Kiev y Turquía para contrarrestar la influencia rusa en la región africana.",
+   "porQue": "El ataque extiende el conflicto a África y amenaza la estrategia naval rusa fuera de Europa.",
+   "pilar": "geopolitica",
+   "etiquetas": [
+    "ucrania",
+    "rusia",
+    "libia",
+    "drones"
+   ],
+   "importancia": 7,
+   "fuente": "20minutos",
+   "fuentes": [
+    "20minutos"
+   ],
+   "url": "https://www.20minutos.es/internacional/ucrania-golpea-dos-buques-rusos-libia-pone-jaque-presencia-militar-moscu-africa_7065168_0.html",
+   "fecha": "2026-11-24T13:20:42.000Z",
+   "ultimaHora": true,
+   "reaccion": ""
+  },
+  {
+   "id": "2d96bd1c64ea",
+   "titulo": "Detenidas dos personas en Barcelona por financiar a Hamás",
+   "resumen": "La Policía Nacional detuvo a dos individuos en Barcelona vinculados a una red que canalizaba fondos a la organización terrorista Hamás en Gaza. Los detenidos fueron puestos a disposición judicial y se iniciará la investigación correspondiente.",
+   "porQue": "Afecta la seguridad nacional y la lucha contra el financiamiento del terrorismo en España.",
+   "pilar": "ultima",
+   "etiquetas": [
+    "terrorismo",
+    "espana",
+    "seguridad",
+    "gaza"
+   ],
+   "importancia": 6,
+   "fuente": "El País",
+   "fuentes": [
+    "El País",
+    "El País España"
+   ],
+   "url": "https://elpais.com/espana/2026-11-24/detenidas-dos-personas-en-barcelona-vinculadas-a-la-red-de-financiacion-de-hamas.html",
+   "fecha": "2026-11-24T11:36:49.000Z",
+   "ultimaHora": true,
    "reaccion": ""
   }
  ]

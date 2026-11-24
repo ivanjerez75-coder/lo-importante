@@ -1,6 +1,6 @@
 {
  "generado": "2026-11-24T04:55:54.913Z",
- "actualizado": "2026-11-24T14:22:30.797Z",
+ "actualizado": "2026-11-24T17:56:31.040Z",
  "modo": "ia",
  "top3": [
   "8183f4f2970c",
@@ -678,29 +678,29 @@
    ],
    "url": "https://elpais.com/espana/2026-11-24/detenidas-dos-personas-en-barcelona-vinculadas-a-la-red-de-financiacion-de-hamas.html",
    "fecha": "2026-11-24T11:42:47.000Z",
-   "ultimaHora": true,
+   "ultimaHora": false,
    "reaccion": ""
   },
   {
    "id": "828037c2e0af",
    "titulo": "Ataque aéreo israelí elimina al jefe de seguridad interna de Hamas en Gaza",
-   "resumen": "Un bombardeo israelí en la zona occidental de la ciudad de Gaza mató a Naeem Abu Nahel, quien llevaba dos meses al frente del área de seguridad interna de Hamas, según informó el Ministerio del Interior de Gaza.",
-   "porQue": "Afecta la dinámica del conflicto palestino‑israelí y la estabilidad en la región.",
-   "pilar": "ultima",
+   "resumen": "Un ataque aéreo de Israel en Gaza mató a Naeem Abu Nahel, jefe de seguridad interna de Hamas, y a seis palestinos más. El objetivo fue señalado como parte de una escalada militar en la zona.",
+   "porQue": "Aumenta la tensión en el conflicto israelí‑palestino y puede desencadenar represalias.",
+   "pilar": "global",
    "etiquetas": [
-    "gaza",
     "israel",
-    "hamas",
-    "conflicto"
+    "gaza",
+    "conflicto",
+    "seguridad"
    ],
-   "importancia": 7,
+   "importancia": 8,
    "fuente": "BBC World",
    "fuentes": [
     "BBC World",
     "Al Jazeera"
    ],
    "url": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
-   "fecha": "2026-11-24T13:55:11.000Z",
+   "fecha": "2026-11-24T15:35:53.000Z",
    "ultimaHora": true,
    "reaccion": ""
   },
@@ -743,6 +743,71 @@
    ],
    "url": "https://www.europapress.es/economia/noticia-medidas-aprueba-gobierno-hoy-permisos-fallecimiento-nacimiento-autonomos-transporte-banca-energia-20261124150158.html",
    "fecha": "2026-11-24T14:01:58.000Z",
+   "ultimaHora": true,
+   "reaccion": ""
+  },
+  {
+   "id": "a5018ec35230",
+   "titulo": "Trump anuncia preparación de aranceles contra UE, China y otros",
+   "resumen": "El expresidente de EE.UU., Donald Trump, ha anunciado que su administración estudiará la imposición de nuevos aranceles a la Unión Europea, China y varios países que, según él, subvencionan a su industria. La medida se plantea como respuesta a supuestas prácticas desleales.",
+   "porQue": "Podría desestabilizar el comercio internacional y afectar a la economía española y europea.",
+   "pilar": "ultima",
+   "etiquetas": [
+    "aranceles",
+    "trump",
+    "comercio"
+   ],
+   "importancia": 8,
+   "fuente": "20minutos",
+   "fuentes": [
+    "20minutos"
+   ],
+   "url": "https://www.20minutos.es/lainformacion/economia-y-finanzas/trump-prepara-un-aumento-los-aranceles-para-union-europea-china-otros-paises_7065318_0.html",
+   "fecha": "2026-11-24T17:11:34.000Z",
+   "ultimaHora": true,
+   "reaccion": ""
+  },
+  {
+   "id": "8ee425b58cb5",
+   "titulo": "EE.UU. prepara nuevos aranceles a China, la UE y otras doce jurisdicciones",
+   "resumen": "La Oficina Comercial de EE.UU. concluyó una investigación contra 16 países, incluyendo China y la Unión Europea, por prácticas de sobreproducción y competencia desleal, y está lista para imponer nuevos aranceles.",
+   "porQue": "Podría generar una nueva guerra comercial con repercusiones en la economía global.",
+   "pilar": "geopolitica",
+   "etiquetas": [
+    "aranceles",
+    "china",
+    "eeuu",
+    "comercio"
+   ],
+   "importancia": 7,
+   "fuente": "El País",
+   "fuentes": [
+    "El País",
+    "Cinco Días"
+   ],
+   "url": "https://elpais.com/us/2026-11-24/estados-unidos-ultima-nuevos-aranceles-a-china-la-ue-y-otra-docena-de-paises.html",
+   "fecha": "2026-11-24T16:04:34.000Z",
+   "ultimaHora": true,
+   "reaccion": ""
+  },
+  {
+   "id": "61bc5c287d65",
+   "titulo": "Pedro Sánchez insta a votar al rojo socialista para frenar a Feijóo y Abascal",
+   "resumen": "En un acto en Huesca, el presidente del Gobierno y candidato del PSOE, Pedro Sánchez, pidió a los votantes que elijan al \"rojo socialista\" para detener la \"negrura\" de los partidos de Feijóo y Abascal. La declaración se produce a pocos días de las elecciones generales del 29 de noviembre.",
+   "porQue": "Define la narrativa electoral y puede influir en la decisión de millones de votantes españoles.",
+   "pilar": "ultima",
+   "etiquetas": [
+    "elecciones",
+    "sánchez",
+    "psoe"
+   ],
+   "importancia": 7,
+   "fuente": "Europa Press",
+   "fuentes": [
+    "Europa Press"
+   ],
+   "url": "https://www.europapress.es/aragon/noticia-sanchez-psoe-dice-huesca-frenar-negrura-feijoo-abascal-hay-votar-rojo-socialista-20261124181723.html",
+   "fecha": "2026-11-24T17:17:23.000Z",
    "ultimaHora": true,
    "reaccion": ""
   }

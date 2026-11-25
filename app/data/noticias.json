@@ -1,6 +1,6 @@
 {
  "generado": "2026-11-25T12:50:16.871Z",
- "actualizado": "2026-11-25T13:36:30.017Z",
+ "actualizado": "2026-11-25T14:30:33.951Z",
  "modo": "ia",
  "top3": [
   "3ae1349c025d",
@@ -858,6 +858,97 @@
    ],
    "url": "https://www.bbc.co.uk/news/articles/c6z74l1017zpo?at_medium=RSS&at_campaign=rss",
    "fecha": "2026-11-25T13:02:24.000Z",
+   "ultimaHora": true,
+   "reaccion": ""
+  },
+  {
+   "id": "bd8431720a3a",
+   "titulo": "EE UU propone nuevos aranceles contra 14 socios comerciales, con China como principal objetivo",
+   "resumen": "El gobierno estadounidense anunció la imposición de aranceles más altos a 14 países, destacando a China como el principal objetivo, mientras que México queda exento. La medida forma parte de una estrategia para proteger la industria nacional.",
+   "porQue": "Afectará las cadenas de suministro globales y los precios de productos importados en Europa.",
+   "pilar": "geopolitica",
+   "etiquetas": [
+    "aranceles",
+    "eeuu",
+    "china",
+    "comercio"
+   ],
+   "importancia": 7,
+   "fuente": "El País",
+   "fuentes": [
+    "El País",
+    "Cinco Días",
+    "El País Internacional"
+   ],
+   "url": "https://elpais.com/internacional/2026-11-25/ee-uu-anuncia-nuevos-aranceles-contra-14-socios-comerciales.html",
+   "fecha": "2026-11-25T14:23:03.000Z",
+   "ultimaHora": true,
+   "reaccion": ""
+  },
+  {
+   "id": "49df1091dd04",
+   "titulo": "Microsoft declara ‘Code Red’ tras una interrupción masiva de Outlook",
+   "resumen": "Una caída casi de 24 horas afecta a Exchange Online y Microsoft Outlook, dejando sin correo electrónico a millones de usuarios en todo el mundo. Reuters informa que la compañía ha activado internamente un “Code Red” para gestionar la crisis.",
+   "porQue": "Impacta la comunicación empresarial y personal a escala global, con potenciales pérdidas económicas y de productividad.",
+   "pilar": "tecnologia",
+   "etiquetas": [
+    "outlook",
+    "caída",
+    "microsoft",
+    "servicios"
+   ],
+   "importancia": 7,
+   "fuente": "The Verge",
+   "fuentes": [
+    "The Verge"
+   ],
+   "url": "https://www.theverge.com/news/1042025/microsoft-code-red-outlook-outage",
+   "fecha": "2026-11-25T14:10:55.000Z",
+   "ultimaHora": true,
+   "reaccion": ""
+  },
+  {
+   "id": "f54408776627",
+   "titulo": "Shein reduce un 27 % sus ventas en Europa y culpa a las políticas de la UE",
+   "resumen": "El gigante del fast‑fashion Shein informó que sus ventas en Europa cayeron 27 % en el último trimestre, atribuyendo la caída a las nuevas tasas de la Comisión Europea sobre paquetes de bajo valor. La empresa señaló que estas medidas han afectado su modelo de precios bajos.",
+   "porQue": "Impacta el sector minorista europeo y la competitividad de las empresas de comercio electrónico.",
+   "pilar": "economia",
+   "etiquetas": [
+    "shein",
+    "ventas",
+    "europa",
+    "regulacion"
+   ],
+   "importancia": 6,
+   "fuente": "El País",
+   "fuentes": [
+    "El País",
+    "Cinco Días"
+   ],
+   "url": "https://cincodias.elpais.com/companias/2026-11-25/shein-reduce-un-27-sus-ventas-en-europa-y-culpa-del-desplome-a-las-politicas-de-bruselas.html",
+   "fecha": "2026-11-25T13:08:56.000Z",
+   "ultimaHora": true,
+   "reaccion": ""
+  },
+  {
+   "id": "5e39a2162c42",
+   "titulo": "EE.UU. detonará 68 barriles de químicos explosivos pese a preocupaciones de salud",
+   "resumen": "El ejército estadounidense planea destruir 68 barriles, aproximadamente 9.500 libras, de azida de plomo en Iowa. La acción se realizará pese a la oposición pública por posibles efectos ambientales y sanitarios.",
+   "porQue": "Podría generar riesgos ambientales y de salud, y refleja decisiones de seguridad nacional con repercusión local y mediática.",
+   "pilar": "geopolitica",
+   "etiquetas": [
+    "azida",
+    "detonación",
+    "eeuu",
+    "medioambiente"
+   ],
+   "importancia": 5,
+   "fuente": "The Guardian World",
+   "fuentes": [
+    "The Guardian World"
+   ],
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/25/iowa-lead-azide-detonation-army-explosion-bomb-live-updates",
+   "fecha": "2026-11-25T14:09:10.000Z",
    "ultimaHora": true,
    "reaccion": ""
   }

@@ -1,6 +1,6 @@
 {
  "generado": "2026-11-24T04:55:54.913Z",
- "actualizado": "2026-11-24T17:56:31.040Z",
+ "actualizado": "2026-11-25T02:34:59.786Z",
  "modo": "ia",
  "top3": [
   "8183f4f2970c",
@@ -609,7 +609,7 @@
    ],
    "url": "https://www.france24.com/es/programas/el-debate/20261124-cop31-sin-acuerdo-el-petr%C3%B3leo-tumba-la-cumbre-del-clima",
    "fecha": "2026-11-24T13:22:01.000Z",
-   "ultimaHora": true,
+   "ultimaHora": false,
    "reaccion": ""
   },
   {
@@ -632,7 +632,7 @@
    ],
    "url": "https://elpais.com/internacional/2026-11-24/malasia-devolvera-a-miles-de-rohinyas-en-diciembre-pese-a-la-condena-por-genocidio-a-myanmar.html",
    "fecha": "2026-11-24T12:31:09.000Z",
-   "ultimaHora": true,
+   "ultimaHora": false,
    "reaccion": ""
   },
   {
@@ -654,7 +654,7 @@
    ],
    "url": "https://www.20minutos.es/internacional/ucrania-golpea-dos-buques-rusos-libia-pone-jaque-presencia-militar-moscu-africa_7065168_0.html",
    "fecha": "2026-11-24T13:20:42.000Z",
-   "ultimaHora": true,
+   "ultimaHora": false,
    "reaccion": ""
   },
   {
@@ -701,7 +701,7 @@
    ],
    "url": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
    "fecha": "2026-11-24T15:35:53.000Z",
-   "ultimaHora": true,
+   "ultimaHora": false,
    "reaccion": ""
   },
   {
@@ -722,7 +722,7 @@
    ],
    "url": "https://www.eldiario.es/tecnologia/ciberataque-ia-quironsalud-roba-correos-pacientes-sanidad-publica_1_13689349.html",
    "fecha": "2026-11-24T13:43:55.000Z",
-   "ultimaHora": true,
+   "ultimaHora": false,
    "reaccion": ""
   },
   {
@@ -743,7 +743,7 @@
    ],
    "url": "https://www.europapress.es/economia/noticia-medidas-aprueba-gobierno-hoy-permisos-fallecimiento-nacimiento-autonomos-transporte-banca-energia-20261124150158.html",
    "fecha": "2026-11-24T14:01:58.000Z",
-   "ultimaHora": true,
+   "ultimaHora": false,
    "reaccion": ""
   },
   {
@@ -764,7 +764,7 @@
    ],
    "url": "https://www.20minutos.es/lainformacion/economia-y-finanzas/trump-prepara-un-aumento-los-aranceles-para-union-europea-china-otros-paises_7065318_0.html",
    "fecha": "2026-11-24T17:11:34.000Z",
-   "ultimaHora": true,
+   "ultimaHora": false,
    "reaccion": ""
   },
   {
@@ -787,7 +787,7 @@
    ],
    "url": "https://elpais.com/us/2026-11-24/estados-unidos-ultima-nuevos-aranceles-a-china-la-ue-y-otra-docena-de-paises.html",
    "fecha": "2026-11-24T16:04:34.000Z",
-   "ultimaHora": true,
+   "ultimaHora": false,
    "reaccion": ""
   },
   {
@@ -808,6 +808,90 @@
    ],
    "url": "https://www.europapress.es/aragon/noticia-sanchez-psoe-dice-huesca-frenar-negrura-feijoo-abascal-hay-votar-rojo-socialista-20261124181723.html",
    "fecha": "2026-11-24T17:17:23.000Z",
+   "ultimaHora": false,
+   "reaccion": ""
+  },
+  {
+   "id": "5d9e45ebcdbe",
+   "titulo": "Bukele busca prolongar su mandato en El Salvador por seis años más",
+   "resumen": "El presidente Nayib Bukele ha solicitado la candidatura para un tercer periodo, superando el límite constitucional. La medida se produce tras la reforma que permitió la reelección y plantea dudas sobre la institucionalidad del país.",
+   "porQue": "Podría consolidar un modelo autoritario en la región y afectar la estabilidad democrática de Centroamérica.",
+   "pilar": "ultima",
+   "etiquetas": [
+    "el salvador",
+    "politica",
+    "derechos humanos"
+   ],
+   "importancia": 7,
+   "fuente": "France 24 ES",
+   "fuentes": [
+    "France 24 ES"
+   ],
+   "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261125-necesitamos-seis-a%C3%B1os-m%C3%A1s-bukele-sienta-las-bases-para-una-larga-permanencia-en-el-poder-en-el-salvador",
+   "fecha": "2026-11-25T02:02:38.000Z",
+   "ultimaHora": true,
+   "reaccion": ""
+  },
+  {
+   "id": "75d4a6c12ba2",
+   "titulo": "Encuesta muestra que mayoría de votantes estadounidenses quiere fin inmediato de la guerra en Irán",
+   "resumen": "Un sondeo revela que el 55 % de los estadounidenses, y el 80 % de los demócratas, prefieren que el conflicto con Irán termine de inmediato, sin importar las condiciones de paz.",
+   "porQue": "Indica una presión popular que puede influir en la política exterior de EE. UU. y en la evolución del conflicto.",
+   "pilar": "ultima",
+   "etiquetas": [
+    "eeuu",
+    "opinión pública",
+    "iran"
+   ],
+   "importancia": 6,
+   "fuente": "Al Jazeera",
+   "fuentes": [
+    "Al Jazeera"
+   ],
+   "url": "https://www.aljazeera.com/news/2026/11/25/poll-finds-us-voters-want-government-to-end-iran-war-regardless-of-terms?traffic_source=rss",
+   "fecha": "2026-11-25T01:14:22.000Z",
+   "ultimaHora": true,
+   "reaccion": ""
+  },
+  {
+   "id": "b7670f6d932b",
+   "titulo": "Armed gunmen hold dozens hostage in a supermarket in Cartagena, Colombia",
+   "resumen": "Un grupo armado tomó como rehenes a alrededor de 20 personas dentro de un supermercado en Cartagena. La policía local ha acordonado el área y se están realizando negociaciones para liberar a los cautivos.",
+   "porQue": "El secuestro afecta a civiles y pone en riesgo la seguridad pública en una zona turística clave.",
+   "pilar": "ultima",
+   "etiquetas": [
+    "colombia",
+    "secuestradores",
+    "seguridad"
+   ],
+   "importancia": 6,
+   "fuente": "Al Jazeera",
+   "fuentes": [
+    "Al Jazeera"
+   ],
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/gunmen-hold-dozens-hostage-in-colombia-supermarket?traffic_source=rss",
+   "fecha": "2026-11-25T00:49:35.000Z",
+   "ultimaHora": true,
+   "reaccion": ""
+  },
+  {
+   "id": "17aa63c53ba9",
+   "titulo": "Policía francesa que disparó a Nahel Merzouk será juzgada por asesinato",
+   "resumen": "Tres años después del tiroteo de Nahel Merzouk en Nanterre, un juez ha decidido que el agente implicado enfrentará juicio por asesinato. El caso ha generado intensas protestas y debates sobre la violencia policial en Francia.",
+   "porQue": "El juicio marca un punto crítico en la rendición de cuentas de la fuerza policial y puede influir en reformas a nivel europeo.",
+   "pilar": "ultima",
+   "etiquetas": [
+    "francia",
+    "policía",
+    "justicia"
+   ],
+   "importancia": 5,
+   "fuente": "France 24 ES",
+   "fuentes": [
+    "France 24 ES"
+   ],
+   "url": "https://www.france24.com/es/video/20261125-francia-polic%C3%ADa-que-dispar%C3%B3-a-nahel-merzouk-enfrentar%C3%A1-un-juicio-por-asesinato",
+   "fecha": "2026-11-25T00:48:47.000Z",
    "ultimaHora": true,
    "reaccion": ""
   }

@@ -1,6 +1,6 @@
 {
  "generado": "2026-11-25T12:50:16.871Z",
- "actualizado": "2026-11-25T12:50:16.871Z",
+ "actualizado": "2026-11-25T13:36:30.017Z",
  "modo": "ia",
  "top3": [
   "3ae1349c025d",
@@ -71,7 +71,7 @@
    ],
    "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
    "fecha": "2026-11-25T00:38:01.000Z",
-   "ultimaHora": true,
+   "ultimaHora": false,
    "reaccion": ""
   },
   {
@@ -161,7 +161,7 @@
    ],
    "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
    "fecha": "2026-11-25T03:44:07.000Z",
-   "ultimaHora": true,
+   "ultimaHora": false,
    "reaccion": ""
   },
   {
@@ -578,22 +578,22 @@
   },
   {
    "id": "3be2d49a57a8",
-   "titulo": "Campaña electoral 29-N: Díaz reta al PP y Puigdemont anuncia regreso a Cataluña",
-   "resumen": "Yolanda Díaz exige al Partido Popular claridad sobre la posible derogación de los nuevos permisos sociales, mientras Carles Puigdemont declara que volverá a España el 12 de diciembre para impulsar la independencia.",
-   "porQue": "Afecta directamente la agenda política española y el debate sobre la autodeterminación catalana.",
+   "titulo": "Puigdemont anuncia su regreso a España el 12 de diciembre sin pedir permiso",
+   "resumen": "El expresidente de la Generalitat, Carles Puigdemont, ha declarado que volverá a territorio español el 12‑12‑2026 sin solicitar autorización ni disculparse. La medida genera tensión con el Gobierno central y con partidos españoles.",
+   "porQue": "Marca una escalada política que puede influir en la relación entre Cataluña y el Estado.",
    "pilar": "ultima",
    "etiquetas": [
-    "elecciones",
-    "españa",
-    "cataluña"
+    "política",
+    "cataluña",
+    "puigdemont"
    ],
-   "importancia": 5,
+   "importancia": 7,
    "fuente": "El País",
    "fuentes": [
     "El País"
    ],
    "url": "https://elpais.com/espana/elecciones-generales/2026-11-25/campana-electoral-29-n-y-actualidad-politica-en-directo.html",
-   "fecha": "2026-11-25T12:28:42.000Z",
+   "fecha": "2026-11-25T13:09:26.000Z",
    "ultimaHora": true,
    "reaccion": ""
   },
@@ -794,6 +794,71 @@
    "url": "https://www.europapress.es/nacional/noticia-juez-revoca-tercer-grado-dirigente-eta-henri-parot-acuerda-mantenerlo-semilibertad-20261125131516.html",
    "fecha": "2026-11-25T12:15:16.000Z",
    "ultimaHora": false,
+   "reaccion": ""
+  },
+  {
+   "id": "7ea1ce87cfa9",
+   "titulo": "Filtración revela medio millón de muertos rusos en la guerra de Ucrania",
+   "resumen": "Hackers publicaron datos que indican alrededor de 500.000 bajas militares rusas desde el inicio de la invasión a Ucrania. La filtración muestra un aumento significativo de mortalidad y sugiere un coste humano mucho mayor al estimado oficialmente.",
+   "porQue": "Impacta la percepción internacional del conflicto y puede influir en decisiones políticas y de apoyo.",
+   "pilar": "global",
+   "etiquetas": [
+    "rusia",
+    "ucrania",
+    "guerra",
+    "datos"
+   ],
+   "importancia": 8,
+   "fuente": "BBC Mundo",
+   "fuentes": [
+    "BBC Mundo"
+   ],
+   "url": "https://www.bbc.com/mundo/articles/cq5y1lpz5pr8o?at_medium=RSS&at_campaign=rss",
+   "fecha": "2026-11-25T13:17:56.000Z",
+   "ultimaHora": true,
+   "reaccion": ""
+  },
+  {
+   "id": "229609e04bec",
+   "titulo": "El Govern fija servicios mínimos de docentes para la huelga del jueves",
+   "resumen": "El Gobierno catalán ha establecido que, durante la huelga programada, cada docente deberá atender al menos un servicio por cada tres aulas. También se mantiene el 50 % del personal de comedor, cocina, acogida y actividades extraescolares.",
+   "porQue": "Afecta la educación de miles de estudiantes y muestra la tensión en el sector público catalán.",
+   "pilar": "ultima",
+   "etiquetas": [
+    "educación",
+    "huelga",
+    "cataluña"
+   ],
+   "importancia": 6,
+   "fuente": "La Vanguardia",
+   "fuentes": [
+    "La Vanguardia"
+   ],
+   "url": "https://www.lavanguardia.com/vida/20261125/11693174/govern-fija-servicios-minimos-docente-tres-aulas-huelga-jueves.html",
+   "fecha": "2026-11-25T13:15:09.000Z",
+   "ultimaHora": true,
+   "reaccion": ""
+  },
+  {
+   "id": "941e745e6dd8",
+   "titulo": "Dos niños entre los seis fallecidos en accidente aéreo frente a Mississippi",
+   "resumen": "Un avión se estrelló frente a la costa de Mississippi, dejando seis muertos, entre ellos dos niños de 8 y 10 años. La Guardia Costera de EE. UU. recuperó los cuerpos de cuatro adultos y los dos menores.",
+   "porQue": "Muestra la gravedad de la seguridad aérea y genera preocupación en la población estadounidense.",
+   "pilar": "ultima",
+   "etiquetas": [
+    "accidente",
+    "aviación",
+    "eeuu"
+   ],
+   "importancia": 5,
+   "fuente": "BBC World",
+   "fuentes": [
+    "BBC World",
+    "The Guardian World"
+   ],
+   "url": "https://www.bbc.co.uk/news/articles/c6z74l1017zpo?at_medium=RSS&at_campaign=rss",
+   "fecha": "2026-11-25T13:02:24.000Z",
+   "ultimaHora": true,
    "reaccion": ""
   }
  ]

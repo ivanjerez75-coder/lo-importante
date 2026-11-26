@@ -1,6 +1,6 @@
 {
  "generado": "2026-11-26T10:58:30.712Z",
- "actualizado": "2026-11-26T12:21:54.356Z",
+ "actualizado": "2026-11-26T13:16:53.945Z",
  "modo": "ia",
  "top3": [
   "dad32772c43a",
@@ -81,24 +81,24 @@
   },
   {
    "id": "2f9e3a7f05e2",
-   "titulo": "Muere un marinero en el naufragio de un buque tanque con 7.000 toneladas de carburante en Ibiza",
-   "resumen": "Un marinero ha muerto y seis de los 17 tripulantes han resultado heridos leves tras el naufragio de un buque cargado con 7.000 toneladas de combustible cerca de Ibiza. Salvamento Marítimo ha activado el Plan Marítimo Nacional tras detectarse las primeras irisaciones de carburante en la zona.",
-   "porQue": "El accidente plantea un riesgo medioambiental grave para el ecosistema marino balear debido al posible vertido masivo de combustible.",
-   "pilar": "global",
+   "titulo": "Muere un marinero en el naufragio de un buque con carburante en Ibiza",
+   "resumen": "Un marinero ha muerto y otros seis han resultado heridos tras el hundimiento de un carguero que transportaba 7.000 toneladas de carburante cerca de Ibiza. Las autoridades han detectado las primeras irisaciones y reflejos de combustible en la zona del siniestro.",
+   "porQue": "Activa un riesgo medioambiental grave por posible contaminación en el Mediterráneo y afecta directamente a las costas de Baleares.",
+   "pilar": "ultima",
    "etiquetas": [
     "ibiza",
+    "accidente",
     "medio ambiente",
-    "naufragio",
-    "vertido"
+    "marítimo"
    ],
-   "importancia": 8,
+   "importancia": 7,
    "fuente": "El País",
    "fuentes": [
     "El País",
     "El País España"
    ],
    "url": "https://elpais.com/espana/2026-11-26/muere-un-marinero-en-el-hundimiento-de-un-buque-cargado-de-combustible-cerca-de-ibiza.html",
-   "fecha": "2026-11-26T11:56:42.000Z",
+   "fecha": "2026-11-26T12:20:47.000Z",
    "ultimaHora": true,
    "reaccion": ""
   },
@@ -467,14 +467,14 @@
   },
   {
    "id": "184ed2e92675",
-   "titulo": "Siete heridos, cuatro de ellos críticos, tras una explosión en una refinería en Bangkok",
-   "resumen": "Una fuerte explosión seguida de un incendio en una refinería de la compañía Bangchak en Bangkok ha dejado al menos siete heridos, cuatro de ellos de gravedad. Las autoridades han lanzado una alerta y pedido a los vecinos que abandonen la zona afectada por la densa columna de humo negro.",
-   "porQue": "Representa un grave accidente industrial con impacto inmediato en la seguridad ciudadana y la actividad energética local.",
+   "titulo": "Siete heridos, cuatro críticos, tras una explosión en una refinería en Bangkok",
+   "resumen": "Una fuerte explosión en una refinería de petróleo en Bangkok ha provocado una enorme columna de humo negro visible en todo el horizonte de la ciudad. Al menos siete personas han resultado heridas, cuatro de ellas en estado crítico, mientras las autoridades han pedido a los vecinos evacuar la zona.",
+   "porQue": "Representa un grave accidente industrial con impacto inmediato en la seguridad urbana y posibles repercusiones en el suministro energético local.",
    "pilar": "ultima",
    "etiquetas": [
     "bangkok",
     "explosión",
-    "refinería",
+    "petróleo",
     "accidentes"
    ],
    "importancia": 6,

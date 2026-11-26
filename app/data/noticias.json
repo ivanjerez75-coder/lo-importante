@@ -1,6 +1,6 @@
 {
  "generado": "2026-11-26T10:58:30.712Z",
- "actualizado": "2026-11-26T13:16:53.945Z",
+ "actualizado": "2026-11-26T21:36:41.663Z",
  "modo": "ia",
  "top3": [
   "dad32772c43a",
@@ -29,7 +29,7 @@
    ],
    "url": "https://elpais.com/internacional/2026-11-26/china-se-reserva-el-derecho-a-responder-a-los-nuevos-aranceles-anunciados-por-trump.html",
    "fecha": "2026-11-26T09:47:42.000Z",
-   "ultimaHora": true,
+   "ultimaHora": false,
    "reaccion": "Pekín confirma su postura desafiante tras el anuncio formal de Washington, intensificando el temor a un bloqueo en las negociaciones comerciales bilaterales."
   },
   {
@@ -53,7 +53,7 @@
    ],
    "url": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
    "fecha": "2026-11-26T09:27:44.000Z",
-   "ultimaHora": true,
+   "ultimaHora": false,
    "reaccion": ""
   },
   {
@@ -81,24 +81,24 @@
   },
   {
    "id": "2f9e3a7f05e2",
-   "titulo": "Muere un marinero en el naufragio de un buque con carburante en Ibiza",
-   "resumen": "Un marinero ha muerto y otros seis han resultado heridos tras el hundimiento de un carguero que transportaba 7.000 toneladas de carburante cerca de Ibiza. Las autoridades han detectado las primeras irisaciones y reflejos de combustible en la zona del siniestro.",
-   "porQue": "Activa un riesgo medioambiental grave por posible contaminación en el Mediterráneo y afecta directamente a las costas de Baleares.",
-   "pilar": "ultima",
+   "titulo": "Un marinero muere tras el naufragio de un buque de combustible cerca de Ibiza",
+   "resumen": "Un carguero con 7.000 toneladas de carburante ha naufragado cerca de la costa de Ibiza, dejando un tripulante muerto y seis heridos. Salvamento Marítimo vigila la zona tras detectarse las primeras manchas de combustible en el mar.",
+   "porQue": "Existe riesgo de un vertido contaminante de gran escala en una franja costera española de alto valor ecológico.",
+   "pilar": "global",
    "etiquetas": [
-    "ibiza",
-    "accidente",
     "medio ambiente",
-    "marítimo"
+    "baleares",
+    "naufragio",
+    "maritimo"
    ],
-   "importancia": 7,
+   "importancia": 6,
    "fuente": "El País",
    "fuentes": [
     "El País",
     "El País España"
    ],
    "url": "https://elpais.com/espana/2026-11-26/muere-un-marinero-en-el-hundimiento-de-un-buque-cargado-de-combustible-cerca-de-ibiza.html",
-   "fecha": "2026-11-26T12:20:47.000Z",
+   "fecha": "2026-11-26T19:24:04.000Z",
    "ultimaHora": true,
    "reaccion": ""
   },
@@ -372,7 +372,7 @@
    ],
    "url": "https://www.aljazeera.com/news/2026/11/26/ukraine-drone-attack-kills-five-in-russian-occupied-zaporizhia?traffic_source=rss",
    "fecha": "2026-11-26T10:02:09.000Z",
-   "ultimaHora": true,
+   "ultimaHora": false,
    "reaccion": "Los bombardeos nocturnos continúan golpeando zonas residenciales y comerciales, intensificando la presión sobre las defensas aéreas ucranianas."
   },
   {
@@ -485,7 +485,7 @@
    ],
    "url": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo?at_medium=RSS&at_campaign=rss",
    "fecha": "2026-11-26T11:21:50.000Z",
-   "ultimaHora": true,
+   "ultimaHora": false,
    "reaccion": ""
   },
   {
@@ -508,7 +508,7 @@
    ],
    "url": "https://www.lavanguardia.com/politica/20261126/11693863/ume-envia-hierro-equipo-sanitario-120-efectivos-emergencia-migratoria.html",
    "fecha": "2026-11-26T11:59:00.000Z",
-   "ultimaHora": true,
+   "ultimaHora": false,
    "reaccion": ""
   },
   {
@@ -531,6 +531,74 @@
    ],
    "url": "https://elpais.com/internacional/2026-11-26/rusia-teme-un-contragolpe-ucranio-contra-su-sistema-energetico-la-cuestion-es-como-sobrevivimos-al-invierno.html",
    "fecha": "2026-11-26T11:46:25.000Z",
+   "ultimaHora": false,
+   "reaccion": ""
+  },
+  {
+   "id": "8bff401f2884",
+   "titulo": "Pablo Hernández de Cos sucederá a Christine Lagarde al frente del BCE",
+   "resumen": "El economista español y exgobernador del Banco de España ha sido designado para sustituir a Christine Lagarde en la presidencia del Banco Central Europeo. El nombramiento sitúa por primera vez a un español en la cúspide de la autoridad monetaria de la eurozona.",
+   "porQue": "El relevo definirá la política monetaria europea y la fijación de tipos de interés en los próximos años.",
+   "pilar": "economia",
+   "etiquetas": [
+    "bce",
+    "economia",
+    "espana",
+    "politica monetaria"
+   ],
+   "importancia": 8,
+   "fuente": "France 24 ES",
+   "fuentes": [
+    "France 24 ES",
+    "DW Español"
+   ],
+   "url": "https://www.france24.com/es/europa/20261126-el-economista-espa%C3%B1ol-pablo-hern%C3%A1ndez-de-cos-suceder%C3%A1-a-lagarde-al-frente-del-bce",
+   "fecha": "2026-11-26T20:49:55.000Z",
+   "ultimaHora": true,
+   "reaccion": ""
+  },
+  {
+   "id": "a5a563c2a3a6",
+   "titulo": "Mueren dos italianos en un ataque en Kuwait mientras Irán niega su autoría",
+   "resumen": "Dos técnicos italianos de la compañía de defensa alemana Rheinmetall han muerto tras un impacto militar en Kuwait. Teherán ha rechazado cualquier implicación en el ataque, según han confirmado fuentes diplomáticas.",
+   "porQue": "La muerte de contratistas occidentales agrava la volatilidad militar y diplomática en el golfo Pérsico.",
+   "pilar": "geopolitica",
+   "etiquetas": [
+    "kuwait",
+    "iran",
+    "italia",
+    "oriente medio"
+   ],
+   "importancia": 7,
+   "fuente": "BBC World",
+   "fuentes": [
+    "BBC World",
+    "Al Jazeera"
+   ],
+   "url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
+   "fecha": "2026-11-26T21:17:53.000Z",
+   "ultimaHora": true,
+   "reaccion": ""
+  },
+  {
+   "id": "94305b427e5a",
+   "titulo": "Nvidia suspende el envío de chips de IA al sudeste asiático por presiones de EE.UU.",
+   "resumen": "Nvidia ha ordenado a sus socios comerciales paralizar las entregas de servidores a Malasia, Singapur, Tailandia e Indonesia. La decisión responde a las exigencias de Washington para impedir la triangulación de chips avanzados hacia China.",
+   "porQue": "Endurece el cerco sobre el desarrollo tecnológico chino y altera la cadena de suministro global de hardware de inteligencia artificial.",
+   "pilar": "tecnologia",
+   "etiquetas": [
+    "nvidia",
+    "ia",
+    "semiconductores",
+    "eeuu"
+   ],
+   "importancia": 7,
+   "fuente": "TechCrunch",
+   "fuentes": [
+    "TechCrunch"
+   ],
+   "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+   "fecha": "2026-11-26T20:03:54.000Z",
    "ultimaHora": true,
    "reaccion": ""
   }

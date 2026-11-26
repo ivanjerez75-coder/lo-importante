@@ -1,6 +1,6 @@
 {
  "generado": "2026-11-26T10:58:30.712Z",
- "actualizado": "2026-11-26T10:58:30.712Z",
+ "actualizado": "2026-11-26T12:21:54.356Z",
  "modo": "ia",
  "top3": [
   "dad32772c43a",
@@ -34,15 +34,15 @@
   },
   {
    "id": "27217ba3506c",
-   "titulo": "Luz verde a la constelación Starmind de SpaceX para centros de datos espaciales",
-   "resumen": "La Comisión Federal de Comunicaciones de EE UU ha autorizado a SpaceX a lanzar un millón de satélites destinados a crear la red Starmind. El proyecto busca ofrecer una infraestructura de computación en el espacio altamente eficiente para hacer frente a la creciente demanda de potencia de cálculo en inteligencia artificial.",
-   "porQue": "Transforma radicalmente la infraestructura tecnológica global y abre la puerta a la computación en órbita a gran escala.",
+   "titulo": "EE UU aprueba el plan de SpaceX para desplegar un millón de satélites de centros de datos",
+   "resumen": "La Comisión Federal de Comunicaciones ha dado luz verde al proyecto de SpaceX para colocar hasta un millón de satélites en la órbita baja bajo la constelación Starmind. El sistema busca ofrecer una infraestructura energética y de conectividad altamente eficiente para sostener la creciente demanda de computación de IA.",
+   "porQue": "Marca un hito normativo y tecnológico masivo en la militarización y comercialización del espacio para dar abasto a la burbuja de la inteligencia artificial.",
    "pilar": "tecnologia",
    "etiquetas": [
     "spacex",
-    "ia",
+    "elon musk",
     "satélites",
-    "elon musk"
+    "ia"
    ],
    "importancia": 9,
    "fuente": "BBC Ciencia y Medio Ambiente",
@@ -53,8 +53,8 @@
    ],
    "url": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
    "fecha": "2026-11-26T09:27:44.000Z",
-   "ultimaHora": false,
-   "reaccion": "Los reguladores estadounidenses ratifican el proyecto, consolidando la apuesta de la compañía espacial por dominar la infraestructura digital para la inteligencia artificial."
+   "ultimaHora": true,
+   "reaccion": ""
   },
   {
    "id": "d7ee858f80fe",
@@ -81,15 +81,15 @@
   },
   {
    "id": "2f9e3a7f05e2",
-   "titulo": "Muere un marinero tras el hundimiento de un buque con 7.000 toneladas de carburante en Ibiza",
-   "resumen": "Un marinero ha muerto y otros seis tripulantes han resultado heridos leves después de que un buque quimiquero cargado con 7.000 toneladas de gasóleo naufragara a 25 millas al noroeste de Ibiza. Salvamento Marítimo ha activado el Plan Marítimo Nacional ante el riesgo de vertido contaminante.",
-   "porQue": "Activa alarmas medioambientales severas en el Mediterráneo occidental ante el peligro de una catástrofe ecológica.",
+   "titulo": "Muere un marinero en el naufragio de un buque tanque con 7.000 toneladas de carburante en Ibiza",
+   "resumen": "Un marinero ha muerto y seis de los 17 tripulantes han resultado heridos leves tras el naufragio de un buque cargado con 7.000 toneladas de combustible cerca de Ibiza. Salvamento Marítimo ha activado el Plan Marítimo Nacional tras detectarse las primeras irisaciones de carburante en la zona.",
+   "porQue": "El accidente plantea un riesgo medioambiental grave para el ecosistema marino balear debido al posible vertido masivo de combustible.",
    "pilar": "global",
    "etiquetas": [
     "ibiza",
     "medio ambiente",
-    "accidente",
-    "mediterráneo"
+    "naufragio",
+    "vertido"
    ],
    "importancia": 8,
    "fuente": "El País",
@@ -98,7 +98,7 @@
     "El País España"
    ],
    "url": "https://elpais.com/espana/2026-11-26/muere-un-marinero-en-el-hundimiento-de-un-buque-cargado-de-combustible-cerca-de-ibiza.html",
-   "fecha": "2026-11-26T10:48:47.000Z",
+   "fecha": "2026-11-26T11:56:42.000Z",
    "ultimaHora": true,
    "reaccion": ""
   },
@@ -464,6 +464,75 @@
    "fecha": "2026-11-26T07:19:13.000Z",
    "ultimaHora": false,
    "reaccion": "Los organizadores del torneo australiano confirman la baja oficial, privando al circuito de una de sus principales figuras."
+  },
+  {
+   "id": "184ed2e92675",
+   "titulo": "Siete heridos, cuatro de ellos críticos, tras una explosión en una refinería en Bangkok",
+   "resumen": "Una fuerte explosión seguida de un incendio en una refinería de la compañía Bangchak en Bangkok ha dejado al menos siete heridos, cuatro de ellos de gravedad. Las autoridades han lanzado una alerta y pedido a los vecinos que abandonen la zona afectada por la densa columna de humo negro.",
+   "porQue": "Representa un grave accidente industrial con impacto inmediato en la seguridad ciudadana y la actividad energética local.",
+   "pilar": "ultima",
+   "etiquetas": [
+    "bangkok",
+    "explosión",
+    "refinería",
+    "accidentes"
+   ],
+   "importancia": 6,
+   "fuente": "BBC World",
+   "fuentes": [
+    "BBC World",
+    "Al Jazeera"
+   ],
+   "url": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo?at_medium=RSS&at_campaign=rss",
+   "fecha": "2026-11-26T11:21:50.000Z",
+   "ultimaHora": true,
+   "reaccion": ""
+  },
+  {
+   "id": "340827c4379f",
+   "titulo": "La UME despliega un equipo sanitario en El Hierro ante la presión migratoria",
+   "resumen": "El Ministerio de Defensa ha enviado a El Hierro un contingente sanitario de 120 efectivos de la Unidad Militar de Emergencias para colaborar en la estabilización de patologías agudas de los migrantes que llegan a la isla. El pequeño hospital local sufre una saturación extrema.",
+   "porQue": "Evidencia la persistencia de la crisis migratoria en las islas Canarias y la tensión sobre los recursos sanitarios locales.",
+   "pilar": "global",
+   "etiquetas": [
+    "migración",
+    "el hierro",
+    "ume",
+    "canarias"
+   ],
+   "importancia": 7,
+   "fuente": "La Vanguardia",
+   "fuentes": [
+    "La Vanguardia",
+    "DW Español"
+   ],
+   "url": "https://www.lavanguardia.com/politica/20261126/11693863/ume-envia-hierro-equipo-sanitario-120-efectivos-emergencia-migratoria.html",
+   "fecha": "2026-11-26T11:59:00.000Z",
+   "ultimaHora": true,
+   "reaccion": ""
+  },
+  {
+   "id": "86ce92e14291",
+   "titulo": "Rusia teme un contragolpe ucraniano contra su sistema energético este invierno",
+   "resumen": "El vice primer ministro ruso, Marat Jusnullin, ha admitido la extrema vulnerabilidad de las provincias del país ante posibles ataques ucranios a sus infraestructuras energéticas. Moscú reclama soluciones urgentes y no convencionales para capear el endeudamiento y los daños durante los meses de frío.",
+   "porQue": "Refleja la continua vulnerabilidad estratégica de la retaguardia rusa en plena guerra y el uso de la energía como arma de desgaste.",
+   "pilar": "geopolitica",
+   "etiquetas": [
+    "rusia",
+    "ucrania",
+    "guerra",
+    "energia"
+   ],
+   "importancia": 8,
+   "fuente": "El País",
+   "fuentes": [
+    "El País",
+    "El País Internacional"
+   ],
+   "url": "https://elpais.com/internacional/2026-11-26/rusia-teme-un-contragolpe-ucranio-contra-su-sistema-energetico-la-cuestion-es-como-sobrevivimos-al-invierno.html",
+   "fecha": "2026-11-26T11:46:25.000Z",
+   "ultimaHora": true,
+   "reaccion": ""
   }
  ]
 }

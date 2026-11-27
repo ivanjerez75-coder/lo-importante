@@ -1,6 +1,6 @@
 {
  "generado": "2026-11-27T04:22:00.183Z",
- "actualizado": "2026-11-27T04:22:00.183Z",
+ "actualizado": "2026-11-27T12:11:44.802Z",
  "modo": "ia",
  "top3": [
   "8bff401f2884",
@@ -28,7 +28,7 @@
    ],
    "url": "https://www.france24.com/es/europa/20261126-el-economista-espa%C3%B1ol-pablo-hern%C3%A1ndez-de-cos-suceder%C3%A1-a-lagarde-al-frente-del-bce",
    "fecha": "2026-11-26T20:49:55.000Z",
-   "ultimaHora": true,
+   "ultimaHora": false,
    "reaccion": "El nombramiento ha sido recibido con amplio consenso y apoyo de los principales socios europeos, destacando su perfil pragmático para afrontar los riesgos de deuda soberana, especialmente en Francia."
   },
   {
@@ -74,7 +74,7 @@
    ],
    "url": "https://www.cnbc.com/2026/11/27/us-iran-war-trump-hormuz-italian-killed-trump.html",
    "fecha": "2026-11-27T03:30:23.000Z",
-   "ultimaHora": true,
+   "ultimaHora": false,
    "reaccion": "Teherán insiste en calificar el ataque en Kuwait como un montaje prefabricado para justificar una escalada bélica, mientras crecen las presiones sobre los arsenales militares."
   },
   {
@@ -121,7 +121,7 @@
    ],
    "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
    "fecha": "2026-11-27T00:52:11.000Z",
-   "ultimaHora": true,
+   "ultimaHora": false,
    "reaccion": ""
   },
   {
@@ -278,7 +278,7 @@
    ],
    "url": "https://www.20minutos.es/internacional/un-buque-bandera-panamena-naufraga-unas-tres-millas-costa-oeste-cuba_7066482_0.html",
    "fecha": "2026-11-27T02:37:36.000Z",
-   "ultimaHora": true,
+   "ultimaHora": false,
    "reaccion": ""
   },
   {
@@ -590,7 +590,7 @@
    ],
    "url": "https://www.aljazeera.com/news/2026/11/27/global-news-agency-afp-reports-cyberattack-shuts-down-content-platform?traffic_source=rss",
    "fecha": "2026-11-27T01:07:44.000Z",
-   "ultimaHora": true,
+   "ultimaHora": false,
    "reaccion": ""
   },
   {
@@ -612,7 +612,7 @@
    ],
    "url": "https://www.theguardian.com/world/2026/nov/27/threat-from-china-looms-large-over-taiwan-local-elections",
    "fecha": "2026-11-27T01:00:49.000Z",
-   "ultimaHora": true,
+   "ultimaHora": false,
    "reaccion": ""
   },
   {
@@ -679,6 +679,120 @@
    "url": "https://www.france24.com/es/europa/20261127-espa%C3%B1a-y-los-deseos-e-inquietudes-de-los-migrantes-de-cara-a-las-elecciones-del-29-de-noviembre",
    "fecha": "2026-11-27T00:06:07.000Z",
    "ultimaHora": false,
+   "reaccion": ""
+  },
+  {
+   "id": "bc37618045f0",
+   "titulo": "Marc Márquez anuncia por sorpresa su retirada de MotoGP",
+   "resumen": "El octocampeón de la categoría reina, de 33 años y lastrado por las secuelas físicas, ha anunciado su retirada inminente antes de la última carrera en Valencia. El piloto ha reconocido públicamente que ha empezado a sentir miedo ante las lesiones.",
+   "porQue": "Cierra su etapa una de las mayores leyendas del motociclismo español e internacional en la cúspide de su carrera.",
+   "pilar": "deporte",
+   "etiquetas": [
+    "motogp",
+    "marc marquez",
+    "motociclismo",
+    "deportes"
+   ],
+   "importancia": 6,
+   "fuente": "El País",
+   "fuentes": [
+    "El País",
+    "La Vanguardia",
+    "El País Deportes"
+   ],
+   "url": "https://elpais.com/deportes/2026-11-27/marc-marquez-anuncia-su-retirada-de-la-competicion.html",
+   "fecha": "2026-11-27T11:33:27.000Z",
+   "ultimaHora": true,
+   "reaccion": ""
+  },
+  {
+   "id": "3063b7c5b227",
+   "titulo": "Bruselas advierte a PP y Vox de que la 'prioridad nacional' en vivienda vulnera la ley europea",
+   "resumen": "La Comisión Europea ha señalado que exigir más de cinco años de empadronamiento para acceder a la vivienda protegida, como prevé la ley valenciana impulsada por PP y Vox, infringe la normativa comunitaria al limitar un derecho a un máximo de cinco años.",
+   "porQue": "Frena judicial y políticamente las restricciones impulsadas por la derecha y extrema derecha en materia de acceso a la vivienda.",
+   "pilar": "economia",
+   "etiquetas": [
+    "vivienda",
+    "union europea",
+    "valencia",
+    "vox"
+   ],
+   "importancia": 7,
+   "fuente": "El País",
+   "fuentes": [
+    "El País",
+    "Cinco Días"
+   ],
+   "url": "https://elpais.com/espana/comunidad-valenciana/2026-11-27/golpe-de-bruselas-a-la-prioridad-nacional-de-vox-las-medidas-de-vivienda-aprobadas-en-valencia-vulneran-la-ley-europea.html",
+   "fecha": "2026-11-27T10:30:40.000Z",
+   "ultimaHora": true,
+   "reaccion": ""
+  },
+  {
+   "id": "81cd8539ac92",
+   "titulo": "Francia entra en recesión tras caer un 0,2% su PIB en el tercer trimestre",
+   "resumen": "La economía francesa sufre un retroceso en el tercer trimestre que contrasta con las previsiones del Gobierno, que esperaba un crecimiento positivo para el conjunto del año.",
+   "porQue": "La recesión en la segunda economía de la eurozona anticipa problemas macroeconómicos en el bloque comunitario.",
+   "pilar": "economia",
+   "etiquetas": [
+    "francia",
+    "pib",
+    "recesion",
+    "economia"
+   ],
+   "importancia": 8,
+   "fuente": "La Vanguardia",
+   "fuentes": [
+    "La Vanguardia",
+    "Europa Press Economía"
+   ],
+   "url": "https://www.lavanguardia.com/economia/20261127/11694757/recesion-francia-pib-tercer-trimestre-2026.html",
+   "fecha": "2026-11-27T09:20:07.000Z",
+   "ultimaHora": true,
+   "reaccion": ""
+  },
+  {
+   "id": "9448f109bf35",
+   "titulo": "El sector del automóvil europeo recupera 11.000 millones en bolsa por los cupos a híbridos chinos",
+   "resumen": "Los principales grupos automovilísticos europeos registran subidas bursátiles medias del 8% tras el anuncio de restricciones a las importaciones de vehículos híbridos procedentes de China.",
+   "porQue": "Muestra el impacto inmediato de las medidas proteccionistas de la UE en la industria del motor continental.",
+   "pilar": "economia",
+   "etiquetas": [
+    "automovil",
+    "china",
+    "bolsa",
+    "union europea"
+   ],
+   "importancia": 7,
+   "fuente": "elDiario.es",
+   "fuentes": [
+    "elDiario.es"
+   ],
+   "url": "https://www.eldiario.es/motor/sector_y_mercado/automovil-europeo-recupera-11-000-millones-bolsa-anuncio-cupos-hibridos-importados_1_13698718.html",
+   "fecha": "2026-11-27T11:38:31.000Z",
+   "ultimaHora": true,
+   "reaccion": ""
+  },
+  {
+   "id": "827e09c0f850",
+   "titulo": "Un ciberincidente deja sin servicio casi todos los sistemas de pensiones y prestaciones del Reino Unido",
+   "resumen": "El Departamento de Trabajo y Pensiones británico sufre un apagón informático masivo que afecta a sus plataformas online de ayudas y pensiones, aunque el Gobierno asegura que los pagos saldrán adelante.",
+   "porQue": "Pone en riesgo la operativa de servicios públicos esenciales para millones de ciudadanos debido a vulnerabilidades digitales.",
+   "pilar": "geopolitica",
+   "etiquetas": [
+    "reino unido",
+    "ciberseguridad",
+    "pensiones",
+    "tecnologia"
+   ],
+   "importancia": 7,
+   "fuente": "The Guardian World",
+   "fuentes": [
+    "The Guardian World"
+   ],
+   "url": "https://www.theguardian.com/politics/2026/nov/27/dwp-cyber-incident-pensions-benefits-systems-offline",
+   "fecha": "2026-11-27T11:14:02.000Z",
+   "ultimaHora": true,
    "reaccion": ""
   }
  ]

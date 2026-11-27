@@ -1,6 +1,6 @@
 {
  "generado": "2026-11-27T04:22:00.183Z",
- "actualizado": "2026-11-27T12:11:44.802Z",
+ "actualizado": "2026-11-27T13:13:36.175Z",
  "modo": "ia",
  "top3": [
   "8bff401f2884",
@@ -684,16 +684,16 @@
   {
    "id": "bc37618045f0",
    "titulo": "Marc Márquez anuncia por sorpresa su retirada de MotoGP",
-   "resumen": "El octocampeón de la categoría reina, de 33 años y lastrado por las secuelas físicas, ha anunciado su retirada inminente antes de la última carrera en Valencia. El piloto ha reconocido públicamente que ha empezado a sentir miedo ante las lesiones.",
-   "porQue": "Cierra su etapa una de las mayores leyendas del motociclismo español e internacional en la cúspide de su carrera.",
+   "resumen": "El octocampeón de la categoría reina, de 33 años, ha anunciado su retirada inminente antes de salir a rodar en Valencia. La decisión llega lastrado por el dolor persistente en un brazo y el miedo a las lesiones.",
+   "porQue": "Marca el fin de una era en el motociclismo mundial con la marcha de uno de los pilotos más laureados de la historia.",
    "pilar": "deporte",
    "etiquetas": [
     "motogp",
     "marc marquez",
-    "motociclismo",
+    "valencia",
     "deportes"
    ],
-   "importancia": 6,
+   "importancia": 8,
    "fuente": "El País",
    "fuentes": [
     "El País",
@@ -707,15 +707,15 @@
   },
   {
    "id": "3063b7c5b227",
-   "titulo": "Bruselas advierte a PP y Vox de que la 'prioridad nacional' en vivienda vulnera la ley europea",
-   "resumen": "La Comisión Europea ha señalado que exigir más de cinco años de empadronamiento para acceder a la vivienda protegida, como prevé la ley valenciana impulsada por PP y Vox, infringe la normativa comunitaria al limitar un derecho a un máximo de cinco años.",
-   "porQue": "Frena judicial y políticamente las restricciones impulsadas por la derecha y extrema derecha en materia de acceso a la vivienda.",
+   "titulo": "Bruselas frena la ley de vivienda de la Comunidad Valenciana",
+   "resumen": "La Comisión Europea ha advertido de que exigir 10 años de empadronamiento para acceder a una vivienda protegida vulnera la normativa comunitaria. La medida, impulsada por PP y Vox, fija un límite máximo permitido de cinco años.",
+   "porQue": "Supone un revés institucional a las políticas autonómicas de vivienda basadas en criterios de exclusividad territorial.",
    "pilar": "economia",
    "etiquetas": [
     "vivienda",
     "union europea",
     "valencia",
-    "vox"
+    "politica"
    ],
    "importancia": 7,
    "fuente": "El País",
@@ -792,6 +792,73 @@
    ],
    "url": "https://www.theguardian.com/politics/2026/nov/27/dwp-cyber-incident-pensions-benefits-systems-offline",
    "fecha": "2026-11-27T11:14:02.000Z",
+   "ultimaHora": true,
+   "reaccion": ""
+  },
+  {
+   "id": "a5a563c2a3a6",
+   "titulo": "Dos técnicos italianos muertos en Kuwait por un ataque",
+   "resumen": "Dos técnicos de la empresa alemana Rheinmetall han muerto en un ataque en Kuwait. Irán ha negado cualquier tipo de responsabilidad en los hechos.",
+   "porQue": "Incrementa la tensión geopolítica y de seguridad en Oriente Medio con repercusiones directas sobre personal europeo.",
+   "pilar": "geopolitica",
+   "etiquetas": [
+    "kuwait",
+    "iran",
+    "ataque",
+    "italia"
+   ],
+   "importancia": 8,
+   "fuente": "BBC World",
+   "fuentes": [
+    "BBC World",
+    "Al Jazeera"
+   ],
+   "url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
+   "fecha": "2026-11-27T11:51:26.000Z",
+   "ultimaHora": true,
+   "reaccion": ""
+  },
+  {
+   "id": "1de233c7bbfd",
+   "titulo": "El voto por correo cae un 59% en las elecciones generales",
+   "resumen": "Correos ha admitido algo más de un millón de votos por correo de cara a los comicios del próximo domingo. La cifra representa un desplome del 59% respecto a 2023, año marcado por celebrarse en plenas vacaciones estivales.",
+   "porQue": "Condiciona la logística y las previsiones de participación ciudadana a escasas horas de la cita electoral en España.",
+   "pilar": "ultima",
+   "etiquetas": [
+    "elecciones",
+    "voto por correo",
+    "espana",
+    "politica"
+   ],
+   "importancia": 7,
+   "fuente": "Europa Press",
+   "fuentes": [
+    "Europa Press"
+   ],
+   "url": "https://www.europapress.es/nacional/noticia-correos-registra-1012033-votos-correo-59-menos-2023-casi-mas-2019-20261127134306.html",
+   "fecha": "2026-11-27T12:43:06.000Z",
+   "ultimaHora": true,
+   "reaccion": ""
+  },
+  {
+   "id": "16bf50601cf0",
+   "titulo": "Al menos seis muertos en el rescate de un cayuco en El Hierro",
+   "resumen": "Los servicios de emergencia han rescatado un cayuco a unos 62 kilómetros de La Restinga, en El Hierro, con al menos seis fallecidos a bordo. Las labores de rescate y recuento continúan en la zona.",
+   "porQue": "Refleja la continua y trágica pérdida de vidas humanas en la ruta migratoria atlántica hacia las Islas Canarias.",
+   "pilar": "global",
+   "etiquetas": [
+    "inmigracion",
+    "canarias",
+    "el hierro",
+    "crisis humanitaria"
+   ],
+   "importancia": 7,
+   "fuente": "El País España",
+   "fuentes": [
+    "El País España"
+   ],
+   "url": "https://elpais.com/espana/2026-11-27/varios-muertos-en-el-rescate-de-un-cayuco-en-el-hierro.html",
+   "fecha": "2026-11-27T12:22:17.000Z",
    "ultimaHora": true,
    "reaccion": ""
   }

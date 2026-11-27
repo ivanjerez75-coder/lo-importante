@@ -1,6 +1,6 @@
 {
  "generado": "2026-11-27T04:22:00.183Z",
- "actualizado": "2026-11-27T14:01:51.468Z",
+ "actualizado": "2026-11-27T22:47:53.168Z",
  "modo": "ia",
  "top3": [
   "8bff401f2884",
@@ -701,7 +701,7 @@
    ],
    "url": "https://elpais.com/deportes/2026-11-27/marc-marquez-anuncia-su-retirada-de-la-competicion.html",
    "fecha": "2026-11-27T11:33:27.000Z",
-   "ultimaHora": true,
+   "ultimaHora": false,
    "reaccion": ""
   },
   {
@@ -724,7 +724,7 @@
    ],
    "url": "https://elpais.com/espana/comunidad-valenciana/2026-11-27/golpe-de-bruselas-a-la-prioridad-nacional-de-vox-las-medidas-de-vivienda-aprobadas-en-valencia-vulneran-la-ley-europea.html",
    "fecha": "2026-11-27T10:30:40.000Z",
-   "ultimaHora": true,
+   "ultimaHora": false,
    "reaccion": ""
   },
   {
@@ -747,7 +747,7 @@
    ],
    "url": "https://www.lavanguardia.com/economia/20261127/11694757/recesion-francia-pib-tercer-trimestre-2026.html",
    "fecha": "2026-11-27T09:20:07.000Z",
-   "ultimaHora": true,
+   "ultimaHora": false,
    "reaccion": ""
   },
   {
@@ -769,7 +769,7 @@
    ],
    "url": "https://www.eldiario.es/motor/sector_y_mercado/automovil-europeo-recupera-11-000-millones-bolsa-anuncio-cupos-hibridos-importados_1_13698718.html",
    "fecha": "2026-11-27T11:38:31.000Z",
-   "ultimaHora": true,
+   "ultimaHora": false,
    "reaccion": ""
   },
   {
@@ -791,7 +791,7 @@
    ],
    "url": "https://www.theguardian.com/politics/2026/nov/27/dwp-cyber-incident-pensions-benefits-systems-offline",
    "fecha": "2026-11-27T11:14:02.000Z",
-   "ultimaHora": true,
+   "ultimaHora": false,
    "reaccion": ""
   },
   {
@@ -814,7 +814,7 @@
    ],
    "url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
    "fecha": "2026-11-27T11:51:26.000Z",
-   "ultimaHora": true,
+   "ultimaHora": false,
    "reaccion": ""
   },
   {
@@ -836,28 +836,28 @@
    ],
    "url": "https://www.europapress.es/nacional/noticia-correos-registra-1012033-votos-correo-59-menos-2023-casi-mas-2019-20261127134306.html",
    "fecha": "2026-11-27T12:43:06.000Z",
-   "ultimaHora": true,
+   "ultimaHora": false,
    "reaccion": ""
   },
   {
    "id": "16bf50601cf0",
-   "titulo": "Al menos seis muertos en el rescate de un cayuco en El Hierro",
-   "resumen": "Los servicios de emergencia han rescatado un cayuco a unos 62 kilómetros de La Restinga, en El Hierro, con al menos seis fallecidos a bordo. Las labores de rescate y recuento continúan en la zona.",
-   "porQue": "Refleja la continua y trágica pérdida de vidas humanas en la ruta migratoria atlántica hacia las Islas Canarias.",
+   "titulo": "Al menos 15 personas mueren durante el rescate de un cayuco en El Hierro",
+   "resumen": "El País informó de que los servicios de Salvamento Marítimo localizaron a 15 personas sin vida a bordo de una embarcación precaria a unos 62 kilómetros de La Restinga. El cayuco navegaba a la deriva tras intentar completar la ruta migratoria atlántica hacia las Islas Canarias.",
+   "porQue": "Ilustra la extrema peligrosidad del flujo migratorio hacia el sur de Europa y la recurrencia de tragedias humanitarias en el mar.",
    "pilar": "global",
    "etiquetas": [
-    "inmigracion",
+    "migración",
     "canarias",
-    "el hierro",
-    "crisis humanitaria"
+    "rescate",
+    "derechos humanos"
    ],
    "importancia": 7,
-   "fuente": "El País España",
+   "fuente": "El País",
    "fuentes": [
-    "El País España"
+    "El País"
    ],
    "url": "https://elpais.com/espana/2026-11-27/varios-muertos-en-el-rescate-de-un-cayuco-en-el-hierro.html",
-   "fecha": "2026-11-27T12:22:17.000Z",
+   "fecha": "2026-11-27T20:58:44.000Z",
    "ultimaHora": true,
    "reaccion": ""
   },
@@ -880,7 +880,7 @@
    ],
    "url": "https://www.cnbc.com/2026/11/27/norse-atlantic-bankruptcy-fuel-costs.html",
    "fecha": "2026-11-27T13:58:19.000Z",
-   "ultimaHora": true,
+   "ultimaHora": false,
    "reaccion": ""
   },
   {
@@ -902,6 +902,95 @@
    ],
    "url": "https://www.theguardian.com/politics/live/2026/nov/27/department-work-pensions-offline-cyber-incident-rosebank-slapps-latest-news-updates",
    "fecha": "2026-11-27T13:48:41.000Z",
+   "ultimaHora": false,
+   "reaccion": ""
+  },
+  {
+   "id": "6b38497d4688",
+   "titulo": "Remolcan un petrolero volcado con 7.000 toneladas de diésel frente a Ibiza",
+   "resumen": "Según reportó la BBC, las autoridades marítimas preparan el remolque de un buque cisterna que volcó cerca de Ibiza para prevenir un vertido contaminante de gran escala. Los tanques del barco continúan intactos por el momento y no se registran fugas de combustible.",
+   "porQue": "Un derrame de estas proporciones provocaría graves daños medioambientales en las costas de Baleares y la actividad económica marítima.",
+   "pilar": "global",
+   "etiquetas": [
+    "medio ambiente",
+    "baleares",
+    "combustible",
+    "españa"
+   ],
+   "importancia": 7,
+   "fuente": "BBC Ciencia y Medio Ambiente",
+   "fuentes": [
+    "BBC Ciencia y Medio Ambiente",
+    "BBC World"
+   ],
+   "url": "https://www.bbc.co.uk/news/articles/cvrlgz6g0ekgo?at_medium=RSS&at_campaign=rss",
+   "fecha": "2026-11-27T20:34:45.000Z",
+   "ultimaHora": true,
+   "reaccion": ""
+  },
+  {
+   "id": "734f9e1f0563",
+   "titulo": "Costa Rica niega la entrada a la relatora de la ONU Francesca Albanese",
+   "resumen": "De acuerdo con BBC Mundo y DW, las autoridades de Costa Rica impidieron la entrada al país a la relatora especial de la ONU para los territorios palestinos ocupados, argumentando señalamientos de seguridad. Albanese, que viajaba invitada por la Universidad de Costa Rica, rechazó las acusaciones y anunció que pedirá explicaciones.",
+   "porQue": "Genera una tensa fricción diplomática internacional entre el gobierno costarricense y los organismos de derechos humanos de Naciones Unidas.",
+   "pilar": "geopolitica",
+   "etiquetas": [
+    "onu",
+    "costa rica",
+    "diplomacia",
+    "palestina"
+   ],
+   "importancia": 6,
+   "fuente": "BBC Mundo",
+   "fuentes": [
+    "BBC Mundo"
+   ],
+   "url": "https://www.bbc.com/mundo/articles/cmpqrv8e8n32o?at_medium=RSS&at_campaign=rss",
+   "fecha": "2026-11-27T22:04:28.000Z",
+   "ultimaHora": true,
+   "reaccion": ""
+  },
+  {
+   "id": "6748f6e76053",
+   "titulo": "Rusia bota un nuevo submarino nuclear equipado con armas hipersónicas",
+   "resumen": "Al Jazeera consignó que el presidente Vladímir Putin presentó un nuevo sumergible de propulsión nuclear configurado para disparar proyectiles hipersónicos de largo alcance. El Kremlin comunicó además sus planes para sumar cinco buques nucleares más a su armada de aquí a 2030.",
+   "porQue": "Intensifica la carrera armamentística naval y eleva la tensión estratégica militar entre Moscú y los países de la OTAN.",
+   "pilar": "geopolitica",
+   "etiquetas": [
+    "rusia",
+    "defensa",
+    "armamento",
+    "otan"
+   ],
+   "importancia": 7,
+   "fuente": "Al Jazeera",
+   "fuentes": [
+    "Al Jazeera"
+   ],
+   "url": "https://www.aljazeera.com/news/2026/11/27/putin-unveils-new-russian-nuclear-powered-submarine-with-hypersonic-weapons?traffic_source=rss",
+   "fecha": "2026-11-27T20:39:57.000Z",
+   "ultimaHora": true,
+   "reaccion": ""
+  },
+  {
+   "id": "c1ddbe7f46b5",
+   "titulo": "Venezuela tramita la derogación de la ley que inhabilita a opositores",
+   "resumen": "Según reportó Al Jazeera, el Parlamento venezolano tiene previsto derogar la normativa legal que impide a varios dirigentes de la oposición postularse a cargos públicos. La iniciativa legislativa coincide con el reciente regreso a Venezuela de la líder antichavista María Corina Machado.",
+   "porQue": "Podría reconfigurar las condiciones de participación electoral y los acuerdos de diálogo entre el chavismo y la oposición.",
+   "pilar": "geopolitica",
+   "etiquetas": [
+    "venezuela",
+    "oposición",
+    "elecciones",
+    "latinoamérica"
+   ],
+   "importancia": 6,
+   "fuente": "Al Jazeera",
+   "fuentes": [
+    "Al Jazeera"
+   ],
+   "url": "https://www.aljazeera.com/news/2026/11/27/venezuela-to-repeal-law-that-bans-opposition-figures-from-office?traffic_source=rss",
+   "fecha": "2026-11-27T20:44:03.000Z",
    "ultimaHora": true,
    "reaccion": ""
   }

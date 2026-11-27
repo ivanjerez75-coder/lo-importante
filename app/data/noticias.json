@@ -1,6 +1,6 @@
 {
  "generado": "2026-11-27T04:22:00.183Z",
- "actualizado": "2026-11-27T13:13:36.175Z",
+ "actualizado": "2026-11-27T14:01:51.468Z",
  "modo": "ia",
  "top3": [
   "8bff401f2884",
@@ -683,13 +683,13 @@
   },
   {
    "id": "bc37618045f0",
-   "titulo": "Marc Márquez anuncia por sorpresa su retirada de MotoGP",
-   "resumen": "El octocampeón de la categoría reina, de 33 años, ha anunciado su retirada inminente antes de salir a rodar en Valencia. La decisión llega lastrado por el dolor persistente en un brazo y el miedo a las lesiones.",
-   "porQue": "Marca el fin de una era en el motociclismo mundial con la marcha de uno de los pilotos más laureados de la historia.",
+   "titulo": "Marc Márquez anuncia su retirada de MotoGP: \"Siento el miedo a las lesiones\"",
+   "resumen": "El octocampeón del mundo de motociclismo, de 33 años, ha anunciado por sorpresa su retirada definitiva del deporte profesional antes de disputar el Gran Premio de Valencia, lastrado por los dolores continuados en un brazo y el riesgo físico.",
+   "porQue": "Marca el fin de la trayectoria de uno de los deportistas españoles más laureados de la historia del motor.",
    "pilar": "deporte",
    "etiquetas": [
     "motogp",
-    "marc marquez",
+    "marc márquez",
     "valencia",
     "deportes"
    ],
@@ -697,7 +697,6 @@
    "fuente": "El País",
    "fuentes": [
     "El País",
-    "La Vanguardia",
     "El País Deportes"
    ],
    "url": "https://elpais.com/deportes/2026-11-27/marc-marquez-anuncia-su-retirada-de-la-competicion.html",
@@ -859,6 +858,50 @@
    ],
    "url": "https://elpais.com/espana/2026-11-27/varios-muertos-en-el-rescate-de-un-cayuco-en-el-hierro.html",
    "fecha": "2026-11-27T12:22:17.000Z",
+   "ultimaHora": true,
+   "reaccion": ""
+  },
+  {
+   "id": "1a6172d83cec",
+   "titulo": "La aerolínea de bajo coste Norse Atlantic se declara en quiebra en Europa",
+   "resumen": "La compañía aérea de largo radio Norse Atlantic ha anunciado su entrada en concurso de acreedores en Europa tras no conseguir la financiación necesaria para sostener sus operaciones ante el fuerte repunte de los costes del combustible.",
+   "porQue": "Evidencia las crecientes dificultades financieras del sector aéreo europeo ante la presión de los costes operativos.",
+   "pilar": "economia",
+   "etiquetas": [
+    "aviación",
+    "quiebra",
+    "aerolíneas",
+    "economia"
+   ],
+   "importancia": 7,
+   "fuente": "CNBC",
+   "fuentes": [
+    "CNBC"
+   ],
+   "url": "https://www.cnbc.com/2026/11/27/norse-atlantic-bankruptcy-fuel-costs.html",
+   "fecha": "2026-11-27T13:58:19.000Z",
+   "ultimaHora": true,
+   "reaccion": ""
+  },
+  {
+   "id": "842f86a52543",
+   "titulo": "Apagón informático en el Ministerio de Trabajo británico tras un ciberincidente",
+   "resumen": "El Departamento de Trabajo y Pensiones del Reino Unido (DWP) ha tenido que desconectar la práctica totalidad de sus sistemas de pensiones y prestaciones sociales tras sufrir un ataque cibernético, aunque ha garantizado que los pagos se realizarán.",
+   "porQue": "Pone en riesgo la gestión de prestaciones sociales esenciales para millones de ciudadanos británicos.",
+   "pilar": "geopolitica",
+   "etiquetas": [
+    "ciberseguridad",
+    "reino unido",
+    "pensiones",
+    "tecnologia"
+   ],
+   "importancia": 8,
+   "fuente": "The Guardian World",
+   "fuentes": [
+    "The Guardian World"
+   ],
+   "url": "https://www.theguardian.com/politics/live/2026/nov/27/department-work-pensions-offline-cyber-incident-rosebank-slapps-latest-news-updates",
+   "fecha": "2026-11-27T13:48:41.000Z",
    "ultimaHora": true,
    "reaccion": ""
   }

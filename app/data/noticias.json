@@ -1,6 +1,6 @@
 {
  "generado": "2026-11-28T07:55:20.936Z",
- "actualizado": "2026-11-28T07:55:20.936Z",
+ "actualizado": "2026-11-28T11:43:36.268Z",
  "modo": "ia",
  "top3": [
   "cd1065a575ca",
@@ -728,6 +728,91 @@
    "url": "https://www.mundodeportivo.com/atletismo/20261128/1004256378/barcelona-lista-abrazar-domingo-103-allianz-jean-bouin-inscripcion-record-21-000-atletas.html",
    "fecha": "2026-11-28T06:00:00.000Z",
    "ultimaHora": false,
+   "reaccion": ""
+  },
+  {
+   "id": "64d9f1a15102",
+   "titulo": "Histórica derrota laborista en las elecciones de Victoria (Australia)",
+   "resumen": "La Coalición ha ganado por mayoría el gobierno estatal en Victoria, provocando una derrota histórica para el Partido Laborista. Jess Wilson se convertirá en la primera mujer elegida popularmente como jefa de gobierno del estado.",
+   "porQue": "Marca un punto de inflexión político en Australia y releva del poder a los laboristas tras más de una década.",
+   "pilar": "geopolitica",
+   "etiquetas": [
+    "australia",
+    "elecciones",
+    "politica"
+   ],
+   "importancia": 6,
+   "fuente": "The Guardian World",
+   "fuentes": [
+    "The Guardian World"
+   ],
+   "url": "https://www.theguardian.com/australia-news/2026/nov/28/victoria-election-2026-winner-announced-who-won-poll-win-coalition-labor-victorian-state-results",
+   "fecha": "2026-11-28T11:31:40.000Z",
+   "ultimaHora": true,
+   "reaccion": ""
+  },
+  {
+   "id": "4f1268ec71b5",
+   "titulo": "Entra en vigor la normativa de emisiones Euro 7 para coches nuevos",
+   "resumen": "A partir del 29 de noviembre comienza a aplicarse el reglamento europeo Euro 7, que endurece los estándares de emisiones para los vehículos nuevos comercializados en la Unión Europea.",
+   "porQue": "Modifica de forma directa el sector automovilístico europeo y los requisitos de fabricación tecnológica para los próximos años.",
+   "pilar": "tecnologia",
+   "etiquetas": [
+    "automocion",
+    "ue",
+    "regulacion",
+    "emisiones"
+   ],
+   "importancia": 7,
+   "fuente": "Xataka",
+   "fuentes": [
+    "Xataka"
+   ],
+   "url": "https://www.xataka.com/movilidad/norma-euro-7-entra-vigor-29-noviembre-que-cambia-coches-nuevos-que-pasa-tu-vehiculo-actual",
+   "fecha": "2026-11-28T11:07:34.000Z",
+   "ultimaHora": true,
+   "reaccion": ""
+  },
+  {
+   "id": "85d494165431",
+   "titulo": "Cierran los colegios electorales en unas ajustadas elecciones locales en Taiwán",
+   "resumen": "Taiwán ha concluido la votación de unos comicios locales muy reñidos en Taipéi, marcados por la tensión geopolítica y las denuncias cruzadas sobre supuestas injerencias de China.",
+   "porQue": "Sirven como termómetro clave sobre el clima político y la presión constante de Pekín sobre la isla.",
+   "pilar": "geopolitica",
+   "etiquetas": [
+    "taiwan",
+    "china",
+    "elecciones"
+   ],
+   "importancia": 7,
+   "fuente": "DW Español",
+   "fuentes": [
+    "DW Español"
+   ],
+   "url": "https://www.dw.com/es/taiwán-vota-en-unas-disputadas-elecciones-locales-que-podrían-adelantar-indicios-del-futuro-político-del-país/a-80084273?maca=spa-rss-sp-all-1122-rdf",
+   "fecha": "2026-11-28T10:40:00.000Z",
+   "ultimaHora": true,
+   "reaccion": ""
+  },
+  {
+   "id": "a130f8a845bd",
+   "titulo": "Siete muertos y un centenar de heridos en una explosión accidental en Afganistán",
+   "resumen": "Al menos siete personas murieron y cerca de un centenar resultaron heridas tras detonarse de forma accidental material explosivo destinado a la construcción en una vivienda junto a una escuela en Asadabad.",
+   "porQue": "Pone de relieve los graves peligros por el manejo de explosivos en zonas residenciales bajo el régimen actual.",
+   "pilar": "geopolitica",
+   "etiquetas": [
+    "afganistan",
+    "explosion",
+    "accidentes"
+   ],
+   "importancia": 7,
+   "fuente": "DW Español",
+   "fuentes": [
+    "DW Español"
+   ],
+   "url": "https://www.dw.com/es/siete-muertos-y-casi-un-centenar-de-heridos-en-una-explosión-accidental-junto-a-una-escuela-en-afganistán/a-80084073?maca=spa-rss-sp-all-1122-rdf",
+   "fecha": "2026-11-28T09:56:00.000Z",
+   "ultimaHora": true,
    "reaccion": ""
   }
  ]

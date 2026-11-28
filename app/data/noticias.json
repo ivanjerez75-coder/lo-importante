@@ -1,6 +1,6 @@
 {
  "generado": "2026-11-28T07:55:20.936Z",
- "actualizado": "2026-11-28T11:43:36.268Z",
+ "actualizado": "2026-11-28T12:25:36.516Z",
  "modo": "ia",
  "top3": [
   "cd1065a575ca",
@@ -753,15 +753,15 @@
   },
   {
    "id": "4f1268ec71b5",
-   "titulo": "Entra en vigor la normativa de emisiones Euro 7 para coches nuevos",
-   "resumen": "A partir del 29 de noviembre comienza a aplicarse el reglamento europeo Euro 7, que endurece los estándares de emisiones para los vehículos nuevos comercializados en la Unión Europea.",
-   "porQue": "Modifica de forma directa el sector automovilístico europeo y los requisitos de fabricación tecnológica para los próximos años.",
-   "pilar": "tecnologia",
+   "titulo": "Entra en vigor la nueva norma de emisiones Euro 7 para vehículos",
+   "resumen": "A partir del 29 de noviembre empieza a aplicarse en la Unión Europea la normativa Euro 7, que establece los nuevos límites y exigencias de emisiones para los automóviles nuevos. La medida busca reducir drásticamente la contaminación, generando nuevos retos de adaptación para la industria de automoción.",
+   "porQue": "Modifica de forma directa los estándares de fabricación de coches en Europa y el mercado de la automoción.",
+   "pilar": "economia",
    "etiquetas": [
     "automocion",
-    "ue",
-    "regulacion",
-    "emisiones"
+    "union europea",
+    "emisiones",
+    "normativa"
    ],
    "importancia": 7,
    "fuente": "Xataka",
@@ -812,6 +812,72 @@
    ],
    "url": "https://www.dw.com/es/siete-muertos-y-casi-un-centenar-de-heridos-en-una-explosión-accidental-junto-a-una-escuela-en-afganistán/a-80084073?maca=spa-rss-sp-all-1122-rdf",
    "fecha": "2026-11-28T09:56:00.000Z",
+   "ultimaHora": true,
+   "reaccion": ""
+  },
+  {
+   "id": "8310d666859d",
+   "titulo": "Dos sanitarios muertos en un ataque israelí contra una clínica en Gaza",
+   "resumen": "Un ataque militar israelí contra una clínica médica en Gaza ha causado la muerte de dos miembros del personal sanitario, según ha denunciado Médicos Sin Fronteras (MSF). El ejército israelí sostiene que el objetivo era un grupo de terroristas de Hamás, mientras que la Organización Mundial de la Salud (OMS) ha condenado enérgicamente el bombardeo.",
+   "porQue": "Agrava la crisis humanitaria y sanitaria en la Franja de Gaza y eleva la presión internacional sobre las operaciones militares.",
+   "pilar": "global",
+   "etiquetas": [
+    "gaza",
+    "israel",
+    "salud",
+    "conflicto"
+   ],
+   "importancia": 8,
+   "fuente": "BBC World",
+   "fuentes": [
+    "BBC World",
+    "The Guardian World"
+   ],
+   "url": "https://www.bbc.co.uk/news/articles/cm5y10yydln3o?at_medium=RSS&at_campaign=rss",
+   "fecha": "2026-11-28T12:14:49.000Z",
+   "ultimaHora": true,
+   "reaccion": ""
+  },
+  {
+   "id": "2902be00f4e1",
+   "titulo": "España afronta la jornada de reflexión previa a unas elecciones clave",
+   "resumen": "Los líderes políticos pasan la jornada de reflexión de este sábado mientras más de 38,6 millones de ciudadanos están llamados a las urnas este domingo 29 de noviembre. Los colegios electorales abrirán en unos comicios generales que las encuestas sitúan como un punto de inflexión para el panorama político del país y la Unión Europea.",
+   "porQue": "Define el rumbo político del Gobierno de España y su estabilidad institucional en un momento de fuerte polarización.",
+   "pilar": "ultima",
+   "etiquetas": [
+    "elecciones",
+    "espana",
+    "politica"
+   ],
+   "importancia": 8,
+   "fuente": "El País",
+   "fuentes": [
+    "El País"
+   ],
+   "url": "https://elpais.com/espana/elecciones-generales/2026-11-28/ultima-hora-de-la-jornada-de-reflexion-de-las-elecciones-generales-del-29-n-en-directo.html",
+   "fecha": "2026-11-28T12:18:53.000Z",
+   "ultimaHora": true,
+   "reaccion": ""
+  },
+  {
+   "id": "8e2064581176",
+   "titulo": "Sufre un hackeo la principal plataforma en la nube de las Fuerzas Aéreas de EE.UU.",
+   "resumen": "Un ciberataque detectado hace aproximadamente un mes en la infraestructura en nube de la Fuerza Aérea estadounidense podría haber comprometido datos tácticos, aplicaciones militares e información personal confidencial. El incidente pone en alerta la ciberseguridad de los sistemas de defensa estadounidenses.",
+   "porQue": "Expone vulnerabilidades críticas en infraestructuras militares estratégicas frente a amenazas cibernéticas globales.",
+   "pilar": "tecnologia",
+   "etiquetas": [
+    "ciberseguridad",
+    "eeuu",
+    "defensa",
+    "hackeo"
+   ],
+   "importancia": 8,
+   "fuente": "elDiario.es",
+   "fuentes": [
+    "elDiario.es"
+   ],
+   "url": "https://www.eldiario.es/internacional/principal-plataforma-nube-fuerzas-aereas-eeuu-sufre-hackeo_1_13701177.html",
+   "fecha": "2026-11-28T11:49:14.000Z",
    "ultimaHora": true,
    "reaccion": ""
   }
